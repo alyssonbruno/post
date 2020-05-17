@@ -1,0 +1,9 @@
+---
+date: 2019-09-08
+title: "Goethe"
+categories: [ "blog" ]
+tags: [ "draft", "quotes" ]
+---
+> Não basta saber: temos que aplicar. Não basta querer: temos que fazer.
+
+> O que não começa hoje nunca termina amanhã.
