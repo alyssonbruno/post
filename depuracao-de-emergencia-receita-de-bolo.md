@@ -1,58 +1,37 @@
 ---
 categories: [ "code" ]
 date: "2011-10-18"
-title: 'Depuração de emergência: receita de bolo'
-tags: [ "draft",  ]
+title: "Depuração de emergência com receita de bolo"
+desc: "Como achar rapidamente a linha de código de um crash usando WinDbg e os símbolos PDB do programa que exibe uma tela de capotamento."
+tags: [ "debug", "windbg" ]
 ---
 Continuando o papo sobre o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg, na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:
 
+  - Possui localização precisa de onde ocorreu a violação, incluindo o nome do arquivo e a linha do código;
+  - Não corrompe a pilha ou, se corrompe, não chega a afetá-la a ponto da thread ficar irreconhecível;
+  - A thread que contém a janela de crash é a culpada imediata, então basta olhar a pilha.
+
+Resumindo: basta olhar a pilha! Mas, para isso ser efetivo, precisaremos do PDB do executável que gerou o crash, pois através dele é possível puxar a tal localização da violação de acesso. Isso quer dizer que se você mantiver o executável, e DLL também é executável, juntinho com seu PDB, ou pelo menos facilmente localizável, sua vida será muito mais fácil e florida. Também significa que poderá começar a beber cerveja mais cedo.
+
+Mesmo que em alguns momentos-surpresa apareça uma ou outra tela indesejada.
+
+O comando mais útil na maioria desses casos é mostrar a pilha no modo verbose, usando o comando kv seguido de enter. Porém, antes disso, precisamos:
 	
-  * Possui localização precisa de onde ocorreu a violação (inclusive com nome do arquivo-fonte e linha).
+  1. Ajeitar o path dos símbolos;
+  2. Recarregar o PDB do executável suspeito;
+  3. Mostrar a pilha de todas as threads até descobrir a culpada.
 
-	
-  * Não corrompe a pilha (ou, se corrompe, não chega a afetá-la a ponto da thread ficar irreconhecível).
-
-	
-  * A thread que contém a janela de crash é a culpada imediata (basta olha a pilha!).
-
-Bom, resumindo: basta olhar a pilha! Mas, para isso ser efetivo, precisaremos do PDB do executável que gerou o crash, pois através dele é possível puxar a tal localização da violação de acesso.
-
-[caption id="attachment1221" align="aligncenter" width="511" caption="SEMPRE ative a geração de PDBs, até em RELEASE!"][!](/images/w1uEm0Y.png)[/caption]
-
-Se você mantiver executável (DLL também é executável) juntinho com seu PDB, sua vida será mais fácil e florida.
-
-[caption id="attachment1222" align="aligncenter" width="498" caption="EXE e PDB, juntinhos, cantando e rodando."][!](/images/ls9Hma0.png)[/caption]
-
-Mesmo que, em alguns momentos trágicos, apareça uma tela indesejada.
-
-
-Seu caminho a partir dessa tela pode ser analisar um dump gerado (visto no artigo anterior) ou podemos atachar o WinDbg diretamente no processo (visto aqui e agora):
-
-    WinDbg: "mas que bagunça é essa na memória desse processo?"
-
-O comando mais útil na maioria dos casos é mostrar a pilha em modo verbose (kv e enter). Porém, antes disso, precisamos:
-
-	
-  1. Ajeitar o path dos símbolos.
-
-	
-  2. Recarregar o PDB do executável suspeito.
-
-	
-  3. Mostrar a pilha de todas as threads (até descobrir a culpada).
-
-Todos esses comandos podem ser vistos abaixo. São, respectivamente, .symfix, .reload e novamente o kv (mas para todas threads).
-
+Todos esses comandos podem ser vistos abaixo. São, respectivamente, .symfix, .reload e novamente o kv, com a diferença de que para todas threads.
     
-    <span style="color: #ff0000;">0:001> .symfix</span>
-    <span style="color: #ff0000;">0:001> .reload /f CrashOnServer.exe</span>
+    0:001> .symfix
+    0:001> .reload /f CrashOnServer.exe
     *** WARNING: Unable to verify checksum for C:\Users\wanderley.caloni\Documents\Projetos\Caloni\Posts\Debug\CrashOnServer.exe
     0:001> kv
     Child-SP RetAddr  : Args to Child               : Call Site
     0030f918 77679198 : 00000000`00000000 `00000000 : ntdll!DbgBreakPoint
     0030f920 775e244d : 00000000`00000000 `00000000 : ntdll!DbgUiRemoteBreakin+0x38
     0030f950 00000000 : 00000000`00000000 `00000000 : ntdll!RtlUserThreadStart+0x25
-    <span style="color: #ff0000;">0:001> ~* kv</span>
+    0:001> ~* kv
     
        0  Id: 1dc.978 Suspend: 1 Teb: 00000000`7efdb000 Unfrozen
     Child-SP RetAddr  : Args to Child                       : Call Site
@@ -64,13 +43,12 @@ Todos esses comandos podem ser vistos abaixo. São, respectivamente, .symfix, .r
     0008f5b0 775b2ace : 00000000`0008f670 00000000`00000000 : ntdll! ?? ::FNODOBFM::`string'+0x2af20
     0008f620 00000000 : 00000000`00000000 00000000`00000000 : ntdll!LdrInitializeThunk+0xe
 
-Ops! Estamos rodando um processo 32 dentro de um SO 64 (Windows 7, por exemplo). Isso pode acontecer. Seguimos com o workaround .load wow64exts e .effmach x86:
+Ops! Um pequeno desvio do curso. Estamos rodando um processo de 32 bits dentro de um SO 64 bits, no exemplo um Windows 7. Isso pode acontecer e é bom saber o que fazer nesse caso. Seguimos com os comandos .load wow64exts e .effmach x86, que irá carregar a extensão de wow64 do depurador e iniciar a tradução da stack para 32 bits.
 
-    
-    <span style="color: #ff0000;">0:001> .load wow64exts</span>
-    <span style="color: #ff0000;">0:001> .effmach x86</span>
+    0:001> .load wow64exts
+    0:001> .effmach x86
     Effective machine: x86 compatible (x86)
-    <span style="color: #ff0000;">0:001:x86> ~* kv</span>
+    0:001:x86> ~* kv
     
        0  Id: 1dc.978 Suspend: 1 Teb: 7efdb000 Unfrozen
     ChildEBP RetAddr  Args to Child
@@ -91,7 +69,7 @@ Ops! Estamos rodando um processo 32 dentro de um SO 64 (Windows 7, por exemplo).
     WARNING: Frame IP not in any known module. Following frames may be wrong.
     001df9ac 010d141e 00000000 00000000 00000000 0x1df598
     001dfa90 010d19af 00000001 00321410 00321c70 CrashOnServer!main+0x2e (FPO: [Non-Fpo]) (CONV: cdecl)
-        [c:\users\wanderley.caloni\documents\projetos\caloni\posts\crashonserver\<span style="color: #ff0000;">crashonserver.cpp @ 13</span>]
+        [c:\users\wanderley.caloni\documents\projetos\caloni\posts\crashonserver\crashonserver.cpp @ 13]
     001dfae0 010d17df 001dfaf4 77273677 7efde000 CrashOnServer!__tmainCRTStartup+0x1bf (FPO: [Non-Fpo]) (CONV: cdecl)
         [f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c @ 555]
     001dfae8 77273677 7efde000 001dfb34 77799f02 CrashOnServer!mainCRTStartup+0xf (FPO: [Non-Fpo]) (CONV: cdecl)
@@ -104,9 +82,4 @@ Ops! Estamos rodando um processo 32 dentro de um SO 64 (Windows 7, por exemplo).
     ChildEBP RetAddr  Args to Child
     0056ffe8 00000000 00000000 00000000 00000000 ntdll_77760000!RtlUserThreadStart (FPO: [0,2,0])
 
-Nosso depurador favorito acusa uma pilha que contém a função WerpReportFault (Web Error Report, mas qualquer outra função com Exception no meio seria uma candidata). E, nessa mesma thread, a última linha nossa conhecida está no arquivo crashonserver.cpp:13. Isso nos revela o seguinte:
-
-[caption id="attachment1224" align="aligncenter" width="534" caption="A raiz de todos os nossos problemas!"][!](/images/hnfH30b.png)[/caption]
-
-E essa situação, caro leitor, é 10% de tudo o que você precisa saber sobre WinDbg para resolver, mas que já resolve 90% dos casos. Belo custo-benefício, não?
-
+Nosso depurador favorito acusa uma pilha que contém a função WerpReportFault. Nessa mesma thread a última linha conhecida nossa está no arquivo crashonserver.cpp:13. E essa situação, caro leitor, é dez por cento de tudo o que você precisa saber sobre WinDbg para resolver, mas que já resolve noventa por cento dos casos que irá encontrar em produção. Belo custo-benefício, não?
