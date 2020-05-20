@@ -1,7 +1,7 @@
 ---
 date: "2020-05-19"
 title: "Conto de Outono"
-desc: '"Conte d'automne" (France, 1998), escrito por Éric Rohmer, dirigido por Éric Rohmer, com Marie Rivière, Béatrice Romand e Alain Libolt.'
+desc: '"Conte d''automne" (France, 1998), escrito por Éric Rohmer, dirigido por Éric Rohmer, com Marie Rivière, Béatrice Romand e Alain Libolt.'
 imdb: "0137439"
 stars: "4/5"
 categories: [ "cinema" ]
