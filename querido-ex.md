@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-29"
 title: "Querido Ex"
-desc: "Dear Ex. Taiwan, 2018. Dirigido por Chih-Yen Hsu, Mag Hsu, escrito por Mag Hsu, Shih-yuan Lu. Com Roy Chiu, Ying-Xuan Hsieh, Spark Chen. Assistido na Netflix."
 imdb: "8443704"
 tags: [ "draft", "movies" ]
 stars: "3/5"

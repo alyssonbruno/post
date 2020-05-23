@@ -6,7 +6,6 @@ date: "2012-06-18"
 tags: [ "draft", "movies" ]
 title: "Adaptação"
 stars: "5/5"
-desc: "Adaptação. Adaptation. (USA, 2002). Dirigido por Spike Jonze. Escrito por Susan Orlean, Charlie Kaufman, Donald Kaufman. Com Nicolas Cage, Tilda Swinton, Meryl Streep, Chris Cooper, Jay Tavare, Litefoot, Roger Willie, Jim Beaver, Cara Seymour."
 ---
 Apenas três anos após Charlie Kaufman surpreender o mundo do Cinema com Quero ser John Malkovich, um dos roteiros mais originais de todos os tempos, temos o lançamento de seu próximo trabalho que coloca como protagonista ninguém nada menos do que... Charlie Kaufman! Apesar de isso aparentar uma auto-indulgência sem limites, é preciso lembrarmos de estarmos falando de uma versão insegura, tímida e menos talentosa de Charlie Kaufman (talvez o motivo dele ser interpretado por ninguém nada menos do que Nicholas Cage, em uma surpreendente atuação dupla).
 

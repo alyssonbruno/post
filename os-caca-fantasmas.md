@@ -6,7 +6,6 @@ date: "2013-01-24"
 tags: [ "draft", "movies" ]
 title: "Os Caça-Fantasmas"
 stars: "4/5"
-desc: "Os Caça-Fantasmas. Ghost Busters (USA, 1984). Dirigido por Ivan Reitman. Escrito por Dan Aykroyd, Harold Ramis, Rick Moranis. Com Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis, Rick Moranis, Annie Potts, William Atherton, Ernie Hudson, David Margulies."
 ---
 O que torna Os Caça-Fantasmas ainda um excelente filme e nos faz acreditar em sua história é a sua entrega total ao universo criado desde o início: existem fantasmas por toda Nova Iorque e ninguém discute isso. Eles estão começando a se manifestar, e não há lugar melhor para isso do que uma biblioteca.
 

@@ -6,7 +6,6 @@ date: "2012-11-04"
 tags: [ "draft", "movies" ]
 title: "Piratas Pirados!"
 stars: "2/5"
-desc: "Piratas Pirados!. The Pirates! In an Adventure with Scientists! (UK, 2012). Dirigido por Peter Lord, Jeff Newitt. Escrito por Gideon Defoe, Gideon Defoe. Com Hugh Grant, Martin Freeman, Imelda Staunton, David Tennant, Jeremy Piven, Salma Hayek, Lenny Henry, Brian Blessed, Russell Tovey."
 ---
 O nome original de Piratas Pirados! é algo do tipo "Os Piratas! Em uma Aventura com Cientistas!". Ou seja, podemos deduzir daí dois pontos críticos e problemático nos dias de hoje: 1) o filme provavelmente foi criado com intenção de continuações e 2) um filme que mistura piratas e cientistas parece ter tanta certeza do que quer quanto Cowboys e Aliens.
 

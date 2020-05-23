@@ -6,7 +6,6 @@ date: "2017-02-01"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Bailarina"
 stars: "2/5"
-desc: "A Bailarina. Ballerina (France, 2016). Dirigido por Eric Summer, Éric Warin. Escrito por Carol Noble, Eric Summer, Laurent Zeitoun. Com Dane DeHaan (Victor), Elle Fanning (Félicie Milliner), Maddie Ziegler (Camille Le Haut), Carly Rae Jepsen (Odette), Camille Cottin (Félicie Milliner), Julie Khaner (Régine Le Haut), Elana Dunkelman (Dora / Stuck Girl), Laurent Maurel (Mérante), Malik Bentalha (Victor)."
 ---
 Não é à toa que A Bailarina ficará pouquíssimo tempo em cartaz. Não é pelas férias estarem acabado, mas poderia ser pela falta de cópias legendadas (porque a mixagem de som da dublada é simplesmente impossível de acompanhar). Talvez a palavra mais constante ao assistir a esta animação canadense e que defina o pouco entusiasmo do público em assistir seja: manipulativo. Afinal de contas, o filme irá fazer de tudo para você se envolver na história mais clichê de todas: o herói que persegue seu sonho. E irá fazer isso na França. No começo do século 19. E a protagonista é órfã. E há uma rival rica. E sua tutora de dança é manca e diz "odiar crianças". Não, não. Só falta dizer que o sonho dela é ser bailarina. Oh, não!
 

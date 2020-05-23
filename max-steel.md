@@ -7,7 +7,6 @@ date: "2017-01-11"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Max Steel"
 stars: "1/5"
-desc: "Max Steel. Max Steel (UK, 2016). Dirigido por Stewart Hendler. Escrito por Christopher Yost. Com Ben Winchell (Max McGrath), Josh Brener (Steel), Maria Bello (Molly McGrath), Andy Garcia (Dr. Miles Edwards), Ana Villafañe (Sofia Martinez), Mike Doyle (Jim McGrath), Phillip DeVona (Harkins), Billy Slaughter (Murphy), Al Mitchell (Dr. Smith)."
 ---
 Ao assistir Max Steel você terá a impressão de estar vendo um fan film. E como todo filme feito por fãs, este tem orçamento bem limitado, o que se reflete em seu roteiro e direção pedestres, assim como a qualidade do elenco e dos efeitos visuais. Mas nós já vimos fan films que foram produzidos com o sangue e suor de uma massa de admiradores, e apesar de todos os defeitos, mantiveram ao menos um trabalho feito com paixão, e se é que isso serve de algum mérito, ao menos significa que alguém deve ter se divertido no processo. Aqui, porém, o filme tem todos os elementos capengas que o tornam elegível para a categoria de fan film, menos a paixão, o que nos leva ao pior resultado possível: um filme ruim feito por pessoas que não se importam tanto assim.
 

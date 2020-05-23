@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2019-07-04T12:00:38-03:00
 title: "O Pacto"
 imdb: "0312843"
-desc: "Suicide Club. Japan, 2001. Dirigido por Sion Sono, escrito por Sion Sono. Com Ryo Ishibashi, Masatoshi Nagase, Mai Hosho."
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

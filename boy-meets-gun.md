@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-22"
 title: "Boy Meets Gun"
-desc: '"Boy Meets Gun" (Holanda, 2019), escrito por Willem Bosch, dirigido por Joost van Hezik, com Eelco Smits, Victor Ijdens e Mara van Vlijmen. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "11007198"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

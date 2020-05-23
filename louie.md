@@ -6,7 +6,6 @@ date: "2015-07-28"
 tags: [ "draft", "series" ]
 title: "Louie"
 stars: "5/5"
-desc: "Louie. Louie (USA, 2010). Dirigido por Louis C.K.. Escrito por Louis C.K., Pamela Adlon. Com Louis C.K., Hadley Delany, Ursula Parker."
 ---
 O comediante, diretor, roteirista, ator Louis C. K. já protagonizou diferentes shows de stand up comedy e é um veterano no assunto. Talvez veterano seja dizer pouco: o cara é simplesmente fodástico na arte do humor. É uma das referências do gênero, e após a morte do mestre (que deus não o tenha) George Carlin, talvez Louis seja o melhor comediante norte-americano da atualidade.
 

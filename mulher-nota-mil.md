@@ -6,7 +6,6 @@ date: "2011-08-22"
 tags: [ "draft", "movies" ]
 title: "Mulher Nota Mil"
 stars: "2/5"
-desc: "Mulher Nota Mil. Weird Science (USA, 1985). Dirigido por John Hughes. Escrito por John Hughes. Com Anthony Michael Hall, Kelly LeBrock, Ilan Mitchell-Smith, Bill Paxton, Suzanne Snyder, Judie Aronson, Robert Downey Jr., Robert Rusler, Vernon Wells."
 ---
 Mulher Nota Mil representa precisamente a época em que foi produzido, bem no meio da década de 80. E, ao mesmo tempo, serve como um belo reflexo de produções recentes, como American Pie, que demonstram que no que tange à síndrome dos garotos impopulares que nunca conseguem namoradas no colégio, o cinema não avançou quase nada: foi apenas atualizado para os padrões modernos.
 

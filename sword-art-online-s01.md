@@ -6,7 +6,6 @@ date: "2014-04-16"
 tags: [ "draft", "series", "animes" ]
 title: "Sword Art Online - Primeira Temporada"
 stars: "4/5"
-desc: "Sword Art Online - Primeira Temporada. Sword Art Online (Japan, 2012). Dirigido por Tomohiko Ito, Alex Von David, Pyeon-Gang Ho, Yoshiyuki Fujiwara, Yasuyuki Fuse, Makoto Hoshino, Shigetaka Ikeda, Takahiro Shikama, Tatsumi Fujii. Escrito por Reki Kawahara, Alex Von David, Yukito Kizawa, Yukie Sugawara, Yoshikazu Mukai, Munemasa Nakamoto, Shûji Iriyama, Naoki Shôji. Com Yoshitsugu Matsuoka, Bryce Papenbrook, Cherami Leigh, Haruka Tomatsu, Kanae Itô, Ayana Taketatsu."
 ---
 O tema de mundos virtuais já tem mais de uma década, mas é a primeira vez que vejo ele ser explorado nos jogos online. Mais interessante, ainda, é construir uma história cujo pano de fundo é o lançamento de mais um RPG online a la "World of Warcraft"  com direito a versões beta, coleção de itens, aumento de experiência, novas habilidades  com a diferença que seu controle é exercido e sentido diretamente pelo cérebro dos jogadores atráves de um sensor na forma de capacete. O enredo principal: se os criadores de um jogo de realidade virtual conseguem controlar os sentidos de seus jogadores o que os impede de levar essa experiências às últimas consequências?
 

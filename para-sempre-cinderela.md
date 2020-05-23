@@ -6,7 +6,6 @@ date: "2016-11-17"
 tags: [ "draft", "movies" ]
 title: "Para Sempre Cinderela"
 stars: "4/5"
-desc: "Para Sempre Cinderela. EverAfter (USA, 1998). Dirigido por Andy Tennant. Escrito por Susannah Grant, Andy Tennant, Rick Parks, Charles Perrault. Com Drew Barrymore (Danielle), Anjelica Huston (Rodmilla), Dougray Scott (Prince Henry), Patrick Godfrey (Leonardo), Megan Dodds (Marguerite), Melanie Lynskey (Jacqueline), Timothy West (King Francis), Judy Parfitt (Queen Marie), Jeroen Krabbé (Auguste)."
 ---
 Esta revisita nos anos 90 ao conto dos irmãos Grimm usa os próprios documentaristas dessa fábula folclórica para dar um laço mais realista à história imortalizada por Disney. Usa atores competentes em situações interessantes -- o que Morgana faz como a madrasta? -- e ao mesmo tempo decide formatar seu núcleo em um romance convencional, de época e água com açúcar. Mas, ainda assim, apaixonante.
 

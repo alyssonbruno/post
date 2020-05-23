@@ -7,7 +7,6 @@ date: "2016-04-27"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Maravilhoso Boccaccio"
 stars: "3/5"
-desc: "Maravilhoso Boccaccio. Maraviglioso Boccaccio (Italy, 2015). Dirigido por Paolo Taviani, Vittorio Taviani. Escrito por Giovanni Boccaccio, Paolo Taviani, Vittorio Taviani. Com Lello Arena, Paola Cortellesi, Carolina"
 ---
 Fracamente inspirado no Decameron, a coletânea de novelas do autor italiano do Século 14, Maravilhoso Boccaccio é filmado como uma grande novela de contos, além de sua produção lembrar tanto uma peça de teatro quanto produções televisivas de baixo orçamento. Ainda assim, possui o mérito narrativo em suas ótimas e curtas histórias.
 

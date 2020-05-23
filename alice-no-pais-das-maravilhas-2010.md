@@ -6,7 +6,6 @@ date: "2010-04-23"
 tags: [ "draft", "movies" ]
 title: "Alice no País das Maravilhas"
 stars: "3/5"
-desc: "Alice no País das Maravilhas. Alice in Wonderland (USA, 2010). Dirigido por Tim Burton. Escrito por Linda Woolverton, Lewis Carroll. Com Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway, Crispin Glover, Matt Lucas, Michael Sheen, Stephen Fry, Alan Rickman."
 ---
 Os experimentos 3D do início da década mostraram pouquíssimas decisões acertadas (Pina, A Invenção de Hugo Cabret), mas muitos caminhos, se não errados, bem tortuosos. Podemos encontrar decisões completamente equivocadas a respeito do uso da tecnologia até mesmo no irretocável Avatar de James Cameron.
 

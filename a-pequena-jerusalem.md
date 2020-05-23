@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-14"
 title: "A Pequena Jerusalém"
-desc: '"La petite Jérusalem" (França, 2005), escrito por Karin Albou, dirigido por Karin Albou, com Fanny Valette, Elsa Zylberstein e Bruno Todeschini.'
 imdb: "0428965"
 tags: [ "draft", "movies" ]
 stars: "3/5"

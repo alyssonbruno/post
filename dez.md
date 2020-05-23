@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-31T13:12:35-03:00
 title: "Dez"
-desc: "Dah. Irã, França, 2003. Falado em Persa. Escrito e dirigido por Abbas Kiarostami. Com Mania Akbari, Amin Maher, Kamran Adl. Cannes."
 imdb: "0301978"
 
 tags: [ "draft", "movies" ]

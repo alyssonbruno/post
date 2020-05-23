@@ -7,7 +7,6 @@ date: 2017-11-04T00:05:03
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Olhando Para As Estrelas"
 stars: "3/5"
-desc: "Olhando Para As Estrelas. Olhando para as Estrelas (Brazil, 2016). Dirigido por Alexandre Peralta. Escrito por Melissa Rebelo Kerezsi, Alexandre Peralta. Com Geyza Pereira (Geyza), Fernanda C. Bianchini Saad (Fernanda Bianchini), Thalia Macedo (Thalia), Cesar Albuquerque (Cesar), Sandra Macedo (Sandra)."
 ---
 Olhando para as Estrelas é um filme fofinho que não parece enxergar dificuldades, apenas facilidades. Com isso ele perde um potencial drama da vida real, ou troca pela visão de um mundo de sonhos, onde tudo é possível. Mas se tudo é possível tão "fácil" assim, qual a graça da conquista?
 

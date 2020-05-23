@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-23"
 title: "Deus é Mulher e Seu Nome é Petúnia"
-desc: "'Gospod postoi, imeto i' e Petrunija' (Macedônia, Bélgica, França, Croácia e Eslovênia, 2019), escrito por Teona Strugar Mitevska e Elma Tataragic, dirigido por Teona Strugar Mitevska, com Zorica Nusheva, Labina Mitevska e Stefan Vujisic. Escrito para o CinemAqui na cobertura da #mostrasp."
 imdb: "8054608"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

@@ -6,7 +6,6 @@ date: "2016-12-29"
 tags: [ "draft", "movies" ]
 title: "Sing: Quem Canta Seus Males Espanta"
 stars: "3/5"
-desc: "Sing: Quem Canta Seus Males Espanta. Sing (USA, 2016). Dirigido por Garth Jennings, Christophe Lourdelet. Escrito por Garth Jennings. Com Matthew McConaughey (Buster Moon), Reese Witherspoon (Rosita), Seth MacFarlane (Mike), Scarlett Johansson (Ash), John C. Reilly (Eddie), Taron Egerton (Johnny), Tori Kelly (Meena), Jennifer Saunders (Nana), Jennifer Hudson (Young Nana)."
 ---
 Este é o ano em que temos musicais animados que abraçam sua cafonice da maneira mais fofa possível ("Trolls") e filmes como "Sing", que entrega bichinhos fofinhos cantando como pop stars em uma pequena fábula sobre um produtor musical com um sonho que... bem, isso não importa. O que importa neste filme é única e simplesmente seus números musicais. A história que os cerca serve única e simplesmente para conseguir colocar os bichinhos fofinhos cantando mais uma vez. E mais uma. E mais uma. Até você cansar.
 

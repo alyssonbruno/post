@@ -6,7 +6,6 @@ date: "2011-07-31"
 tags: [ "draft", "movies" ]
 title: "Edward Mãos de Tesoura"
 stars: "3/5"
-desc: "Edward Mãos de Tesoura. Edward Scissorhands (USA, 1990). Dirigido por Tim Burton. Escrito por Tim Burton, Caroline Thompson, Caroline Thompson. Com Johnny Depp, Winona Ryder, Dianne Wiest, Anthony Michael Hall, Kathy Baker, Robert Oliveri, Conchata Ferrell, Caroline Aaron, Dick Anthony Williams."
 ---
 Mesmo mais de 20 anos depois de produzido, o conto do homem inacabado com tesouras no lugar de dedos continua se sustentando bem, e por vários motivos que fazem hoje de Tim Burton ainda um diretor de destaque.
 

@@ -6,7 +6,6 @@ date: "2016-10-28"
 tags: [ "draft", "movies" ]
 title: "Dolores"
 stars: "4/5"
-desc: "Dolores. Dolores (Germany, 2016). Dirigido por Michael Rösel. Escrito por Sebastian Feld. Com Franziska Petri (Dolores Moor), Udo Schenk (Georg Letterer), Mathias Herrmann (Chauffeur Anton), Mona Petri (Managerin Simone), Christian Koch (Wolf Schäfer), Vilmar Bieri (Gerichtsvollzieher Müller), Alexander Hörbe (Franz Letterer), Hede Beck (Lotte Keller), Antonio Di Mauro (Gunter)."
 ---
 Este é um filme feito para a televisão, com um orçamento aparentemente baixo, mas com grandes ideias. Ele repete os passos hitchcockianos e seus mistérios fantasiosos, mas com pouco jeito. Se tratando de um filme que é sobre a cópia perfeita da realidade, este Hitchcock queimou um pouco no forno.
 

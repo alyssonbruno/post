@@ -6,7 +6,6 @@ date: "2013-07-09"
 tags: [ "draft", "movies" ]
 title: "Meu Malvado Favorito 2"
 stars: "4/5"
-desc: "Meu Malvado Favorito 2. Despicable Me 2 (USA, 2013). Dirigido por Pierre Coffin, Chris Renaud. Escrito por Cinco Paul, Ken Daurio. Com Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove, Russell Brand, Ken Jeong, Steve Coogan, Elsie Fisher, Dana Gaier."
 ---
 Apesar de suas fraquezas expostas por uma trama simplista, Meu Malvado Favorito (2010) possui momentos divertidos demais para ser esquecido (ainda mais se comparado com franquias já bem mais desgastadas, como A Era do Gelo e Madagadascar). Pegando carona no sucesso conquistado, a sua sequência explora melhor a relação entre seus personagens sem deixar de perder a sua identidade: piadas ligeiras e rasteiras que divertem pontualmente e dialogam muito bem com seu público.
 

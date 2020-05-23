@@ -6,7 +6,6 @@ date: 2017-11-01T21:42:54
 tags: [ "draft", "series" ]
 title: "True Detective: Primeira Temporada"
 stars: "4/5"
-desc: "True Detective: Primeira Temporada. True Detective (USA, 2014). Dirigido por Cary Fukunaga, John Crowley, Justin Lin. Escrito por Nic Pizzolatto, Scott Lasser. Com Matthew McConaughey (Detective Rust Cohle), Colin Farrell (Detective Ray Velcoro), Woody Harrelson (Detective Marty Hart), Rachel McAdams (Detective Ani Bezzerides), Michelle Monaghan (Maggie Hart), Taylor Kitsch (Officer Paul Woodrugh), Michael Potts (Detective Maynard Gilbough), Kelly Reilly (Jordan Semyon), Tory Kittles (Detective Thomas Papania)."
 ---
 Este é o tipo de série que pode ir de maçante para fascinante, dependendo de quem assiste. Com um roteiro intrincado, sério, sisudo demais, a história contada em oito capítulos segue uma sequência difícil de ser equiparada. Porém, mais do que isso, aqui temos dois personagens em pés de igualdade. Cada um deles é interpretado por um monstro da atuação. Como não amar Matthew McConaughey e Woody Harrelson depois de seus Rus Cohle e Marty Hart? Esta, sim, é uma tarefa difícil.
 

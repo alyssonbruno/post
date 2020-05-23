@@ -6,7 +6,6 @@ date: "2014-09-13"
 tags: [ "draft", "movies" ]
 title: "Meu Amigo Harvey"
 stars: "5/5"
-desc: "Meu Amigo Harvey. Harvey (USA, 1950). Dirigido por Henry Koster. Escrito por Mary Chase, Mary Chase, Oscar Brodney, Myles Connolly. Com James Stewart, Josephine Hull, Peggy Dow, Charles Drake, Cecil Kellaway, Victoria Horne, Jesse White, William H. Lynn, Wallace Ford."
 ---
 Todos tem aquele amigo indesejável ou, o mais provável, aquela qualidade indesejável em um ente querido que queremos esconder para não nos tornarmos menos aceitos pela sociedade. Se não for em um ente querido pelo menos em nós mesmos. A questão é: "Harvey", uma produção de 1950 dirigida por Henry Koster (O Manto Sagrado) e estrelada por James Stewart (dos filmes de Hitchcock) mostra isso de uma maneira genial: cria um coelho gigante como amigo invisível de um gentil senhor que vive com sua família.
 

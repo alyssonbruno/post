@@ -6,7 +6,6 @@ date: "2016-11-26"
 tags: [ "draft", "movies" ]
 title: "Cavaleiro de Copas"
 stars: "4/5"
-desc: "Cavaleiro de Copas. Knight of Cups (USA, 2015). Dirigido por Terrence Malick. Escrito por Terrence Malick. Com Christian Bale (Rick), Cate Blanchett (Nancy), Natalie Portman (Elizabeth), Brian Dennehy (Joseph), Antonio Banderas (Tonio), Freida Pinto (Helen), Wes Bentley (Barry), Isabel Lucas (Isabel), Teresa Palmer (Karen)."
 ---
 É difícil não gostar do estilo do diretor Terrence Malick. Em meio ao turbilhão de narrativas que preferem esfregar fatos na cara do espectador a cada segundo, Malick está sempre disposto a dar tempo ao tempo, rodar por duas horas e nos fazer questionar a própria textura da realidade em que a história se passa. Suas aventuras não estão limitadas a eventos pontuais, mas a transformações graduais, assim como na vida. Tudo isso pode ser fascinante se você, assim como eu, se cansa às vezes da mesmice narrativa de filmes convencionais, ou, por outro lado, pode ser uma tortura eterna tentar acompanhar filmes como Cavaleiro de Copas, que insiste que o conteúdo faz parte da mensagem.
 

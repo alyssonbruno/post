@@ -6,7 +6,6 @@ date: "2012-12-17"
 tags: [ "draft", "movies" ]
 title: "O Hobbit Uma Jornada Inesperada"
 stars: "3/5"
-desc: "O Hobbit Uma Jornada Inesperada. The Hobbit: An Unexpected Journey (USA, 2012). Dirigido por Peter Jackson. Escrito por Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro, J.R.R. Tolkien. Com Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott, Graham McTavish, William Kircher, James Nesbitt, Stephen Hunter, Dean O'Gorman."
 ---
 Baseado no romance de 310 páginas escrito por J. R. R. Tolkien  conhecido aqui no Brasil como "O hobbit ou Lá e de Volta Outra Vez"  e dirigido por Peter Jackson (trilogia Senhor dos Anéis), a história do pequeno hobbit em sua jornada na companhia de 13 anões e um mago foi dividida em três filmes. Esse texto diz respeito ao primeiro deles, "Uma Jornada Inesperada".
 

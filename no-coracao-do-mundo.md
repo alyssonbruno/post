@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-24"
 title: "No Coração do Mundo"
-desc: "No Coração do Mundo. Brazil, 2019. Dirigido por Gabriel Martins, Maurílio Martins, escrito por Gabriel Martins, Maurílio Martins. Com Mc Carol, Barbara Colen, Kelly"
 imdb: "9646768"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

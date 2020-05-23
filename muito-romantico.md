@@ -6,7 +6,6 @@ date: "2017-05-23"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Muito Romântico"
 stars: "2/5"
-desc: "Muito Romântico. Muito Romântico (Germany, 2016). Dirigido por Melissa Dullius, Gustavo Jahn. Escrito por Melissa Dullius, Gustavo Jahn. Com Gustavo Jahn, Melissa Dullius, Gustavo Beck, Kana Chiaki, Aqico Coco, Friederike Frerichs, Erik Haegert, Imogen Heath, Marcellvs L.."
 ---
 Há um momento em Muito Romântico em que sua protagonista faz uma relação entre as memórias que carregamos na vida e uma colcha de retalhos. A colcha inteira, de acordo com ela, não tem sentido (assim como na vida). Porém, cada pequeno retalho mantém seu significado. Isso vale para as memórias que acumulamos durante a vida, imagino eu.
 

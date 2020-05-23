@@ -6,7 +6,6 @@ date: "2015-07-20"
 tags: [ "draft", "movies" ]
 title: "Sem Segurança Nenhuma"
 stars: "3/5"
-desc: "Sem Segurança Nenhuma. Safety Not Guaranteed (USA, 2012). Dirigido por Colin Trevorrow. Escrito por Derek Connolly. Com Aubrey Plaza, Lauren Carlos, Basil Harris, Mary Lynn Rajskub, Jake Johnson, Karan Soni, David Schultz, Jeff Garlin, Mark Duplass."
 ---
 Até que não incomoda tanto o fato de Sem Segurança Nenhuma não se esforçar para sair de sua própria mediocridade, pois é possível constatar durante todo o trajeto guiado pela tensão de sua premissa inicial (a viagem no tempo) que há algo de agradável em sua eloquência, mesmo que seus personagens sejam batidos, suas histórias sejam clichês e suas piadas, assim como o melancólico Regular Show, tenham viajado para o presente direto dos anos 80.
 

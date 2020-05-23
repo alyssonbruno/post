@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-27"
 title: "Cinco Séries da Netflix"
-desc: "As séries são: Provas Suspeitas, Apavorando Geral, Molang, Na Rota do Taco e Neon Genesis Evangelion."
 tags: [ "draft", "series" ]
 ---
 Esta série sobre evidências forenses mal formuladas com má ciência é uma versão de estagiário de Making a Murderer.

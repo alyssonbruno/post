@@ -6,7 +6,6 @@ date: "2013-11-27"
 tags: [ "draft", "movies" ]
 title: "O Panaca"
 stars: "4/5"
-desc: "O Panaca. The Jerk (USA, 1979). Dirigido por Carl Reiner. Escrito por Steve Martin, Carl Gottlieb, Michael Elias, Steve Martin, Carl Gottlieb. Com Steve Martin, Bernadette Peters, Catlin Adams, Mabel King, Richard Ward, Dick Anthony Williams, Bill Macy, M. Emmet Walsh, Dick O'Neill."
 ---
 Uma comédia pode fazer rir pelo absurdo de suas situações e/ou personagens, como bem lembramos de Debi e Lóide. No entanto, a comédia estrelada por Jim Carrey está longe de ser a precursora dessa ideias do personagem idiota. Há algo muito mais essencial, didático e até filosófico nO Panaca de Steve Martin.
 

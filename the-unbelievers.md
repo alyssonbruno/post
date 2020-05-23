@@ -6,7 +6,6 @@ date: "2014-11-30"
 tags: [ "draft", "movies" ]
 title: "The Unbelievers"
 stars: "2/5"
-desc: "The Unbelievers. The Unbelievers (USA, 2013). Dirigido por Gus Holwerda. Escrito por Gus Holwerda, Luke Holwerda, Lawrence Krauss. Com Ayaan Hirsi Ali, Woody Allen, Richard Dawkins, Daniel C. Dennett, Cameron Diaz, Ricky Gervais, Sam Harris, Stephen Hawking, Werner Herzog."
 ---
 Richard Dawkins e Lawrence Krauss são tratados como pop-stars durante suas inúmeras viagens ao redor do mundo em conferências científicas. Ambos são cientistas, mas, acima de tudo, possuem uma facilidade de comunicação com o público que permite que este receba informações dos últimos avanços científicos no formato que pessoas leigas entendam. No entanto, mais do que isso, ambos levantam a "bandeira ateia", um movimento anti-religião que na última década tem feito com que muitas pessoas se declarassem descrentes de qualquer mitologia ainda existente no mundo moderno, incluindo a existência de Deus.
 

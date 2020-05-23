@@ -6,7 +6,6 @@ tags: [ "draft", "movies" ]
 imdb: "2543472"
 
 stars: "4/5"
-desc: "Wonder. EUA/Hong Kong, 2017. Escrito por Stephen Chbosky, Steve Conrad e Jack Thorne baseados no romance de R.J. Palacio. Com Jacob Tremblay, Owen Wilson, Izabela Vidovic, Julia Roberts e Mandy Patinkin. Dirigido por Chbosky."
 ---
 São tão cansativos aqueles filmes que insistem em fazer o espectador chorar apenas "porque sim" que quando vem o primeiro choro de Extraordinário ele é tão natural, tão coisa simples, tão "uma criança diria isso", que você chega a perdoar todas as vezes que o filme pretende levanta a bandeira da diversidade e de todos merecem uma medalha por existirem.
 

@@ -6,7 +6,6 @@ date: "2012-02-15"
 tags: [ "draft", "movies" ]
 title: "Dirty Dancing Ritmo Quente"
 stars: "4/5"
-desc: "Dirty Dancing Ritmo Quente. Dirty Dancing (USA, 1987). Dirigido por Emile Ardolino. Escrito por Eleanor Bergstein. Com Jennifer Grey, Patrick Swayze, Jerry Orbach, Cynthia Rhodes, Jack Weston, Jane Brucker, Kelly Bishop, Lonny Price, Max Cantor."
 ---
 Para os filhos da década de 50/60 a era Disco representou uma mudança radical de apreciar música. Essa mudança não ocorreu obviamente apenas na música, mas na maneira de pensar e agir, sobretudo na adolescência, época conturbada tão bem representada nos trabalhos de John Hughes (Curtindo a Vida Adoidado, O Clube dos Cinco).
 

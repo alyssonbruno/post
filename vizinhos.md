@@ -6,7 +6,6 @@ date: "2015-01-17"
 tags: [ "draft", "movies" ]
 title: "Vizinhos"
 stars: "3/5"
-desc: "Vizinhos. Neighbors (USA, 2014). Dirigido por Nicholas Stoller. Escrito por Andrew J. Cohen, Brendan O'Brien. Com Seth Rogen, Rose Byrne, Elise Vargas, Zoey Vargas, Brian Huskey, Ike Barinholtz, Carla Gallo, Zac Efron, Dave Franco."
 ---
 Vizinhos tem uma história e direção tão bagunçadas quanto as festas da fraternidade que se instalou na casa ao lado dos recém-casados e com uma pequena filha Mac (Seth Rogen) e Kelly (Rose Byrne). O tema do filme é aquela sensação dos casados que, cuidando de seu primeiro bebê, não está maduro o suficiente para se acostumar com essa nova fase, mas consegue medir com exatidão os eventos que estão deixando de ir ou as coisas que estão deixando de fazer. Vendo do outro lado, os líder da fraternidade tem tanto medo quanto eles, pois está prestes a cruzar esse portal das responsabilidades, o que faz com que ele se agarre com todas as forças no mural de seu grupo de faculdade e suas "lendas", como o cara que inventou que é possível continuar bebendo e vomitando ao mesmo tempo.
 

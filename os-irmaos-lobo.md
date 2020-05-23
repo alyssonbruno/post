@@ -6,7 +6,6 @@ date: "2016-10-12"
 tags: [ "draft", "movies" ]
 title: "Os Irmãos Lobo"
 stars: "2/5"
-desc: "Os Irmãos Lobo. The Wolfpack (USA, 2015). Dirigido por Crystal Moselle. Com Bhagavan Angulo, Govinda Angulo, Jagadisa Angulo, Krsna Angulo, Mukunda Angulo, Narayana Angulo, Tyler Hollinger (Naked / Spurious Actor), Chloe Pecorino (Herself)."
 ---
 Este documentário conta a história de vários irmãos que não podiam sair de casa durante a infância e alimentam sua visão do mundo através dos filmes. É interessante em alguns momentos, principalmente o seu começo, mas aos poucos ele parte para um estilo "casos de família" que apenas estende sua narrativa para virar um filme.
 

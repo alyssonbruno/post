@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-13"
 title: "Tolerância"
-desc: '"Tolerância" (Brasil, 2000), escrito por Giba Assis Brasil, Jorge Furtado e Carlos Gerbase, dirigido por Carlos Gerbase, com Maitê Proença, Roberto Bomtempo, Maria Ribeiro e Ana Maria Mainieri. Um DVD procurado.'
 imdb: "0207163"
 tags: [ "draft", "movies" ]
 stars: "3/5"

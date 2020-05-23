@@ -6,7 +6,6 @@ date: "2016-02-17"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "What Happened, Miss Simone?"
 stars: "5/5"
-desc: "What Happened, Miss Simone?. What Happened, Miss Simone? (USA, 2015). Dirigido por Liz Garbus. Com James Baldwin, Stokely Carmichael, Walter"
 ---
 "What Happened, Miss Simone" é uma coletânea de depoimentos, entrevistas, colagens de fotos e performances que, a despeito de seguir uma ordem cronológica certinha, consegue se tornar uma montanha-russa de emoções e pensamentos acerca da vida da artista e ativista Nina Simone. E mesmo criando um fechamento mais que convencional, desperta em seu final a sensação de que conhecemos talvez menos de 10% do que foi a música, cantora e ativista.
 

@@ -6,7 +6,6 @@ date: "2016-02-12"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota Dinamarquesa"
 stars: "3/5"
-desc: "A Garota Dinamarquesa. The Danish Girl (UK, 2015). Dirigido por Tom Hooper. Escrito por David Ebershoff, Lucinda Coxon. Com Alicia Vikander, Eddie Redmayne, Tusse Silberg, Adrian Schiller, Amber Heard, Emerald Fennell, Henry Pettigrew, Claus Bue, Peter Krag."
 ---
 Quantas vezes uma pessoa aguenta receber o diagnóstico errado do problema de sua vida e perceber que está apenas se enganando em um mundo que não está pronta para recebê-la?
 

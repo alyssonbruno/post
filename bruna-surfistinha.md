@@ -6,7 +6,6 @@ date: "2011-03-15"
 tags: [ "draft", "movies" ]
 title: "Bruna Surfistinha"
 stars: "3/5"
-desc: "Bruna Surfistinha. Bruna Surfistinha (Brazil, 2011). Dirigido por Marcus Baldini. Escrito por José Carvalho, Homero Olivetto, Raquel Pacheco, Antônia Pellegrino, Jorge Tarquini. Com Deborah Secco, Cássio Gabus Mendes, Drica Moraes, Fabiula Nascimento, Cristina Lago, Guta Ruiz, Clarisse Abujamra, Luciano Chirolli, Sérgio Guizé."
 ---
 O momento que resume a ascenção de Bruna e ao mesmo tempo a visão do primeiro trabalho de Marcus Baldini é quando, em seu discurso na festa preparada por sua amiga, ela diz que acredita em si mesma e encoraja seus antitriões a fazerem o mesmo, pois se o fizerem, "conseguirão chegar aonde eu cheguei". E é precisamente nesse ponto que o filme deixa de ser uma visita convencional ao mundo da prostituição e vira uma discussão instigante sobre a capacidade das pessoas de fazer o seu melhor, não importando em que profissão ou atividade.
 

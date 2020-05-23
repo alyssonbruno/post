@@ -6,7 +6,6 @@ date: "2016-11-17"
 tags: [ "draft", "movies" ]
 title: "Some Velvet Morning"
 stars: "4/5"
-desc: "Some Velvet Morning. Some Velvet Morning (USA, 2013). Dirigido por Neil LaBute. Escrito por Neil LaBute. Com Stanley Tucci (Fred), Alice Eve (Velvet)."
 ---
 Este filme independente de baixo orçamento comprova como o catálogo da Netflix reserva algumas ótimas surpresas onde menos se espera. Protagonizado por atores secundários, este trabalho do diretor e roteirista Neil LaBute parece extremamente amador quase todo o tempo. Exceto pela reviravolta que o espera.
 

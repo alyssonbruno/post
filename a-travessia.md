@@ -6,7 +6,6 @@ date: "2015-12-15"
 tags: [ "draft", "movies" ]
 title: "A Travessia"
 stars: "5/5"
-desc: "A Travessia. The Walk (USA, 2015). Dirigido por Robert Zemeckis. Escrito por Robert Zemeckis, Christopher Browne, Philippe Petit. Com Joseph Gordon-Levitt, Guillaume Baillargeon, Émilie Leclerc, Mark Trafford, Inka Malovic, Lucas Ramaciere, Martin Lefebvre, Philippe Bertrand, Laurence Deschenes."
 ---
 A liberdade é uma coisa engraçada. Quando a perdemos através do medo, isso cria os mais diversos níveis de negação, fazendo-nos chegar ao cúmulo de aceitar o máximo de segurança pelo mínimo de liberdade, sendo que, ironicamente, acabamos perdendo ambos.
 

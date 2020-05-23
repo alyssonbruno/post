@@ -6,7 +6,6 @@ date: "2015-11-18"
 tags: [ "draft", "movies" ]
 title: "Jogos Famintos"
 stars: "3/5"
-desc: "Jogos Famintos. The Starving Games (USA, 2013). Dirigido por Jason Friedberg, Aaron Seltzer. Escrito por Jason Friedberg, Aaron Seltzer. Com Maiara Walsh, Cody Christian, Brant Daugherty, Diedrich Bader, Ross Wyngaarden, Lauren Bowles, Dean J. West, Michael Hartson, Theodus Crane."
 ---
 Das paródias, talvez seja um dos poucos que segue boa parte do roteiro, ou pelo menos da história, original. Sendo assim, se torna um filme até que simpático, pois pega carona em uma boa narrativa (a do original), além de nostalgicamente remeter aos bons momentos do primeiro filme da franquia baseada em livros.
 

@@ -6,7 +6,6 @@ date: "2015-04-30"
 tags: [ "draft", "movies" ]
 title: "O Abutre"
 stars: "5/5"
-desc: "O Abutre. Nightcrawler (USA, 2014). Dirigido por Dan Gilroy. Escrito por Dan Gilroy. Com Jake Gyllenhaal, Michael Papajohn, Marco Rodríguez, Bill Paxton, James Huang, Kent Shocknek, Pat Harvey, Sharon Tay, Rick Garcia."
 ---
 Uma fase estupidamente frutífera de Jake Gyllenhaal, que fez com o diretor Denis Villeneuve em 2013 dois filmes muito interessantes: Os Suspeitos e O Homem Duplicado e que agora faz o seu terceiro papel completamente diferente. Não se poderia dizer diferente de Dan Gilroy, que trabalhou em roteiros de filmes curiosos como Gigantes de Aço, mas que aqui estreia na direção de uma história que ele mesmo escreveu e que ultrapassa o limite do óbvio para se emaranhar em uma discussão acalorada, divertida e abrangente sobre a mídia sensacionalista.
 

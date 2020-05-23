@@ -6,7 +6,6 @@ date: "2011-10-17"
 tags: [ "draft", "movies" ]
 title: "Qual Seu Número?"
 stars: "3/5"
-desc: "Qual Seu Número?. What's Your Number? (USA, 2011). Dirigido por Mark Mylod. Escrito por Gabrielle Allan, Jennifer Crittenden, Karyn Bosnak. Com Anna Faris, Chris Evans, Ari Graynor, Blythe Danner, Ed Begley Jr., Oliver Jackson-Cohen, Heather Burns, Eliza Coupe, Kate Simses."
 ---
 Aparentemente não há limites para a "criatividade" de Hollywood para comédias românticas. Quem diria que a Cindy (Anna Faris), da franquia Todo Mundo em Pânico, seria par romântico com o Capitão América (Chris Evans)? Um desafio interessante para ambos, visto que seus respectivos currículos de "menina fácil (e alvo de socos) em comédia-paródia" e "super-herói simpático" são ligeiramente diferentes nesse novo longa de Mark Mylod (Quem é Morto Sempre Aparece).
 

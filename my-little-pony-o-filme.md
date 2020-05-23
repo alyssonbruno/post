@@ -6,7 +6,6 @@ date: 2017-10-16T19:39:46
 tags: [ "draft", "movies" ]
 title: "My Little Pony: O Filme"
 stars: "3/5"
-desc: "My Little Pony: O Filme. My Little Pony: The Movie (Canada, 2017). Dirigido por Jayson Thiessen. Escrito por Meghan McCarthy, Joe Ballarini, Rita Hsiao, Michael Vogel, Lauren Faust, Bonnie Zacherle. Com Uzo Aduba (Queen Novo), Ashleigh Ball (Applejack / Rainbow Dash), Adam Bengis (Code Red), Emily Blunt (Tempest Shadow / Fizzlepop Berrytwist), Kristin Chenoweth (Princess Skystar), Michelle Creber (Applebloom), Taye Diggs (Capper), Brian Dobson (Verko / Additional Voices), Michael Dobson (Bulk Biceps / Canterlot & Klugetown Featured Voices)."
 ---
 "My Little Pony: O Filme" continua sendo tudo que os fãs de My Little Pony poderiam querer mais um pouco. E estou falando até dos fãs adultos da série de animação. Applejack, Rainbow Dash e suas amigas continuam usando o poder da amizade para enfrentar todos os perigos e transformar seus inimigos em leais aliados.
 

@@ -6,7 +6,6 @@ date: "2014-03-04"
 tags: [ "draft", "movies" ]
 title: "Abutres"
 stars: "5/5"
-desc: "Abutres. Carancho (Argentina, 2010). Dirigido por Pablo Trapero. Escrito por Alejandro Fadel, Martín Mauregui, Santiago Mitre, Pablo Trapero. Com Ricardo Darín, Martina Gusman, Carlos Weber, José Luis Arias, Fabio Ronzano, Loren Acuña, Gabriel Almirón, José Manuel Espeche, Francisco Acosta."
 ---
 Filmes com Ricardo Darín (Um Conto Chinês, O Segredo dos Seus Olhos) já merecem uma visita. Já filmes do diretor Pablo Trapero (Elefante Branco), que infelizmente é mais realista do que pessimista, exigem uma preparação psicológica para a dor e a depressão que virão por causa da impotência de seus personagens ante uma situação intransponível. Ou, resumindo, como diria Capitão Nascimento: "o sistema é foda!".
 

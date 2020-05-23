@@ -6,7 +6,6 @@ date: "2012-03-04"
 tags: [ "draft", "movies" ]
 title: "Leur morale... et la nôtre"
 stars: "2/5"
-desc: "Leur morale... et la nôtre. Leur morale... et la nôtre (France, 2008). Dirigido por Florence Quentin. Escrito por Florence Quentin, Alexis Quentin. Com André Dussollier, Victoria Abril, Samir Guesmi, Micha Lescot, Françoise Bertin, Catherine Hosmalin, Isabelle Caubère, Raphaël Mezrahi, Michel Muller."
 ---
 Nessa comédia de humor negro francesa é difícil identificar-se com os protagonistas, um casal de meia-idade que vive sozinho às custas de promoções de supermercados e uma vendinha clandestina em sua própria casa e preocupados com a crescente onda de bandidagem no bairro que residem. Isso porque eles são tão vigaristas quanto os supostos "bandidos" que o casal de meia-idade tanto teme.
 

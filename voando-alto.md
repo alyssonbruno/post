@@ -6,7 +6,6 @@ date: "2017-05-02"
 tags: [ "draft", "movies" ]
 title: "Voando Alto"
 stars: "3/5"
-desc: "Voando Alto. Eddie the Eagle (UK, 2016). Dirigido por Dexter Fletcher. Escrito por Sean Macaulay, Simon Kelton. Com Tom Costello (Eddie), Jo Hartley (Janette), Keith Allen (Terry), Dickon Tolson (UK Doctor), Jack Costello (Eddie), Taron Egerton (Eddie Edwards), Mark Benton (Richmond the BOA Official), Tim McInnerny (Dustin Target), Edvin Endre (Matti Nykänen), Mads Sjøgård Pettersen (Erik Moberg), Marc Benjamin (Lars Holbin), Iris Berben (Petra), Rune Temte (Bjørn the Norwegian Coach), Hugh Jackman (Bronson Peary), Carlton Bunce (Old Jumper), Joachim Raaf (Oberstdorf Jumping Marshal), Sean Jackson (Outfitter), Daniel Ings (Zach), Jim Broadbent (BBC Commentator), Matt Rippy (US Anchorman), Graham Fletcher-Cook (Appleby), Ania Sowinski (Carrie), Paul Reynolds (Clive North UK Reporter), Christopher Walken (Warren Sharp), Jozef Aoki (Calgary Press), Lasco Atkins (Calgary Press), Roy Beck (Calgary Reporter), Matthew Brandon (Canadian Ski Jumper), Austin Burrows (German Coach)."
 ---
 Este é um filme para observar a atuação de Taron Egerton em um papel muito diferente do que ele fez em Kingsman. Também é um filme para observarmos como nem sempre a persona de Hugh Jackman, como visto em Gigantes de Aço, consegue ser tão eficaz. E, de forma geral, este é um filme que repassa alguns momentos da vida real de Eddie Edwards, uma criança inglesa que parece já ter nascido com a ideia obcecada de participar das olimpíadas.
 

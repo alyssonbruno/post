@@ -6,7 +6,6 @@ date: "2015-12-05"
 tags: [ "draft", "movies" ]
 title: "Se Beber, Não Entre no Jogo"
 stars: "1/5"
-desc: "Se Beber, Não Entre no Jogo. The Hungover Games (USA, 2014). Dirigido por Josh Stolberg. Escrito por Kyle Barnett Anderson, Kyle Barnett Anderson, David Bernstein, David Bernstein, Jamie Kennedy. Com Ross Nathan, Sam Pancake, Ben Begley, Herbert Russell, John Livingston, Damien Bray, Tara Reid, Jamie Kennedy, Chanel Gaines."
 ---
 Esse é mais um filme-paródia que usa a estrutura de Jogos Vorazes para misturar filmes como "Se Beber, Não Case", TED e outros cuja "influência" reside apenas em fantasias de personagens de Johnny Depp e outros falando obviedades sobre quem não gostou dos filmes em que eles aparecem. Talvez Jogos Vorazes se torne um campeão disso porque muitas pessoas não gostaram da série, e também porque sua estrutura de jogo na selva já é batido, fácil de acompanhar e não exige muito esforço intelectual inserir piadinhas sem graça no meio de um roteiro que já existe.
 

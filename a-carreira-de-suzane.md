@@ -1,7 +1,6 @@
 ---
 date: "2020-05-19"
 title: "A Carreira de Suzane"
-desc: '"La carrière de Suzanne" (France, 1963), escrito por Éric Rohmer, dirigido por Éric Rohmer, com Catherine Sée, Philippe Beuzen e Christian Charrière.'
 imdb: "0056910"
 stars: "3/5"
 categories: [ "cinema" ]

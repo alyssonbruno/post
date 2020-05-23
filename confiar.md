@@ -6,7 +6,6 @@ date: "2011-09-27"
 tags: [ "draft", "movies" ]
 title: "Confiar"
 stars: "3/5"
-desc: "Confiar. Trust (USA, 2010). Dirigido por David Schwimmer. Escrito por Andy Bellin, Robert Festinger. Com Clive Owen, Catherine Keener, Liana Liberato, Jason Clarke, Viola Davis, Chris Henry Coffey, Spencer Curnutt, Aislinn DeButch, Noah Emmerich."
 ---
 Dirigido e escrito pelos estreante no cinema David Schwimmer e Andy Bellin (esta co-roteirizada por Robert Festinger, do excelente Entre Quatro Paredes), este drama de tons realistas e de caráter emergencial conta a história de Annie, uma jovem colegial que acaba de completar 14 anos e que pertence a uma família tranquila e estruturada. Como todas as jovens de sua idade, costuma passar o tempo alheia à vida em sua volta, se comunicando com amigos virtuais através do celular e de seu computador (presente de aniversário de seu pai, um detalhe sutil, mas trágico).
 

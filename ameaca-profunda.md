@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-07"
 title: "Ameaça Profunda"
-desc: '"Underwater" (EUA, 2020), escrito por Brian Duffield e Adam Cozad, dirigido por William Eubank, com Kristen Stewart, T.J. Miller e Jessica Henwick. Escrito para o CinemAqui.'
 imdb: "5774060"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

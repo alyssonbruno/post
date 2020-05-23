@@ -6,7 +6,6 @@ date: "2013-11-08"
 tags: [ "draft", "movies" ]
 title: "Elvira A Rainha das Trevas"
 stars: "3/5"
-desc: "Elvira A Rainha das Trevas. Elvira: Mistress of the Dark (USA, 1988). Dirigido por James Signorelli. Escrito por Sam Egan, John Paragon, Cassandra Peterson. Com Phil Rubenstein, Larry Flash Jenkins, Cassandra Peterson, Damita Jo Freeman, Tress MacNeille, Edwina Moore, Mario Celario, Lee McLaughlin, Bill Swearingen."
 ---
 Aquela comédia sessão da tarde, leve e despretensiosa, que consegue ser digerida passo-a-passo sem maiores problemas. Esse modo inofensivo de Elvira é provavelmente seu ponto mais fraco.
 

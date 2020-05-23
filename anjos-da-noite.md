@@ -6,7 +6,6 @@ date: "2013-03-04"
 tags: [ "draft", "movies" ]
 title: "Anjos da Noite"
 stars: "1/5"
-desc: "Anjos da Noite. Underworld (UK, 2003). Dirigido por Len Wiseman. Escrito por Kevin Grevioux, Len Wiseman, Danny McBride, Danny McBride. Com Kate Beckinsale, Scott Speedman, Michael Sheen, Shane Brolly, Bill Nighy, Erwin Leder, Sophia Myles, Robbie Gee, Wentworth Miller."
 ---
 O primeiro filme da saga dos vampiros e lobisomems (não estou falando de Crepúsculo) pode conter um pano de fundo curioso e com potencial dramático para um ótimo filme. Infelizmente não é isso que acontece em Anjos da Noite, que se esforça como filme de drama e ação sem conseguir se sair bem em nenhum dos dois.
 

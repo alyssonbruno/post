@@ -6,7 +6,6 @@ date: "2016-03-18"
 tags: [ "draft", "movies" ]
 title: "Vinho para Roubar"
 stars: "2/5"
-desc: "Vinho para Roubar. Vino Para Robar (Argentina, 2013). Dirigido por Ariel Winograd. Escrito por Adrián Garelik. Com Daniel Hendler, Valeria Bertuccelli, Martín Piroyansky, Pablo Rago, Juan Leyrado, Mario Alarcón, Alan Sabbagh, Luis Sagasti, Esteban Balbi."
 ---
 Esse filme argentino segue a cartilha do gênero "Onze Homens e um Segredo" e "Missão Impossível". Porém, com baixo orçamento, apresenta um romance para preencher as lacunas dos efeitos visuais, além de personagens agradáveis, mas quase invisíveis. Os filmes argentinos, bons ou ruins, nunca pecam pela falta de charme. No entanto, ao usar a abordagem hollywoodiana, assume o risco de perder até isso.
 

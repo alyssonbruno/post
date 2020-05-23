@@ -6,7 +6,6 @@ date: "2011-03-28"
 tags: [ "draft", "movies" ]
 title: "O Julgamento do Diabo"
 stars: "3/5"
-desc: "O Julgamento do Diabo. The Devil and Daniel Webster (USA, 2003). Dirigido por Alec Baldwin. Escrito por Stephen Vincent Benet, Archibald Macleish, Peter Dexter, Peter Dexter, Bill Condon, Nancy Cassaro. Com Virl Andrick, Ray Aranha, Kaniel Arocho, Jorge Arocho, Mary Ashton, Howard Atlee, Dan Aykroyd, Alec Baldwin, Gregg Bello."
 ---
 Existe uma relação entre esse primeiro (e único) longa de Baldwin e um filme de 1941 chamado "The Devil and Daniel Webster": o protagonista é o mesmo Daniel Webster. Ambos possuem dois títulos: são chamados "The Devil and Daniel Webster", porém o de 1941 também possui o título "All That Money Can Buy", enquanto esse de 2007 é chamado também de "Shortcut to Happiness".
 

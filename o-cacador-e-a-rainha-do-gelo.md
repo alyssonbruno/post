@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-01T18:29:57-03:00
 title: "O Caçador e a Rainha do Gelo"
-desc: "Escrito por Evan Spiliotopoulos e Craig Mazin baseados nos personagens de Evan Daugherty. Dirigido por Cedric Nicolas-Troyan. Com Chris Hemsworth, Jessica Chastain, Charlize Theron."
 imdb: "2381991"
 
 tags: [ "draft", "movies" ]

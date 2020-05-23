@@ -6,7 +6,6 @@ date: "2012-03-14"
 tags: [ "draft", "movies" ]
 title: "Poder sem Limites"
 stars: "4/5"
-desc: "Poder sem Limites. Chronicle (USA, 2012). Dirigido por Josh Trank. Escrito por Max Landis, Max Landis, Josh Trank. Com Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly, Ashley Hinshaw, Bo Petersen, Anna Wood, Rudi Malcolm, Luke Tyler."
 ---
 Entrando na onda dos filmes gravados como documentários, só que sem os problemas técnicos presentes no gênero, como a qualidade de vídeo, Poder Sem Limites explora a descoberta de três jovens de uma caverna escondida dentro de um buraco e que acaba lhes dando poderes tele cinéticos. Os motivos para isso nunca são revelados, pois o objetivo do longa é mostrar os rapazes explorando esse poder gradativamente, e como cada um deles o usa de forma particular.
 

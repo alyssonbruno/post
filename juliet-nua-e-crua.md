@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-09T19:53:35-03:00
 title: "Juliet, Nua e Crua"
-desc: "Juliet, Naked. EUA, 2018. Escrito por Tamara Jenkins, Jim Taylor e Evgenia Peretz baseados no romance de Nick Hornby. Dirigido por Jesse Peretz. Com Chris O'Dowd, Rose Byrne, Kitty O'Beirne, Ethan Hawke."
 imdb: "5607096"
 
 tags: [ "draft", "movies" ]

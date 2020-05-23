@@ -7,7 +7,6 @@ date: 2017-10-24T01:41:35
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Favela Olimpica"
 stars: "5/5"
-desc: "Favela Olimpica. Favela Olímpica (Switzerland, 2017). Dirigido por Samuel Chalard."
 ---
 Favela Olímpica é um documentário feito sobre um evento específico que acaba colocando em debate todo um sistema injusto. Ele é o novo Cabra Marcado Pra Morrer ou o novo Aquarius? Quase. Ele tem muitos elementos desses dois filmes, especialmente o primeiro. E um dos elementos mais vitais para seu funcionamento é a impunidade tão gritante que ela se torna visível, palpável e até apontável.
 

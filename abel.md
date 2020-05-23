@@ -5,7 +5,6 @@ date: "2014-04-26"
 tags: [ "draft", "movies" ]
 title: "Abel"
 stars: "3/5"
-desc: "Abel. Abel (Mexico, 2010). Dirigido por Diego Luna. Escrito por Augusto Mendoza, Diego Luna. Com Christopher Ruíz-Esparza, José María Yazpik, Karina Gidi, Carlos Aragón, Gerardo Ruíz-Esparza, Geraldine Galván, Gabino Rodríguez, Lucero Trejo, Maria Elena Cervantes."
 
 ---
 Abel é um filme-fantasia que se deixa levar pela premissa que o garoto-título resgata a memória do pai ausente como sendo a dele mesmo. Aconteceu algo no passado que não sabemos  possivelmente o não-retorno do pai  que fez com que Abel fosse internado em um hospital e voltasse apenas dois anos depois com a mãe, seu irmão e sua irmã para uma casa em um condomínio abandonado.

@@ -6,7 +6,6 @@ date: "2017-03-29"
 tags: [ "draft", "series" ]
 title: "12 Macacos"
 stars: "3/5"
-desc: "12 Macacos - Primeira Temporada, Episódios 1 ao 3. 12 Monkeys (USA, 2015). Dirigido por David Grossman, Magnus Martens, Michael Waxman, Steven A. Adelson, David Greene, Grant Harvey. Escrito por Travis Fickett, Terry Matalas, David Webb Peoples, Janet Peoples, Sean Tretta, Richard Robbins, Matt Morgan, Ian Sobel, Christopher Monfette. Com Aaron Stanford (James Cole), Amanda Schull (Dr. Cassandra Railly), Kirk Acevedo (José Ramse), Barbara Sukowa (Katarina Jones), Demore Barnes (Whitley), Emily Hampshire (Jennifer Goines), Andrew Gillies (Dr. Adler), Todd Stashwick (Deacon), Noah Bean (Aaron Marker)."
 ---
 Travelers e 12 Macacos parecem não conseguir compreender todo seu potencial. Enquanto Travelers cria uma "nova ideia" a respeito de viagens no tempo, mantém toda sua estrutura convenientemente sob controle de alguns limites estabelecidos apenas para isso. Já 12 Macacos mancha a reputação do filme homônimo, tornando a viagem no tempo não como um trauma vivido por Bruce Willis, que não consegue distinguir seus delírios da realidade, mas como um processo banal. Algo como ir na esquina.
 

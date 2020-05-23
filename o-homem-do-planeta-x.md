@@ -6,7 +6,6 @@ date: "2014-03-04"
 tags: [ "draft", "movies" ]
 title: "O Homem do Planeta X"
 stars: "2/5"
-desc: "O Homem do Planeta X. The Man from Planet X (USA, 1951). Dirigido por Edgar G. Ulmer. Escrito por Aubrey Wisberg, Jack Pollexfen. Com Robert Clarke, Margaret Field, Raymond Bond, William Schallert, Roy Engel, David Ormont, Gilbert Fallman, Tom Daly, June Jeffery."
 ---
 Esse é um trash dos anos 50 no sentido mais típico da palavra. Tentando criar uma atmosfera de tensão ao incluir um alienígena cujas intenções não são conhecidas em torno de homens com objetivos bem distintos entre eles  um repórter, um cientista e um ganancioso  O Homem do Planeta X se esquece de incluir também explicações mais verossímeis para sua história, mesmo se tratando de uma época onde a ingenuidade reinava no Cinema.
 

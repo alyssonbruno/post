@@ -2,7 +2,6 @@
 categories: [ "code" ]
 date: "2011-10-18"
 title: "Depuração de emergência com receita de bolo"
-desc: "Como achar rapidamente a linha de código de um crash usando WinDbg e os símbolos PDB do programa que exibe uma tela de capotamento."
 tags: [ "debug", "windbg", "draft" ]
 ---
 Continuando o papo sobre o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg, na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:

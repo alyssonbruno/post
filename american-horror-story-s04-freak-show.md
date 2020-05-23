@@ -6,7 +6,6 @@ date: 2015-11-28
 tags: [ "draft", "series" ]
 title: "História de Horror Americana - Freak Show"
 stars: "4/5"
-desc: "História de Horror Americana - Freak Show. American Horror Story (USA, 2011). Dirigido por Alfonso Gomez-Rejon, Bradley Buecker, Michael Uppendahl, Michael Lehmann, David Semel, Howard Deutch, Ryan Murphy, Jeremy Podeswa, Michael Rymer. Escrito por Brad Falchuk, Ryan Murphy, Jennifer Salt, Jessica Sharzer, Tim Minear, James Wong, Crystal Liu, John J. Gray, Todd Kubrak. Com Evan Peters, Jessica Lange, Sarah Paulson, Frances Conroy, Denis O'Hare, Lily Rabe, Emma Roberts, Kathy Bates, Taissa Farmiga."
 ---
 Acho que já disse que AHS não é uma série de terror no sentido convencional -- assustar pessoas -- mas muito pior do que isso: mostrar o horror implícito no ser humano, e ir às últimas consequências do que a violência de seres egoístas, mesquinhos, vaidosos, orgulhosos e invejosos consegue produzir. E o resultado impressona, mas impressiona muito mais a capacidade dessas pessoas de fazer o mal, quase como se o mal nem precisasse depender dessas pessoas para existir, como se fosse materializado e aparecesse diante de nossos olhos sob a forma de ação, representada pelo horror gráfico, mas com um significado muito maior do que chocar pelo ato em si. É a pessoa responsável pelo ato -- ou às vezes apenas a situação -- que chocam muito mais.
 

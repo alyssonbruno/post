@@ -6,7 +6,6 @@ date: "2016-07-18"
 tags: [ "draft", "movies" ]
 title: "Procurando Dory"
 stars: "2/5"
-desc: "Procurando Dory. Finding Dory (USA, 2016). Dirigido por Andrew Stanton, Angus MacLane. Escrito por Andrew Stanton, Andrew Stanton, Victoria Strouse, Bob Peterson, Angus MacLane. Com Ellen DeGeneres, Albert Brooks, Ed O'Neill, Kaitlin Olson, Hayden Rolence, Ty Burrell, Diane Keaton, Eugene Levy, Sloane Murray."
 ---
 Mas é claro que este é um caça-níqueis. E é claro que tenta emocionar, tentar ser fofinho, tenta ser engraçado. A única coisa que Procurando Dory não tenta é ultrapassar o seu original, Procurando Nemo. Na verdade, ele se empenha tanto em se tornar um filme divertido para as férias que se perde em sua própria pequenez. Um filme praticamente para TV, onde entram junto nesta lista não-gloriosa da Pixar: Carros, Carros 2, Aviões, Carros 3 (já fizeram?), Operação Big Hero, Vida de Inseto.
 

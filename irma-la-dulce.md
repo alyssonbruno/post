@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-17"
 title: "Irma la Dulce"
 tags: [ "draft", "movies" ]
-desc: '"Irma la Douce" (United States, 1963), escrito por Alexandre Breffort, Billy Wilder e I.A.L. Diamond, dirigido por Billy Wilder, com Jack Lemmon, Shirley MacLaine e Lou Jacobi.'
 imdb: "0057187"
 stars: "3/5"
 ---

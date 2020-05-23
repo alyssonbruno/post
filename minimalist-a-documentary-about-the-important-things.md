@@ -6,7 +6,6 @@ date: "2017-04-18"
 tags: [ "draft", "movies" ]
 title: "Minimalism: A Documentary About the Important Things"
 stars: "3/5"
-desc: "Minimalism: A Documentary About the Important Things. Minimalism: A Documentary About the Important Things (USA, 2015). Dirigido por Matt D'Avella. Com Dan Harris (Himself), Joshua Becker (Himself), Shannon Whitehead (Herself), Sam Harris (Himself), Rick Hanson (Himself), Jay Austin (Himself), Joshua Fields Millburn (Himself), Ryan Nicodemus (Himself), Leo Babauta (Himself)."
 ---
 Este é um documentário bem convencional que acompanha dois amigos que descobrem que para ser feliz menos é mais. Estamos falando essencialmente de consumismo desenfreado. Em resumo: o modo americano de viver.
 

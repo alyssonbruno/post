@@ -6,7 +6,6 @@ date: "2012-06-04"
 tags: [ "draft", "movies" ]
 title: "Viagem ao Mundo dos Sonhos"
 stars: "3/5"
-desc: "Viagem ao Mundo dos Sonhos. Explorers (USA, 1985). Dirigido por Joe Dante. Escrito por Eric Luke. Com Ethan Hawke, River Phoenix, Bobby Fite, Bradley Gregg, Georg Olden, Chance Schwass, Amanda Peterson, Danny Nucci, Jason Presson."
 ---
 Da safra dos anos 80 onde havia aos montes aventuras de garotos vivendo em cidades como em ET/Goonies e que vivem uma aventura, Viagem ao Mundo dos Sonhos mistura com sucesso conceitos geralmente distintos: sonhos e tecnologia. A história se inicia quando Ben (Ethan Hawke), um garoto comum que começa a ter estranhos sonhos de uma viagem em torno de figuras geométricas que se assemelham a circuitos de computador. Tendo como amigo Wolfgang (River Phoenix), um cientista-mirim que usa o computador do pai, ambos começam a desenvolver uma teoria que os sonhos recorrentes de Ben podem ser um tipo de comunicação de vida inteligente. O terceiro elemento do grupo, Steve (Bobby Fite), ajuda Ben durante uma briga de escola e acaba por se juntar aos dois por não ter muita harmonia para ficar em casa com seu pai, vítima da conhecida crise que acometeu o país na época.
 

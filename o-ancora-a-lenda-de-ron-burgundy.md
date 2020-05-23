@@ -6,7 +6,6 @@ date: "2014-05-08"
 tags: [ "draft", "movies" ]
 title: "O Âncora A Lenda de Ron Burgundy"
 stars: "3/5"
-desc: "O Âncora A Lenda de Ron Burgundy. Anchorman: The Legend of Ron Burgundy (USA, 2004). Dirigido por Adam McKay. Escrito por Will Ferrell, Adam McKay. Com Will Ferrell, Christina Applegate, Paul Rudd, Steve Carell, David Koechner, Fred Willard, Chris Parnell, Kathryn Hahn, Fred Armisen."
 ---
 Não incomoda ver homens adultos, profissionais da mídia televisiva, se comportando como adolescentes estúpidos que só pensam em mulheres como objetos sexuais e, pior, rivais à sua suposta inteligência superior? Para um machista contemporâneo a parte da mulher como objeto sexual permanece, mas como bem demonstra O Âncora, o medo de ser mais burro e a vontade de transar podem ser dois lados de uma mesma moeda de um centavo.
 

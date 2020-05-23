@@ -6,7 +6,6 @@ date: "2013-04-03"
 tags: [ "draft", "series" ]
 title: "The Walking Dead - Segunda Temporada"
 stars: "3/5"
-desc: "The Walking Dead - Segunda Temporada. The Walking Dead (USA, 2010). Dirigido por Ernest R. Dickerson, Greg Nicotero, Guy Ferland, David Boyd, Bill Gierhart, Michelle MacLaren, Tricia Brock, Seith Mann, Gwyneth Horder-Payton. Escrito por Charlie Adlard, Frank Darabont, Robert Kirkman, Tony Moore, Scott M. Gimple, Angela Kang, Glen Mazzara, Evan T. Reilly, Seth Hoffman. Com Andrew Lincoln, Steven Yeun, Chandler Riggs, Norman Reedus, Melissa McBride, Lauren Cohan, Emily Kinney, Danai Gurira, Sonequa Martin-Green."
 ---
 Nunca se viu antes zumbis tão realistas e humanos tão inverossímeis. Não é tão difícil acreditar nos mortos-vivos, pois já vimos isso antes em inúmeras obras do que tornou um sub-gênero do terror. Porém, um grupo de humanos como esse tentando sobreviver nessa selva de carne podre (e dentes, claro) é algo inédito e inacreditável. E mesmo assim, é exatamente dessa forma que a maioria de nós vive, o que acaba não dando muitas esperanças caso o universo de George Romero realmente viesse à tona.
 

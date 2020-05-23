@@ -6,7 +6,6 @@ date: "2011-09-04"
 tags: [ "draft", "movies" ]
 title: "Watchmen O Filme"
 stars: "5/5"
-desc: "Watchmen O Filme. Watchmen (USA, 2009). Dirigido por Zack Snyder. Escrito por David Hayter, Alex Tse, Dave Gibbons, Alan Moore. Com Malin Akerman, Billy Crudup, Matthew Goode, Jackie Earle Haley, Jeffrey Dean Morgan, Patrick Wilson, Carla Gugino, Matt Frewer, Stephen McHattie."
 ---
 Watchmen seria uma história sobre anti-heróis ou heróis como eles seriam no mundo real? Desde o começo do filme, nos vemos embarcados nestes pensamentos, ajudados pela magnífica introdução que mostra, em câmera lenta, os vigilantes do filme posando para fotos jornalísticas, em uma fotografia super-sensível que, utilizando tons de sépia para identificar o passado, demonstra, desde já, o apuro estético de uma produção que está claramente acima do gênero "adaptação de quadrinhos".
 

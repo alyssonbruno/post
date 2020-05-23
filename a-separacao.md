@@ -6,7 +6,6 @@ date: "2015-08-24"
 tags: [ "draft", "movies" ]
 title: "A Separação"
 stars: "5/5"
-desc: "A Separação. Jodaeiye Nader az Simin (Iran, 2011). Dirigido por Asghar Farhadi. Escrito por Asghar Farhadi. Com Peyman Moaadi, Leila Hatami, Sareh Bayat, Shahab Hosseini, Sarina Farhadi, Merila Zare'i, Ali-Asghar Shahbazi, Babak Karimi, Kimia Hosseini."
 ---
 Esse filme foi o vencedor do Oscar de melhor filme estrangeiro, além de indicado a melhor roteiro original. Ele também está aí para provar como falso esse preconceito de "filme iraniano" como sinônimo de filme parado, difícil, do tipo que só os críticos gostam.
 

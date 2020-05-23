@@ -6,7 +6,6 @@ date: "2016-10-25"
 tags: [ "draft", "movies" ]
 title: "5 Mulheres"
 stars: "3/5"
-desc: "5 Mulheres. 5 Frauen (Germany, 2016). Dirigido por Olaf Kraemer. Escrito por Olaf Kraemer. Com Anna König (Marie), Odine Johne (Ginette), Kaya Marie Möller (Nora), Julia Dietze (Stephanie), Korinna Krauss (Anna), Stefano Cassetti (Marek), Mickey Hardt (John), Roman Blomme (Fugitive)."
 ---
 Este supostamente é um thriller, mas se confunde tanto com uma comédia, e é também um drama que vai adocicando demais, tornando o conjunto nenhum bom representante de nenhum gênero. Pelo menos há um entretenimento inteligente acontecendo, o que já torna a experiência menos tortuosa.
 

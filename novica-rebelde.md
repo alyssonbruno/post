@@ -6,7 +6,6 @@ date: "2014-11-15"
 tags: [ "draft", "movies" ]
 title: "A Noviça Rebelde"
 stars: "5/5"
-desc: "A Noviça Rebelde. The Sound of Music (USA, 1965). Dirigido por Robert Wise. Escrito por George Hurdalek, Howard Lindsay, Russel Crouse, Ernest Lehman, Maria von Trapp. Com Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn, Peggy Wood, Charmian Carr, Heather Menzies-Urich, Nicholas Hammond, Duane Chase."
 ---
 O musical ganhador do Oscar nos anos 60 é tanto um apelo emocional quanto musical. Ele fala sobre aproximação de pai e filhos, sobre uma mudança radical na vida de uma noviça e fala também sobre uma nação que começa a ser desconstruída pela força das armas. 
 

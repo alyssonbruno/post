@@ -6,7 +6,6 @@ date: "2016-07-16"
 tags: [ "draft", "movies" ]
 title: "the Invitation"
 stars: "4/5"
-desc: "the Invitation. The Invitation (USA, 2015). Dirigido por Karyn Kusama. Escrito por Phil Hay, Matt Manfredi. Com Logan Marshall-Green, Emayatzy Corinealdi, Aiden Lovekamp, Michelle Krusiec, Mike Doyle, Jordi Vilasuso, Jay Larson, Marieh Delfino, Tammy Blanchard."
 ---
 Esse filme de 2015 não estreou nos cinemas do Brasil, mas graças à Netflix -- que não precisa de nenhuma cota idiota -- ele está disponível para espectadores caseiros. Se trata de um thriller travestido de drama, com todos os atores desconhecidos, algumas técnicas batidas e um certo gosto de estranheza que acompanha a tela pela maioria do tempo.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-04-05"
 title: "PomPoko: A Grande Batalha dos Guaxinins"
-desc: '"Pom Poko" (Japan, 1994), escrito por Hayao Miyazaki e Isao Takahata, dirigido por Isao Takahata, com Shinchô Kokontei, Makoto Nonomura e Yuriko Ishida.'
 tags: [ "draft", "movies" ]
 imdb: "0110008"
 stars: "3/5"

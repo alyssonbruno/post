@@ -6,7 +6,6 @@ date: "2017-05-30"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Tal Mãe, Tal Filha"
 stars: "2/5"
-desc: "Tal Mãe, Tal Filha. Telle mère, telle fille (France, 2017). Dirigido por Noémie Saglio. Escrito por Agathe Pastorino, Noémie Saglio. Com Juliette Binoche (Mado), Camille Cottin (Avril), Lambert Wilson (Marc Daursault), Catherine Jacob (la mère de Louis Irène), Jean-Luc Bideau (l'obstétricien Debulac), Michaël Dichter (Louis), Stéfi Celma (Charlotte), Philippe Vieux (le père de Louis Michel), Olivia Côte (Cécile)."
 ---
 Tal Mãe, Tal Filha supostamente é uma comédia, mas há poucos momentos em que peguei dando risada. Por outro lado, houve vários momentos que observei, atônito, o quão baixo uma comédia consegue ir. E mesmo assim não funcionar.
 

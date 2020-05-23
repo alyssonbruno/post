@@ -6,7 +6,6 @@ date: "2010-12-20"
 tags: [ "draft", "movies" ]
 title: "Sem Medo As Canções De Luciano Ligabue"
 stars: "3/5"
-desc: "Sem Medo As Canções De Luciano Ligabue. Niente paura (Italy, 2010). Dirigido por Piergiorgio Gay. Escrito por Piergiorgio Gay, Piergiorgio Paterlini. Com Luciana Castellina, Luigi Ciotti, Beppino Englaro, Margherita Hack, Luciano Ligabue, Stefano Rodotà, Sabina Rossa, Paolo Rossi, Giovanni Soldini."
 ---
 Esse é um documentário que, em um tom misto de atualidade e nostalgia, conta a história dos italianos pelos olhos de sua Constituição, criada após a Segunda Guerra, e como esses ideais foram (ou não) evoluindo na passagem das gerações.
 

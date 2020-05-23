@@ -6,7 +6,6 @@ date: "2011-07-31"
 tags: [ "draft", "movies" ]
 title: "Apenas o Fim"
 stars: "3/5"
-desc: "Apenas o Fim. Apenas o Fim (Brazil, 2008). Dirigido por Matheus Souza. Escrito por Matheus Souza. Com Gregório Duvivier, Érika Mader, Marcelo Adnet, Nathalia Dill, Álamo Facó."
 ---
 Geralmente as condições em que ocorrem a produção de um filme não importam muito, e servem somente a título de curiosidade. Nesse caso, o diretor (e roteirista?) Matheus Souza, estudante de cinema ainda, conseguiu com a ajuda dos colegas o dinheiro necessário para realizar este longa ainda com 19 anos, o que se tornou um exercício de cinema no mínimo competente.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-28"
 title: "Borboletas Negras"
-desc: '"Black Butterflies" (Germany, Netherlands e South Africa, 2011), escrito por Greg Latter, dirigido por Paula van der Oest, com Carice van Houten, Liam Cunningham e Rutger Hauer.'
 tags: [ "draft", "movies" ]
 imdb: "0906778"
 stars: "3/5"

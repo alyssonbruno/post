@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-26T18:50:13-03:00
 title: "Simplesmente Alice"
-desc: "Alice. EUA, 1990. Dirigido e escrito por Woody Allen. Com Mia Farrow como Alice, William Hurt como Doug, Joe Mantegna como Joe; participação especial de Keye Luke como Dr. Yang."
 imdb: "0099012"
 
 tags: [ "draft", "movies" ]

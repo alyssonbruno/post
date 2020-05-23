@@ -6,7 +6,6 @@ date: "2016-02-06"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Reza a Lenda"
 stars: "4/5"
-desc: "Reza a Lenda. Reza a Lenda (Brazil, 2016). Dirigido por Homero Olivetto. Escrito por Homero Olivetto, Patrícia Andrade, Newton Cannito, Homero Olivetto. Com Cauã Reymond, Humberto Martins, Sophie Charlotte, Luisa Arraes, Júlio Andrade, Sílvia Buarque, Jesuíta Barbosa, Nanego Lira, Zezita Matos."
 ---
 Uma pena que esse filme já esteja saindo de cartaz e passado despercebido do grande público, fora uma declaração megalomaníaca de seu diretor, Homero Olivetto, que vem em conjunto com Alê Abreu (diretor de O Menino e o Mundo), seguindo uma tendência recente de ufanismo nos cineastas nacionais, afirmando este filme ser o "Mad Max brasileiro". Ao assisti-lo podemos afirmar, sim, que ele provavelmente recebeu muita inspiração do filme de George Miller (o original de 79). Quanto à escala, não podemos dizer o mesmo. E vale lembrar que a despeito do baixo orçamento, nós sabemos que o Nordeste possui regiões que lembram uma espécie de Mad Max da vida real. Esse filme conta um drama épico onde toda a esperança parece perdida.
 

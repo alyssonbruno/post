@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-06T23:27:11-02:00
 title: "Clímax"
-desc: "Climax. França, Bélgica, EUA, 2018. Escrito e dirigido por Gaspar Noé. Com vários dançarinos e Sofia Boutella."
 imdb: "8359848"
 
 tags: [ "draft", "movies" ]

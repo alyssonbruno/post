@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-18T22:32:47-03:00
 title: "Sofia"
-desc: "Sofia (França, Quatar, Bélgica, 2018), escrito e dirigido por Meryem Benm'Barek-Aloïsi, com Maha Alemi, Lubna Azabal, Sarah Perles. #mostrasp"
 imdb: "8296592"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

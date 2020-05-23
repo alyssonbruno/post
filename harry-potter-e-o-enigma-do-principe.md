@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-29"
 title: "Harry Potter e o Enigma do Príncipe"
-desc: '"Harry Potter and the Half-Blood Prince" (Reino Unido e EUA, 2009), escrito por Steve Kloves baseado no livro de J.K. Rowling, dirigido por David Yates, com Daniel Radcliffe, Michael Gambon e Dave Legeno. Maratona HP.'
 imdb: "0417741"
 tags: [ "draft", "movies" ]
 stars: "4/5"

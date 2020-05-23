@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "4538916"
 
 stars: "4/5"
-desc: "Finding Your Feet (Reino Unido, 2017), escrito por Meg Leonard e Nick Moorcroft, dirigido por Richard Loncraine, com Celia Imrie, Joanna Lumley, Timothy Spall."
 
 ---
 Não costumo chorar em filmes, ou costumava; hoje em dia a ironia e o sarcasmo dos jovens tomou meu coração. No entanto, em Acertando o Passo o choro vem fácil e natural em pelo menos dois momentos, momentos que considero dignos de se expressar além da admiração intelectual: quando pessoas agem de maneira altruísta, e o motivo não é porque é o certo a se fazer, mas porque é de seu feitio, é o que forma sua personalidade. Enfim, é o que os faz seres humanos que vemos na tela.

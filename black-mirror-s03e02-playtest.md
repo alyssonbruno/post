@@ -6,7 +6,6 @@ date: "2016-10-25"
 tags: [ "draft", "series" ]
 title: "Black Mirror - S03E02 - Playtest"
 stars: "3/5"
-desc: "Playtest. Black Mirror (UK, 2011). Dirigido por Dan Trachtenberg. Escrito por Charlie Brooker. Com Wyatt Russell, Hannah John-Kamen, Wunmi Mosaku."
 ---
 Como seria um episódio de hoje em dia da série "Além da Imaginação", que mistura lendas urbanas, teorias da conspiração e acontecimentos fantásticos, sempre com um fundinho de moral? Desconfio fortemente que seria como os idealizadores de Black Mirror nos fizeram passar este episódio-terror, que parece experimentar um Twilight Zone versão High-Tech. Este episódio, afinal de contas, também parece um playtest da série.
 

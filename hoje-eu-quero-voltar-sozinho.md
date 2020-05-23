@@ -6,7 +6,6 @@ date: "2014-04-23"
 tags: [ "draft", "movies" ]
 title: "Hoje Eu Quero Voltar Sozinho"
 stars: "4/5"
-desc: "Hoje Eu Quero Voltar Sozinho. Hoje Eu Quero Voltar Sozinho (Brazil, 2014). Dirigido por Daniel Ribeiro. Escrito por Daniel Ribeiro. Com Ghilherme Lobo, Fabio Audi, Tess Amorim, Lúcia Romano, Eucir de Souza, Selma Egrei, Isabela Guasco, Victor Filgueiras, Pedro Carvalho."
 ---
 Quatro anos depois do diretor Daniel Ribeiro realizar um dos curtas mais concisos e injustamente chamados de polêmicos a respeito da paixão de um garoto cego por um aluno novo da escola, eis que o mesmo Daniel Ribeiro dirige e escreve com os mesmos atores principais a versão em longa metragem dessa história, e se isso geralmente é uma péssima ideia por tentar alongar uma ideia que só funciona por dezessete minutos, nesse caso o resultado é no mínimo cativante.
 

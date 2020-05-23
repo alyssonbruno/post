@@ -6,7 +6,6 @@ date: "2015-06-27"
 tags: [ "draft", "movies" ]
 title: "Puella Magi Madoka Magica the Movie Part III: Rebellion"
 stars: "4/5"
-desc: "Puella Magi Madoka Magica the Movie Part III: Rebellion. Gekijouban Mahou shojo Madoka magika Shinpen: Hangyaku no monogatari (Japan, 2013). Dirigido por Yukihiro Miyamoto, Akiyuki Shinbo, Alex Von David. Escrito por Gen Urobuchi, Alex Von David. Com Aoi Yuki, Chiwa Saito, Eri Kitamura, Kaori Mizuhashi, Ai Nonaka, Kana Asumi, Emiri Katou, Yûko Gotô, Tetsuya Iwanaga."
 ---
 Madoka Mágica, uma série com começo, meio e fim embalada em uma arte-sequência deliciosamente artística de acompanhar e um enredo absurdamente filosófico para os que destratam anime, resolve extrapolar alguns conceitos de sua conclusão original, criando esse longa-metragem onde, podemos dizer, tanto a parte artística quanto a narrativa são multiplicados por 1000, e perdendo apenas um pouco de suas rédeas originais, ainda que compensando pela sua realização.
 

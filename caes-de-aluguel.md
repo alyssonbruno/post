@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-11T15:05:12-03:00
 title: "Cães de Aluguel"
-desc: "Reservoir Dogs. EUA, 1992. Direção e roteiro de Quentin Tarantino. Com Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn, Steve Buscemi, Lawrence Tierney, Randy Brooks, Kirk Baltz, Edward Bunker, Quentin Tarantino."
 imdb: "0105236"
 
 tags: [ "draft", "movies" ]

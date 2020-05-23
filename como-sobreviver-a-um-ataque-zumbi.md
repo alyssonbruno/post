@@ -6,7 +6,6 @@ date: "2015-12-09"
 tags: [ "draft", "movies" ]
 title: "Como Sobreviver a Um Ataque Zumbi"
 stars: "3/5"
-desc: "Como Sobreviver a Um Ataque Zumbi. Scouts Guide to the Zombie Apocalypse (USA, 2015). Dirigido por Christopher Landon. Escrito por Carrie Lee Wilson, Emi Mochizuki, Christopher Landon, Lona Williams. Com Tye Sheridan, Logan Miller, Joey Morgan, Sarah Dumont, David Koechner, Halston Sage, Cloris Leachman, Niki Koss, Hiram A. Murray."
 ---
 Mais um filme sobre zumbis que une o velho clichê da impopularidade de nerds -- nesse caso, escoteiros -- com uma daquelas aventuras juvenis que libera poucos peitinhos para muito sangue e tripas. Não há muito interesse no desenrolar dos personagens, nem se eles vão sobreviver (dica: vão) e muito menos o que começou tudo isso. Zumbis, jovens, e é isso.
 

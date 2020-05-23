@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-11"
 title: "A Dark Song"
-desc: '"A Dark Song" (Irlanda e Reino Unido, 2016), escrito por Liam Gavin, dirigido por Liam Gavin, com Steve Oram, Catherine Walker e Susan Loughnane. Assisti depois de baixar pela dica do @colemaker.'
 imdb: "4805316"
 tags: [ "draft", "movies" ]
 stars: "3/5"

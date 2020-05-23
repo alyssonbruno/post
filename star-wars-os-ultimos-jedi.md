@@ -6,7 +6,6 @@ date: 2017-12-14T21:49:10
 tags: [ "draft", "movies" ]
 title: "Star Wars: os Últimos Jedi"
 stars: "5/5"
-desc: "Star Wars: os Últimos Jedi. Star Wars: The Last Jedi (USA, 2017). Dirigido por Rian Johnson. Escrito por Rian Johnson, George Lucas. Com Daisy Ridley (Rey), Tom Hardy (Stormtrooper), Mark Hamill (Luke Skywalker), Adam Driver (Kylo Ren), Gwendoline Christie (Captain Phasma), Domhnall Gleeson (General Hux), Carrie Fisher (Leia), Billie Lourd (Lieutenant Connix), Andy Serkis (Supreme Leader Snoke), Joseph Gordon-Levitt, Laura Dern (Vice Admiral Amilyn Holdo), Oscar Isaac (Poe Dameron), Benicio Del Toro (DJ), Kelly Marie Tran (Rose Tico), Justin Theroux (Slicer), John Boyega (Finn), Lupita Nyong'o (Maz Kanata), Warwick Davis, Hermione Corfield (Tallie Lintra)."
 ---
 Uma série de filmes que mantém uma mitologia sobre uma energia vital no Universo por décadas precisa ser atualizada de tempos em tempos para não perder o compasso com a Ciência. Se na primeira trilogia a Força era algo mais espiritual e na segunda trilogia algo mais biológico, essa terceira trilogia acertadamente a coloca como nem uma coisa nem outra: é algo metafísico. E com isso estabelece pela primeira vez uma base que se pode trabalhar com as diferentes camadas de realidade. Não só mais falamos sobre política em SW (essa dualidade esquerda/direita já cansou), mas sobre filosofia, moral, valores, etc. Quem diria que Star Wars chegaria em sua fase adulta?
 

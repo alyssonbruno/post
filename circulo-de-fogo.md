@@ -6,7 +6,6 @@ date: "2013-08-10"
 tags: [ "draft", "movies" ]
 title: "Círculo de Fogo"
 stars: "4/5"
-desc: "Círculo de Fogo. Pacific Rim (USA, 2013). Dirigido por Guillermo del Toro. Escrito por Travis Beacham, Guillermo del Toro, Travis Beacham. Com Charlie Hunnam, Diego Klattenhoff, Idris Elba, Rinko Kikuchi, Charlie Day, Burn Gorman, Max Martini, Robert Kazinsky, Clifton Collins Jr.."
 ---
 Ao contrário de Homem de Aço, que apesar de voar se esforça em manter seus dois pés no chão da realidade, Círculo de Fogo parece navegar por outras águas, sempre disposto a impulsionar sua fantasia em direção daquele mundinho que habita nossa mente de criança (espero que você ainda a tenha) em busca de desafios cada vez maiores para nossos gigantes heróis. 
 

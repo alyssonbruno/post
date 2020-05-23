@@ -6,7 +6,6 @@ date: "2014-05-02"
 tags: [ "draft", "movies" ]
 title: "Presente de Grego"
 stars: "4/5"
-desc: "Presente de Grego. Baby Boom (USA, 1987). Dirigido por Charles Shyer. Escrito por Nancy Meyers, Charles Shyer. Com Diane Keaton, Sam Shepard, Harold Ramis, Kristina Kennedy, Michelle Kennedy, Sam Wanamaker, James Spader, Pat Hingle, Britt Leach."
 ---
 Curioso como Rachel McAdams em Uma Manhã Gloriosa é a mulher "trabalhadeira" moderna e esse não é o grande tema deste filme de 2010. Quer dizer, não tanto um tema central e impactante quanto Diane Keaton 27 anos atrás em Presente de Grego. Neste filme de Charles Shyer (O Pai da Noiva) a executiva de sucesso precisa escolher entre dar atenção a suas contas milionárias da empresa onde trabalha ou a um bebê que "herdou" de primos distantes. É a dicotomia "mulher no trabalho" surgindo naquela época com todos os clichês da criança fofinha em um ambiente sério de senhores engravatados.
 

@@ -5,7 +5,6 @@ date: 2017-09-24T17:36:29
 title: "Entrevista com Darren Aronofsky"
 tags: [ "draft", "cinemaqui" ]
 
-desc: "Especial escrito para o site CinemAqui."
 ---
 "Talvez nós tenhamos interpretado erroneamente a Bíblia por muito tempo." Essa foi a frase-chave de uma coletiva com Darren Aronofsky que envolveu todas as interpretações polêmicas a respeito de seu novo filme, "Mãe!", que apresenta uma alegoria que inevitavelmente cai nas preocupações ecológicas atuais. Com a presença apenas do diretor, foi uma entrevista ágil, com boas perguntas e com uma presença de espírito de Aronofsky em cada resposta.
 

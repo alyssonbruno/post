@@ -6,7 +6,6 @@ date: "2012-11-18"
 tags: [ "draft", "movies" ]
 title: "Argo"
 stars: "5/5"
-desc: "Argo. Argo (USA, 2012). Dirigido por Ben Affleck. Escrito por Chris Terrio, Tony Mendez, Joshuah Bearman. Com Ben Affleck, Bryan Cranston, Alan Arkin, John Goodman, Victor Garber, Tate Donovan, Clea DuVall, Scoot McNairy, Rory Cochrane."
 ---
 O início de Argo, terceiro trabalho de Ben Affleck atrás das câmeras, já mostra a que veio. Com uma sequência que envolve a invasão do consulado americano pela população Iraniana  revoltada pelo exílio de seu ex-ditador sanguinário pelos EUA  a tensão se estabelece como uma constante durante toda a projeção, como um ruído a ensurdecer pela constância. A fotografia documental do filme, realista pelas cores fracas e grãos maiores, imediata pelos movimentos incessantes de câmera, consegue se fundir com imagens reais do acontecimento que de fato ocorreu no início da década de 80. A câmera, ao aplicar zooms nas pessoas envolvidas, aproxima o espectador do drama pessoal que se estabelece com esse evento quando descobrimos que seis refugiados poderão ser executados a qualquer momento se forem descobertos.
 

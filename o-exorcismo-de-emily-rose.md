@@ -6,7 +6,6 @@ date: "2014-03-08"
 tags: [ "draft", "movies" ]
 title: "O Exorcismo de Emily Rose"
 stars: "4/5"
-desc: "O Exorcismo de Emily Rose. The Exorcism of Emily Rose (USA, 2005). Dirigido por Scott Derrickson. Escrito por Paul Harris Boardman, Scott Derrickson. Com Laura Linney, Tom Wilkinson, Campbell Scott, Jennifer Carpenter, Colm Feore, Joshua Close, Kenneth Welsh, Duncan Fraser, JR Bourne."
 ---
 Se O Exorcista (William Friedkin, 1973) tivesse sido produzido nessa década perderia praticamente metade do seu brilho sobrenatural. Um filme faz muito mais sentido em sua época (o que não quer dizer que não possa ser apreciado pelas futuras gerações)  e lá no passado as crenças e religiões ainda eram um ponto alto, sobretudo a cristã. Os últimos escândalos da igreja católica com certeza ajudaram a minar toda essa fé que leva ao medo, ao sacrifício e à dor. E o medo, desnecessário dizer, é o que move o terror.
 

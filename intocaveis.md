@@ -7,7 +7,6 @@ review: [ "2015", "2018" ]
 tags: [ "draft", "movies" ]
 title: "Intocáveis"
 stars: "4/5"
-desc: "Intocáveis. Intouchables (France, 2011). Dirigido por Olivier Nakache, Eric Toledano. Escrito por Olivier Nakache, Eric Toledano. Com François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot, Joséphine de Meaux, Clotilde Mollet, Alba Gaïa Kraghede Bellugi, Cyril Mendy, Salimata Kamate."
 ---
 Uma das falas mais emocionantes do novo longa de Olivier Nakache e Eric Toledano é quando Philippe (François Cluzet) -- um tetraplégico ricaço que contratou recentemente Driss (Omar Sy), um rapaz pobre e sem experiência como seu enfermeiro -- é questionado por seu amigo se não acharia perigoso estar sempre ao lado de uma pessoa que notadamente não demonstra qualquer compaixão pelo ser humano. Contrariando nossas expectativas, Philippe confessa que é exatamente isso que ele precisa no momento: de alguém que não tenha compaixão de si e de sua condição de dependente da ajuda dos outros para uma vida toda.
 

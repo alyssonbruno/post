@@ -6,7 +6,6 @@ imdb: "6315640"
 tags: [ "draft", "series" ]
 title: "Atypical - Segunda Temporada"
 stars: "3/5"
-desc: "Atypical. Atypical (USA, 2017). Dirigido por Michael Patrick Jann, Seth Gordon. Escrito por Jen Regan, Ava Tramer, Robia Rashid, Dennis Saldua, Michael Oppenhuizen. Com Jennifer Jason Leigh (Elsa Gardner / ...), Brigette Lundy-Paine (Casey Gardner / ...), Amy Okuda (Julia Sasaki), Keir Gilchrist (Sam / ...), Michael Rapaport (Doug Gardner), Nik Dodani (Zahid), Graham Rogers (Evan), Jenna Boyd (Paige), Raúl Castillo (Nick)."
 ---
 A segunda temporada de Atypical já demonstra o que o final da primeira temporada já arriscava em dizer: se trata de uma novelinha típica norte-americana aliada a algumas tentativas de conscientizar as pessoas acerca do autismo.
 

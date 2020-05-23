@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-24T19:20:21-03:00
 title: "Mad Max 3: Além da Cúpula do Trovão"
-desc: "Mad Max Beyond Thunderdome. Austrália, 1985. Dirigido por George Miller e George Ogilvie, escrito por Terry Hayes e George Miller. Com Mel Gibson, Tina Turner, Bruce Spence, Paul Larsson como The Blaster e Angelo Rossitto como The Master."
 imdb: "0089530"
 
 tags: [ "draft", "movies" ]

@@ -6,7 +6,6 @@ date: "2011-03-21"
 tags: [ "draft", "movies" ]
 title: "Os Fantasmas de Scrooge"
 stars: "4/5"
-desc: "Os Fantasmas de Scrooge. A Christmas Carol (USA, 2009). Dirigido por Robert Zemeckis. Escrito por Charles Dickens, Robert Zemeckis. Com Jim Carrey, Steve Valentine, Daryl Sabara, Sage Ryan, Amber Gainey Meade, Ryan Ochoa, Bobbi Page, Ron Bottitta, Sammi Hanratty."
 ---
 Jim Carrey em Motion Capture é, em poucas palavras, inusitadamente fabuloso. O trabalho feito em seu personagem, protagonista do clássico conto de Charles Dickens, que se mantém homônimo no título original, é, de longe, um trabalho rebuscado tanto nas expressões quanto nos movimentos do boneco através dos cenários igualmente trabalhados à exaustão.
 

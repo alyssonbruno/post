@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-17"
 title: "Crush à Altura"
-desc: '"Tall Girl" (EUA, 2019), escrito por Sam Wolfson, dirigido por Nzingha Stewart, com Ava Michelle, Griffin Gluck e Sabrina Carpenter. Saiu na Netflix essa desgraça.'
 imdb: "9252508"
 tags: [ "draft", "movies" ]
 stars: "2/5"

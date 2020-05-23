@@ -6,7 +6,6 @@ date: "2012-09-24"
 tags: [ "draft", "movies" ]
 title: "Palhaços Assassinos"
 stars: "3/5"
-desc: "Palhaços Assassinos. Killer Klowns from Outer Space (USA, 1988). Dirigido por Stephen Chiodo. Escrito por Charles Chiodo, Edward Chiodo, Stephen Chiodo. Com Grant Cramer, Suzanne Snyder, John Allen Nelson, John Vernon, Michael S. Siegel, Peter Licassi, Royal Dano, Christopher Titus, Irene Michaels."
 ---
 Os irmãos Chiodo  hoje praticamente desconhecidos mas responsáveis por efeitos em filmes insólitos como Um Duende em Nova York, Team America e A Hora das Criaturas  fizeram este trabalho mais em um formato laboratório de ideias bizarras do que algo que de fato pudesse conter um enredo. O igualmente bizarro é que o resultado não é tão mal assim, ou, como alguns preferem dizer, é tão ruim que acaba ficando bom.
 

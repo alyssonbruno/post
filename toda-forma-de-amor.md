@@ -6,7 +6,6 @@ date: "2013-12-22"
 tags: [ "draft", "movies" ]
 title: "Toda Forma de Amor"
 stars: "3/5"
-desc: "Toda Forma de Amor. Beginners (USA, 2010). Dirigido por Mike Mills. Escrito por Mike Mills. Com Ewan McGregor, Christopher Plummer, Mélanie Laurent, Goran Visnjic, Kai Lennox, Mary Page Keller, Keegan Boos, China Shavers, Melissa Tang."
 ---
 Um filme que retrata um solteirão em busca do amor após o falecimento do pai, que se assumiu gay aos 70 anos após a morte da esposa. O elo entre esses dois seres é um cachorro deixado de herança que se comunica por pensamento.
 

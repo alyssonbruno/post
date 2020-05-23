@@ -6,7 +6,6 @@ date: "2015-08-29"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Pequeno Príncipe"
 stars: "5/5"
-desc: "O Pequeno Príncipe. The Little Prince (France, 2015). Dirigido por Mark Osborne. Escrito por Irena Brignull, Bob Persichetti, Antoine de Saint-Exupéry. Com Rachel McAdams, Paul Rudd, James Franco, Benicio Del Toro, Marion Cotillard, Paul Giamatti, Jeff Bridges, Mackenzie Foy, Vincent Cassel."
 ---
 Algumas pequenas obras de arte vestem tão bem sua roupagem temática que conseguem pegar, por exemplo, um velho livro infantil, já amado e idolatrado por todos, até com filmografia já pronta, e ainda assim atualizar, expandir e enriquecer sua história, seu mundo e seus complicados conceitos. Mais uma vez. Uma atitude das mais nobres, diga-se de passagem, já que consegue nos remeter ao problema atual do amadurecimento precoce de nossas crianças, além de se encaixar na tendência mundial contra a padronização de comportamento.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-06"
 title: "Ford Vs Ferrari"
-desc: '"Ford v Ferrari" (EUA e França, 2019), escrito por Jez Butterworth, John-Henry Butterworth e Jason Keller, dirigido por James Mangold, com Christian Bale, Matt Damon e Caitriona Balfe. Escrito para o CinemAqui.'
 imdb: "1950186"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

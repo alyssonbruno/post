@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "8327798"
 
 stars: "3/5"
-desc: "A Vida Extra-Ordinária de Tarso De Castro (Brasil, 2017), escrito e dirigido por Leo Garcia e Zeca Brito, com João Vicente de Castro, Paulo Cesar Pereio, Caetano Veloso e outros."
 
 ---
 A única forma honesta de escrever sobre "A Vida Extra-Ordinária de Tarso De Castro" é estando bêbado. E estar bêbado é apenas uma leve reverência ao jornalista, boêmio e mulherengo Tarso de Castro, que é homenageado à altura aqui pelos idealizadores Leo Garcia e Zeca Brito, que constrõem uma narrativa que essencialmente passeia pelo universo cotidiano do que era ser jornalista naquela época.

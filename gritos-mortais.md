@@ -6,7 +6,6 @@ date: "2014-12-10"
 tags: [ "draft", "movies" ]
 title: "Gritos Mortais"
 stars: "3/5"
-desc: "Gritos Mortais. Dead Silence (USA, 2007). Dirigido por James Wan. Escrito por Leigh Whannell, James Wan, Leigh Whannell. Com Ryan Kwanten, Amber Valletta, Donnie Wahlberg, Michael Fairman, Joan Heney, Bob Gunton, Laura Regan, Dmitry Chepovetsky, Judith Roberts."
 ---
 Ele é um boneco assustador até parado, quem dirá movendo os olhos e a cabeça! O diretor do projeto, James Wan, não poderia ser outro senão o criador de Jogos Mortais, que inclui um boneco igualmente aterrorizante.
 

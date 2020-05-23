@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-11T12:35:30-02:00
 title: "Mary Poppins"
-desc: "Mary Poppins. EUA, 1964. Escrito por Bill Walsh e Don DaGradi baseados no livro de P.L. Travers. Dirigido por Robert Stevenson. Com Julie Andrews, Dick Van Dyke, David Tomlinson. Musical, anos 60, Walt Disney."
 imdb: "0058331"
 
 tags: [ "draft", "movies" ]

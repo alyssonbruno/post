@@ -6,7 +6,6 @@ date: "2012-01-31"
 tags: [ "draft", "movies" ]
 title: "A Marca da Maldade"
 stars: "4/5"
-desc: "A Marca da Maldade. Touch of Evil (USA, 1958). Dirigido por Orson Welles. Escrito por Orson Welles, Whit Masterson, Franklin Coen, Paul Monash. Com Charlton Heston, Janet Leigh, Orson Welles, Joseph Calleia, Akim Tamiroff, Joanna Moore, Ray Collins, Dennis Weaver, Valentin de Vargas."
 ---
 Orson Welles aparentemente sempre esteve preocupado com a questão da lei, da justiça e da verdade. Tudo isso a partir de uma grande questão: os que zelam pela ordem e segurança são realmente de confiança? Ou quem vigia os que nos vigiam? Se formos considerar que a questão do poder foi tratada exaustivamente em seu clássico Cidadão Kane, esse A Marca da Maldade consegue desviar um pouco da rota sem perder a essência.
 

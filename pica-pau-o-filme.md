@@ -6,7 +6,6 @@ date: 2017-11-06T21:26:48
 tags: [ "draft", "movies" ]
 title: "Pica Pau: o Filme"
 stars: "1/5"
-desc: "Pica Pau: o Filme. Woody Woodpecker (USA, 2017). Dirigido por Alex Zamm. Escrito por Alex Zamm, William Robertson, Walter Lantz, Ben Hardaway, Daniel Altiere, Steven Altiere. Com Timothy Omundson (Lance Walters), Thaila Ayala (Brittany), Eric Bauza (Woody Woodpecker), Graham Verchere (Tommy Walters), Jordana Largy (Samantha Bartlett), Scott McNeil (Nate Grimes), Adrian Glynn McMorran (Ottis Grimes), Chelsea Miller (Jill Ferguson), Jakob Davies (Lyle)."
 ---
 Em todos esses anos dessa indústria vital, essa é a primeira vez que isso me acontece. Nem os novos desenhos politicamente corretos do pica-pau de cabeça vermelha estragaram a magia. Mas este "Pica-Pau: A Animação de Computador da Década de 90" de fato consegue nos fazer renegar que esse passarinho biruta tem qualquer relação com os desenhos originais.
 

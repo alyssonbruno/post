@@ -7,7 +7,6 @@ date: "2015-01-08"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Amor, Plástico e Barulho"
 stars: "4/5"
-desc: "Amor, Plástico e Barulho. Amor, Plástico e Barulho (Brazil, 2013). Dirigido por Renata Pinheiro. Escrito por Sérgio Oliveira, Sérgio Oliveira, Renata Pinheiro, Renata Pinheiro, Renata Pinheiro. Com Jennyfer Caldas, Dedesso, Rodrigo García, Everton Gomes, Maeve Jinkings, Nash Laila, Paulo Michelotto, Leo Pyrata, Rodrigo Riszla."
 ---
 "O sucesso é um copinho de plástico bem vagabundo", diz Jaqueline, uma dançarina de música brega rumo à decadência. O copinho dela já foi usado por um certo tempo e está prestes a ser jogado fora, mas olhando para sua intérprete, a ótima Maeve Jinkings (O Som ao Redor), o que vemos é um misto de desespero e ousadia pela vida nos palcos. Esse copinho, por mais descartável e efêmero que seja, contém uma substância altamente viciante.
 

@@ -7,7 +7,6 @@ date: "2016-10-26"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "É Apenas o Fim do Mundo"
 stars: "5/5"
-desc: "É Apenas o Fim do Mundo. Juste la fin du monde (Canada, 2016). Dirigido por Xavier Dolan. Escrito por Xavier Dolan, Jean-Luc Lagarce. Com Nathalie Baye (La mère), Vincent Cassel (Antoine Knipper), Marion Cotillard (Catherine), Léa Seydoux (Suzanne Knipper), Gaspard Ulliel (Louis-Jean Knipper), Antoine Desrochers (Pierre Jolicoeur), William Boyce Blanchette (Louis), Sasha Samar (Le chauffeur de taxi), Arthur Couillard (Petit garçon avion)."
 ---
 O cineasta Xavier Dolan é intenso e leva tudo do seu lado pessoal para as telas. Isso já ficou claro em Eu Matei a Minha Mãe e ainda mais claro em Amores Imaginários. Agora, em É Apenas o Fim do Mundo recebemos mais do mesmo, o que no caso se traduz em um filme também de cunho pessoal. E tenso até a morte. 
 

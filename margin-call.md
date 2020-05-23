@@ -6,7 +6,6 @@ date: "2016-12-21"
 tags: [ "draft", "movies" ]
 title: "Margin Call - O Dia Antes do Fim"
 stars: "4/5"
-desc: "Margin Call - O Dia Antes do Fim. Margin Call (USA, 2011). Dirigido por J.C. Chandor. Escrito por J.C. Chandor. Com Kevin Spacey (Sam Rogers), Paul Bettany (Will Emerson), Jeremy Irons (John Tuld), Zachary Quinto (Peter Sullivan), Penn Badgley (Seth Bregman), Simon Baker (Jared Cohen), Mary McDonnell (Mary Rogers), Demi Moore (Sarah Robertson), Stanley Tucci (Eric Dale)."
 ---
 Hoje Margin Call já tem mais de quatro anos de quando foi lançado. É uma conversa pra lá de realista sobre qualquer empresa de investimentos em 2008 que teve a sacada final de que tudo o que haviam feito nos últimos anos não valia praticamente nada. O filme não dá a menor dica para o espectador sobre o que está acontecendo exatamente, o que é ótimo, pois isso comprova hoje que ele envelheceu tão bem que nem é necessário que ele fale sobre a crise recente. Pode ser um outro momento mais à frente, ou no passado. Que diferença faz? No final das contas, as manipulações estatais na economia sempre irão gerar, inevitavelmente, mais crises.
 

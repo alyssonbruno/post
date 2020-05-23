@@ -7,7 +7,6 @@ date: "2015-10-26"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mistress America"
 stars: "5/5"
-desc: "Mistress America. Mistress America (USA, 2015). Dirigido por Noah Baumbach. Escrito por Noah Baumbach, Greta Gerwig. Com Seth Barrish, Juliet Brett, Andrea Chen, Michael Chernus, Cindy Cheung, Shana Dowdeswell, Kathryn Erbe, Joel Marsh Garland, Greta Gerwig."
 ---
 O diretor Noah Baumbach faz aqui um trabalho menos intelectualmente fechado que seu "Frances Ha", mas emprega a mesma atriz, Greta Gerwig, que surge de sopetão e é a mesma Frances que conhecemos no filme anterior.
 

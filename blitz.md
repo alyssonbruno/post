@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-19T16:46:03-03:00
 title: "Blitz"
-desc: "Blitz (Brasil, 2018), escrito por Bosco Brasil, dirigido por Rene Tada Brasil, com Rui Ricardo Dias e Georgina Castro."
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 

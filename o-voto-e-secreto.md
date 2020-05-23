@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-02"
 title: "O Voto é Secreto"
-desc: '"Raye makhfi (aka Secret Ballot)" (Irã, Itália, Canadá, Suíça, 2001), escrito por Mohsen Makhmalbaf e Babak Payami, dirigido por Babak Payami, com Nassim Abdi e Cyrus Abidi. Dos DVDs de casa.'
 imdb: "0290823"
 tags: [ "draft", "movies" ]
 stars: "3/5"

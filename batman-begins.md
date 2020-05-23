@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-27T16:34:38-03:00
 title: "Batman Begins"
-desc: "Batman Begins. EUA, Reino Unido, 2005. Dirigido por Christopher Nolan, escrito por Nolan e David S. Goyer baseado nos personagens de quadrinhos de Bob Kane. Com Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson, Katie Holmes, Tom Wilkinson, Cillian Murphy."
 imdb: "0372784"
 
 tags: [ "draft", "movies" ]

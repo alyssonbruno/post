@@ -6,7 +6,6 @@ date: 2017-09-24T22:43:51
 tags: [ "draft", "movies" ]
 title: "The Birth Of Sake"
 stars: "3/5"
-desc: "The Birth Of Sake. The Birth of Saké (Japan, 2015). Dirigido por Erik Shirai. Escrito por Erik Shirai."
 ---
 Este filme é uma passagem integral, burocrática e um tanto poética de uma fabricante de saquê nos moldes tradicionais do Japão. Há pouca informação e muita pseudo-emoção. Quase um apelo pela sobrevivência dos tradicionalistas, frente a uma indústria que automatizou quase todo o processo com máquinas.
 

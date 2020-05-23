@@ -6,7 +6,6 @@ date: "2010-12-03"
 tags: [ "draft", "movies" ]
 title: "A Rede Social"
 stars: "4/5"
-desc: "A Rede Social. The Social Network (USA, 2010). Dirigido por David Fincher. Escrito por Aaron Sorkin, Ben Mezrich. Com Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons, Joseph Mazzello, Patrick Mapel, Andrew Garfield, Toby Meuli, Alecia Svensen."
 ---
 O objetivo de Fincher, assim como em Clube da Luta, é destrinchar situações e pensamentos da sociedade moderna. Dessa vez, ele usou uma história real e contemporânea para falar sobre a digitalização de nossas amizades, e nada como usar como exemplo a história do próprio criados da maior rede social de todos os tempos: o Facebook, atualmente com mais de 500 milhões de participantes.
 

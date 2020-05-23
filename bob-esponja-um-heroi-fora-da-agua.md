@@ -6,7 +6,6 @@ date: "2015-02-16"
 tags: [ "draft", "movies" ]
 title: "Bob Esponja: Um Herói Fora d'Água"
 stars: "4/5"
-desc: "Bob Esponja: Um Herói Fora d'Água. The SpongeBob Movie: Sponge Out of Water (USA, 2015). Dirigido por Paul Tibbitt. Escrito por Glenn Berger, Jonathan Aibel, Stephen Hillenburg, Paul Tibbitt, Stephen Hillenburg. Com Antonio Banderas, Eric Bauza, Tim Conway, Eddie Deezen, Rob Paulsen, Kevin Michael Richardson, April Stewart, Cree Summer, Billy West."
 ---
 Bob Esponja representa a subversão do desenho animado como forma de contar uma história. É um anti-Disney falando diretamente para as crianças de todas as idades mentais possíveis, tenha você cinco ou cinquenta anos. É uma viagem de LSD pelo submundo das piadas descontextualizadas, colocando para escanteio até trabalhos como Uma Família da Pesada (pois até eles têm um contexto por fingir estar em um sitcom) e ao mesmo tempo homenageando o clássico Pica-Pau (Ben Hardaway/Walter Lantz/Alex Lovy, 1940) em uma versão não-violenta. Pior do que Homer em Os Simpsons: O Filme ("Eu não posso acreditar que estamos pagando para ver algo que passa na TV de graça!"), realiza um trailer que promete um filme 3D e entrega 20% dele. Bob Esponja: Um Herói Fora d'Água mereceria aplausos apenas por enganar seus espectadores, mas eu digo que merece também por honrar os roteiros inspiradíssimos que passam na Nickelodeon e não se deixar levar pelo próprio marketing, jamais criando uma história abaixo dos padrões de absurdo vistos na telinha.
 

@@ -6,7 +6,6 @@ date: "2012-03-18"
 tags: [ "draft", "movies" ]
 title: "Shame"
 stars: "4/5"
-desc: "Shame. Shame (UK, 2011). Dirigido por Steve McQueen. Escrito por Steve McQueen, Abi Morgan. Com Michael Fassbender, Lucy Walters, Mari-Ange Ramirez, James Badge Dale, Nicole Beharie, Alex Manette, Hannah Ware, Elizabeth Masucci, Rachel Farrar."
 ---
 A princípio Shame não parece um filme que fuja do lugar-comum. Com um ritmo mais lento e, portanto, reflexivo, ele nos leva a conhecer aos poucos a vida de Brandon Sullivan (Michael Fassbender), um rapaz comum que mora sozinho, tem um belo emprego, mas que é um inveterado por sexo, solitário ou com prostitutas. Paradoxalmente, Brandon não consegue ter relacionamentos duradouros, e nem a presença de sua irmã Sissy (Carey Mulligan) faz com que ele consiga se conectar com o mundo. Alheio a tudo que não seja relativo ao ato sexual, Brandon sabe que possui um tipo de doença, e essa consciência é que torna tudo muito mais humano em sua história.
 

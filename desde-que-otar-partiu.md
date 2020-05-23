@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-29"
 title: "Desde Que Otar Partiu"
-desc: '"Since Otar Left" (France, Belgium e Georgia, 2003), escrito por Julie Bertuccelli, Bernard Renucci e Roger Bohbot, dirigido por Julie Bertuccelli, com Esther Gorintin, Nino Khomasuridze e Dinara Drukarova.'
 tags: [ "draft", "movies" ]
 imdb: "0336264"
 stars: "3/5"

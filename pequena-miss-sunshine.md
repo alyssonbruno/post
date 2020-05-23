@@ -6,7 +6,6 @@ date: "2017-01-22"
 tags: [ "draft", "movies" ]
 title: "Pequena Miss Sunshine"
 stars: "5/5"
-desc: "Pequena Miss Sunshine. Little Miss Sunshine (USA, 2006). Dirigido por Jonathan Dayton, Valerie Faris. Escrito por Michael Arndt. Com Abigail Breslin (Olive Hoover), Greg Kinnear (Richard Hoover), Paul Dano (Dwayne), Alan Arkin (Grandpa Edwin Hoover), Toni Collette (Sheryl Hoover), Steve Carell (Frank Ginsberg), Marc Turtletaub (Doctor #1), Jill Talley (Cindy), Brenda Canela (Diner Waitress)."
 ---
 Na época o que mais havia eram filmes independentes sobre famílias disfuncionais. Isso virou um sub-gênero que até hoje é a base de muitos trabalhos, autorais ou não. Porém, Pequena Miss Sunshine aproveita este tema para desenvolver uma crítica ácida e bem-humorada sobre a cultura norte-americana, que divide a sociedade em vencedores e perdedores. Este filme celebra o fracasso não como um ato subversivo, mas como uma forma de dizer que vencer pode ser alguma coisa na vida que não necessariamente ganhar um troféu.
 

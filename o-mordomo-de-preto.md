@@ -6,7 +6,6 @@ date: "2015-06-29"
 tags: [ "draft", "movies" ]
 title: "O Mordomo de Preto"
 stars: "2/5"
-desc: "O Mordomo de Preto. Kuroshitsuji (Japan, 2014). Dirigido por Kentarô Ohtani, Kei'ichi Sato. Escrito por Yana Toboso. Com Hiro Mizushima, Ayame Gôriki, Yûka, Mizuki Yamamoto, Tomomi Maruyama, Takurô Ohno, Louis Kurihara, Ken Kaito, Chiaki Horan."
 ---
 Assistir a O Mordomo de Preto é uma mistura de sensações. Primeiro, tem-se a sensação de estar assistindo um seriado, e não um filme com começo, meio e fim. Depois, a certeza de estar sendo enrolado em um formato muito parecido com os filmes da Marvel atualmente, que prezam por não terminar conflito algum que preste em seus filmes. Porém, a pior sensação mesmo é a de saber que a linguagem cinematográfica está sendo deixada de lado para o bem dos enquadramentos e da plasticidade de uma outra espécie de arte que já se sai bem em seu quadrado. A questão que fica é: para que realizar live-actions de trabalhos sem tradução entre artes? Só para ver como seria com atores "reais"? Bom, sinto informar, mas os personagens criados podem ser bonitos esteticamente, mas estão bem longe de serem considerados reais ou complexos.
 

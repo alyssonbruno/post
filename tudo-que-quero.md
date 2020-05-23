@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "4652650"
 
 stars: "3/5"
-desc: "Tudo que Quero (Please Stand By). EUA, 2017. Escrito por Michael Golamco, dirigido por Ben Lewin, com Dakota Fanning, Toni Collette, Alice Eve."
 
 ---
 Tudo que Quero é um road movie onde as emoções estão empacotadas e sob controle. Não há nenhum momento no filme inteiro que você teme pela sua protagonista. Seu sorriso nos diz que tudo vai dar certo. As expressões das pessoas que gostam dela também. Ninguém está verdadeiramente desesperado pela situação, pois, afinal de contas, o que pode acontecer de ruim com uma garota linda como Dakota Fanning perdida sozinha na estrada?

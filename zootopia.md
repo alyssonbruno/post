@@ -6,7 +6,6 @@ date: "2016-07-02"
 tags: [ "draft", "movies" ]
 title: "Zootopia"
 stars: "4/5"
-desc: "Zootopia. Zootopia (USA, 2016). Dirigido por Byron Howard, Rich Moore, Jared Bush. Escrito por Byron Howard, Rich Moore, Jared Bush, Jim Reardon, Josie Trinidad, Phil Johnston, Jennifer Lee, Jared Bush, Phil Johnston. Com Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Nate Torrence, Bonnie Hunt, Don Lake, Tommy Chong, J.K. Simmons."
 ---
 Direita x Esquerda? Opressores x Oprimidos? Predadores x Presas? A imbecilidade dos liberais americanos apenas compete com sua genialidade nesse novo filme da Disney, que explora um tema político em um filme para crianças que possui 2 ou 3 piadas bem pontuais, mas que no fundo é muito mais para adolescentes e com conteúdo adulto.
 

@@ -6,7 +6,6 @@ date: "2010-10-13"
 tags: [ "draft", "movies" ]
 title: "A Curva do Destino"
 stars: "4/5"
-desc: "A Curva do Destino. Detour (USA, 1945). Dirigido por Edgar G. Ulmer. Escrito por Martin Goldsmith, Martin Goldsmith, Martin Mooney. Com Tom Neal, Ann Savage, Claudia Drake, Edmund MacDonald, Tim Ryan, Esther Howard, Pat Gleason, Don Brodie, Roger Clark."
 ---
 A história de um homem que busca se encontrar com sua mulher que está do outro lado do país. Para isso ele vai de carona em carona, de NY para LA. No caminho, encontra um homem que morre no carro. Esconde o corpo e encontra uma mulher que se envolveu com ele no caminho, também pedindo carona. Chegando a Hollywood descobrem que o pai do sujeito, milionário, morreu, deixando toda sua fortuna para o filho. Enquanto ela tenta convencê-lo a fingir ser o herdeiro, ele acidentalmente a mata com o fio do telefone. Deixando esse passado para trás, o nosso protagonista vaga sem destino, apenas esperando o momento em que será preso, por nenhuma razão.
 

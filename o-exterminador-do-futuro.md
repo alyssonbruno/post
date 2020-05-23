@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-12"
 title: "O Exterminador do Futuro"
-desc: '"The Terminator" (Reino Unido e EUA, 1984), escrito por James Cameron e Gale Anne Hurd com diálogos adicionais por William Wisher, dirigido por James Cameron, com Arnold Schwarzenegger, Michael Biehn e Linda Hamilton. Reassisti na locadora do Paulão e passou na regra dos 15 anos. Passando o texto para o especial no CinemAqui.'
 imdb: "0088247"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

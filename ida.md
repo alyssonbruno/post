@@ -6,7 +6,6 @@ date: "2015-10-08"
 tags: [ "draft", "movies" ]
 title: "Ida"
 stars: "4/5"
-desc: "Ida. Ida (Poland, 2013). Dirigido por Pawel Pawlikowski. Escrito por Pawel Pawlikowski, Rebecca Lenkiewicz. Com Agata Kulesza, Agata Trzebuchowska, Dawid Ogrodnik, Jerzy Trela, Adam Szyszkowski, Halina Skoczynska, Joanna Kulig, Dorota Kuduk, Natalia Lagiewczyk."
 ---
 O universo em torno de Ida torna a vida tão depressiva que até passar o resto dos dias em um convento não parece uma ideia tão ruim. Filmado em preto e branco, com uma tela praticamente quadrada e uma câmera que fica praticamente parada, a atmosfera é bela, lúdica e realista. Anna (Agata Trzebuchowska), a noviça, e Wanda (Agata Kulesza), a tia, fazem parte de um conjunto de planos-detalhes (quando a tela mostra apenas um close mais intimista) que capturam a essência do que está sendo mostrado. Interessante do começo ao fim.
 

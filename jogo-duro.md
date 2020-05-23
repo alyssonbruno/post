@@ -1,7 +1,6 @@
 ---
 date: "2020-05-04"
 title: "Jogo Duro"
-desc: '"Jogo Duro" (Brazil, 1985), escrito por Ugo Giorgetti, dirigido por Ugo Giorgetti, com Márcio Araújo, Paulo Betti e Cacá Carvalho.'
 imdb: "0140296"
 stars: "3/5"
 categories: [ "cinema" ]

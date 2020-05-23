@@ -7,7 +7,6 @@ date: 2017-10-11T20:23:34
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Guerra dos Sexos"
 stars: "4/5"
-desc: "A Guerra dos Sexos. Battle of the Sexes (UK, 2017). Dirigido por Jonathan Dayton, Valerie Faris. Escrito por Simon Beaufoy. Com Emma Stone (Billie Jean King), Steve Carell (Bobby Riggs), Andrea Riseborough (Marilyn Barnett), Natalie Morales (Rosie Casals), Sarah Silverman (Gladys Heldman), Bill Pullman (Jack Kramer), Alan Cumming (Cuthbert 'Ted' Tinling), Elisabeth Shue (Priscilla Riggs), Eric Christian Olsen (Lornie Kuhle)."
 ---
 Guerra dos Sexos é uma viagem leve, mas não inconsequente, pelos fascinantes anos 70. Nessa viagem achamos um episódio na História igualmente fascinante que envolve tênis e feminismo. E se tênis é um embate de egos, o feminismo é um embate de forças. Forças essas que, se hoje encontramos um certo equilíbrio entre gêneros, naquele tempo eles ainda estavam por se formar.
 

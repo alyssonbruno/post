@@ -6,7 +6,6 @@ date: "2017-04-04"
 tags: [ "draft", "movies" ]
 title: "Time Lapse"
 stars: "3/5"
-desc: "Time Lapse. Time Lapse (USA, 2014). Dirigido por Bradley King. Escrito por Bradley King, Bp Cooper. Com Danielle Panabaker (Callie), Matt O'Leary (Finn), George Finn (Jasper), John Rhys-Davies (Mr. Bezzerides), Amin Joseph (Big Joe), Jason Spisak (Ivan), Sharon Maughan (Dr. Heidecker), David Figlioli (Marcus), Judith Drake (Mrs. Anderson)."
 ---
 Mais um filme de viagem no tempo. Dessa vez quem viaja é só a luz. Uma câmera tira fotos 24 horas no futuro e entrega para três jovens que perderam a capacidade do livre-arbítrio. Isso porque agora eles precisam reproduzir a foto tirada custe o que custar, se não quiserem morrer.
 

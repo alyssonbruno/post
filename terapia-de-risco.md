@@ -6,7 +6,6 @@ date: "2013-12-24"
 tags: [ "draft", "movies" ]
 title: "Terapia de Risco"
 stars: "4/5"
-desc: "Terapia de Risco. Side Effects (USA, 2013). Dirigido por Steven Soderbergh. Escrito por Scott Z. Burns. Com Rooney Mara, Carmen Pelaez, Marin Ireland, Channing Tatum, Polly Draper, Ann Dowd, Haraldo Alvarez, Jude Law, James Martinez."
 ---
 Me impressionei pela atuação de Rooney Mara (a Lisbeth Salander de Os Homens que Não Amavam as Mulheres) e sua construção de um personagem frágil mesmo que insensível. Os problemas de depressão de Emily são tão óbvios em seus olhares abaixados, esguios, em sua fala mansa e cansada, que tudo isso parece convincente demais.
 

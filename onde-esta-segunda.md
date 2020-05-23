@@ -6,7 +6,6 @@ date: 2017-09-15T21:13:15
 tags: [ "draft", "movies" ]
 title: "Onde Está Segunda?"
 stars: "2/5"
-desc: "Onde Está Segunda?. Seven Sisters (UK, 2017). Dirigido por Tommy Wirkola. Escrito por Max Botkin, Kerry Williamson. Com Noomi Rapace (The Settman Siblings), Glenn Close (Nicolette Cayman), Willem Dafoe (Terrence Settman), Marwan Kenzari (Adrian Knowles), Christian Rubeck (Joe), Pål Sverre Hagen (Jerry), Tomiwa Edun (Eddie), Cassie Clare (Zaquia), Cameron Jack (Dutch)."
 ---
 Hoje em dia até os títulos dos filmes encomendados pela Netflix são ruins. E nesse caso não há erro: esse filme é muito ruim. Não ruim de trash (para se divertir), nem ruim de estilo (para ficar com ódio). Ruim de você não sentir nada, mesmo.
 

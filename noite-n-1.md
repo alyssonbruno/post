@@ -6,7 +6,6 @@ date: "2012-10-23"
 tags: [ "draft", "movies" ]
 title: "Noite #1"
 stars: "3/5"
-desc: "Noite #1. Nuit #1 (Canada, 2011). Dirigido por Anne Émond. Escrito por Anne Émond. Com Catherine de Léan, Dimitri Storoge, Véronique Rebizov, Raphaël Boulanger, Mika Pluviose, Maïsa Bastien."
 ---
 Não é difícil se interessar por Clara e Nicolai, os dois personagens de Noite No. 1, primeiro trabalho em longa metragem de Anne Émond. Ambos possuem angústias mais ou menos universais, e é isso que de certa forma os acaba unindo para uma noite de filosofadas e aberturas íntimas de seus medos e fraquezas. Encontramos os dois em pleno ato sexual, sensual mas realista, para logo em seguida os sentirmos como completos desconhecidos para nós mesmos e um para o outro.
 

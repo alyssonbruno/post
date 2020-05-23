@@ -6,7 +6,6 @@ date: "2012-11-18"
 tags: [ "draft", "movies" ]
 title: "Dúvida"
 stars: "5/5"
-desc: "Dúvida. Doubt (USA, 2008). Dirigido por John Patrick Shanley. Escrito por John Patrick Shanley, John Patrick Shanley. Com Meryl Streep, Philip Seymour Hoffman, Amy Adams, Viola Davis, Alice Drummond, Audrie Neenan, Susan Blommaert, Carrie Preston, John Costelloe."
 ---
 Baseado em uma peça de teatro escrita por John Patrick Shanley, que aqui também faz o papel duplo de diretor/roteirista. Conseguindo para os papéis principais Philip Seymour Hoffman como o padre Brendan Flynn, um orador com capacidade ímpar de sugar a atenção de seus fiéis, e Meryl Streep, como a severa irmã Aloysius Beauvier, que zela por regras que parecem ter sido definidas 2000 anos atrás. A história, pode-se arriscar, gira em torno dos dois conceitos que esses personagens representam, que não deveriam, mas parecem opostos na igreja católica: compaixão e tradição.
 

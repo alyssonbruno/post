@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-21T00:56:13-02:00
 title: "Don Verdean: o Que o Passado nos Reserva"
-desc: "Don Verdean. EUA, 2015. Escrito por Jared Hess, Jerusha Hess. Dirigido por Jared Hess. Com Sam Rockwell, Amy Ryan, Jemaine Clement."
 imdb: "3534282"
 
 tags: [ "draft", "movies" ]

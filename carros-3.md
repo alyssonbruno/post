@@ -6,7 +6,6 @@ date: "2017-07-08"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Carros 3"
 stars: "3/5"
-desc: "Carros 3. Cars 3 (USA, 2017). Dirigido por Brian Fee. Escrito por Brian Fee, Ben Queen, Eyal Podell, Jonathon E. Stewart, Kiel Murray, Bob Peterson, Mike Rich. Com Owen Wilson (Lightning McQueen),"
 ---
 Carros 3 consegue meio que comprovar que a Pixar continua com sua crise de criatividade, mas que isso não é motivo para fazer filme ruim. Então eles abraçam o convencional com carinho, amadurecem mais uma série (depois de Toy Story) e fazem de tudo para não estragar o passeio. Mas como quem não arrisca não petisca esta é mais uma aventura morna no campo das ideias e da emoção de um estúdio que era sinônimo de momentos icônicos do Cinema em forma de computação.
 

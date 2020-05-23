@@ -6,7 +6,6 @@ date: "2013-02-06"
 tags: [ "draft", "movies" ]
 title: "Elefante Branco"
 stars: "4/5"
-desc: "Elefante Branco. Elefante blanco (Argentina, 2012). Dirigido por Pablo Trapero. Escrito por Alejandro Fadel, Martín Mauregui, Santiago Mitre, Pablo Trapero. Com Ricardo Darín, Jérémie Renier, Martina Gusman, Miguel Arancibia, Federico Barga, Esteban Díaz, Pablo Gatti, Walter Jakob, Raul Ramos."
 ---
 Novo filme do diretor Pablo Trapero (Abutres) traça na rotina das pessoas que ajudam uma favela a construir moradias dignas para seus habitantes um panorama fiel não apenas dos moradores  acostumados a viver às margens de uma sociedade que escolheu convenientemente ignorá-los em um terreno delimitado  mas da sociedade como um todo. E os que não são mostrados no filme obviamente são os que ignoram essa triste realidade.
 

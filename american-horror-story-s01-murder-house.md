@@ -6,7 +6,6 @@ date: 2015-11-28
 tags: [ "draft", "series" ]
 title: "História de Horror Americana - Murder House"
 stars: "4/5"
-desc: "História de Horror Americana - Murder House. American Horror Story (USA, 2011). Dirigido por Alfonso Gomez-Rejon, Bradley Buecker, Michael Uppendahl, Michael Lehmann, David Semel, Howard Deutch, Ryan Murphy, Jeremy Podeswa, Michael Rymer. Escrito por Brad Falchuk, Ryan Murphy, Jennifer Salt, Jessica Sharzer, Tim Minear, James Wong, Crystal Liu, John J. Gray, Todd Kubrak. Com Evan Peters, Jessica Lange, Sarah Paulson, Frances Conroy, Denis O'Hare, Lily Rabe, Emma Roberts, Kathy Bates, Taissa Farmiga."
 ---
 Pela primeira temporada de American Horror Story (ou História de Horror Americana) pode-se perceber que, apesar de recriar muitas (quase todas) histórias de horror que fazem parte não apenas do imaginário de terror coletivo como foi responsável pelos maiores clássicos do gênero no Cinema, a direção e o roteiro mistos quase sempre referenciam de uma forma tão orgânica essas histórias que fica impossível não apreciar tamanha homenagem que a série proporciona para os fãs de terror.
 

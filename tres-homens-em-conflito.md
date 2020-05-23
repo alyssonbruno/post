@@ -6,7 +6,6 @@ date: "2010-12-20"
 tags: [ "draft", "movies" ]
 title: "Três Homens em Conflito"
 stars: "5/5"
-desc: "Três Homens em Conflito. Il buono, il brutto, il cattivo. (Italy, 1966). Dirigido por Sergio Leone. Escrito por Luciano Vincenzoni, Sergio Leone, Agenore Incrocci, Furio Scarpelli, Luciano Vincenzoni, Sergio Leone, Mickey Knox. Com Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè, Luigi Pistilli, Rada Rassimov, Enzo Petito, Claudio Scarchilli, John Bartha."
 ---
 Esse faroeste de Leone foi narrado em um contexto histórico e, por isso mesmo, com muitas pitadas de realismo nas cenas, mesmo com os absurdos hilários a que estamos acostumados em filmes do gênero. Nesse longa de quase três horas de duração teremos três pistoleiros decididos a encontrar uma fortuna escondida, mas para isso terão que passar por várias provações na época da guerra da Sessesão.
 

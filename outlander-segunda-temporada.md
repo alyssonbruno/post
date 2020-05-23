@@ -6,7 +6,6 @@ date: 2017-07-27T11:39:57
 tags: [ "draft", "series" ]
 title: "Outlander - Segunda Temporada"
 stars: "4/5"
-desc: "Outlander - Segunda Temporada. Outlander (USA, 2014). Dirigido por Metin Hüseyin, Anna Foerster, Brian Kelly, Mike Barker, Philip John, Brendan Maher, John Dahl, Richard Clark, Douglas Mackinnon. Escrito por Ronald D. Moore, Diana Gabaldon, Ira Steven Behr, Toni Graphia, Anne Kenney, Matthew B. Roberts. Com Caitriona Balfe (Claire Randall), Sam Heughan (Jamie Fraser), Duncan Lacroix (Murtagh Fraser), Tobias Menzies (Jack Randall / ...), Grant O'Rourke (Rupert MacKenzie), Graham McTavish (Dougal MacKenzie), Stephen Walters (Angus Mhor), Simon Callow (Duke of Sandringham)."
 ---
 A segunda temporada de Outlander mantém as mesmas virtudes da primeira -- figurino, direção de arte, fotografia -- e ainda melhora a atuação. Concentrado em tentar entregar sempre alguma mudança, por menor que seja, em cada episódio, esta parte da série consegue quase sempre evocar a já bem estabelecida atmosfera de seu início, mas se mantém fraco na tensão de seus dramas, e desperdiça seu maior mote: a luta do dia-a-dia pela mudança do destino.
 

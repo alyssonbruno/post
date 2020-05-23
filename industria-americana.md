@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-23"
 title: "Indústria Americana"
-desc: '"American Factory" (EUA, 2019), dirigido por Steven Bognar e Julia Reichert, com Cho Tak Wong, Robert Allen e Junming ''Jimmy'' Wang. Texto escrito para o CinemAqui.'
 imdb: "9351980"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

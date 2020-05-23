@@ -6,7 +6,6 @@ date: "2015-08-11"
 tags: [ "draft", "movies" ]
 title: "A Maldição do Demônio"
 stars: "4/5"
-desc: "A Maldição do Demônio. La maschera del demonio (Italy, 1960). Dirigido por Mario Bava. Escrito por Ennio De Concini, Mario Serandrei, Nikolai Gogol, Mario Bava, Marcello Coscia. Com Barbara Steele, John Richardson, Andrea Checchi, Ivo Garrani, Arturo Dominici, Enrico Olivieri, Antonio Pierfederici, Tino Bianchi, Clara Bindi."
 ---
 Acabei assistindo este pequeno clássico de terror italiano em inglês (na Netflix americana), mas pouco se perde quando vemos que o visual arrebatador de sombras e efeitos até que competentes (ainda hoje) consegue subverter o sensual para o escatológico com uma facilidade que parece torná-los indissociáveis. Quer mais terror que isso?
 

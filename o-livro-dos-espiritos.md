@@ -6,7 +6,6 @@ date: "2011-10-08"
 tags: [ "draft", "movies" ]
 title: "O Filme dos Espíritos"
 stars: "1/5"
-desc: "O Filme dos Espíritos. O Filme dos Espíritos (Brazil, 2011). Dirigido por Michel Dubret, André Marouço. Escrito por André Marouço. Com Flávio Barollo, Sandra Corveloni, Blota Filho, Etty Fraser, Luciana Gimenez, Ênio Gonçalves, Briza Menezes, Alethea Miranda, Reinaldo Rodrigues."
 ---
 O Filme dos Espíritos é mais uma tentativa de "catequizar" (com o perdão da palavra) ou talvez educar os fiéis dessa crença religiosa da vida após a morte, dando sequência ao bom "Chico Xavier" e o desastroso As Mães de Chico Xavier. Aqui, porém, a alçada propagandista ganha contornos bem maiores que sua qualidade como filme  o que, de certa forma, lembra Olga, uma obra com o mesmo estigma. Dessa forma, o uso do cinema como ferramenta "educativa" se torna um completo desastre quando constatamos que toda essa ambição ideológica anti-aborto não se justifica em uma produção de caráter e gosto duvidosos.
 

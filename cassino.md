@@ -6,7 +6,6 @@ date: "2016-02-10"
 tags: [ "draft", "movies" ]
 title: "Cassino"
 stars: "4/5"
-desc: "Cassino. Casino (USA, 1995). Dirigido por Martin Scorsese. Escrito por Nicholas Pileggi, Nicholas Pileggi, Martin Scorsese. Com Robert De Niro, Sharon Stone, Joe Pesci, James Woods, Don Rickles, Alan King, Kevin Pollak, L.Q. Jones, Dick Smothers."
 ---
 Vindo de Martin Scorsese (O Lobo de Wall Street, Taxi Driver, Touro Indomável), esse parece o Bons Companheiros -- que ele também dirige -- versão longa. É também sobre ascenção e queda, embora a ascenção pareça muito mais rápida que a queda. É sobre os bons e velhos tempos dos Cassinos em Las Vegas, a época das extorsões, da vista grossa, e onde os espertinhos eram tratados lá mesmo, em uma sala à parte, de preferência com um martelo. Ele conta a história de três tipos de pessoas que viviam por lá: o capanga violento e leal enquanto bem alimentado (Joe Pesci), a prostituta especialista em tomar dinheiro de apostadores (Sharon Stone) e alguém frio e calculista e disposto a atingir a perfeição para não perder seu lugar no que ele chama de paraíso (Robert De Niro).
 

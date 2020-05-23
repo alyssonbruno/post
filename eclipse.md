@@ -6,7 +6,6 @@ date: "2012-10-21"
 tags: [ "draft", "movies" ]
 title: "A Saga Crepúsculo Eclipse"
 stars: "2/5"
-desc: "A Saga Crepúsculo Eclipse. The Twilight Saga: Eclipse (USA, 2010). Dirigido por David Slade. Escrito por Melissa Rosenberg, Stephenie Meyer. Com Xavier Samuel, Kristen Stewart, Robert Pattinson, Billy Burke, Justin Chon, Anna Kendrick, Michael Welch, Christian Serratos, Jackson Rathbone."
 ---
 Eclipse encontra no eterno drama - protagonizado pelo trio Jacob (Lautner), Edward (Pattinson) e Bella (Stewart) - o combustível para prosseguir com a saga das famílias de vampiros e lobisomems mutantes que povoam o limitado universo da escritora Stephenie Meyer.
 

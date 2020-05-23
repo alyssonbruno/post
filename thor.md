@@ -6,7 +6,6 @@ date: "2012-04-02"
 tags: [ "draft", "movies" ]
 title: "Thor"
 stars: "2/5"
-desc: "Thor. Thor (USA, 2011). Dirigido por Kenneth Branagh. Escrito por Ashley Miller, Zack Stentz, Don Payne, J. Michael Straczynski, Mark Protosevich, Stan Lee, Larry Lieber, Jack Kirby, Nicole Perlman. Com Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård, Kat Dennings, Clark Gregg, Colm Feore, Idris Elba."
 ---
 Não há nada para se ver em Thor. É bobinho, está na direção automática e possui uma fotografia e uma trilha sonora que combinam com sua falta de personalidade. Ou seja, a Marvel pode levar a sério seus cronogramas e personagens, mas não o Cinema em si.
 

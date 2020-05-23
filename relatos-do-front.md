@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-10T14:52:08-03:00
 title: "Relatos do Front"
-desc: "Relatos Do Front (Brasil, 2018), escrito por Sergio Barata Empresa, Renato Martins e Gabriel Pardal, dirigido por Renato Martins."
 imdb: "9627016"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

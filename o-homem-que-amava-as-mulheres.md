@@ -1,7 +1,6 @@
 ---
 date: "2020-05-04"
 title: "O Homem Que Amava as Mulheres"
-desc: '"L''homme qui aimait les femmes" (France, 1977), escrito por Michel Fermaud, Suzanne Schiffman e François Truffaut, dirigido por François Truffaut, com Charles Denner, Brigitte Fossey e Nelly Borgeaud.'
 imdb: "0076155"
 stars: "3/5"
 categories: [ "cinema" ]

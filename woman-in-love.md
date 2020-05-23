@@ -6,7 +6,6 @@ date: "2014-04-18"
 tags: [ "draft", "movies" ]
 title: "Woman in Love"
 stars: "3/5"
-desc: "Woman in Love. Rubbeldiekatz (Germany, 2011). Dirigido por Detlev Buck. Escrito por Anika Decker, Detlev Buck. Com Alexandra Maria Lara, Jenny Moore, Dejan Bucin, Gerd Pape, Joachim Pollax, Franko Melisch, Guido Maria Kretschmer, Denis Moschitto, Maximilian Brückner."
 ---
 Essa é uma comédia romântica estilo Notting Hill, com a diferença de ser na Alemanha e ter o plot de um ator que se veste de mulher para conseguir o papel em um curta produzido por Hollywood sobre o nazismo (sempre ele). O resultado é algumas pouquíssimas piadas semi-originais  quase sempre envolvendo o ator que representa Hitler  e muitas piadas recicladas daquela velha situação do homem travestido já visto em produções tão bizarras desde "Glen ou Glenda?" (Ed Wood, 1953) passando por As Branquelas (2004).
 

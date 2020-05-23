@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-12"
 title: "O Escafandro e a Borboleta"
-desc: '"Le scaphandre et le papillon (aka The Diving Bell and the Butterfly)" (França, EUA, 2007), escrito por Ronald Harwood e Jean-Dominique Bauby, dirigido por Julian Schnabel, com Mathieu Amalric, Emmanuelle Seigner e Marie-Josée Croze.'
 imdb: "0401383"
 tags: [ "draft", "movies" ]
 stars: "4/5"

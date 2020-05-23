@@ -6,7 +6,6 @@ date: "2014-06-14"
 tags: [ "draft", "movies" ]
 title: "A Culpa é das Estrelas"
 stars: "5/5"
-desc: "A Culpa é das Estrelas. The Fault in Our Stars (USA, 2014). Dirigido por Josh Boone. Escrito por Scott Neustadter, Michael H. Weber, John Green. Com Shailene Woodley, Ansel Elgort, Nat Wolff, Laura Dern, Sam Trammell, Willem Dafoe, Lotte Verbeek, Ana Dela Cruz, Randy Kovitz."
 ---
 O que torna A Culpa das Estrelas tão fascinante como romance é sua despreocupação em soar "cinematográfico", ou seja, com seus diálogos inesquecíveis, interpretações profundas e momentos chorosos, mesmo que ele tenha tudo isso. A diferença é que ele assume suas próprias fraquezas e limites ao criar uma história cheia de filosofia pop/adolescente que nos faz sentir como seus personagens, mesmo sem a necessária profundidade para os temas que aborda. Quem se importa em soar original ou explorar o âmago de questões universais quando se está com câncer, ou quando se tem apenas 80 anos de vida (com sorte) nesse planeta? Melhor do que tentar soar importante é ser acessível, e isso é possível dizer dessas pessoas.
 

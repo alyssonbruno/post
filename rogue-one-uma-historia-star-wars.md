@@ -6,7 +6,6 @@ date: "2016-12-28"
 tags: [ "draft", "movies" ]
 title: "Rogue One: Uma História Star Wars"
 stars: "4/5"
-desc: "Rogue One: Uma História Star Wars. Rogue One (USA, 2016). Dirigido por Gareth Edwards. Escrito por Chris Weitz, Tony Gilroy, John Knoll, Gary Whitta, George Lucas. Com Felicity Jones (Jyn Erso), Diego Luna (Cassian Andor), Alan Tudyk (K-2SO), Donnie Yen (Chirrut Îmwe), Wen Jiang (Baze Malbus), Ben Mendelsohn (Orson Krennic), Guy Henry (Governor Tarkin), Forest Whitaker (Saw Gerrera), Riz Ahmed (Bodhi Rook)."
 ---
 É um prazer poder experimentar um pouco do universo dos filmes de Star Wars sem se preocupar (muito) com personagens centrais, tramas que mudarão a galáxia e, principalmente, histórias que nunca terminam. E apesar disso, aí está você de novo, estrelinha da morte. A fixação da alegoria com morte e destruição nunca termina. Ela se mantém quase como um fetiche escondido e refletido nos "inimigos", braço esquerdo da mesma Força. O lado negro sempre é a visão mais clara do que acontece quando o poder está nas mãos de poucos, sejam eles tiranos malignos ou pseudo-representantes do "povo".
 

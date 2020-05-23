@@ -7,7 +7,6 @@ date: 2017-11-16T01:06:11
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Thelma"
 stars: "4/5"
-desc: "Thelma. Thelma (Norway, 2017). Dirigido por Joachim Trier. Escrito por Joachim Trier, Eskil Vogt. Com Eili Harboe (Thelma), Kaya Wilkins (Anja), Henrik Rafaelsen (Trond), Ellen Dorrit Petersen (Unni), Ludvig Algeback (Little brother), Isabel Christine Andreasen (Student), Camilla Belsvik (Nurse), Lars Berge (Lifeguard), Vanessa Borgli (Anja's mother Vilde)."
 ---
 Thelma é uma gostosa revisita ao mundo do thriller de "Carrie, a Estranha" (o original de Brian de Palma), que discute religião com um certo distanciamento e compreensão. Atualizado conforme manda o figurino, temos no pacote discussões sobre sexualidade, autoridade e gnosticismo. E em cima disso tudo um possível arcabouço crítico por cima da sociedade atual.
 

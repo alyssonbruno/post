@@ -6,7 +6,6 @@ date: "2015-10-11"
 tags: [ "draft", "movies" ]
 title: "The Nightmare"
 stars: "3/5"
-desc: "The Nightmare. The Nightmare (USA, 2015). Dirigido por Rodney Ascher. Com Siegfried Peters, Stephen Michael Joseph, Nicole Bosworth, Yatoya Toy, Elise Robson, Age Wilson."
 ---
 Este documentário com cheiro de History Channel e seus canais auxiliares de balelas acompanha os testemunhos de várias pessoas cujo histórico de vida não sabemos quase nada, exceto que todos eles compartilham de visões durante a noite em que estão dormindo e acordados ao mesmo tempo, incapazes de se mexer. Diagnosticado atualmente como um transtorno chamado de paralisia do sono, o objetivo do diretor Rodney Ascher parece ser convencer ambos os lados: de que tudo aquilo são filmagens romantizadas dos testemunhos (pois sempre estamos à par dos efeitos visuais sendo aplicados) e que pode ser que haja algo sobrenatural acontecendo, nem que seja pelo menos os arquétipos de Jung em ação, presentes no inconsciente de toda a humanidade.
 

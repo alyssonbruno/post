@@ -6,7 +6,6 @@ date: "2011-07-08"
 tags: [ "draft", "movies" ]
 title: "The Housemaid"
 stars: "4/5"
-desc: "The Housemaid. Hanyo (South Korea, 1960). Dirigido por Ki-young Kim. Escrito por Ki-young Kim. Com Jin Kyu Kim, Jeung-nyeo Ju, Eun-shim Lee, Aeng-ran Eom, Seon-ae Ko, Sook-Rang Wang, Seok-je Kang, Jeong-ok Na, Sung-kee Ahn."
 ---
 O longa possui algumas reviravoltas que podem soar esquisito à cultura ocidental, mas a base do drama, que são os acontecimentos macabros rodeando a honrada família do professor de piano, criam um clima, se não de tensão, definitivamente macabro e sexy.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-28T02:01:55-02:00
 title: "Por Que Somos Criativos"
-desc: " Why Are We"
 imdb: "8804436"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

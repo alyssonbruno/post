@@ -6,7 +6,6 @@ date: "2014-12-30"
 tags: [ "draft", "movies" ]
 title: "A Mansão Mágica"
 stars: "4/5"
-desc: "A Mansão Mágica. The House of Magic (Belgium, 2013). Dirigido por Jeremy Degruson, Ben Stassen. Escrito por Ben Stassen, James Flynn, Domonic Paris, Ben Stassen. Com Cinda Adams, George Babbit, Murray Blue, Kathleen Browers, Joey Camen, Grant George, Shanelle Gray, Nina Grillo, Ella Rouhier."
 ---
 Ultimamente venho revelando uma queda por animações (e filmes em geral) em que o roteiro não se esquece que está contando uma história que, apesar de existir seguindo as regras de seu próprio universo, existem regras. E essas regras, quando violadas, enfraquecem qualquer trama, seja realista ou não. Quando falamos de animações, essas regras geralmente são bem flexíveis, mas mesmo assim o Deus Ex Machina aparece no terceiro ato vez sim, vez não.
 

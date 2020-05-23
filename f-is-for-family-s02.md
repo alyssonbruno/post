@@ -6,7 +6,6 @@ date: "2017-08-21"
 tags: [ "draft", "series" ]
 title: "F is for Family - Segunda Temporada"
 stars: "3/5"
-desc: "F is for Family - Segunda Temporada. F is for Family (USA, 2015). Dirigido por Laurent Nicolas, Benjamin Marsaud. Escrito por Bill Burr, Michael Price, David Richardson. Com Bill Burr, Laura Dern, Justin Long, Debi Derryberry, Sam Rockwell, Haley Reinhart, Mo Collins, Trevor Devall, Phil Hendrie."
 ---
 Enquanto a primeira temporada afiava seu tom do humor para algo dos anos 70 que divertia os que não ligam para o politicamente correto ao mesmo tempo que demonstrava por que estamos na fase do politicamente correto, a sequência de F is for Family explora melhor seus personagens, dando a eles a medida certa de tempo em cena. Exceto pela caçula que quer ser programadora de computadores. E sempre que sua ambição aparece faz meus olhos brilharem.
 

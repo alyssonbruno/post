@@ -1,7 +1,6 @@
 ---
 date: "2020-05-10"
 title: "O Bug Mais Bizarro Que Já Resolvi"
-desc: "Descrevendo minha experiência em depurar um problema em 16 bits de uma máquina antiga por uma semana seguida."
 categories: [ "code" ]
 tags: [ "draft", "debug" ]
 ---

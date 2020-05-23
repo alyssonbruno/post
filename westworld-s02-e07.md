@@ -6,7 +6,6 @@ date: 2018-12-30
 tags: [ "draft", "series" ]
 title: "Westworld S02 E07"
 stars: "5/5"
-desc: "Westworld (USA, 2016). Dirigido por Jonathan Nolan, Fred Toye. Escrito por Lisa Joy, Jonathan Nolan, Michael Crichton, Halley Wegryn Gross, Dan Dietz, Charles Yu. Com Evan Rachel Wood (Dolores Abernathy), Thandie Newton (Maeve Millay), James Marsden (Teddy Flood), Jeffrey Wright (Bernard Lowe), Ed Harris (Man in Black), Anthony Hopkins (Dr. Robert Ford)."
 ---
 Eis o melhor episódio até agora de toda a série. Ele possui a garra da ação contida em uma história cheia de ideias cujas conclusões não são entregues, mas discutidas, o que torna a desorientação espacial e temporal também no campo das ideias, mas mesmo sem termos a exata compreensão do que está acontecendo não nos perdemos. Isso é sci fi no seu máximo filosófico. Talvez nem 2001 tenha ido tão longe.
 

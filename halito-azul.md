@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-09"
 title: "Hálito Azul"
-desc: '"Hálito Azul" (Portugal, Finlândia, França, 2018), escrito por Rodrigo Areias e Eduardo Brito, dirigido por Rodrigo Areias. Escrito para o CinemAqui pela cobertura da #mostrasp.'
 imdb: "6616336"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

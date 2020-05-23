@@ -6,7 +6,6 @@ date: "2017-02-07"
 tags: [ "draft", "movies" ]
 title: "Um Limite Entre Nós"
 stars: "4/5"
-desc: "Um Limite Entre Nós. Fences (USA, 2016). Dirigido por Denzel Washington. Escrito por August Wilson. Com Denzel Washington (Troy Maxson), Viola Davis (Rose Maxson), Stephen Henderson (Jim Bono), Jovan Adepo (Cory), Russell Hornsby (Lyons), Mykelti Williamson (Gabriel), Saniyya Sidney (Raynell), Christopher Mele (Deputy Commissioner), Lesley Boone (Evangelist Preacher)."
 ---
 Fences é um filme baseado em uma peça. Mas isso dá pra saber logo nos primeiro minutos do filme dirigido por Denzel Washington e adaptado pelo próprio dramaturgo August Wilson. A história se passa praticamente na casa e nos arredores da casa dos Maxson, uma família cujo patriarca, Troy (Washington), é uma figura encontrada facilmente entre as camadas mais pobres da sociedade, muitas vezes criado por pais ainda mais rígidos que ele. É lógico que muitos de nós tiveram pais ou conhecidos com pais assim. E nem por isso há algo de sintomático por trás de tudo isso. A menos que seja inserido um dedinho da esquerda progressista a investigar que tudo aquilo no fundo é resquício da violência praticada contra os negros. Resquício ou não, este é um drama de primeira qualidade basicamente por causa de Viola Davis e Denzel Washington, que carregam o filme como se fosse extremamente fácil interpretar seus personagens.
 

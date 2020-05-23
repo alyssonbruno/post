@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2020-03-15"
 title: "Comunicação em Prosa Moderna"
-desc: 'Escrito por Othon M. Garcia nos anos 60, este guia de estilo na arte de escrever se tornou atual até hoje.'
 tags: [ "draft", "books" ]
 ---
 "Comunicação em Prosa Moderna", escrito por Othon M. Garcia em 1967, foi um dos livros de referência de quando iniciei a faculdade de Letras na FFLCH da USP. Adquiri uma cópia velha em um sebo com uma diagramação absurda, sem margens e com cheiro de mofado. Li de cabo a rabo. Atualmente eu encontrei a versão digital graças à comunidade do LeLivros, totalmente reformada para o formato digital após várias edições. A versão Kindle dá até gosto de ver, com suas inúmeras e famosas referências bibliográfica com que foi escrito, que ocupam pelo menos a quinta parte do livro, junto dos inúmeros exercícios no final.

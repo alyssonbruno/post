@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-20"
 title: "Quais filmes de viagem no tempo vale a pena assistir?"
-desc: "Compilado de uma resposta para uma amiga."
 tags: [ "draft", "lists" ]
 ---
 

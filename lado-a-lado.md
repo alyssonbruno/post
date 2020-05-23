@@ -6,7 +6,6 @@ date: "2012-10-21"
 tags: [ "draft", "movies" ]
 title: "Lado a Lado"
 stars: "3/5"
-desc: "Lado a Lado. Side by Side (USA, 2012). Dirigido por Christopher Kenneally. Escrito por Christopher Kenneally. Com Derek Ambrosi, Michael Ballhaus, Andrzej Bartkowiak, Dion Beebe, Jill Bogdanowicz, Danny Boyle, Geoff Boyle, James Cameron, Michael Chapman."
 ---
 Lado a Lado coloca a questão do formato digital no cinema exatamente como defende o título: uma alternativa para a arte que, assim como o colorido, o som e o 3D, talvez tenha ganho não uma ameaça, mas uma ferramenta.
 

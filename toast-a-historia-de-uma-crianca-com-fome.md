@@ -6,7 +6,6 @@ date: 2017-08-06T23:21:35
 tags: [ "draft", "movies" ]
 title: "Toast: A História de uma Criança com Fome"
 stars: "4/5"
-desc: "Toast: A História de uma Criança com Fome. Toast (UK, 2010). Dirigido por S.J. Clarkson. Escrito por Lee Hall, Nigel Slater. Com Oscar Kennedy (Young Nigel Slater), Victoria Hamilton (Mum), Colin Prockter (Percy Salt), Ken Stott (Dad), Matthew McNulty (Josh), Frasier Huckle (Warrel), Kia Pegg (Milk Girl), Rielly Newbold (Leonard), Roger Walker (Gardener), Helena Bonham Carter (Mrs. Potter), Freddie Highmore (Nigel Slater)."
 ---
 Este é um drama leve que conta com alguns segredos sutis em sua história e algumas atuações marcantes ou no mínimo bem corretas. Helena Bonham Carter é o destaque e o centro de um filme que poderia ser chato como biografia, mas consegue ser fascinante ainda que não conheçamos de quem se está falando.
 

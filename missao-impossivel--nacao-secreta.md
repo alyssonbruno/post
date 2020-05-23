@@ -6,7 +6,6 @@ date: "2015-11-22"
 tags: [ "draft", "movies" ]
 title: "Missão: Impossível - Nação Secreta"
 stars: "5/5"
-desc: "Missão: Impossível - Nação Secreta. Mission: Impossible - Rogue Nation (USA, 2015). Dirigido por Christopher McQuarrie. Escrito por Christopher McQuarrie, Christopher McQuarrie, Drew Pearce, Bruce Geller. Com Tom Cruise, Jeremy Renner, Simon Pegg, Rebecca Ferguson, Ving Rhames, Sean Harris, Simon McBurney, Jingchu Zhang, Tom Hollander."
 ---
 É brilhante e até comovente perceber como o gênero de espionagem moderna que corre nas veias dessa franquia se atualiza a cada novo trabalho, e como "Rogue Nation" se sai infinitamente melhor que o último James Bond de Daniel Craig ("Spectre"). Mesmo em momentos óbvios como a "missão impossível" tradicional de todo filme o filme consegue manter a tensão e sua eficácia, marca de um filme verdadeiramente competente em seu gênero: quando sabemos o que vai acontecer, e mesmo assim funciona maravilhosamente bem.
 

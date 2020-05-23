@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-20"
 title: "Cem Quilos de Estrelas"
-desc: '"100 kilos d''étoiles" (França, 2018), escrito por Anaïs Carpita e Marie-Sophie Chambon, dirigido por Marie-Sophie Chambon, com Laure Duchene, Angèle Metzger e Pauline Serieys.'
 imdb: "7501966"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"

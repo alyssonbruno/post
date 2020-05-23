@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-09"
 title: "A Boia"
-desc: '"La boya" (Argentina, 2018), dirigido por Fernando Spiner, com Fernando Spiner e Aníbal Zaldívar. Escrito para o CinemAqui pela cobertura da #mostrasp.'
 imdb: "9568668"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

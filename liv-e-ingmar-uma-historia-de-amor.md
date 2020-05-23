@@ -6,7 +6,6 @@ date: "2012-12-19"
 tags: [ "draft", "movies" ]
 title: "Liv e Igmar Uma História de Amor"
 stars: "3/5"
-desc: "Liv e Igmar Uma História de Amor. Liv & Ingmar (Norway, 2012). Dirigido por Dheeraj Akolkar. Escrito por Dheeraj Akolkar, Ragnhild Lund. Com Liv Ullmann, Ingmar Bergman, Samuel Fröler, Erland Josephson, Bibi Andersson, Max von Sydow, Harriet Andersson, Ingrid Thulin, Ingrid Bergman."
 ---
 Com certeza o diretor/roteirista Dheeraj Akolkar conhece a fundo o estilo dos filmes do diretor clássico sueco Ingmar Bergman, pois produziu um documentário que reflete exatamente a cinegrafia do autor e utiliza como pano de fundo seu romance e amizade com sua principal atriz: Liv Ullmann.
 

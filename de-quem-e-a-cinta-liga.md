@@ -6,7 +6,6 @@ date: "2012-09-30"
 tags: [ "draft", "movies" ]
 title: "De Quem é a Cinta Liga?"
 stars: "2/5"
-desc: "De Quem é a Cinta Liga?. ¿De quién es el portaligas? (Argentina, 2007). Dirigido por María Cecilia López, Fito Páez. Escrito por Fito Páez. Com Julieta Cardinali, Romina Ricci, Leonora Balcarce, Gonzalo Aloras, Darío Grandinetti, Verónica Llinás, Cristina Banegas, Fabiana Cantilo, Lía Crucet."
 ---
 Essa é uma comédia argentina co-dirigida por Fito Páez (Vidas Privadas)  que também assina o roteiro  e pela estreante María Cecilia López. Ambos estão sintonizados em um projeto que tenta de todas as formas chamar a atenção, não importante que para isso seja sacrificado o bom senso e, o que é pior, o humor de sua história.
 

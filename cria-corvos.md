@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-19"
 title: "Cria Corvos"
-desc: '"Cría Cuervos" (Espanha, 1976), escrito por Carlos Saura, dirigido por Carlos Saura, com Ana Torrent, Conchita Pérez e Mayte Sanchez. Baixei porque o Madera pediu para eu dar uma olhada.'
 imdb: "0074360"
 tags: [ "draft", "movies" ]
 stars: "3/5"

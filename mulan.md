@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-09"
 title: "Mulan"
-desc: '"Mulan" (EUA, 1998), escrito por Robert D. San Souci, Rita Hsiao e Chris Sanders, dirigido por Tony Bancroft e Barry Cook, com Miguel Ferrer, Harvey Fierstein e Freda Foh Shen. Assistindo antes do live-action.'
 imdb: "0120762"
 tags: [ "draft", "movies" ]
 stars: "3/5"

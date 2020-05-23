@@ -6,7 +6,6 @@ date: "2016-02-19"
 tags: [ "draft", "movies" ]
 title: "Masculino-Feminino"
 stars: "4/5"
-desc: "Masculino-Feminino. Masculin féminin (France, 1966). Dirigido por Jean-Luc Godard. Escrito por Guy de Maupassant, Jean-Luc Godard. Com Jean-Pierre Léaud, Chantal Goya, Marlène Jobert, Michel Debord, Catherine-Isabelle Duport, Evabritt Strandberg, Birger Malmsten, Yves Afonso, Henri Attal."
 ---
 Jean-Luc Godard, em plena década de 60, em um filme aparentemente biográfico, que funciona leve, sem lógica, mas com acontecimentos que não fogem da realidade, mas entram em nossa estranheza do incompreendido, das coincidências exóticas. Mas é uma época pulsante, com questões juvenis incompreendidas. Godard tinha minha idade quando o fez (36), e ele discute muito sobre o homem, a mulher, e os dois juntos.
 

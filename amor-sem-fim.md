@@ -6,7 +6,6 @@ date: "2014-06-13"
 tags: [ "draft", "movies" ]
 title: "Amor Sem Fim"
 stars: "4/5"
-desc: "Amor Sem Fim. Endless Love (USA, 2014). Dirigido por Shana Feste. Escrito por Shana Feste, Joshua Safran, Scott Spencer. Com Alex Pettyfer, Gabriella Wilde, Bruce Greenwood, Joely Richardson, Robert Patrick, Rhys Wakefield, Dayo Okeniyi, Emma Rigby, Anna Enger."
 ---
 Filme que revisita os clichês estilo Diário de uma Paixão sob a ótica contemporânea. Foca principalmente no jogo de forças entre pai e filha, mas se estende desnecessariamente ao final repetindo a mesma dinâmica já vista durante o filme.
 

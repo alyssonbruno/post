@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-06"
 title: "Os Parças 2"
-desc: '"Os Parças 2" (Brasil, 2019), escrito por Cláudio Torres Gonzaga, dirigido por Cris D''Amato, com Tom Cavalcante, Whindersson Nunes, Tirullipa, Bruno de Luca e Fabiana Karla. Escrito para o CinemAqui.'
 imdb: "9207188"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "1/5"

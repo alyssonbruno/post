@@ -6,7 +6,6 @@ date: "2017-06-21"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota Ocidental - Entre o Coração e a Tradição"
 stars: "4/5"
-desc: "A Garota Ocidental - Entre o Coração e a Tradição. Noces (France, 2016). Dirigido por Stephan Streker. Escrito por Stephan Streker. Com Lina El Arabi (Zahira Kazim), Sébastien Houbani (Amir Kazim), Babak Karimi (Mansoor Kazim), Nina Kulkarni (Yelda Kazim), Olivier Gourmet (André), Alice de Lencquesaing (Aurore), Zacharie Chasseriaud (Pierre), Aurora Marion (Hina Kazim), Rania Mellouli (Amara Kazim)."
 ---
 Após acabar "A Garota Ocidental - Entre o Coração e a Tradição" há a sensação deste filme ser um remake. Isso porque a história que ele conta, inspirado livremente em fatos reais, infelizmente não é um caso isolado. O seu núcleo revela uma repetição de costumes que um certo povo mantém século a século, e mesmo que convenientemente auxiliado pela tecnologia da época, se mostra arcaico e anacrônico se comparado com os princípios mais básicos que temos hoje de direitos humanos.
 

@@ -6,7 +6,6 @@ date: "2015-03-10"
 tags: [ "draft", "movies" ]
 title: "Kick Ass 2"
 stars: "2/5"
-desc: "Kick Ass 2. Kick-Ass 2 (USA, 2013). Dirigido por Jeff Wadlow. Escrito por Jeff Wadlow, Mark Millar, John Romita Jr. Com Aaron Taylor-Johnson, Chloë Grace Moretz, Morris Chestnut, Claudia Lee, Amy Anzel, Clark Duke, Augustus Prew, Mary Kitchen, Donald Faison."
 ---
 Tudo que o original tinha de divertido e tenso -- a violência exacerbada envolvendo crianças e a própria realidade da loucura que é ser um jovem vigilante -- foi retirado nessa continuação, que soa mais como uma produção Marvel. Afinal, é isso o que o público hoje se contenta em ver: baixos riscos, altas expectativas.
 

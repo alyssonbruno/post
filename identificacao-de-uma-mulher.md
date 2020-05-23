@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-19"
 title: "Identificação de Uma Mulher"
-desc: '"Identificazione di una donna" (Itália e França, 1982), escrito por Michelangelo Antonioni e Gérard Brach, dirigido por Michelangelo Antonioni, com Tomas Milian, Daniela Silverio e Christine Boisson. Mais um DVD; queria um italiano para me preparar para a viagem.'
 imdb: "0084116"
 tags: [ "draft", "movies" ]
 stars: "3/5"

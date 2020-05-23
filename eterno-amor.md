@@ -6,7 +6,6 @@ date: "2016-01-06"
 tags: [ "draft", "movies" ]
 title: "Eterno Amor"
 stars: "4/5"
-desc: "Eterno Amor. Un long dimanche de fiançailles (France, 2004). Dirigido por Jean-Pierre Jeunet. Escrito por Sébastien Japrisot, Jean-Pierre Jeunet, Guillaume Laurant, Guillaume Laurant. Com Audrey Tautou, Gaspard Ulliel, Dominique Pinon, Chantal Neuwirth, André Dussollier, Ticky Holgado, Marion Cotillard, Dominique Bettenfeld, Jodie Foster."
 ---
 Um misto de remorso pelas agruras da guerra com a energia de uma investigação guiada unicamente pela fé (ou pelo amor). A beleza da fotografia fria e triste do front se contrapõe aos horizontes oníricos do presente nostálgico, que clama pela elucidação completa de um passado nebuloso que separou um casal apaixonado prestes a se casar. Eterno Amor é pura poesia na forma de criatividade narrativa. Um Pierre Jeunet que retrabalha sua Amélie Poulain em traços mais cruéis e menos esperançosos, e que tenta soar como um romance épico em torno de personagens com pouca alma e muita persistência.
 

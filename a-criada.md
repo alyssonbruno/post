@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-26"
 title: "A Criada"
-desc: '"Ah-ga-ssi (aka The Handmaiden)" (Coreia do Sul, 2016), escrito por Sarah Waters, inspirada pelo livro Fingersmith, Seo-kyeong Jeong e Chan-wook Park, dirigido por Chan-wook Park, com Min-hee Kim, Tae-ri Kim e Jung-woo Ha. Assisti na Netflix'
 imdb: "4016934"
 tags: [ "draft", "movies" ]
 stars: "2/5"

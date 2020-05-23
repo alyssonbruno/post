@@ -6,7 +6,6 @@ date: "2016-06-26"
 tags: [ "draft", "movies" ]
 title: "Palavrões"
 stars: "3/5"
-desc: "Palavrões. Bad Words (USA, 2013). Dirigido por Jason Bateman. Escrito por Andrew Dodge. Com Jason Bateman, Kathryn Hahn, Rohan Chand, Philip Baker Hall, Allison Janney, Ben Falcone, Steve Witting, Beth Grant, Gwen Parden."
 ---
 Tão diferente que perde o foco. Porém, é um "indie" no conceito básico dessa nova categorização: muitas das coisas que vemos em Palavrões dificilmente estaria em uma produção hollywoodiana.
 

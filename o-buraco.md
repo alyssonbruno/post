@@ -6,7 +6,6 @@ date: "2012-04-12"
 tags: [ "draft", "movies" ]
 title: "O Buraco"
 stars: "3/5"
-desc: "O Buraco. Dong (Taiwan, 1998). Dirigido por Ming-liang Tsai. Escrito por Ming-liang Tsai, Pi-ying Yang. Com Kuei-Mei Yang, Kang-sheng Lee, Tien Miao, Hui-Chin Lin, Hsiang-Chu Tong, Lin Kun-huei, Jacques Picoux."
 ---
 O Buraco é muito mais sobre nossa posição como seres humanos e como nos relacionamos com ambientes e situações que quase sempre nos diz mais do que ela mesma. Após a descoberta de uma epidemia de um vírus que levava à loucura e à morte em uma região de Taiwan o governo ordena a retirada das pessoas e deixa o local em estado de quarentena. No entanto, vários moradores fazem questão ainda de sobreviver no bairro onde antes viviam normalmente, só que com o passar do tempo o estado mental e seu ânimo estavam muito diferentes do usual. O aparecimento de um vazamento no chão de um apartamento onde mora um rapaz, e consequentemente no teto do apartamento de baixo, onde vive uma moça em torno de goteiras e vazamentos que representam não só o estado de calamidade do local como seu próprio estado de espírito.
 

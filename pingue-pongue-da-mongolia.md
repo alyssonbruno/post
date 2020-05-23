@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-17"
 title: "Pingue-Pongue da Mongólia"
-desc: '"Mongolian Ping Pong" (China, 2005), escrito por Hao Ning, dirigido por Hao Ning, com Hurichabilike, Dawa e Geliban. Da leva de DVDs de arte daqui de casa.'
 imdb: "0461804"
 tags: [ "draft", "movies" ]
 stars: "3/5"

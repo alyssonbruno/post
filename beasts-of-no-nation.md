@@ -6,7 +6,6 @@ date: "2016-03-11"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Beasts of No Nation"
 stars: "5/5"
-desc: "Beasts of No Nation. Beasts of No Nation (USA, 2015). Dirigido por Cary Joji Fukunaga. Escrito por Cary Joji Fukunaga, Uzodinma Iweala. Com Abraham Attah, Emmanuel Affadzi, Ricky Adelayitor, Andrew Adote, Vera Nyarkoah Antwi, Ama K. Abebrese, Kobina Amissah-Sam, Francis Weddey, Fred Nii Amugi."
 ---
 Beasts of No Nation é praticamente um documentário em forma de ficção. E só se trata de uma ficção porque sequer sabemos o país em que vive o pequeno Agu, interpretado por Abraham Attah, intenso e inesquecível. E, se formos ser sinceros, não saber onde se passa a ação é o menor dos detalhes de uma experiência que vai se tornando, assim como Attah, intensa e inesquecível, embora infelizmente.
 

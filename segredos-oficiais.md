@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-30"
 title: "Segredos Oficiais"
-desc: '"Official Secrets" (Reino Unido e EUA, 2019), escrito por Gregory Bernstein, Sara Bernstein e Gavin Hood, dirigido por Gavin Hood, com Matthew Goode, Keira Knightley e Ralph Fiennes. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "5431890"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

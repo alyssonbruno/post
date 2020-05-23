@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-06T16:00:33-03:00
 title: "Merlí"
-desc: ""
 imdb: "4580372"
 
 tags: [ "draft", "series" ]

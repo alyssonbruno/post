@@ -6,7 +6,6 @@ date: "2015-12-28"
 tags: [ "draft", "movies" ]
 title: "Thelma & Louise"
 stars: "5/5"
-desc: "Thelma & Louise. Thelma & Louise (USA, 1991). Dirigido por Ridley Scott. Escrito por Callie Khouri. Com Susan Sarandon, Geena Davis, Harvey Keitel, Michael Madsen, Christopher McDonald, Stephen Tobolowsky, Brad Pitt, Timothy Carhart, Lucinda Jenney."
 ---
 "Quantas vezes mais essas mulheres vão ser maltratadas?", pergunta um personagem perto do final do filme. Se formos considerar tudo que aconteceu com essas mulheres e por que elas seguiram por esse caminho, veremos que além da pergunta ser retórica, ela se dirige muito mais para o espectador do que para as pessoas do filme.
 

@@ -6,7 +6,6 @@ date: "2017-02-22"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Silêncio"
 stars: "4/5"
-desc: "Silêncio. Silence (USA, 2016). Dirigido por Martin Scorsese. Escrito por Jay Cocks, Martin Scorsese, Shûsaku Endô. Com Andrew Garfield (Rodrigues), Adam Driver (Garupe), Liam Neeson (Ferreira), Tadanobu Asano (Interpreter), Ciarán Hinds (Father Valignano), Issei Ogata (Old Samurai / Inoue), Shin'ya Tsukamoto (Mokichi), Yoshi Oida (Ichizo), Yôsuke Kubozuka (Kichijiro)."
 ---
 Martin Scorsese volta ao tema religioso depois de longo hiato (seu último foi A Última Tentação de Cristo, na década de 80) em uma obra que lida com sofrimento cristão em um nível quase que metafísico. Para isso viajamos ao Japão feudal e a miséria de um povo, onde encontraremos padres jesuítas dispostos a tudo para converter fiéis, mesmo que estes fiéis e os próprios padres estejam sendo sumariamente torturados e executados.
 

@@ -6,7 +6,6 @@ date: "2011-12-20"
 tags: [ "draft", "movies" ]
 title: "Munique"
 stars: "4/5"
-desc: "Munique. Munich (USA, 2005). Dirigido por Steven Spielberg. Escrito por Tony Kushner, Eric Roth, George Jonas. Com Eric Bana, Daniel Craig, Ciarán Hinds, Mathieu Kassovitz, Hanns Zischler, Ayelet Zurer, Geoffrey Rush, Gila Almagor, Michael Lonsdale."
 ---
 Fotografia escura, personagens quase sempre aparecem na penumbra das janelas e paredes, evidenciando sua característica de "não existirem" oficialmente.
 

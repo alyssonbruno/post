@@ -7,7 +7,6 @@ date: "2015-01-06"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Amor é Estranho"
 stars: "4/5"
-desc: "O Amor é Estranho. Love Is Strange (USA, 2014). Dirigido por Ira Sachs. Escrito por Ira Sachs, Mauricio Zacharias. Com John Lithgow, Alfred Molina, Tatyana Zbirovskaya, Olya Zueva, Jason Stuart, Darren E. Burrows, Marisa Tomei, Charlie Tahan, Harriet Sansom Harris."
 ---
 Esse é um filme sabotado por sua própria doçura e leveza. E, mesmo assim, se não tivesse o seu final, poderíamos estar diante de um drama melancólico. Apesar de ter participações de outros personagens em pé de igualdade, a história principal gira em torno de George (Alfred Molina), Ben (John Lithgow) e o casamento dos dois: uma linda cerimônia que reuniu toda a família para celebrar uma união já existente há 40 anos. Infelizmente, ela é o estopim para os problemas que o casal terá que enfrentar.
 

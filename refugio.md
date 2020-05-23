@@ -7,7 +7,6 @@ date: "2016-09-30"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Refúgio"
 stars: "4/5"
-desc: "Refúgio. Comme un avion (France, 2015). Dirigido por Bruno Podalydès. Escrito por Bruno Podalydès. Com Bruno Podalydès (Michel), Sandrine Kiberlain (Rachelle), Agnès Jaoui (Laëtitia), Vimala Pons (Mila), Denis Podalydès (Rémi), Michel Vuillermoz (Christophe), Jean-Noël Brouté (Damien), Pierre Arditi (Le pêcheur qui ressemble à Pierre Arditi), Noémie Lvovsky (la voisine Mme Pirchtate)."
 ---
 Refúgio é uma comédia de situação que brinca um pouco com essa sensação da meia-idade (defina você esse período da sua vida) em explorar outros horizontes, levar a cabo os sonhos da infância, reviver, enfim, os bons momentos que estão em nossas memórias. Porém, ao mesmo tempo que temos esse desejo, estamos ancorados na vida real, sujeitos às complicações da vida moderna.
 

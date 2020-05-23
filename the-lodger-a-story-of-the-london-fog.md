@@ -6,7 +6,6 @@ date: "2017-01-11"
 tags: [ "draft", "movies" ]
 title: "The Lodger: A Story of the London Fog"
 stars: "4/5"
-desc: "The Lodger: A Story of the London Fog. The Lodger: A Story of the London Fog (UK, 1927). Dirigido por Alfred Hitchcock. Escrito por Marie Belloc Lowndes, Eliot Stannard, Alfred Hitchcock. Com Marie Ault (The landlady), Arthur Chesney (Her husband), June Tripp (a mannequin Daisy), Malcolm Keen (a police detective Joe), Ivor Novello (The Lodger), Reginald Gardiner (Dancer at Ball), Eve Gray (Showgirl Victim), Alfred Hitchcock (Extra in Newspaper Office), Alma Reville (Woman Listening to Wireless)."
 ---
 O primeiro filme sobre crime de Hitchcock já contém vários elementos que indicam a que veio esse diretor, que já demonstrava inventividade em seus trabalhos anteriores. Aqui ele mantém algumas boas ideias (como a câmera subjetiva, girando no meio de um quarto, olhando o reflexo do rosto no vidro, e até caminhando furioso em direção a uma pessoa amedrontada) e cria tantas outras novas. Porém, mais que isso, constrói um belo filme através de um roteiro até que mediano.
 

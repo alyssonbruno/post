@@ -6,7 +6,6 @@ date: "2013-12-16"
 tags: [ "draft", "movies" ]
 title: "A Rosa Púrpura do Cairo"
 stars: "4/5"
-desc: "A Rosa Púrpura do Cairo. The Purple Rose of Cairo (USA, 1985). Dirigido por Woody Allen. Escrito por Woody Allen. Com Mia Farrow, Jeff Daniels, Danny Aiello, Irving Metzman, Stephanie Farrow, David Kieserman, Elaine Grollman, Victoria Zussin, Mark Hammond."
 ---
 Woody Allen parece dirigir tantos filmes que seus temas começam a girar em torno do seu próprio processo criativo. Se isso fica óbvio no excelente Desconstruindo Harry, fica fascinante a manipulação e as críticas desse processo em A Rosa Púrpura do Cairo, onde um dos personagens de um filme sai da tela ao se apaixonar por uma espectadora que viu o mesmo filme por várias vezes.
 

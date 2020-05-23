@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-07"
 title: "Irreversível"
-desc: '"Irréversible" (França, 2002), escrito por Gaspar Noé, dirigido por Gaspar Noé, com Monica Bellucci, Vincent Cassel e Albert Dupontel. Assisti o DVD.'
 imdb: "0290673"
 tags: [ "draft", "movies" ]
 stars: "5/5"

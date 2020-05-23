@@ -6,7 +6,6 @@ date: "2010-10-29"
 tags: [ "draft", "movies" ]
 title: "A Suprema Felicidade"
 stars: "3/5"
-desc: "A Suprema Felicidade. A Suprema Felicidade (Brazil, 2010). Dirigido por Arnaldo Jabor. Escrito por Arnaldo Jabor, Ananda Rubinstein. Com Fernanda Avellar, César Cardadeiro, Tammy Di Calafiori, Maria Flor, Ary Fontoura, Michel Joelsas, Mariana Lima, Jorge Loredo, Caio Manhente."
 ---
 Baarìa - A Porta do Vento, trabalho mais pessoal de Giuseppe Tornatore (Cinema Paradiso), é uma superprodução que tem como característica marcante não definir um foco específico ao contar sua história. Disposto a tornar a Baarìa do título, um vilarejo no interior da Itália, protagonista de tudo que aconteceu no país ao longo de décadas de história, Tornatore sacrifica a clareza narrativa em prol de um bem maior: a absurdamente estonteante rima final, que torna o seu filme, como um todo, uma experiência única e inesperada.
 

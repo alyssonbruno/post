@@ -6,7 +6,6 @@ date: "2010-12-03"
 tags: [ "draft", "movies" ]
 title: "Megamente"
 stars: "3/5"
-desc: "Megamente. Megamind (USA, 2010). Dirigido por Tom McGrath. Escrito por Alan J. Schoolcraft, Brent Simons. Com Will Ferrell, Brad Pitt, Tina Fey, Jonah Hill, David Cross, Ben Stiller, Justin Theroux, Jessica Schulte, Tom McGrath."
 ---
 Uma troca de papéis eficiente que faz repensar a dicotomia do bem contra o mal, ainda mais que hoje em dia, em que mais pessoas se livram das superstições antigas (religiões) que pregam essa dicotomia como algo inerente à existência, o filme transporta essa realidade para uma animação leve, mas que esconde algum drama mais complexo existencial.
 

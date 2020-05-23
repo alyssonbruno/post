@@ -6,7 +6,6 @@ date: "2010-10-10"
 tags: [ "draft", "movies" ]
 title: "Machete"
 stars: "2/5"
-desc: "Machete. Machete (USA, 2010). Dirigido por Ethan Maniquis, Robert Rodriguez. Escrito por Robert Rodriguez, Álvaro Rodríguez. Com Danny Trejo, Robert De Niro, Jessica Alba, Steven Seagal, Michelle Rodriguez, Jeff Fahey, Cheech Marin, Don Johnson, Shea Whigham."
 ---
 Mais um filme de violência absurda de Robert Rodriguez. Fotografia amarelada, como em todos os filmes que se passam perto do México. Só que em muitos filmes a violência absurda é usada em tons artísticos, como evocando os quadrinhos (Sin City) e sua realidade já absurda e exagerada e as artes marciais (Kill Bill) e suas lendas.
 

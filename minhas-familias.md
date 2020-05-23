@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-10T20:08:29-03:00
 title: "Minhas Famílias"
-desc: "All in My Family. EUA, 2019. Por Hao Wu."
 imdb: "9097148"
 
 tags: [ "draft", "movies" ]

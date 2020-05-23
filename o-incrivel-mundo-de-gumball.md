@@ -6,7 +6,6 @@ date: "2016-10-16"
 tags: [ "draft", "series" ]
 title: "O Incrível Mundo de Gumball"
 stars: "4/5"
-desc: "O Incrível Mundo de Gumball. The Amazing World of Gumball (UK, 2011). Dirigido por Mic Graves. Escrito por Tobi Wilson, Benjamin Bocquelet, Jon Foster, James Lamont, Joe Parham, Mic Graves, Louise Coats, Nathan Auerbach, Daniel Berg. Com Jacob Hopkins (Gumball Watterson), Terrell Ransom Jr. (Darwin Watterson), Dan Russell (Richard Watterson / ...), Teresa Gallagher (Nicole Watterson / ...), Kerry Shale (Larry Needlemeyer / ...), Kyla Rae Kowalewski (Anais Watterson), Logan Grove (Gumball Watterson), Kwesi Boakye (Darwin Watterson), Sandra Dickinson (Crocodile Woman / ...)."
 ---
 Mais um desenho de adultos que apela para o absurdo, a metalinguagem, o fofinho, o humor negro e o slapstick que ultrapassa o convencional em um formato quase tão criativo quanto A Hora da Aventura. Felizmente, Gumball tem senso do ridículo ou acaba sendo mais adulto.
 

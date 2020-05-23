@@ -7,7 +7,6 @@ date: "2016-10-11"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Quarto dos Esquecidos"
 stars: "4/5"
-desc: "O Quarto dos Esquecidos. The Disappointments Room (USA, 2016). Dirigido por D.J. Caruso. Escrito por D.J. Caruso, Wentworth Miller. Com Lucas Till (Ben), Kate Beckinsale (Dana), Gerald McRaney (Judge Blacker), Michael Landes (Teddy), Michaela Conlin (Jules), Celia Weston (Marti), Mel Raido (David), Duncan Joiner (Lucas), Charles Carroll (Old Man)."
 ---
 O Quarto dos Esquecidos pega todo aquele nosso preconceito (no bom sentido) de "filmes de famílias problemáticas que se mudam para casas no campo" (um sub-gênero do terror cada vez mais usado) e transforma em um drama envolvente, ou no mínimo quase envolvente. E assim como o excelente Babadook, ele utiliza metáforas para explorar esse ser fora de controle que vive em cada um de nós.
 

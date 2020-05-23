@@ -6,7 +6,6 @@ date: 2017-08-07T02:08:52
 tags: [ "draft", "movies" ]
 title: "Estranha Obsessão"
 stars: "4/5"
-desc: "Estranha Obsessão. La femme du Vème (France, 2011). Dirigido por Pawel Pawlikowski. Escrito por Douglas Kennedy, Pawel Pawlikowski. Com Ethan Hawke (Tom Ricks), Kristin Scott Thomas (Margit), Joanna Kulig (Ania), Samir Guesmi (Sezer), Delphine Chuillot (Nathalie), Julie Papillon (Chloé), Geoffrey Carey (Laurent), Mamadou Minte (Omar), Mohamed Aroussi (Moussa)."
 ---
 Pawel Pawlikowski, diretor e roteirista do mais recente e interessante Ida, traça aqui através do romance de Douglas Kennedy um thriller que vai escalando naturalmente, dando tempo ao espectador para se habituar ao drama do escritor Tom Ricks (o habilidoso Ethan Hawke), que chega em Paris em busca da fiha de seis anos e sua esposa, aparentemente possui problemas com a polícia e ainda tem sua mala e carteira roubados. A partir dessa premissa surge um suspense tenso sem forçar muito a situação. Um trabalho econômico e eficiente.
 

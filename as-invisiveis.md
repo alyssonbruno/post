@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-13"
 title: "As Invisíveis"
-desc: '"Invisibles" (França, 2018), escrito por Marion Doussot e Claire Lajeunie, dirigido por Louis-Julien Petit, com Patricia Mouchon, Khoukha Boukherbache e Bérangère Toural.'
 imdb: "8633950"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"

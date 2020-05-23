@@ -6,7 +6,6 @@ date: "2011-06-12"
 tags: [ "draft", "movies" ]
 title: "Um Gato em Paris"
 stars: "4/5"
-desc: "Um Gato em Paris. Une vie de chat (France, 2010). Dirigido por Jean-Loup Felicioli, Alain Gagnol. Escrito por Alain Gagnol, Jacques-Rémy Girerd, Alain Gagnol, Michael Sinterniklaas. Com Dominique Blanc, Bernadette Lafont, Bruno Salomone, Jean Benguigui, Oriane Zani, Bernard Bouillon, Jacques Ramade, Jean-Pierre Yvars, Patrick Ridremont."
 ---
 A trilha sonora fantasiosa que evoca tanto os Batman de atualmente como, de uma forma mais lúdica, os policiais infantis que líamos quando crianças, abre as cortinas para o novo trabalho de Alain Gagnol, projeto de mais de cinco anos onde, debruçado com sua equipe de 60 pessoas sobre os mais de 40.000 desenhos criados à mão, revela uma estética curiosa e ao mesmo tempo divertida.
 

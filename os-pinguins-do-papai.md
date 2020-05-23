@@ -6,7 +6,6 @@ date: "2011-07-04"
 tags: [ "draft", "movies" ]
 title: "Os Pinguins do Papai"
 stars: "3/5"
-desc: "Os Pinguins do Papai. Mr. Popper's Penguins (USA, 2011). Dirigido por Mark Waters. Escrito por Sean Anders, John Morris, Jared Stern, Richard Atwater, Florence Atwater. Com Jim Carrey, Carla Gugino, Angela Lansbury, Ophelia Lovibond, Madeline Carroll, Clark Gregg, Jeffrey Tambor, David Krumholtz, Philip Baker Hall."
 ---
 Sinopse: A vida de um homem de negócios começar a mudar após ele herdar de seu pai seis pinguins. Conforme ele avança em sua vida pessoal, sua vida profissional começa a despencar.
 

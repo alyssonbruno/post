@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-21"
 title: "Tradicional Mensagem de Feliz Natal e Bom 2020 Versão Cinema"
-desc: "Um grande abraço ao meu grande amigo Pikachu, que vem tentando há vários anos manter essa tradição. Que seu próximo ano e de todos nós seja mais significativo."
 tags: [ "draft", "lists" ]
 ---
 Tudo começou há mais ou menos... não me lembro. O que eu sei é que meu grande amigo Pikachu me colocou em um aviso anual sobre compilar uma mensagem de final de ano com referências a filmes que foram lançados esse ano no cinema (ou algum filme mais antigo de vez em quando, se surgir a oportunidade). Esta é a primeira vez que transformo essa mensagem em um post.

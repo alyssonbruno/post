@@ -6,7 +6,6 @@ date: 2017-10-31T16:37:36
 tags: [ "draft", "movies" ]
 title: "Your Name"
 stars: "3/5"
-desc: "Your Name. Kimi no na wa. (Japan, 2016). Dirigido por Makoto Shinkai. Escrito por Makoto Shinkai, Clark Cheng. Com Ryûnosuke Kamiki (Taki Tachibana), Mone Kamishiraishi (Mitsuha Miyamizu), Ryô Narita (Katsuhiko Teshigawara), Aoi Yûki (Sayaka Natori), Nobunaga Shimazaki (Tsukasa Fujii), Kaito Ishikawa (Shinta Takagi), Kanon Tani (Yotsuha Miyamizu), Masaki Terasoma (Toshiki Miyamizu), Sayaka Ohara (Futaha Miyamizu)."
 ---
 Para os que estão acostumados com os média-metragens do diretor/roteirista Makoko Shinkai, como O Jardim das Palavras, vão perceber uma característica marcante em seu novo trabalho, Your Name: não há aqui uma história completa a ser contada; mas sensações. É a jogada de uma miscelânea de ideias cativantes, como se colocar no lugar do outro, que dá origem à sua essência, que é explorada inúmeras vezes em lindas sequências de animação.
 

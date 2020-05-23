@@ -6,7 +6,6 @@ date: 2017-12-10T14:11:47
 tags: [ "draft", "movies" ]
 title: "Batman: O Retorno"
 stars: "3/5"
-desc: "Batman: O Retorno. Batman Returns (USA, 1992). Dirigido por Tim Burton. Escrito por Bob Kane, Daniel Waters, Sam Hamm. Com Michael Keaton (Batman / Bruce Wayne), Danny DeVito (Penguin / Oswald Cobblepot), Michelle Pfeiffer (Catwoman / Selina Kyle), Christopher Walken (Max Shreck), Michael Gough (Alfred Pennyworth), Michael Murphy (The Mayor), Cristi Conaway (Ice Princess), Andrew Bryniarski (Charles 'Chip' Shreck), Pat Hingle (Commissioner James Gordon)."
 ---
 O tom gótico e fantasioso de Batman é algo a se considerar quando tentamos enxergar a lógica por trás dessas adaptações de Tim Burton para o Cinema. A nossa mente suscetível ao fantástico pode querer interpretar criaturas como Mulher-Gato ou Pinguim como criações semelhante a Homem-Aranha. Mas não se engane: são distúrbios psicológicos inseridos em uma distopia randiana onde os melhores são os piores. A máxima "dog eats dog" gera aberrações como Joker, Catwoman, Penguim e, claro, o Homem-Morcego.
 

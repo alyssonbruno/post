@@ -6,7 +6,6 @@ date: "2014-06-13"
 tags: [ "draft", "movies" ]
 title: "American Pie Apresenta O Livro do Amor"
 stars: "3/5"
-desc: "American Pie Apresenta O Livro do Amor. American Pie Presents: The Book of Love (USA, 2009). Dirigido por John Putch. Escrito por David H. Steinberg, Adam Herz. Com Eugene Levy, Bug Hall, Kevin M. Horton, Brandon Hardesty, Beth Behrs, Melanie Papalia, Jennifer Holland, John Patrick Jordan, Louisa Lytton."
 ---
 Ótimas piadas, uma história batida, mas que segue a lógica e até meio que homenageia os filmes sobre nerds dos anos 80. E por falar em anos 80, a melhor surpresa é Brandon Hardesty, que faz o gordo desajeitado que fantasia mulheres se entregando para ele a todo o momento. Além de ser a melhor surpresa é praticamente a única, pois seus dois amigos, apesar de socialmente desajeitados, não podem ser rotulados como incapazes de se relacionar com mulheres.
 

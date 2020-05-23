@@ -6,7 +6,6 @@ date: "2014-03-01"
 tags: [ "draft", "movies" ]
 title: "Sharknado"
 stars: "1/5"
-desc: "Sharknado. Sharknado (USA, 2013). Dirigido por Anthony C. Ferrante. Escrito por Thunder Levin. Com Ian Ziering, Tara Reid, John Heard, Cassie Scerbo, Jaason Simmons, Alex Arleo, Neil H. Berkow, Heather Jocelyn Blair, Sumiko Braun."
 ---
 Quando um filme brinca de ser do gênero trash ele faz um esforço mínimo para dar umas piscadelas para o espectador no melhor estilo "ei, eu estou brincando". Essa é uma característica óbvia no interessante Matadores de Vampiras Lésbicas (2009) e no ótimo Zumbilândia (2009). É preciso ter em mente que, sem essa piscadela básica, um trabalho que tenta subverter seu gênero pode acabar sendo o exemplo perfeito de tudo o que não se deve fazer em um filme. É exatamente por isso que Sharknado acaba sendo um marco nos filmes muito, muito ruins.
 

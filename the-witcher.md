@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-12"
 title: "The Witcher"
-desc: '"The Witcher" (EUA e Polônia, 2019), escrito por Andrzej Sapkowski, Lauren Schmidt e Haily Hall, com Henry Cavill, Freya Allan e Anya Chalotra.'
 imdb: "5180504"
 tags: [ "draft", "series" ]
 stars: "2/5"

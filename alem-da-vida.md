@@ -6,7 +6,6 @@ date: "2011-07-01"
 tags: [ "draft", "movies" ]
 title: "Além da Vida"
 stars: "3/5"
-desc: "Além da Vida. Hereafter (USA, 2010). Dirigido por Clint Eastwood. Escrito por Peter Morgan. Com Cécile De France, Thierry Neuvic, Cyndi Mayo Davis, Lisa Griffiths, Jessica Griffiths, Ferguson Reid, Derek Sakakura, Jay Mohr, Richard Kind."
 ---
 Para quem não havia assistido o trailer do novo trabalho de Clint Eastwood (Menina de Ouro), tem a impressão que os conflitos do primeiro ato são apresentados de uma maneira mais impactante do que um drama seria capaz. Como o exemplo mais marcante, escolho a situação em que se encontra Marie LeLay (Cécile de France), uma jornalista de sucesso e que passa o momento mais claustrofóbico do longa.
 

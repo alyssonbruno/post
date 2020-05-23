@@ -7,7 +7,6 @@ date: 2017-09-05T17:32:54
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Gente"
 stars: "4/5"
-desc: "A Gente. A Gente (Brazil, 2013). Dirigido por Aly Muritiba. Escrito por Aly Muritiba."
 ---
 Um bom resumo para o inusitado "A Gente", que chega quatro anos atrasado aos cinemas, é: a história de um carcereiro competente demais para o cargo. Tão competente que virou cineasta, e aqui volta à sua antiga profissão, além de dirigir, roteirizar, filmar, montar e produzir o documentário, demonstrando (mais uma vez) a situação muitas vezes insalubre com que os agentes penitenciários trabalham, e concluindo uma trilogia pessoal do cineasta.
 

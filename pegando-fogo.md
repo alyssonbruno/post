@@ -6,7 +6,6 @@ date: "2016-01-14"
 tags: [ "draft", "movies" ]
 title: "Pegando Fogo"
 stars: "4/5"
-desc: "Pegando Fogo. Burnt (USA, 2015). Dirigido por John Wells. Escrito por Steven Knight, Michael Kalesniko. Com Bradley Cooper, Sienna Miller, Daniel Brühl, Riccardo Scamarcio, Omar Sy, Sam Keeley, Henry Goodman, Matthew Rhys, Stephen Campbell Moore."
 ---
 Pegando Fogo é um filme de sensações mistas. Em seu roteiro, é simplesinho e clichê. Em sua direção e, principalmente, sua edição, é ágil, dinâmico e tão fluido que quase é possível esquecer sua pouca força na história.
 

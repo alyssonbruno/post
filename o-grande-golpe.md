@@ -6,7 +6,6 @@ date: "2013-10-24"
 tags: [ "draft", "movies" ]
 title: "O Grande Golpe"
 stars: "4/5"
-desc: "O Grande Golpe. The Killing (USA, 1956). Dirigido por Stanley Kubrick. Escrito por Stanley Kubrick, Jim Thompson, Lionel White. Com Sterling Hayden, Coleen Gray, Vince Edwards, Jay C. Flippen, Ted de Corsia, Marie Windsor, Elisha Cook Jr., Joe Sawyer, James Edwards."
 ---
 A partir da apresentação dos personagens de O Grande Golpe, o diretor Stanley Kubrick vai aos poucos revelando que a "operação" em torno da qual gira o filme está muito bem arquitetada e vem sendo planejada cuidadosamente por todas as partes envolvidas: um tira corrupto, um apostador de cavalos, um barman, um caixa do guichê de apostas, entre tantos outros.
 

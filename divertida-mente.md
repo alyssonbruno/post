@@ -7,7 +7,6 @@ review: [ "2016", "2019" ]
 tags: [ "draft", "movies" ]
 title: "Divertida Mente"
 stars: "4/5"
-desc: "Divertida Mente. Inside Out (USA, 2015). Dirigido por Pete Docter, Ronaldo Del Carmen. Escrito por Pete Docter, Ronaldo Del Carmen, Meg LeFauve, Josh Cooley, Pete Docter. Com Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader, Lewis Black, Mindy Kaling, Kaitlyn Dias, Diane Lane, Kyle MacLachlan."
 ---
 Divertida Mente é um sinal de que Disney/Pixar, apesar de às vezes parecer que está saindo dos trilhos, produzindo mais e mais continuações e se transformando em uma franquia comercialmente poderosa enquanto artisticamente repetitiva, dessa vez arrisca pra valer, apostando em uma versão de Ela (Spike Jonze, 2013) para o público infantil, destrinchando as emoções que nos formam de uma maneira que dificilmente você verá em produções do gênero.
 

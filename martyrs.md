@@ -7,7 +7,6 @@ date: "2016-03-31"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Martyrs"
 stars: "4/5"
-desc: "Martyrs. Martyrs (USA, 2015). Dirigido por Kevin Goetz, Michael Goetz. Escrito por Pascal Laugier, Mark L. Smith. Com Troian Bellisario, Bailey Noble, Kate Burton, Caitlin Carmichael, Melissa Tracy, Romy Rosemont, Toby Huss, Elyse Cole, Ever Prishkulnik."
 ---
 Martyrs, como todo terror que se preza, possui uma história bem simples. O que o torna envolvente é a sua forma de representar a insanidade humana, seja através da religião ou de uma ideologia qualquer que utilize o ser humano como objeto de sacrifício.
 

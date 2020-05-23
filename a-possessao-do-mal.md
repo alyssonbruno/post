@@ -6,7 +6,6 @@ date: "2015-10-01"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Possessão do Mal"
 stars: "4/5"
-desc: "A Possessão do Mal. The Possession of Michael King (USA, 2014). Dirigido por David Jung. Escrito por David Jung, David Jung, Tedi Sarafian. Com Shane Johnson, Ella Anderson, Cara Pifko, Krystal Alvarez, Tomas Arana, Luke Baines, Dale Dickey, Cullen Douglas, Michael Ray Escamilla."
 ---
 Você já conhece a história: câmeras espalhadas pela casa; acontecimentos estranhos que vão aumentando a cada noite; os especialistas na arte de se comunicar com espíritos.
 

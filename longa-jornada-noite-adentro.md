@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-30T15:09:27-03:00
 title: "Longa Jornada Noite Adentro"
-desc: "Longa Jornada Noite Adentro (China, França, 2018), escrito por Gan Bi, dirigido por Gan Bi, com Wei Tang, Jue Huang, Sylvia Chang."
 imdb: "8185182"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

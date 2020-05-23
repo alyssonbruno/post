@@ -7,7 +7,6 @@ date: "2016-12-19"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Belos Sonhos"
 stars: "4/5"
-desc: "Belos Sonhos. Fai bei sogni (Italy, 2016). Dirigido por Marco Bellocchio. Escrito por Massimo Gramellini, Valia Santella, Edoardo Albinati, Marco Bellocchio. Com Bérénice Bejo (Elisa), Valerio Mastandrea (Massimo), Fabrizio Gifuni, Guido Caprino (Padre di Massimo), Barbara Ronchi (Madre di Massimo), Dario Dal Pero (Massimo adolescente), Nicolò Cabras (Massimo bambino), Emmanuelle Devos, Pier Giorgio Bellocchio."
 ---
 Belos Sonhos é uma verdadeira homenagem e uma investigação sobre essa relação tão íntima, possessiva e determinadora de caráter entre uma criança e sua mãe italiana, a figura eterna da mama. Sutil e visual, se transforma em um trabalho equilibrado, embora intenso, como todo bom filme italiano deve ser.
 

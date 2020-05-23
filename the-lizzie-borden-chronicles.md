@@ -6,7 +6,6 @@ date: "2016-05-20"
 tags: [ "draft", "series" ]
 title: "The Lizzie Borden Chronicles (piloto)"
 stars: "2/5"
-desc: "The Lizzie Borden Chronicles (piloto). The Lizzie Borden Chronicles (USA, 2015). Dirigido por Howard Deutch, Stephen Kay, Constantine Makris, Russell Mulcahy. Escrito por Richard Blaney, Gregory Small, Jason Grote, Barbara Nance, David Simkins. Com Christina Ricci, Clea DuVall, Cole Hauser, Dylan Taylor, John Ralston, Bradley Stryker, Olivia Llewellyn, Jeff Wincott, Jessy Schram."
 ---
 Juro que esperava peitinhos. Uma série com a sempre "interessante" Christina Ricci (A Família Addams ou... O Oposto do Sexo?) sempre promete algo assim. Ela como a assassina sanguinária Lizzie Borden, então...
 

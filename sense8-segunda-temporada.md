@@ -6,7 +6,6 @@ date: "2017-07-01"
 tags: [ "draft", "series" ]
 title: "Sense8 - Segunda Temporada"
 stars: "4/5"
-desc: "Sense8 - Segunda Temporada. Sense8 (USA, 2015). Dirigido por Lana Wachowski, Lilly Wachowski, James McTeigue, Tom Tykwer, Dan Glass. Escrito por J. Michael Straczynski, Lana Wachowski, Lilly Wachowski. Com Doona Bae (Sun Bak), Jamie Clayton (Nomi Marks), Tina Desai (Kala Dandekar), Tuppence Middleton (Riley Blue), Max Riemelt (Wolfgang Bogdanow), Miguel Ángel Silvestre (Lito Rodriguez), Brian J. Smith (Will Gorski), Freema Agyeman (Amanita Caplan), Daryl Hannah (Angelica Turing)."
 ---
 A segunda temporada de Sense8 é tudo o que estava sendo ensaiado na primeira, mas com muito mais intensidade, propriedade e coração. E conforme se aproximava do final foi ficando mais claro por que, mesmo com tanta qualidade narrativa e temática, ou justamente por causa dela, a série estava se despedindo por falta de fãs suficientes. As irmãs Wachowski sempre foram mestras em mesclar temas contemporâneos e filosóficos (Matrix), além de sempre deixar claro que, embora idealizadoras de blockbusters, estão sempre experimentando formas ousadas de contar uma história (Speed Racer), e mesmo quando as coisas não dão muito certo (O Destino de Júpiter) o resultado se mostra pelo menos digno de provocação. E acredito que toda essa gana de estar à frente de seu tempo acaba sendo um tiro pela culatra quando a popularidade é necessária. Sense 8 deixará saudades, mas apenas para um público seleto que entendeu a mensagem por trás das suas provocações contemporâneas.
 

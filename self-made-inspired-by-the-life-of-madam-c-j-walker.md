@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-27"
 title: "Self Made: Inspired by the Life of Madam C.J. Walker"
-desc: '"Self Made: Inspired by the Life of Madam C.J. Walker" (United States, 2020), escrito por Nicole Jefferson Asher, A''Lelia Bundles e Elle Johnson, dirigido por DeMane Davis e Kasi Lemmons, com Octavia Spencer, Tiffany Haddish e Carmen Ejogo.'
 tags: [ "draft", "series" ]
 imdb: "8771910"
 stars: "3/5"

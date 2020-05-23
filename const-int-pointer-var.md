@@ -3,7 +3,6 @@ categories: [ "code" ]
 date: 2019-04-29T20:56:48-03:00
 title: "Const Int Pointer Var"
 tags: [ "draft",  ]
-desc: "Uma explicação de por que não aproximar o asterisco nem to tipo nem da variável na declaração de ponteiros é uma forma neutra de resolver essa questão de estilo."
 ---
 A melhor forma de declarar variáveis ponteiros (constante ou não, mas segue o exemplo) é const int pointer var. Explicação:
 

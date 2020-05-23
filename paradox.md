@@ -6,7 +6,6 @@ date: "2017-04-01"
 tags: [ "draft", "movies" ]
 title: "Paradox"
 stars: "3/5"
-desc: "Paradox. Paradox (USA, 2016). Dirigido por Michael Hurst. Escrito por Michael Hurst. Com Zoë Bell (Gale), Malik Yoba (Mr. Landau), Adam Huss (Jim), Bjørn Alexander (Lewis Aberricki), Brian Flaccus (William Wishman), Michael Aaron Milligan (Randy Fraker), Steve Suh (Van Lang), Darren Bailey (SWAT Team), Nick Benseman (SWAT Team)."
 ---
 Paradox é o tipo de filme que vale a pena conferir pelos conceitos de seu roteiro. Ele é produzido em baixo orçamento, com fotografia de televisão, trilha sonora enlatada e atuações sofríveis. Porém, ignorando tudo isso, este é o filme de viagem no tempo que estava faltando: um que ironicamente evite nos colocar na velha questão dos paradoxos temporais.
 

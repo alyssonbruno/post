@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "6182402"
 
 stars: "4/5"
-desc: "A Cidade do Futuro (Brasil, 2016), escrito por Cláudio Marques, dirigido por Cláudio Marques e Marília Hughes Guerreiro, com Gilmar Araujo, Igor Santos, Milla Suzart."
 
 ---
 Que trabalho lindo de direção este de A Cidade do Futuro. Ele guia seus atores não-atores para realizarem seus símbolos. Ele conta uma história sem precisar das falas. Em suma, ele não precisa do elenco para narrar, mas os utiliza como potência e movimento.

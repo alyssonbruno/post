@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2014-02-05"
 title: "Malena"
-desc: '"Malena" (Itália e EUA, 2000), escrito por Giuseppe Tornatore e Luciano Vincenzoni, dirigido por Giuseppe Tornatore, com Monica Bellucci, Giuseppe Sulfaro e Luciano Federico. Revendo pelo DVD.'
 imdb: "0213847"
 tags: [ "draft", "movies" ]
 stars: "5/5"

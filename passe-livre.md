@@ -6,7 +6,6 @@ date: "2011-03-22"
 tags: [ "draft", "movies" ]
 title: "Passe Livre"
 stars: "4/5"
-desc: "Passe Livre. Hall Pass (USA, 2011). Dirigido por Bobby Farrelly, Peter Farrelly. Escrito por Pete Jones, Peter Farrelly, Kevin Barnett, Bobby Farrelly, Pete Jones. Com Owen Wilson, Jason Sudeikis, Jenna Fischer, Christina Applegate, Nicky Whelan, Richard Jenkins, Stephen Merchant, Larry Joe Campbell, Bruce Thomas."
 ---
 Seguindo o exemplo de Rango, temos mais um filme com referências sutis que funcionam a maior parte do tempo. Com uma fotografia saudosista, de um granulado quase apático, e trilhas selecionadas a dedo (e não são muitas, já que apenas são inseridas em momentos pontuais), o novo trabalho dos irmãos Farrely (Quem Vai Ficar com Mary; Eu, Eu Mesmo e Irene) se posiciona acima da média das comédias românticas exatamente pela narrativa contida que evita o besteirol já cansativo na maioria das obras do gênero.
 

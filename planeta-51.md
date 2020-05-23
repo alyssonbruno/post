@@ -6,7 +6,6 @@ date: "2011-11-06"
 tags: [ "draft", "movies" ]
 title: "Planeta 51"
 stars: "3/5"
-desc: "Planeta 51. Planet 51 (Spain, 2009). Dirigido por Jorge Blanco, Javier Abad, Marcos Martínez. Escrito por Javier Abad, Jorge Blanco, Marcos Martínez, Ignacio Pérez Dolset, Joe Stillman. Com Jessica Biel, John Cleese, Gary Oldman, Dwayne Johnson, Justin Long, Seann William Scott, Freddie Benedict, Alan Marriott, Mathew Horne."
 ---
 A grande impressão ao assistir a introdução e o desenvolvimento de Planeta 51 é que, enquanto argumento, alguém lá no fundo pensou que poderia dar certo (talvez Joe Stillman, que aqui assina apenas como escritor, não roteirista). Talvez o fato de ter sido feito por uma produtora ainda sem veios artísticos (= experiência) para a animação e dirigido e co-dirigido por três pessoas sem muito currículo talvez tenha influenciado um pouco nos tropeços do desenvolvimento criativo da ideia e no uso funesto de trilhas sonoras batidas em sequências claramente não-merecedoras.
 

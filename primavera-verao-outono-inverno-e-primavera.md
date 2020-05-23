@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2010-12-20"
 title: "Primavera Verão Outono Inverno e Primavera"
-desc: '"Bom yeoreum gaeul gyeoul geurigo bom" (Coreia do Sul e Alemanha, 2003), escrito por Ki-duk Kim, dirigido por Ki-duk Kim, com Yeong-su Oh, Ki-duk Kim e Young-min Kim. Revisto por DVD no final do ano. Texto atualizado em 2020-01-04.'
 imdb: "0374546"
 tags: [ "draft", "movies" ]
 stars: "5/5"

@@ -6,7 +6,6 @@ date: "2010-11-01"
 tags: [ "draft", "movies" ]
 title: "Circus Columbia"
 stars: "5/5"
-desc: "Circus Columbia. Cirkus Columbia (Bosnia and Herzegovina, 2010). Dirigido por Danis Tanovic. Escrito por Ivica Djikic, Danis Tanovic. Com Predrag Manojlovic, Mira Furlan, Boris Ler, Jelena Stupljanin, Milan Strljic, Mario Knezovic, Svetislav Goncic, Almir Mehic, Mirza Tanovic."
 ---
 A primeira coisa que nota-se em Cirkus Columbia é a deslumbrante fotografia. Criada de forma magistral, torna a história um épico instantâneo pelo simples fato de reapresentar ao mundo um país anteriormente arrasado pela guerra, onde são aproveitadas não só os quadros da tela larga, mas as luzes também.
 

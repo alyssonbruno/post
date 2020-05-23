@@ -6,7 +6,6 @@ date: "2014-12-23"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Os Boxtrolls"
 stars: "4/5"
-desc: "Os Boxtrolls. The Boxtrolls (USA, 2014). Dirigido por Graham Annable, Anthony Stacchi. Escrito por Irena Brignull, Phil Dale, Adam Pava, Alan Snow, Anthony Stacchi. Com Ben Kingsley, Jared Harris, Nick Frost, Richard Ayoade, Tracy Morgan, Dee Bradley Baker, Steve Blum, Nika Futterman, Pat Fraley."
 ---
 É muito difícil assistir Boxtrolls e se dar conta que aqueles efeitos foram forjados na boa e velha arte do stop-motion: capturar mais de vinte fotos de bonecos em cima de uma maquete para gerar um segundo de filme.
 

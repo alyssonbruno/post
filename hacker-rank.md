@@ -2,7 +2,6 @@
 categories: [ "code" ]
 date: "2019-08-08"
 title: "Some things I learned in a Hacker Rank exercise"
-desc: "About the heap issue and how to keep balanced items wihtout overload the processing."
 tags: [ "draft", "ccpp", "puzzle", "english" ]
 ---
 A couple of days ago I subscribed to Hacker Hank, a website specialized in provide interview exercises. The site is as a better version of Code Jam, with the possibility to Compile & Run the code, as well as running several test cases.

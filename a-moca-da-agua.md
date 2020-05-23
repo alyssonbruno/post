@@ -1,7 +1,6 @@
 ---
 date: "2020-04-26"
 title: "A Moça da Água"
-desc: '"La fille de l''eau" (France, 1925), escrito por Pierre Lestringuez, dirigido por Jean Renoir, com Catherine Hessling, Charlotte Clasis e Pierre Champagne.'
 imdb: "0014898"
 stars: "4/5"
 categories: [ "cinema" ]

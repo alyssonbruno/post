@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-09T11:54:24-02:00
 title: "Shirkers: O Filme Roubado"
-desc: "Shirkers. EUA, 2018. Escrito e dirigido por Sandi Tan. Com Sandi Tan, Sophia Siddique Harvey, Georges Cardona. Documentário, história, cinema, singapura."
 imdb: "7472352"
 
 tags: [ "draft", "movies" ]

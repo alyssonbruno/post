@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "6802896"
 
 stars: "5/5"
-desc: "Ciambra (Itália, 2017), escrito e dirigido por Jonas Carpignano, com Pio Amato, Koudous Seihon, Damiano Amato."
 
 ---
 Que filme impactante! E extenuante. Quando chegamos na última cena estamos esgotados, e não é pelas duas horas de projeção. Ciganos da Ciambra praticamente nos rouba a alma com seu fundo documental e histórico, e faz isso de uma maneira absurdamente tensa e atemporal. Quando o garoto do filme chega ao final, ele passou por tantas iniciações, e todos os passos necessários para se tornar um homem -- algo que ele deseja muito desde o começo -- que quase parece que o filme não vai terminar. Pelo menos para nós. Para ele, valeu completamente a pena.

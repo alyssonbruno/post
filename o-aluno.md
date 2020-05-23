@@ -6,7 +6,6 @@ date: "2016-12-09"
 tags: [ "draft", "movies" ]
 title: "O Aluno"
 stars: "3/5"
-desc: "O Aluno. The First Grader (UK, 2010). Dirigido por Justin Chadwick. Escrito por Ann Peacock. Com Naomie Harris (Jane Obinchu), Oliver Litondo (Kimani Ng'ang'a Maruge), Tony Kgoroge (Charles Obinchu), Alfred Munyua (Teacher Alfred), Shoki Mokgapa (Teacher Elizabeth), Vusi Kunene (Mr. Kipruto), Agnes Simaloi (Agnes), Kamau Mbaya (Kamau Chege), Emily Njoki (Young Maruge's Wife)."
 ---
 Este é daqueles filmes bonitinhos, com lição de moral, ou lição de vida, que tenta aumentar a trilha sonora solene e emocionante sempre que pode, além de colocar lágrimas nos rostos dos personagens para induzir o espectador ao choro fácil. Choro fácil este que não vem, já que seus personagens não são assim tão carismáticos, e o protagonista, apesar da história de vida sofrida, parece não possuir condições de exprimi-la de uma maneira civilizada.
 

@@ -6,7 +6,6 @@ date: "2015-01-21"
 tags: [ "draft", "movies" ]
 title: "Pistoleiro Sem Destino"
 stars: "4/5"
-desc: "Pistoleiro Sem Destino. The Hired Hand (USA, 1971). Dirigido por Peter Fonda. Escrito por Alan Sharp. Com Peter Fonda, Warren Oates, Verna Bloom, Robert Pratt, Severn Darden, Rita Rogers, Ann Doran, Ted Markland, Owen Orr."
 ---
 Peter Fonda atuou em dezenas de filmes e dirigiu três. Homem sem destino é o primeiro deles, em que ele também atua. É um retrato honesto de um pedacinho do velho oeste, mas mostrado de maneira romantizada e uma inesquecível trilha sonora.
 

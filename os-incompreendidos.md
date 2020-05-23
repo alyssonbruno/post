@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-22"
 title: "Os Incompreendidos"
 tags: [ "draft", "movies" ]
-desc: '"The 400 Blows" (France, 1959), escrito por François Truffaut e Marcel Moussy, dirigido por François Truffaut, com Jean-Pierre Léaud, Claire Maurier e Albert Rémy.'
 imdb: "0053198"
 stars: "5/5"
 ---

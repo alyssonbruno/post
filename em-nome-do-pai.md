@@ -6,7 +6,6 @@ date: "2016-02-27"
 tags: [ "draft", "movies" ]
 title: "Em Nome do Pai"
 stars: "5/5"
-desc: "Em Nome do Pai. In the Name of the Father (Ireland, 1993). Dirigido por Jim Sheridan. Escrito por Gerry Conlon, Terry George, Jim Sheridan. Com Alison Crosbie, Daniel Day-Lewis, Philip King, Emma Thompson, Nye Heron, Anthony Brophy, Frankie McCafferty, Paul Warriner, Julian Walsh."
 ---
 Em Nome do Pai é daquelas pérolas baseadas em fatos reais que funciona pelo emocional, mas também é um trabalho intimista que adentra o suficiente no lamaçal da "justiça" estatal para conseguir identificar o que critica sem desmerecer nossa inteligência.
 

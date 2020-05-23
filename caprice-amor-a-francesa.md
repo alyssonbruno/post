@@ -7,7 +7,6 @@ date: "2016-09-30"
 tags: [ "draft", "movies" ]
 title: "Caprice: Amor à Francesa"
 stars: "5/5"
-desc: "Caprice: Amor à Francesa. Caprice (France, 2015). Dirigido por Emmanuel Mouret. Escrito por Emmanuel Mouret. Com Virginie Efira, Anaïs Demoustier, Laurent Stocker, Emmanuel Mouret, Thomas Blanchard, Mathilde Warnier, Olivier Cruveiller, Botum Dupuis, Néo Rouleau."
 ---
 Uma comédia do Woody Allen, se Woody Allen fosse francês e não tivesse crises depressivas expostas em seus filmes. Aqui o lance é mais romântico, mas com conteúdo e inteligência. O filme trabalha a questão dos diversos tipos de amor, algo muito em voga hoje em dia, em que o conceito de família só é estático para burocratas estatais com crises de abstinência em práticas anais.
 

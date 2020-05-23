@@ -6,7 +6,6 @@ date: "2015-01-04"
 tags: [ "draft", "movies" ]
 title: "Minúsculos O Filme"
 stars: "5/5"
-desc: "Minúsculos O Filme. Minuscule - La vallée des fourmis perdues (France, 2013). Dirigido por Hélène Giraud, Thomas Szabo. Escrito por Thomas Szabo, Hélène Giraud."
 ---
 Me encantam filmes cuja ideia não parece muito boa ou de difícil execução, mas então, remando contra a maré, surge um trabalho inspirador.
 

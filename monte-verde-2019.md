@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2019-12-10"
 title: "Monte Verde 2019"
-desc: "Meu passeio pelas trilhas e pela cidadezinha mineira."
 tags: [ "draft", "trips" ]
 ---
 Monte Verde como cidade turística é bem cara, pois fica do lado das cidades do interior de São Paulo para onde boa parte da classe média da capital migrou. O foco turístico dessa região fica nessa cidadezinha encrustada entre os montes que dividem o Sul de Minas com o estado paulista. Todo o resto do gigantesco município de Camanducaia, suas cachoeiras e paisagens mais distantes, segue ignorado pelos que vêm de fora, mas não pelos locais.

@@ -6,7 +6,6 @@ date: "2011-12-25"
 tags: [ "draft", "movies" ]
 title: "Um Sonho de Amor"
 stars: "3/5"
-desc: "Um Sonho de Amor. Io sono l'amore (Italy, 2009). Dirigido por Luca Guadagnino. Escrito por Barbara Alberti, Ivan Cotroneo, Walter Fasano, Luca Guadagnino, Luca Guadagnino. Com Tilda Swinton, Flavio Parenti, Edoardo Gabbriellini, Alba Rohrwacher, Pippo Delbono, Maria Paiato, Diane Fleri, Waris Ahluwalia, Mattia Zaccaro."
 ---
 Essa história sobre a mudança dos valores sob vários aspectos é uma abordagem quase idílica do novo cinema italiano. Assistimos com certa solenidade o sisudo jantar em família (evidenciado pelo exagero de sombras) em que o patriarca, já debilitado, transfere o controle da empresa para seu filho e neto. O inusitado e refrescante dessa nova história é que nos bastidores (ou para ser mais direto, na cozinha) encontra-se a origem de mudanças radicais naquela forma de funcionar o mundo.
 

@@ -6,7 +6,6 @@ date: "2015-12-29"
 tags: [ "draft", "movies" ]
 title: "Scarface: A Vergonha de uma Nação"
 stars: "5/5"
-desc: "Scarface: A Vergonha de uma Nação. Scarface (USA, 1932). Dirigido por Howard Hawks, Richard Rosson. Escrito por Armitage Trail, Ben Hecht, Seton I. Miller, John Lee Mahin, W.R. Burnett, Seton I. Miller, John Lee Mahin, W.R. Burnett, Howard Hawks. Com Paul Muni, Ann Dvorak, Karen Morley, Osgood Perkins, C. Henry Gordon, George Raft, Vince Barnett, Boris Karloff, Purnell Pratt."
 ---
 Antes que me perguntem, gosto das duas performances de Scarface no Cinema. Al Pacino é um cubano crível e o roteiro de Oliver Stone dá tempo para vermos o personagem maturar em sua ascenção e declínio como rei do crime. Não dá para fingir que ele não se inspirou, pelo menos levemente, na performance do filme original. Porém, grande ator que é, Pacino consegue sempre impregnar de naturalidade seus personagens.
 

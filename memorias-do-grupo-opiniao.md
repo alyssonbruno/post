@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-26T16:46:57-03:00
 title: "Memórias do Grupo Opinião"
-desc: "Memórias do Grupo Opinião (Brasil, 2019), escrito e dirigido por Paulo Thiago, com Carlos Diegues, Antonio Pitanga, Carlos Heitor Cony, Ferreira Gullar e imagens de arquivo."
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 

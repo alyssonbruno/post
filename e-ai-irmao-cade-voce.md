@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-04-07"
 title: "E Aí, Meu Irmão, Cadê Você?"
-desc: '"O Brother, Where Art Thou?" (Reino Unido, França e EUA, 2000), escrito por Ethan Coen e Joel Coen baseados em Ulisses, de Homero (esse da Grécia), dirigido por Joel Coen e Ethan Coen, com George Clooney, John Turturro e Tim Blake Nelson.'
 tags: [ "draft", "movies" ]
 imdb: "0190590"
 stars: "3/5"

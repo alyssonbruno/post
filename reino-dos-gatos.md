@@ -6,7 +6,6 @@ date: "2013-11-09"
 tags: [ "draft", "movies" ]
 title: "Reino dos Gatos"
 stars: "3/5"
-desc: "Reino dos Gatos. Neko no ongaeshi (Japan, 2002). Dirigido por Hiroyuki Morita. Escrito por Aoi Hiiragi, Reiko Yoshida, Cindy Davis Hewitt, Donald H. Hewitt. Com Chizuru Ikewaki, Yoshihiko Hakamada, Aki Maeda, Takayuki Yamada, Hitomi Satô, Kenta Satoi, Mari Hamada, Tetsu Watanabe, Yôsuke Saitô."
 ---
 Assim como em Mundo dos Pequeninos, aqui os estúdios Ghibli fazem o que a Disney/Pixar começa a copiar: pequenas produções sem história desenvolvida para Cinema, mas que ganha a simpatia por usar os mesmos traços conhecidos de produções mais pomposas, como as dirigidas por Miyazaki.
 

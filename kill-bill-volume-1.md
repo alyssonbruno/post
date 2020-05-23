@@ -7,7 +7,6 @@ tags: [ "draft", "movies" ]
 count: 2
 title: "Kill Bill Volume 1"
 stars: "5/5"
-desc: "Kill Bill Volume 1. Kill Bill: Vol. 1 (USA, 2003). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino, Quentin Tarantino, Uma Thurman. Com Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah, David Carradine, Michael Madsen, Julie Dreyfus, Chiaki Kuriyama, Shin'ichi Chiba."
 ---
 Não é preciso dizer que Quentin Tarantino é um diretor pop e cult, e uma coisa o levou à outra. Também não é preciso dizer o quanto filmes de artes marciais são um pedaço importantíssimo na cultura pop/"trash" dos anos 70 e 80. Se juntarmos esses dois universos teremos Kill Bill, um filme feito para ser um só, mas que por motivos comerciais acabou inchando e dividindo-se.
 

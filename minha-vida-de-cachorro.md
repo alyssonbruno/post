@@ -6,7 +6,6 @@ date: "2015-08-02"
 tags: [ "draft", "movies" ]
 title: "Minha Vida de Cachorro"
 stars: "4/5"
-desc: "Minha Vida de Cachorro. Mitt liv som hund (Sweden, 1985). Dirigido por Lasse Hallström. Escrito por Reidar Jönsson, Lasse Hallström, Reidar Jönsson, Brasse Brännström, Per Berglund. Com Anton Glanzelius, Tomas von Brömssen, Anki Lidén, Melinda Kinnaman, Kicki Rundgren, Lennart Hjulström, Ing-Marie Carlsson, Leif Ericson, Christina Carlwind."
 ---
 Esse é um filme sueco da década de 80 que, cultural dessa sociedade ou não, prima pela beleza da pureza dos olhos de uma criança e ao mesmo tempo pode chocar os adultos e seus filtros morais. Por isso advirto: se quiser aproveitar de verdade esse filme, não se deixe levar por julgamentos levianos a respeito de sexualidade ou o politicamente correto que infecta nossa criatividade e nossas relações humanas. Veja com os mesmos olhos dessa pequena criança sueca e tudo estará bem.
 

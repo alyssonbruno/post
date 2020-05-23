@@ -6,7 +6,6 @@ date: 2017-12-27T16:43:04
 tags: [ "draft", "series" ]
 title: "Erased: Piloto"
 stars: "3/5"
-desc: "Erased: Piloto. Bokudake ga Inai Machi (Japan, 2017). Dirigido por Ten Shimoyama. Escrito por Kei Sanbe. Com Yûki Furukawa (Satoru Fujinuma), Tomoka Kurotani (Sachiko Fujinuma), Reo Uchikawa (Satoru Fujinuma - Age 10), RiRia (Satoru Fujinuma (10-year-old)), Shigeyuki Totsugi (Gaku Yashiro), Jyo Kairi (Hiromi Sugita - Age 10), Rinka Kakihara (Kayo Hinazuki - Age 10), Mio Yûki (Airi Katagiri)."
 ---
 Esta é uma série fantástica baseada tão fortemente em um mangá e anime que ele pode ser o delírio do fã das obras originais ou atiçar a curiosidade do cinéfilo. Por que a curiosidade? Se observarmos os movimentos de câmera, a forma de disposição dos personagens e dos elementos em cena perceberemos que esta obra continua sendo um anime em forma.
 

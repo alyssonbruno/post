@@ -6,7 +6,6 @@ date: "2016-08-18"
 tags: [ "draft", "series" ]
 title: "Jessica Jones"
 stars: "3/5"
-desc: "Jessica Jones. Jessica Jones (USA, 2015). Dirigido por Simon Cellan Jones, S.J. Clarkson, David Petrarca, Stephen Surjik. Escrito por Melissa Rosenberg, Brian Bendis, Michael Gaydos, Ruth Atkinson, Otto Binder, Stan Lee, Joe Orlando, John Byrne, Chris Claremont. Com Krysten Ritter, Rachael Taylor, Eka Darville, David Tennant."
 ---
 Uma história de super-heróis ligeiramente diferente do que a Marvel costuma contar, Jessica Jones é uma narrativa arrastada, que dá tempo de tela demais para a limitada Krysten Ritter (da série Breaking Bad), e que muda de tom durante sua história. No início há indícios de um noir pós-moderno, com cores na penumbra, uma protagonista bisbilhoteira de caráter (e um passado) duvidoso, e uma certa relativização do que é certo e errado; lá pela metade, com o surgimento do vilão Killgrave (o ótimo David Tennant) encontramos um curioso debate de quais são os papéis de bem e mal, assim como se vale a pena tentar salvar representantes da espécie humana conhecendo sua capacidade infinita para miséria de espírito, estupidez e egocentrismo; e no final, para conseguir executar seu "plano final", manipula tudo que havíamos visto até então para entregar uma conclusão clichê e insossa, nos forçando a tentar gostar de uma heroína problemática e desgostar de um vilão no mínimo fascinante.
 

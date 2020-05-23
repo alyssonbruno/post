@@ -7,7 +7,6 @@ tags: [ "draft", "movies" ]
 title: "Homem-Aranha: De Volta ao Lar"
 stars: "3/5"
 revison: ['2017-08-03']
-desc: "Homem-Aranha: De Volta ao Lar. Spider-Man: Homecoming (USA, 2017). Dirigido por Jon Watts. Escrito por Jonathan Goldstein, John Francis Daley, Jon Watts, Christopher Ford, Chris McKenna, Erik Sommers, Stan Lee, Steve Ditko, Joe Simon. Com Tom Holland (Peter Parker / Spider-Man), Michael Keaton (Adrian Toomes / Vulture), Robert Downey Jr. (Tony Stark / Iron Man), Marisa Tomei (May Parker), Jon Favreau (Happy Hogan), Gwyneth Paltrow (Pepper Potts), Zendaya (Michelle), Donald Glover (Aaron Davis), Jacob Batalon (Ned)."
 ---
 A re-re-estreia do Homem-Aranha em filme solo -- dessa vez no insosso universo dos Vingadores -- é uma divertida abordagem de um Peter Parker jovem e sem traumas (ou seja: sem Uncle Ben) que atualiza o personagem para uma época pressionada pela gangue do politicamente correto, mas também pela geração do bom humor, das ações sem consequências, do "Homem-Aranha do YouTube". Este é um filme definitivamente para assistir com pipoca, do lado dos filhos, sem estar muito preso aos detalhes que destoam dos gibis.
 

@@ -1,7 +1,6 @@
 ---
 date: "2020-05-14"
 title: "Bode Caloni Cast Live"
-desc: "O que foi citado (que me lembro, quase na ordem): WestWorld, Parasita, Bit Mouth, The Last Airbender/Avatar, Iluminado, Memento/Amnésia, Inception/A Origem, Clube da Luta, The Room."
 categories: [ "blog" ]
 tags: [ "draft", "events" ]
 ---

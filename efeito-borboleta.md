@@ -6,7 +6,6 @@ date: "2015-06-13"
 tags: [ "draft", "movies" ]
 title: "Efeito Borboleta"
 stars: "4/5"
-desc: "Efeito Borboleta. The Butterfly Effect (USA, 2004). Dirigido por Eric Bress, J. Mackye Gruber. Escrito por J. Mackye Gruber, Eric Bress. Com Ashton Kutcher, Melora Walters, Amy Smart, Elden Henson, William Lee Scott, John Patrick Amedori, Irina Gorovaia, Kevin G. Schmidt, Jesse James."
 ---
 Efeito Borboleta é um desses filmes difíceis de defender, mas quem comprar a briga (como eu) pode encontrar uma fonte inesgotável de prazer. Prazer de defender a arte cinematográfica, mesmo às vezes através de sua própria imperfeição. Prazer me reconhecer que, mesmo com tantos defeitos, uma obra pode exibir virtudes que a tornam ímpares, ou pelo menos dignas de algumas revisitas. Há elementos particularmente fascinantes escondidos dentro do embrulho que é este filme, em um formato não muito bem empacotado.
 

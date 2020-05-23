@@ -6,7 +6,6 @@ date: "2012-04-20"
 tags: [ "draft", "movies" ]
 title: "Xingu"
 stars: "3/5"
-desc: "Xingu. Xingu (Brazil, 2012). Dirigido por Cao Hamburger. Escrito por Elena Soarez, Cao Hamburger, Anna Muylaert. Com João Miguel, Felipe Camargo, Caio Blat, Maiarim Kaiabi, Awakari Tumã Kaiabi, Adana Kambeba, Tapaié Waurá, Totomai Yawalapiti, Maria Flor."
 ---
 É um sintoma relevante do Cinema no Brasil que os temas mais polêmicos  salvo jovens clássicos como Cidade de Deus e Tropa de Elite  sofram uma obliteração criativa. Xingu, novo trabalho de Cao Hamburguer na direção (O Ano em Que Meus Pais Saíram de Férias), com produção de Fernando Meirelles (que dispensa apresentações), não consegue fugir desse estigma completamente, embora tenha seus bons momentos.
 

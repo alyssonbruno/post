@@ -6,7 +6,6 @@ date: "2013-07-10"
 tags: [ "draft", "movies" ]
 title: "Dezesseis Luas"
 stars: "1/5"
-desc: "Dezesseis Luas. Beautiful Creatures (USA, 2013). Dirigido por Richard LaGravenese. Escrito por Richard LaGravenese, Kami Garcia, Margaret Stohl. Com Alden Ehrenreich, Alice Englert, Jeremy Irons, Viola Davis, Emmy Rossum, Thomas Mann, Emma Thompson, Eileen Atkins, Margo Martindale."
 ---
 Beautiful Creatures, ou Dezesseis Luas, é um filme baseado em um romance de Kami Garcia e Margaret Stohl que contém mais algumas continuações que muito provavelmente deverão ser produzidas como novos filmes no estilo da... arght! série Crepúsculo. Este foi dirigido e adaptado por Richard LaGravenese (que já havia feito um belo serviço em PS Eu Te Amo).
 

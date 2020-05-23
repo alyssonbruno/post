@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-18T13:12:07-03:00
 title: "Brilho Eterno de uma Mente Sem Lembranças"
-desc: "Eternal Sunshine of the Spotless Mind. EUA, 2004. Escrito por Charlie Kaufman, com história por Kaufman, Michel Gondry e Pierre Bismuth. Dirigido por Michel Gondry. Com Jim Carrey, Kate Winslet, Tom Wilkinson, Mark Ruffalo, Kirsten Dunst e Elijah Wood."
 imdb: "0338013"
 
 tags: [ "draft", "movies" ]

@@ -6,7 +6,6 @@ date: "2011-03-09"
 tags: [ "draft", "movies" ]
 title: "Esposa de Mentirinha"
 stars: "3/5"
-desc: "Esposa de Mentirinha. Just Go with It (USA, 2011). Dirigido por Dennis Dugan. Escrito por Allan Loeb, Timothy Dowling, I.A.L. Diamond, Abe Burrows, Pierre Barillet, Jean-Pierre Grédy. Com Adam Sandler, Jennifer Aniston, Nicole Kidman, Nick Swardson, Brooklyn Decker, Bailee Madison, Griffin Gluck, Dave Matthews, Kevin Nealon."
 ---
 "(...) o filme se baseie provavelmente em um fim-de-semana que ele mesmo tirou com seus amigos (...)"
 

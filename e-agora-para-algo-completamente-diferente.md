@@ -6,7 +6,6 @@ date: "2015-12-12"
 tags: [ "draft", "movies" ]
 title: "E Agora para Algo Completamente Diferente"
 stars: "3/5"
-desc: "E Agora para Algo Completamente Diferente. And Now for Something Completely Different (UK, 1971). Dirigido por Ian MacNaughton. Escrito por Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin. Com Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin, Carol Cleveland, Connie Booth, Lewis Alexander."
 ---
 Esse filme é uma compilação de quadros do programa televisivo do grupo de humoristas Monty Pyhton, e por incrível que pareça o conjunto da obra é menor do que a soma das suas clássicas piadas, talvez por não ser um filme de verdade e por exagerar o bizarro e surreal.
 

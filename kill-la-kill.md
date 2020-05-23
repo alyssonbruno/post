@@ -6,7 +6,6 @@ date: "2014-10-19"
 tags: [ "draft", "series", "animes" ]
 title: "Kill La Kill"
 stars: "4/5"
-desc: "Kill La Kill. Kill La Kill (Japan, 2013). Dirigido por Akira Amemiya, Hiroyuki Imaishi, Alex Von David. Escrito por Kazuki Nakashima, Alex Von David. Com Ami Koshimizu, Aya Suzaki, Toshihiko Seki, Shin'ichirô Miki, Zach Aguilar, Ryôka Yuzuki, Ayumi Fujimura, Christine Marie Cabanos, Erica Mendez."
 ---
 "Não fazer sentido é com a gente!", repete a heroína Ryuko Matoi nos capítulos finais do anime Kill La Kill. Parte de sua inspiração vem de sua amiga inseparável Mako Mankanshoku, que muito provavelmente entraria em várias listas de personagens mais carismáticas, engraçadas e "sem sentido".
 

@@ -6,7 +6,6 @@ date: "2011-08-22"
 tags: [ "draft", "movies" ]
 title: "O Solista"
 stars: "3/5"
-desc: "O Solista. The Soloist (UK, 2009). Dirigido por Joe Wright. Escrito por Susannah Grant, Steve Lopez. Com Jamie Foxx, Robert Downey Jr., Catherine Keener, Tom Hollander, LisaGay Hamilton, Nelsan Ellis, Rachael Harris, Stephen Root, Lorraine Toussaint."
 ---
 Seguindo o filme de duplas, dessa vez com Robert Downey Jr. e Jamie Foxx, o drama O Solista é baseado em livro homônimo escrito pelo jornalista-personagem Steve Lopez, que se torna obcecado pela vida de Nathaniel Ayers, um sem-teto que tinha tudo para ser um grande músico, mas devido aos seus problemas mentais, acaba se refugiando da sociedade nas ruas.
 

@@ -6,7 +6,6 @@ date: "2011-10-10"
 tags: [ "draft", "movies" ]
 title: "Cartas Para Julieta"
 stars: "2/5"
-desc: "Cartas Para Julieta. Letters to Juliet (USA, 2010). Dirigido por Gary Winick. Escrito por Jose Rivera, Tim Sullivan. Com Amanda Seyfried, Marcia DeBonis, Gael García Bernal, Giordano Formenti, Paolo Arvedi, Dario Conti, Ivana Lotito, Luisa Ranieri, Marina Massironi."
 ---
 Sophie e Victor estão noivos e vão passar uma "pré-lua-de-mel" na Itália, onde Victor (Garcpia Bernal) pretende conseguir contatos com fornecedores para o restaurante que pretende abrir. Enquanto isso, Sophie (Seyfried) se desilude com as supostas férias e procura algo melhor para fazer: escrever respostas para as mulheres que lotam a muro da Casa de Julieta (a mesma de Shakespeare) com cartas românticas.
 

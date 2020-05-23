@@ -6,7 +6,6 @@ date: "2014-04-17"
 tags: [ "draft", "movies" ]
 title: "As Crônicas de Spiderwick"
 stars: "3/5"
-desc: "As Crônicas de Spiderwick. The Spiderwick Chronicles (USA, 2008). Dirigido por Mark Waters. Escrito por Karey Kirkpatrick, David Berenbaum, John Sayles, Tony DiTerlizzi, Holly Black. Com Freddie Highmore, Mary-Louise Parker, Nick Nolte, Sarah Bolger, Andrew McCarthy, Joan Plowright, David Strathairn, Seth Rogen, Martin Short."
 ---
 Essa é basicamente uma versão infanto-juvenil de A Morte do Demônio: alguém acha um livro amaldiçoado em uma casa abandonada e que ninguém deveria habitar e agora está impossibilitado de sair do lugar, pois parte da maldição prega que tanto o livro quanto seus leitores devem ser eliminados. A parte infanto-juvenil da história é que ela deve envolver ogros, globlins, trolls, ter uma moral da história  que se for Disney/Spielberg, vai envolver uma relação pai e filho... bingo!  e, o essencial: ninguém deve se machucar no processo, mas todos devem se divertir como em um parque de diversões temático.
 

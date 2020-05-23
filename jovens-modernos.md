@@ -6,7 +6,6 @@ date: "2011-10-29"
 tags: [ "draft", "movies" ]
 title: "Kids of Töday"
 stars: "3/5"
-desc: "Kids of Töday. Des jeunes gens mödernes (France, 2011). Dirigido por Jérôme de Missolz. Escrito por Jérôme de Missolz, Gilles Le Guen, Jean-François Sanz. Com Yves Adrien, Lio, Edwige, Aurélie Benchekri, Antoine Capet, Mathieu Chausseron, Sabine Noble, Joris Larochelle, Anne-Sophie Le Creurer."
 ---
 Qual a visão de um crítico musical sobre a música contemporânea de vanguarda? Ou, uma pergunta ainda melhor, o que esse crítico pensa sobre os jovens dessa nova era, tão acomodados a ouvirem músicas de diversas correntes (muitas delas auto-proclamadas futuristas) e se limitarem a apertar o botão Like de seu Facebook?
 

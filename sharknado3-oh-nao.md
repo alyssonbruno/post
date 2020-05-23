@@ -6,7 +6,6 @@ tags: [ "draft", "movies" ]
 imdb: "3899796"
 
 stars: "1/5"
-desc: "Sharknado 3: Oh Hell No!"
 ---
 O herói nacional salva o presidente de um tornado de tubarões. Ele ganha a serra elétrica dourada como prêmio. E ele faz o parto do seu filho de dentro de um tubarão, enquanto seu pai se sacrifica lutando com esses predadores naturais do mar, só que na lua. São tantos detalhes divertidos da terceira parte dessa saga de defeitos digitais com tubarões criados em um aquário do Photophop que você se pergunta: o que deu errado no caminho para ele não ter a mínima graça? Ele levou tão a sério a farofa de brincadeira que deu a volta e parece sério?
 

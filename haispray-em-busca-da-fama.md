@@ -6,7 +6,6 @@ date: "2012-05-14"
 tags: [ "draft", "movies" ]
 title: "Hairspray Em Busca da Fama"
 stars: "3/5"
-desc: "Hairspray Em Busca da Fama. Hairspray (USA, 2007). Dirigido por Adam Shankman. Escrito por Leslie Dixon, John Waters, Mark O'Donnell, Thomas Meehan. Com John Travolta, Michelle Pfeiffer, Christopher Walken, Amanda Bynes, James Marsden, Queen Latifah, Brittany Snow, Zac Efron, Elijah Kelley."
 ---
 Há uma mensagem muito bela em Hairspray, sobre o fim da guerra inter-racial ocorrida nos EUA na década de 60. Aliada a danças empolgantes e teatrais, nos leva a concluir tristemente que sua moral pertence ao mundo dos sonhos, da dança. E é na dança que está a maior virtude e o maior defeito desse filme.
 

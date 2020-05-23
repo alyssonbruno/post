@@ -6,7 +6,6 @@ date: "2017-02-16"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Jovem Rainha"
 stars: "3/5"
-desc: "A Jovem Rainha. The Girl King (Finland, 2015). Dirigido por Mika Kaurismäki. Escrito por Michel Marc Bouchard. Com Malin Buska (Queen Kristina), Sarah Gadon (Countess Ebba Sparre), Michael Nyqvist (Chancellor Axel Oxenstierna), Lucas Bryant (Count Johan Oxenstierna), Laura Birn (Countess Erika Erksein), Hippolyte Girardot (Ambassador Pierre Hector Chanut), Peter Lohmeyer (Bishop Of Stockholm), François Arnaud (Karl Gustav Kasimir), Patrick Bauchau (René Descartes)."
 ---
 A Jovem Rainha tem vários assuntos para tratar durante o conturbado reinado da rainha Cristina no império sueco do século 17, mas não parece conseguir se adequar ao tom mais apropriado. Se em alguns momentos gera o humor incidental da típica loucura dos monarcas, em outros tenta puxar a grandiosidade dos acontecimentos históricos, e no meio do caminho flerta perigosamente com um episódio de seriado de TV.
 

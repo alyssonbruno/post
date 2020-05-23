@@ -6,7 +6,6 @@ date: "2015-05-26"
 tags: [ "draft", "movies" ]
 title: "Mr. Vingança"
 stars: "4/5"
-desc: "Mr. Vingança. Boksuneun naui geot (South Korea, 2002). Dirigido por Chan-wook Park. Escrito por Jae-sun Lee, Jong-yong Lee, Mu-yeong Lee, Chan-wook Park. Com Kang-ho Song, Ha-kyun Shin, Doona Bae, Ji-Eun Lim, Bo-bae Han, Se-dong Kim, Dae-yeon Lee, Masashi Fujimoto, Ju-bong Gi."
 ---
 A vingança vista em Old Boy, de Chan-wook Park, é o segundo filme do diretor sobre o tema. O primeiro, esse Mr. Vingança, é mais bruto. Não no sentido da violência ou da revelação final. Não há revelações finais, aliás (spoiler alert!), mas há duas metades de uma história: na primeira metade as pessoas e suas relações são escancaradas para que, na segunda metade, uma espiral sem fim de atos de vingança tome conta da tela. Muitas vezes o filme tenta soar apenas um pouco além do que ele verdadeiramente é, e por isso trai sua própria perfeição estética em troca de uma história muitas vezes sem rumo ou simbólica demais. 
 

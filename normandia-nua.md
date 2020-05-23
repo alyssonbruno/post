@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-15T14:40:43-02:00
 title: "Normandia Nua"
-desc: "Normandie nue (aka Naked Normandy) (França, 2018), escrito por Olivier Dazat, Philippe Le Guay e Victoria Bedos, dirigido por Philippe Le Guay, com François Cluzet como o prefeito-monarca-patriarca Georges Balbuzard, Arthur Dupont como o rapaz que é desafiado a voltar a suas origens Vincent Jousselin, François-Xavier Demaison como o cidadão urbano que quer viver a toda custa no campo Thierry Levasseur e sua filha narradora Chloé Levasseur, interpretada de maneira intransigente por Pili Groyne."
 imdb: "6923840"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

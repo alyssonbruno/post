@@ -4,7 +4,6 @@ title: "Jonas e o Circo sem Lona"
 stars: "4/5"
 date: "2017-03-08"
 tags: [ "draft", "movies" , "cinemaqui" ]
-desc: "Jonas e o Circo sem Lona. Jonas e o Circo sem Lona (Brasil, 2017). Dirigido por Paula Gomes. Escrito por Paula Gomes."
 ---
 Jonas e o Circo sem Lona é um documentário onde a documentarista não só realiza um trabalho de metalinguagem como chega a desempenhar um papel ativo na própria história que pretende contar.
 

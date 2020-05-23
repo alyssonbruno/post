@@ -6,7 +6,6 @@ date: "2015-05-05"
 tags: [ "draft", "movies" ]
 title: "Vingadores: Era de Ultron"
 stars: "3/5"
-desc: "Vingadores: Era de Ultron. Avengers: Age of Ultron (USA, 2015). Dirigido por Joss Whedon. Escrito por Joss Whedon, Stan Lee, Jack Kirby. Com Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, James Spader, Samuel L. Jackson, Don Cheadle."
 ---
 Vingadores 2 já estreia atrasado. Seu tema de inteligência artificial parece já ter sido abordado com maior sucesso a partir de trabalhos menos ambiciosos, mas bem mais curiosos, como Transcendence e Lucy (coincidentemente com a mesma Scarlett Johansson que aqui faz a heroína russa Viúva Negra). No entanto, seu maior trunfo com certeza não são os embates filosóficos sobre qual a solução para a paz mundial através do uso de redes neurais artificialmente produzidas (ou feitas por alienígenas). Isso está tão resumido em chavões e explicações genéricas para o espectador médio que não faz muita diferença. Como sempre, a grande sacada dos filmes de super-heróis são as explosões, os efeitos visuais, as frases de efeito levemente cômicas (mas nunca ofensivas) e as roupas coloridas (hoje em dia, em "dark" discreto, mas coloridas).
 

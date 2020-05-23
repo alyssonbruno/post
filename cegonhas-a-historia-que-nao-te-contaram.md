@@ -6,7 +6,6 @@ date: "2016-10-15"
 tags: [ "draft", "movies" ]
 title: "Cegonhas - A História Que Não Te Contaram"
 stars: "4/5"
-desc: "Cegonhas - A História Que Não Te Contaram. Storks (USA, 2016). Dirigido por Nicholas Stoller, Doug Sweetland. Escrito por Nicholas Stoller. Com Andy Samberg (Junior), Katie Crown (Tulip), Kelsey Grammer (Hunter), Jennifer Aniston (Sarah Gardner), Ty Burrell (Henry Gardner), Anton Starkman (Nate Gardner), Keegan-Michael Key (Alpha Wolf), Jordan Peele (Beta Wolf), Danny Trejo (Jasper)."
 ---
 Não se engane com a simplicidade deste filme (porque ele é bem simples). Seu jogo de cintura rápido, suas gags ligeiras -- metade ruim, metade interessante -- seus conceitos um tanto esquizofrênicos -- uma hora algo é importante, depois é outra, depois volta de novo -- e os diálogos expositivos de tudo que está acontecendo -- principalmente da boca do filho de um casal super-ocupado -- parecem obra de um amador. Parece tanto, mas tanto, que não é possível que ele seja. Há algo escondido nesse roteiro com uma produção de animação decente, com trilha grandiosa e fotografia competente. É um filme que parece zombar das produções Disneyanas, que insistem em mensagens de amor destacadas da realidade. E mesmo que você diga que os motivos por trás dessa atração é a fofura dos bebês, mesmo retirando-os de campo, fica difícil não gostar do resultado final.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-05"
 title: "Viver Para Cantar"
-desc: '"To Live to Sing" (China, França, Canadá, 2019), escrito por Johnny Ma, dirigido por Johnny Ma, com Guidan Gan e Xiaoli Zhao. Escrito para o CinemAqui para cobertura da #mostrasp.'
 imdb: "10225288"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

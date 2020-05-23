@@ -6,7 +6,6 @@ date: "2011-07-20"
 tags: [ "draft", "movies" ]
 title: "Carros 2"
 stars: "2/5"
-desc: "Carros 2. Cars 2 (USA, 2011). Dirigido por John Lasseter, Brad Lewis. Escrito por John Lasseter, Brad Lewis, Dan Fogelman, Ben Queen. Com Larry Guy the Cable, Owen Wilson, Michael Caine, Emily Mortimer, Eddie Izzard, John Turturro, Brent Musburger, Joe Mantegna, Thomas Kretschmann."
 ---
 O ponto mais forte no longa original eram as ideias por trás do conceito de carros se comportando como humanos. E até os pequenos detalhes de produção, como o fato dos mosquitos voando serem pequenos carrinhos com asas, contribuíam para tornar aquele universo todo especial.
 

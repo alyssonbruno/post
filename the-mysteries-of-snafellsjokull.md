@@ -5,7 +5,6 @@ date: "2012-04-02"
 tags: [ "draft", "shorts" ]
 title: "Le mystère du Snæfellsjökull"
 stars: "3/5"
-desc: "Le mystère du Snæfellsjökull. Le mystère du Snæfellsjökull (France, 2009). Dirigido por Jean-Michel Roux. Escrito por Jean-Michel Roux."
 ---
 Esse média-metragem islandês procura mostrar a história de uma região no país em que, de acordo com "relatos" e com a declaração e Júlio Verne de que ali seria o ponto de entrada para o centro da Terra, é um lugar de concentração de energias e poderia muito bem ser o ponto de contato com extraterrestres.
 

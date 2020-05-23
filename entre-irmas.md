@@ -7,7 +7,6 @@ date: 2017-10-02T21:55:47
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Entre Irmãs"
 stars: "2/5"
-desc: "Entre Irmãs. Entre Irmãs (Brazil, 2017). Dirigido por Breno Silveira. Escrito por Patrícia Andrade, Frances Peebles de Pontes. Com Ângelo Antônio (Dr. Eronildes), Rita Assemany (Dona Dulce), Cyria Coentro (Tia Sofia), Letícia Colin (Lindalva), Nanda Costa (Luzia), Marjorie Estiano (Emília), Rômulo Estrela (Degas), Claudio Jaborandy (Dr. Duarte), Fábio Lago (Orelha)."
 ---
 Entre Irmãs é um filme de época que parece feito também em outra época. Uma época mais ingênua, onde filmes como esse não seriam tão clichês, tão bregas. Infelizmente, para o público de hoje, clichê e brega é exatamente o que ele parece.
 

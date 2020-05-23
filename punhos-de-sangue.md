@@ -6,7 +6,6 @@ date: "2017-05-18"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Punhos de Sangue"
 stars: "4/5"
-desc: "Punhos de Sangue. The Bleeder (USA, 2016). Dirigido por Philippe Falardeau. Escrito por Jeff Feuerzeig, Jerry Stahl, Michael"
 ---
 Logo no início deste filme vemos uma frase de Rocky Balboa sobre ninguém se preocupar com você. Balboa, personagem fictício criado por Sylvester Stallone baseado na história de vida do meio-pesado Chuck Wepner, dizia também que o que mais importa no ringue, assim como na vida, não é o quão forte você consegue bater, mas quantos golpes você consegue aguentar. A história de Punhos de Sangue, que praticamente documenta a vida de Wepner, acaba misturando ambas as visões sobre a vida, e no momento que achamos que o "Rocky Balboa real" não irá mais aguentar tantos golpes em sua vida é quando nos lembramos sobre a fala de Balboa sobre ninguém se preocupar. Este é um drama sobre quando a própria pessoa parece não se preocupar com o caminho que sua vida está levando.
 

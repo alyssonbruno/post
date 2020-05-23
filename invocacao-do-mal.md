@@ -7,7 +7,6 @@ tags: [ "draft", "movies" ]
 count: 2
 title: "Invocação do Mal"
 stars: "4/5"
-desc: "Invocação do Mal. The Conjuring (USA, 2013). Dirigido por James Wan. Escrito por Chad Hayes, Carey Hayes. Com Vera Farmiga, Patrick Wilson, Lili Taylor, Ron Livingston, Shanley Caswell, Hayley McFarland, Joey King, Mackenzie Foy, Kyla Deaver."
 ---
 Diferente do que poderíamos imaginar, a direção precisa, acelerada e gore de James Wan em Jogos Mortais não apresenta comparações neste Invocação do Mal, que se insere no gênero de horror realizando pequenas homenagens de obras icônicas enquanto ensaia um estilo visual mais agradável ao público de hoje.
 

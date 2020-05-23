@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-05T16:37:06-02:00
 title: "A Prece"
-desc: ""
 imdb: "7839456"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

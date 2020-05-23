@@ -6,7 +6,6 @@ date: "2015-01-18"
 tags: [ "draft", "movies" ]
 title: "O Predestinado"
 stars: "5/5"
-desc: "O Predestinado. Predestination (Australia, 2014). Dirigido por Michael Spierig, Peter Spierig. Escrito por Michael Spierig, Peter Spierig, Robert A. Heinlein. Com Ethan Hawke, Sarah Snook, Christopher Kirby, Christopher Sommers, Kuni Hashimoto, Sara El-Yafi, Paul Moder, Grant Piro, Christopher Bunworth."
 ---
 Apesar de ser um fã incondicional de Efeito Borboleta, sei que o longa possui alguns defeitos indesculpáveis. Sua lógica interna, como todo instigante filme de viagem no tempo, não foi costurada tão bem a ponto do espectador não se preocupar muito com seus paradoxos, e embora sua maior virtude resida nas possibilidades múltiplas de seus personagens, não existe essa de licença poética no Cinema. Se sua narrativa não consegue ser coesa, suas pontas soltas irão te ferir por dentro.
 

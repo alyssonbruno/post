@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-10"
 title: "Collective"
-desc: '"Colectiv" (Romênia e Luxemburgo, 2019), escrito por Alexander Nanau e Antoaneta Opris, dirigido por Alexander Nanau.'
 imdb: "10706602"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "4/5"

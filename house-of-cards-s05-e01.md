@@ -6,7 +6,6 @@ date: "2017-05-30"
 tags: [ "draft", "series" ]
 title: "House of Cards - Quinta Temporada, Episódio 1"
 stars: "4/5"
-desc: "House of Cards - Quinta Temporada, Episódio 1. House of Cards (USA, 2013). Dirigido por James Foley, Robin Wright, John David Coles, Carl Franklin, Tucker Gates, Tom Shankland, Alik Sakharov, Allen Coulter, David Fincher. Escrito por Beau Willimon, Andrew Davies, Michael Dobbs, Laura Eason, Bill Kennedy, Kate Barnow, Sam Forman, John Mankiewicz, Melissa James Gibson. Com Kevin Spacey (Francis Underwood), Robin Wright (Claire Underwood), Michael Kelly (Doug Stamper), Justin Doescher (Frank Underwood Security / ...), Nathan Darrow (Edward Meechum), Lamont Easter (Underwood Secret Service), Mahershala Ali (Remy Danton), Derek Cecil (Seth Grayson), Mark Falvo (White House Press Corps / ...)."
 ---
 House of Cards estreia novamente na Netflix em seu formato de praxe, com tramas interligadas que irão necessariamente desencadear no plano de dominação da família Underwood. Vemos uma breve e eficiente recapitulação de toda a saga e logo vamos nos acostumando novamente a ver os personagens se digladiado por um pouco mais dessa droga viciante que é o poder.
 

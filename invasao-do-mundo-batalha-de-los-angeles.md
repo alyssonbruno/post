@@ -6,7 +6,6 @@ date: "2011-04-27"
 tags: [ "draft", "movies" ]
 title: "Invasão do Mundo Batalha de Los Angeles"
 stars: "3/5"
-desc: "Invasão do Mundo Batalha de Los Angeles. Battle Los Angeles (USA, 2011). Dirigido por Jonathan Liebesman. Escrito por Christopher Bertolini. Com Aaron Eckhart, Ramon Rodriguez, Will Rothhaar, Cory Hardrict, Jim Parrack, Gino Anthony Pesi, Ne-Yo, James Hiroyuki Liao, Bridget Moynahan."
 ---
 Cloverfield abriu o portal de obras de ficção filmados em estilo documental, mesmo em uma produção cara e mais aprimorada que o experimento primordial de Bruxa de Blair.
 

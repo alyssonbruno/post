@@ -6,7 +6,6 @@ date: "2013-04-03"
 tags: [ "draft", "series" ]
 title: "The Walking Dead - Primeira Temporada"
 stars: "4/5"
-desc: "The Walking Dead - Primeira Temporada. The Walking Dead (USA, 2010). Dirigido por Ernest R. Dickerson, Greg Nicotero, Guy Ferland, David Boyd, Bill Gierhart, Michelle MacLaren, Tricia Brock, Seith Mann, Gwyneth Horder-Payton. Escrito por Charlie Adlard, Frank Darabont, Robert Kirkman, Tony Moore, Scott M. Gimple, Angela Kang, Glen Mazzara, Evan T. Reilly, Seth Hoffman. Com Andrew Lincoln, Steven Yeun, Chandler Riggs, Norman Reedus, Melissa McBride, Lauren Cohan, Emily Kinney, Danai Gurira, Sonequa Martin-Green."
 ---
 The Walking Dead é uma trama de zumbis para forçar uma trama sobre seres humanos sobrevivendo no limite. Ele exagera demais no drama, talvez nos zumbis, mas nunca nessa premissa. Estamos acompanhando pessoas que estão tentando adaptar uma nova moral, novas regras e novas formas de viver a vida. Felizmente ou infelizmente, aos poucos eles descobrem que nada mudou muito.
 

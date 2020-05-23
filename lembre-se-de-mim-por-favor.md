@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-05"
 title: "Lembre-se de Mim, Por Favor"
-desc: '"Qing Ni Ji Zhu Wo" (China, 2017), escrito por Xiaolian Peng, Jian Wang e Yuan Xu, dirigido por Xiaolian Peng, com Wenjuan Feng, Zongying Huang e Yiping Jia. Escrito para o CinemAqui como parte da cobertura da Mostra de Cinema Chinês.'
 imdb: "9608078"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

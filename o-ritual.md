@@ -6,7 +6,6 @@ date: "2011-11-02"
 tags: [ "draft", "movies" ]
 title: "O Ritual"
 stars: "2/5"
-desc: "O Ritual. The Rite (USA, 2011). Dirigido por Mikael Håfström. Escrito por Michael Petroni, Matt Baglio. Com Anthony Hopkins, Colin O'Donoghue, Alice Braga, Ciarán Hinds, Toby Jones, Rutger Hauer, Marta Gastini, Maria Grazia Cucinotta, Arianna Veronesi."
 ---
 Um "noviço" que, desistindo da vocação de padre, resolve dar uma última chance ao seu superior fazendo um curso de exorcismo no Vaticano. Há um diálogo estranho do superior insistindo no rapaz. Com o uso de uma cena forçada do superior causando a morte de uma ciclista, parece que o filme irá jogar suas causas de uma maneira não-orgânica.
 

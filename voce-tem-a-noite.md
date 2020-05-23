@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-12"
 title: "Você Tem a Noite"
-desc: '"Ti imas noc" (Montenegro, Sérvia, 2018), escrito por Ivan Salatic, dirigido por Ivan Salatic, com Jasna Djuricic, Boris Isakovic e Nikola Manojlovic. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "8908514"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

@@ -7,7 +7,6 @@ imdb: "3289712"
 stars: "3/5"
 date: "2016-05-19"
 tags: [ "draft", "movies" , "cinemaqui" ]
-desc: "Casamento de Verdade. Dirigido por Mary Agnes Donoghue. Escrito por Mary Agnes Donoghue. Com Katherine Heigl, Tom Wilkinson, Linda Emond."
 ---
 Casamento de Verdade parece a primeira ou uma das primeiras incursões de Hollywood explorando o tema da homossexualidade de maneira "comercial". Ele apresenta uma atriz conhecida por comédias românticas como protagonista (Katherine Heigl), mas a faz carregar uma culpa logo na primeira cena, um batismo, se desculpando logo na primeira cena de toda a comunidade religiosa que possa, talvez, quem sabe, achar o conteúdo ofensivo.
 

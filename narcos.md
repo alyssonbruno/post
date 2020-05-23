@@ -6,7 +6,6 @@ date: "2015-09-11"
 tags: [ "draft", "series" ]
 title: "Narcos"
 stars: "3/5"
-desc: "Narcos. Narcos (USA, 2015). Dirigido por Andrés Baiz, Guillermo Navarro, Fernando Coimbra, José Padilha. Escrito por Chris Brancato, Samir Mehta, Andrew Black, Dana Ledoux Miller, Carlo Bernard, Doug Miro, Dana Calvo, Nick Schenk, Paul Eckstein. Com Wagner Moura, Maurice Compte, Boyd Holbrook, Pedro Pascal, Joanna Christie, Roberto Urbina, Ana de la Reguera, Danielle Kennedy, Stephanie Sigman."
 ---
 Assisti os três (quatro?) primeiro episódio de Narcos, a série da Netflix produzida por José Padilha (Tropa de Elite) e que dirigiu o piloto. No elenco, Wagner Moura faz o famigerado criminoso que roubou o dinheiro dos americanos e os corações dos colombianos em um negócio ilegal que custou vidas e uma investigação difícil da polícia.
 

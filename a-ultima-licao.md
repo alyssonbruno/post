@@ -7,7 +7,6 @@ date: "2016-12-15"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Última Lição"
 stars: "4/5"
-desc: "A Última Lição. La dernière leçon (France, 2015). Dirigido por Pascale Pouzadoux. Escrito por Laurent de Bartillat, Pascale Pouzadoux. Com Marthe Villalonga (Madeleine), Sandrine Bonnaire (Diane), Antoine Duléry (Pierre), Gilles Cohen (Clovis), Grégoire Montana (Max), Sabine Pakora (Victoria), Jonas Dinal (Didid), Xavier Alcan (L'ami), Armelle."
 ---
 A Última Lição é um filme importante para o tema "liberdade sobre o próprio corpo" levado para o aconchego do sub-gênero "filme para a família", o que é uma coisa natural para a família francesa, mas anormal em boa parte do mundo. De qualquer forma, este é um filme que tenta se livrar dos preconceitos e analisar uma situação delicada com a sensibilidade que ela merece.
 

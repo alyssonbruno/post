@@ -6,7 +6,6 @@ date: "2016-06-21"
 tags: [ "draft", "movies" ]
 title: "Truque de Mestre"
 stars: "2/5"
-desc: "Truque de Mestre. Now You See Me (France, 2013). Dirigido por Louis Leterrier. Escrito por Ed Solomon, Boaz Yakin, Edward Ricourt, Boaz Yakin, Edward Ricourt. Com Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Isla Fisher, Dave Franco, Mélanie Laurent, Morgan Freeman, Michael Caine, Michael Kelly."
 ---
 Abracadabra! Surge um péssimo filme. Embalado naquele formato de reviravoltas, este filme não contém nenhuma, pois ele nunca nos faz crer em X para depois revelar Y. Todas suas "bombásticas" revelações são simplesmente isso: revelações. Geralmente algo novo que não tinha qualquer relação com o que foi mostrado até agora, e se tem alguma, é jogada no ar como uma carta qualquer.
 

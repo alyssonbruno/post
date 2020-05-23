@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-13T18:59:26-02:00
 title: "O Segredo De Davi"
-desc: "O Segredo de Davi (Brasil, 2018), escrito e dirigido por Diego Freitas, com Nicolas Prattes, Eucir de Souza,"
 imdb: "5230380"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

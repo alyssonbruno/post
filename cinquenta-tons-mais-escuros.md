@@ -6,7 +6,6 @@ date: "2017-02-16"
 tags: [ "draft", "movies" ]
 title: "Cinquenta Tons Mais Escuros"
 stars: "2/5"
-desc: "Cinquenta Tons Mais Escuros. Fifty Shades Darker (USA, 2017). Dirigido por James Foley. Escrito por Niall Leonard, E.L. James. Com Dakota Johnson (Anastasia Steele), Jamie Dornan (Christian Grey), Eric Johnson (Jack Hyde), Eloise Mumford (Kate Kavanagh), Bella Heathcote (Leila), Rita Ora (Mia Grey), Luke Grimes (Elliot Grey), Victor Rasuk (Jose), Max Martini (Taylor)."
 ---
 Eu não sei se a bronca pela série de filmes com Christian Grey e Anastácia Steel (esses nomes são bons, não?) é porque as feministas ficam com nojo de um casal normal, com problemas como todo mundo, e com preferências sexuais particulares (como todo mundo) ou elas abraçaram, assim como os conservadores, a noção patética que existe apenas uma forma de ser feliz, e ela não pode de maneira alguma ter relação com a vida de um bilionário de sucesso. Principalmente se ele trata suas mulheres como cãezinhos submissos. Se bem que, em se tratando de uma vida de luxo e segurança, qual o problema de dar alguns latidos e levar algumas palmadas de vez em quando?
 

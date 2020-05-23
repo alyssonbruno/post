@@ -6,7 +6,6 @@ date: "2016-10-23"
 tags: [ "draft", "series" ]
 title: "Easy"
 stars: "4/5"
-desc: "Easy. Dirigido por Joe Swanberg. Escrito por Joe Swanberg. Com Jane Adams (Annabelle Jones), Zazie Beetz (Noelle), Aya Cash (Sherri), Dave Franco (Jeff), Jacqueline Toboni (Jo), Kiersey Clemons (Chase), Evan Jonigkeit (Matt), Rebecca Spence (Cheryl), Noah Hopkins (Russ)."
 ---
 Easy é uma série muito interessante da Netflix. Ela explora os relacionamentos mostrando como eles, na verdade, são bem mais simples do que a esmagadora maioria das pessoas pensa que é. Todo o drama, as complicações, a falta de comunicação é traduzida em uma linguagem simples, de São Francisco, que envolve diferentes tipos de casais (ou outros) em diferentes tipos de situações. Seus pontos em comum? Tentar complicar o que é muito, muito simples.
 

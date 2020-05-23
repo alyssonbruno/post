@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-25"
 title: "Onde Quer Que Você Esteja"
-desc: '"Onde Quer Que Você Esteja" (Brasil, 2018), escrito por Bel Bechara e Sandro Serpa, dirigido por Bel Bechara e Sandro Serpa, com Eduardo Acaiabe, Rita Batata, Rodrigo Caetano, Samuel de Assis, Debora Duboc, Robson Emílio, Dagoberto Feliz, Sabrina Greve, Brenda Lígia, Rafael Maia, Leonardo Medeiros, Luiza Mesquita Maia, Juliana Mesquita, Erica Montanheiro, Gilda Nomacce, Samya Pascotto, Cleide Eunice Queiroz e Lucas Wickhaus. Escrito para o CinemAqui.'
 imdb: "7937758"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

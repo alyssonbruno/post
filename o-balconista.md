@@ -6,7 +6,6 @@ date: "2013-10-20"
 tags: [ "draft", "movies" ]
 title: "O Balconista"
 stars: "3/5"
-desc: "O Balconista. Clerks (USA, 1994). Dirigido por Kevin Smith. Escrito por Kevin Smith. Com Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer, Jason Mewes, Kevin Smith, Scott Mosier, Scott Schiaffo, Al Berkowitz."
 ---
 Primeiro longa do diretor Kevin Smith, O Balconista não poderia deixar de ter algo a mais dos outros filmes que o trouxesse para os holofotes. No entanto, quase 20 anos depois, ele permanece como um dos filmes esquecidos que não merece ser revisitado.
 

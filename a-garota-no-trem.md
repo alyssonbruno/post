@@ -6,7 +6,6 @@ date: "2017-01-23"
 tags: [ "draft", "movies" ]
 title: "A Garota no Trem"
 stars: "3/5"
-desc: "A Garota no Trem. The Girl on the Train (USA, 2016). Dirigido por Tate Taylor. Escrito por Erin Cressida Wilson, Paula Hawkins. Com Emily Blunt (Rachel), Haley Bennett (Megan), Rebecca Ferguson (Anna), Justin Theroux (Tom), Luke Evans (Scott), Edgar Ramírez (Dr. Kamal Abdic), Laura Prepon (Cathy), Allison Janney (Detective Riley), Darren Goldstein (Man in the Suit)."
 ---
 Este é um drama que une três mulheres e suas relações com homens que viram seus bonecos (e vice-versa). A discussão gira em torno de ter ou não bebês e de ter ou não amantes. Acaba virando um thriller com aquela reviravolta que todos já conhecem, mas no meio do caminho acompanhamos as semi-divertidas aventuras de uma mulher sem destino, que insiste em pegar um trem mesmo sem ter aonde ir, devidamente alcoolizada e sem noção do que foi que aconteceu com sua vida.
 

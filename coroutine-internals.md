@@ -3,7 +3,6 @@ categories: [ "code" ]
 date: 2018-09-18
 title: "Coroutine Internals"
 tags: [ "draft",  ]
-desc: "Visual Studio, Boost.Coroutine, debug/depuração, crash analysis."
 ---
 Uma corrotinas é um mecanismo de troca de contexto onde apenas uma thread está envolvida. Ela me faz lembrar do Windows 3.0, não exatamente por não existirem threads (e não existiam mesmo), mas pelo caráter cooperativo dos diferentes códigos.
 

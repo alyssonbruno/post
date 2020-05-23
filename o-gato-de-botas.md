@@ -6,7 +6,6 @@ date: "2012-01-09"
 tags: [ "draft", "movies" ]
 title: "O Gato de Botas"
 stars: "3/5"
-desc: "O Gato de Botas. Puss in Boots (USA, 2011). Dirigido por Chris Miller. Escrito por Charles Perrault, Tom Wheeler, Brian Lynch, William Davies, Tom Wheeler, David H. Steinberg. Com Antonio Banderas, Salma Hayek, Zach Galifianakis, Billy Bob Thornton, Amy Sedaris, Constance Marie, Guillermo del Toro, Mike Mitchell, Rich Dietl."
 ---
 Direção de arte nova que dá um novo respiro ao gato. Sequências e sacadas inspiradas na intro (como o fato dele ser um gato implica em problemas de estatura, ou como segue luzinha no chão). Até a história do passado, apesar de não convencer, é contada de forma convincente, e a inclusão de Humpty Dumpt é muito bem vinda ao adicionar um caráter mais adulto e contraditório. Já se a intro da gata e dos dois vilões é primorosa, o mesmo não se pode dizer do seu desenvolvimento, esquecido, já que suas funções são pontuais/artificiais e nunca fazem muita diferença na narrativa.
 

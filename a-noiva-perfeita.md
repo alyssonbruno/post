@@ -6,7 +6,6 @@ date: "2011-02-20"
 tags: [ "draft", "movies" ]
 title: "A Noiva Perfeita"
 stars: "3/5"
-desc: "A Noiva Perfeita. Prête-moi ta main (France, 2006). Dirigido por Eric Lartigau. Escrito por Alain Chabat, Philippe Mechelen, Laurent Tirard, Grégoire Vigneron, Laurent Zeitoun. Com Alain Chabat, Charlotte Gainsbourg, Bernadette Lafont, Wladimir Yordanoff, Grégoire Oestermann, Véronique Barrault, Marie-Armelle Deguy, Katia Lewkowicz, Louise Monot."
 ---
 Luis Costa (Chabat) é um solteirão que vive com a mãe e suas inúmeras irmãs e que não deseja se casar tão cedo, apesar de já estar na casa dos 30. Pressionada pela família, que não aguenta mais os mimos que ele recebe, ele tem que encontrar uma pretendente o quanto antes. Não aguentando tanto assédio, resolve então "contratar" uma noiva para estragar o casamento e lhe dar um tempo de sossego.
 

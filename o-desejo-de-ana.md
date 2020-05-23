@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-17"
 title: "O Desejo de Ana"
-desc: '"El deseo de Ana" (México, 2019), escrito por Emilio Santoyo e Gabriela Vidal, dirigido por Emilio Santoyo, com Laura Agorreca, David Calderón León e Ian Garcia Monterrubio. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9010588"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

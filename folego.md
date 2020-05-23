@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2010-12-20"
 review: [ "2019" ]
 title: "Fôlego"
-desc: '"Soom" (Coreia do Sul, 2007), escrito por Ki-duk Kim, dirigido por Ki-duk Kim, com Chen Chang, In-Hyeong Gang e Jung-woo Ha. Vi no Belas Artes em 2010 e revi em DVD. Texto atualizado em 2019-10-30.'
 imdb: "0901475"
 tags: [ "draft", "movies" ]
 stars: "4/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-28T16:04:16-02:00
 title: "Um Assaltante Bem Trapalhão"
-desc: "Take the Money and Run. Escrito por Mickey Rose e Woody Allen. Direção por Allen. Com Woody Allen e Janet Margolin."
 imdb: "0065063"
 
 tags: [ "draft", "movies" ]

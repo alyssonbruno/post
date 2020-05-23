@@ -1,7 +1,6 @@
 ---
 date: "2015-06-29"
 title: "O Poder do Agora"
-desc: "Livro de Eckhart Tolle que já li umas duas vezes."
 categories: [ "blog" ]
 tags: [ "draft", "books" ]
 ---

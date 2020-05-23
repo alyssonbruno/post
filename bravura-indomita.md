@@ -6,7 +6,6 @@ date: "2011-11-02"
 tags: [ "draft", "movies" ]
 title: "Bravura Indômita"
 stars: "5/5"
-desc: "Bravura Indômita. True Grit (USA, 2010). Dirigido por Ethan Coen, Joel Coen. Escrito por Joel Coen, Ethan Coen, Charles Portis. Com Jeff Bridges, Hailee Steinfeld, Matt Damon, Josh Brolin, Barry Pepper, Dakin Matthews, Jarlath Conroy, Paul Rae, Domhnall Gleeson."
 ---
 Com uma trilha sonora repetitiva, mas leve o suficiente para não soar dessa forma, temos a caracterização de um tema, assim como Morricone fez com Três Homens em Conflito, mas sem todo o espetáculo.
 

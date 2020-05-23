@@ -6,7 +6,6 @@ date: "2014-11-09"
 tags: [ "draft", "series" ]
 title: "Dexter - O Final"
 stars: "2/5"
-desc: "Dexter - O Final. Dexter (USA, 2006). Dirigido por John Dahl, Steve Shill, Keith Gordon, Marcos Siega, Ernest R. Dickerson, Romeo Tirone, Michael Cuesta, Tony Goldwyn, S.J. Clarkson. Escrito por Jeff Lindsay, James Manos Jr., Scott Buck, Tim Schlattmann, Lauren Gussis, Karen Campbell, Jennifer Yale, Melissa Rosenberg, Scott Reynolds. Com Michael C. Hall, Jennifer Carpenter, David Zayas, James Remar, C.S. Lee, Bruce Holman, Lauren Vélez, Desmond Harrington, Julie Benz."
 ---
 "Dexter Morgan é um ser humano buscando seu lugar no mundo." Essa frase inicial do meu texto sobre a sétima temporada foi minha conclusão a respeito de toda a série e as motivações de seu anti-herói, protagonizado de maneira extremamente competente por Michael C. Hall do começo ao fim. Para mim, portanto, essa ambição de Dexter seria a direção natural por onde o grand finale se nortearia, já que vimos até então tentativas -- muitas frustadas, mas em sua maioria não -- de um sociopata se encaixar na sociedade de uma forma a não machucar pessoas, ou pelo menos pessoas que não "mereçam" ser machucadas (isso depende do nível do politicamente correto de cada um).
 

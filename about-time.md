@@ -5,7 +5,6 @@ date: "2015-12-27"
 tags: [ "draft", "movies" ]
 title: "About Time"
 stars: "3/5"
-desc: "About Time. About Time (UK, 2013). Dirigido por Richard Curtis. Escrito por Richard Curtis. Com Domhnall Gleeson, Rachel McAdams, Bill Nighy, Lydia Wilson, Lindsay Duncan, Richard Cordery, Joshua McGuire, Tom Hollander, Margot Robbie."
 
 ---
 Uma comédia romântica, ou até mesmo um romance, hoje se pauta mais em seus personagens do que sua narrativa. Até grandes títulos desses gêneros -- como Harry e Sally ou filmes do Woody Allen -- não são nada originais em seu desenvolvimento e, principalmente, seu desfecho. Porém, como não amar personagens tão carismáticos às vezes criados por performances memoráveis e falas idem?

@@ -1,7 +1,6 @@
 ---
 date: "2020-04-26"
 title: "Um Dia No Campo"
-desc: '"Partie de campagne" (France, 1946), escrito por Jean Renoir e Guy de Maupassant, dirigido por Jean Renoir, com Sylvia Bataille, Georges D''Arnoux e Jane Marken.'
 imdb: "0028445"
 stars: "3/5"
 categories: [ "cinema" ]

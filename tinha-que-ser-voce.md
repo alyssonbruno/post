@@ -6,7 +6,6 @@ date: "2013-07-19"
 tags: [ "draft", "movies" ]
 title: "Tinha Que Ser Você"
 stars: "4/5"
-desc: "Tinha Que Ser Você. Last Chance Harvey (USA, 2008). Dirigido por Joel Hopkins. Escrito por Joel Hopkins. Com Dustin Hoffman, Emma Thompson, Eileen Atkins, Kathy Baker, Liane Balaban, James Brolin, Richard Schiff, Tim Howar, Wendy Mae Brown."
 ---
 Eu sei que o desfecho final possui vários defeitos. É esquemático porque segue à risca a cartilha das comédias românticas, o que acaba prejudicando demais aqueles dois personagens até então bem construídos. Está longe do clima depressivo de todo o resto, onde o diretor tenta amenizar com músicas bonitinhas e um pouco do desconcertante humor britânico (mas a partir de um dado momento, acompanhar a mãe paranoica nem é mais interessante).
 

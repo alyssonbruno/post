@@ -6,7 +6,6 @@ date: 2018-10-07
 tags: [ "draft", "movies" ]
 title: "O Lobo de Wall Street"
 stars: "5/5"
-desc: "O Lobo de Wall Street. The Wolf of Wall Street (USA, 2013). Dirigido por Martin Scorsese. Escrito por Terence Winter, Jordan Belfort. Com Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler, Rob Reiner, Jon Bernthal, Jon Favreau, Jean Dujardin."
 ---
 Assistir um filme do Scorsese, mesmo que acabou de estrear, é ser convidado para os anos 70. O que eu quero dizer com isso é que sexo, drogas, violência e moral serão mostradas sem aquele filtro horrível que infantiliza a nossa época. Curiosamente, se há uma característica que os "heróis" de O Lobo de Wall Street carregam em comum é a imaturidade. Porém, uma maturidade animalesca, que faz jus ao personagem-título.
 

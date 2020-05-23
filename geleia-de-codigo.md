@@ -2,7 +2,6 @@
 categories: [ "code" ]
 date: "2014-04-15"
 title: Geleia de Código
-desc: "Exercitando no Code Jam."
 tags: [ "draft", "puzzle" ]
 ---
 

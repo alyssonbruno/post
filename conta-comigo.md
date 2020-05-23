@@ -6,7 +6,6 @@ date: "2012-04-25"
 tags: [ "draft", "movies" ]
 title: "Conta Comigo"
 stars: "5/5"
-desc: "Conta Comigo. Stand by Me (USA, 1986). Dirigido por Rob Reiner. Escrito por Stephen King, Raynold Gideon, Bruce A. Evans. Com Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell, Kiefer Sutherland, Casey Siemaszko, Gary Riley, Bradley Gregg, Jason Oliver."
 ---
 Mais um filme dos anos 80 que envelheceu muito bem. Leveza e ingenuidade caminham juntos na história dos quatro amigos que partem em uma jornada com o objetivo de se tornarem heróis. E por mais piegas que pareça a argumentação de Conta Comigo, ela é levada a sério, o que faz toda a diferença no desenvolvimento dos personagens (que não são crianças genéricas).
 

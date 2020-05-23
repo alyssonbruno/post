@@ -6,7 +6,6 @@ date: "2014-03-22"
 tags: [ "draft", "movies" ]
 title: "O Mundo Imaginário do Doutor Parnassus"
 stars: "2/5"
-desc: "O Mundo Imaginário do Doutor Parnassus. The Imaginarium of Doctor Parnassus (UK, 2009). Dirigido por Terry Gilliam. Escrito por Terry Gilliam, Charles McKeown. Com Andrew Garfield, Christopher Plummer, Richard Riddell, Katie Lyons, Richard Shanks, Lily Cole, Verne Troyer, Bruce Crawford, Johnny Harris."
 ---
 Terry Gilliam é um diretor competente em ilustrar o surreal, como no excelente "Os 12 Macacos" e no bom "Os Irmãos Grimm". Porém, em O Mundo Imaginário do Doutor Parnassus não há história que suporte o uso do fundo verde para narrar as diferentes visões das pessoas que adentram o mundo imag... bom, vocês já sabem.
 

@@ -6,7 +6,6 @@ date: "2012-11-16"
 tags: [ "draft", "movies" ]
 title: "Frankenweenie"
 stars: "4/5"
-desc: "Frankenweenie. Frankenweenie (USA, 2012). Dirigido por Tim Burton. Escrito por Leonard Ripps, Tim Burton, John August. Com Catherine O'Hara, Martin Short, Martin Landau, Charlie Tahan, Atticus Shaffer, Winona Ryder, Robert Capron, James Hiroyuki Liao, Conchata Ferrell."
 ---
 Desde o início há algo de mágico em Frankenweenie. Baseado em um curta dirigido pelo próprio Tim Burton e, quem diria, produzido pela Disney, o diretor e roteiro repetem os mesmos passos certeiros do trabalho original, conseguem desviar dos errados e acrescentam, além de uma divertidíssima homenagem ao Terror em seus momentos mais fortes, uma saudável discussão em torno de como as pessoas enxergam a ciência hoje em dia. Afinal de contas, o Frankestein de Mary Shelley nunca esteve tão presente nas discussões de botequim, misturado com superstições religiosas que continuam assombrando-nos até hoje.
 

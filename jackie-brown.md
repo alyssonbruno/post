@@ -6,7 +6,6 @@ date: "2016-02-08"
 tags: [ "draft", "movies" ]
 title: "Jackie Brown"
 stars: "4/5"
-desc: "Jackie Brown. Jackie Brown (USA, 1997). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino, Elmore Leonard. Com Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda, Michael Keaton, Robert De Niro, Michael Bowen, Chris Tucker, LisaGay Hamilton."
 ---
 Para os fãs de Tarantino, Jackie Brown não é nenhuma novidade, exceto que aqui o roteiro é adaptado do romance de Elmore Leonard, o que quer dizer que as referências do chamado "Universo Tarantino", onde todos os seus filmes se encontram, não faria sentido aqui. No entanto, aqui estão os anos 70, um thriller policial onde uma mulher forte participa de um esquema com alta soma de dinheiro, uma trilha sonora inspirada, uma fotografia saudosista e uma montagem que consegue manter o suspense até o último momento, desvendando cada um dos detalhes da trama de uma maneira coesa, mas nunca simples demais.
 

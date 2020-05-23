@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-28"
 title: "Frans Krajcberg: Manifesto"
-desc: '"Frans Krajcberg: Manifesto" (Brasil, 2019), escrito e dirigido por Regina Jehá, com Frans Krajcberg. Escrito para o CinemAqui.'
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

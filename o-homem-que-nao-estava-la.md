@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-15"
 title: "O Homem que Não Estava Lá"
 tags: [ "draft", "movies" ]
-desc: '"The Man Who Wasn''t There" (United Kingdom e United States, 2001), escrito por Joel Coen e Ethan Coen, dirigido por Joel Coen e Ethan Coen, com Billy Bob Thornton, Frances McDormand e Michael Badalucco.'
 imdb: "0243133"
 stars: "4/5"
 ---

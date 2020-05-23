@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-11"
 title: "Independence Day"
-desc: '"Independence Day" (EUA, 1996), escrito por Dean Devlin e Roland Emmerich, dirigido por Roland Emmerich, com Will Smith, Bill Pullman e Jeff Goldblum. Baixei porque queria ver essa farofa de novo em minha noite de solteiro.'
 imdb: "0116629"
 tags: [ "draft", "movies" ]
 stars: "4/5"

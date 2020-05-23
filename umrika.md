@@ -6,7 +6,6 @@ date: "2016-10-28"
 tags: [ "draft", "movies" ]
 title: "Umrika"
 stars: "4/5"
-desc: "Umrika. Umrika (India, 2015). Dirigido por Prashant Nair. Escrito por Prashant Nair. Com Aashish Bhatt (Arun), Uplaksh Kochhar (Balwinder), Megh Pant (Bhima), Mayur More (Delivery Boy), Pankaj Chaudhary (Deliver Boy #1), Mukesh Agrohari (Farmer #1), Pramod Pathak (Father), Shreyas Pandit (Gopi), Rajesh Singh (Inspector at Docks #1)."
 ---
 Este é um drama bem construído que envolve uma família indiana e as dores da separação e da ilusão entre eles. Às vezes apela demais para a emoção (principalmente no final), mas em sua maioria é uma trama bem desenvolvida e que merece o título de um indie que não parece indie, pois foge das fórmulas mais comuns e acaba caindo em um pesado sonho indiano pautado no americano. Ou deveria dizer umrikaniano?
 

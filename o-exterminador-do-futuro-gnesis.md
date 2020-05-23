@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2015-10-16"
 title: "O Exterminador do Futuro: Gênesis"
-desc: '"Terminator Genisys" (EUA, 2015), escrito por Laeta Kalogridis e Patrick Lussier, dirigido por Alan Taylor, com Arnold Schwarzenegger, Jason Clarke, Emilia Clarke e Jai Courtney. Último filme da maratona pré-sexto filme, esse pareceu uma bagunça maior do que a série está. Editado em 2019-11-18.'
 imdb: "1340138"
 tags: [ "draft", "movies" ]
 stars: "2/5"

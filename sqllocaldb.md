@@ -2,7 +2,6 @@
 categories: [ "code" ]
 date: "2019-07-21"
 title: "SLQLocalDB"
-desc: "A versão local do SQL Server para desenvolvedor está longe de funcionar como deveria."
 tags: [ "draft",  ]
 ---
 Hoje foi o dia de redescobrir meu velho ranço com a solução Microsoft para banco de dados. Já perdi horas, dias e semanas com problemas de conexão com algum servidor SQL Server porque a instalação possuía configurações de segurança específicas, a string de conexão não estava exatamente de acordo com a versão instalada ou uma combinação macabra desses e de mais alguns problemas.

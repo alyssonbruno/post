@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-22"
 title: "Coletivo Terror"
-desc: '"Bloodride" (Noruega, 2020), escrito por Kjetil Indregard e Atle Knudsen, com Stig R. Amdam, Anna Bache-Wiig e Ellen Bendu.'
 tags: [ "draft", "series" ]
 imdb: "9815502"
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-13"
 title: "Amor a Tarde"
-desc: '"L''amour l''après-midi (aka Chloe in the Afternoon)" (França, 1972), escrito por Éric Rohmer, dirigido por Éric Rohmer, com Bernard Verley, Zouzou e Françoise Verley. Mais um dos DVDs, cujo dono parece ter sido fã de Rohmer.'
 imdb: "0068205"
 tags: [ "draft", "movies" ]
 stars: "4/5"

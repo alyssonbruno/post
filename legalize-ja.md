@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-09-28T18:52:09-03:00
 title: "Legalize Já! Amizade Nunca Morre"
-desc: "Legalize Já! Amizade Nunca Morre (Brasil, 2017), escrito por Felipe Braga e L.G. Bayão, dirigido por Johnny Araújo e Gustavo Bonafé, com Renato Góes, Ícaro Silva, Marina Provenzzano."
 imdb: "5818404"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

@@ -6,7 +6,6 @@ date: "2017-01-21"
 tags: [ "draft", "movies" ]
 title: "Roubo nas Alturas"
 stars: "2/5"
-desc: "Roubo nas Alturas. Tower Heist (USA, 2011). Dirigido por Brett Ratner. Escrito por Adam Cooper, Bill Collage, Ted Griffin, Jeff Nathanson. Com Ben Stiller (Josh Kovaks), Eddie Murphy (Slide), Casey Affleck (Charlie), Alan Alda (Arthur Shaw), Matthew Broderick (Mr. Fitzhugh), Stephen Henderson (Lester), Judd Hirsch (Mr. Simon), Téa Leoni (Special Agent Claire Denham), Michael Peña (Enrique Dev'Reaux)."
 ---
 Este é um filhote dos filmes que criticam os ricaços de Wall Street que fraudaram seus clientes. Juntando em um bolo só, aqui os clientes são também funcionários de um prédio chique em Nova Iorque onde o ricaço é o cliente. Há um quê de retorno aos anos 80, com Eddie Murphy fazendo um ladrão pé-de-chinelo e um plot previsível entediante. O que salva é o elenco competente, com piadas engraçadas o suficiente para tornar a experiência passável.
 

@@ -6,7 +6,6 @@ date: "2011-09-11"
 tags: [ "draft", "movies" ]
 title: "O Homem do Futuro"
 stars: "4/5"
-desc: "O Homem do Futuro. O Homem do Futuro (Brazil, 2011). Dirigido por Cláudio Torres. Escrito por Cláudio Torres. Com Wagner Moura, Alinne Moraes, Maria Luísa Mendonça, Fernando Ceylão, Gabriel Braga Nunes, Daniel Uemura, José Steimberg, Malu Rodrigues, Gregório Duvivier."
 ---
 O novo longa de Cláudio Torres (dos divertidos A Mulher do Meu Amigo e A Mulher Invisível) flerta com mais um tema que faz parte do imaginário coletivo: quem nunca desejou mudar algo que fez no passado, principalmente se isso teve implicações negativas por toda sua vida?
 

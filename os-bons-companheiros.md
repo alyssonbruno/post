@@ -6,7 +6,6 @@ date: "2013-01-01"
 tags: [ "draft", "movies" ]
 title: "Os Bons Companheiros"
 stars: "5/5"
-desc: "Os Bons Companheiros. Goodfellas (USA, 1990). Dirigido por Martin Scorsese. Escrito por Nicholas Pileggi, Nicholas Pileggi, Martin Scorsese. Com Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino, Frank Sivero, Tony Darrow, Mike Starr, Frank Vincent."
 ---
 A primeira sequência de Os Bons Companheiros começa com os personagens de Robert de Niro (James Conway), Ray Liotta (Henry Hill) e Joe Pesci (Tommy DeVito) tendo que parar o carro para dar fim ao corpo que ainda insistia em manter-se vivo no porta-malas. A violência gráfica com que isso ocorre é sanguinária tanto na luz quanto no ato que ocorre na traseira do veículo. Quando acompanhamos o crescimento de Henry entre os gângsteres e voltamos novamente a essa cena é como se fizéssemos já parte do grupo: da gangue e da família que estes formam.
 

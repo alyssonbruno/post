@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-17T13:01:59-03:00
 title: "O Doutor da Felicidade"
-desc: "Knock (França, Bélgica, 2017), escrito e digirido por Lorraine Lévy, que adaptou da peça de Jules Romains, com Omar Sy, Alex Lutz, Ana Girardot."
 imdb: "6515342"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

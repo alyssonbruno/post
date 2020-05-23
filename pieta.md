@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2013-03-19"
 title: "Pieta"
-desc: '"Pieta" (Coreia do Sul, 2012), escrito por Ki-duk Kim, dirigido por Ki-duk Kim, com Min-soo Jo, Jung-Jin Lee e Ki-Hong Woo. Revisto com a Mitiko e gostando um pouco menos com texto ligeiramente editado em 2019-11-10.'
 imdb: "2299842"
 tags: [ "draft", "movies" ]
 stars: "4/5"

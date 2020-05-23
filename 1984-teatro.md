@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-26T00:49:47-02:00
 title: "1984: A Peça"
-desc: "Baseado na obra de George Orwell."
 tags: [ "draft", "play" ]
 stars: "4/5"
 ---

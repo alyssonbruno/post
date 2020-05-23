@@ -6,7 +6,6 @@ date: "2014-12-10"
 tags: [ "draft", "movies" ]
 title: "Debi e Lóide 2"
 stars: "3/5"
-desc: "Debi e Lóide 2. Dumb and Dumber To (USA, 2014). Dirigido por Bobby Farrelly, Peter Farrelly. Escrito por Sean Anders, John Morris, Peter Farrelly, Bobby Farrelly, Bennett Yellin, Mike Cerrone, Bennett Yellin, Peter Farrelly, Bobby Farrelly. Com Jim Carrey, Jeff Daniels, Rob Riggle, Laurie Holden, Rachel Melvin, Steve Tom, Don Lake, Patricia French, Kathleen Turner."
 ---
 Jim Carrey e Jeff Daniels finalmente conseguiram realizar o remake do seu clássico de comédia e os irmãos Farrely estão dirigindo -- do original de 1994 e de "Quem Vai Ficar com Mary?", Passe Livre, "Eu, Eu Mesmo e Irene" e tantos outros.
 

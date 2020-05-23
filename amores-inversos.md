@@ -6,7 +6,6 @@ date: "2017-03-21"
 tags: [ "draft", "movies" ]
 title: "Amores Inversos"
 stars: "3/5"
-desc: "Amores Inversos. Hateship Loveship (USA, 2013). Dirigido por Liza Johnson. Escrito por Mark Poirier, Alice Munro. Com Kristen Wiig (Johanna Parry), Guy Pearce (Ken), Hailee Steinfeld (Sabitha), Jennifer Jason Leigh (Chloe), Sami Gayle (Edith), Christine Lahti (Eileen), Nick Nolte (Mr. McCauley), Lauren Swinney (Mrs. Willets), Jeff Pope (Oxygen Delivery Man)."
 ---
 Hoje Kristen Wiig é a queridinha das comédias femininas. Em 2013 ela ainda estava galgando sua trajetória da TV para o Cinema, onde atingiria seu clímax na combinação explosiva de roteiro, direção e atuação em Missão Madrinha de Casamento. Nesse drama intimista independente dirigido por Liza Johnson e roteirizado com toques de exagero por Mark Poirier e Alice Munro, ela e Guy Pearce vivem personagens caricatos e só são salvos graças às atuações convincentes de ambos (Kristen mais).
 

@@ -6,7 +6,6 @@ date: "2013-10-06"
 tags: [ "draft", "movies" ]
 title: "Kung-Fusão"
 stars: "4/5"
-desc: "Kung-Fusão. Kung fu (Hong Kong, 2004). Dirigido por Stephen Chow. Escrito por Man Keung Chan, Stephen Chow, Xin Huo, Kan-Cheung Tsang. Com Stephen Chow, Xiaogang Feng, Wah Yuen, Zhi Hua Dong, Kwok-Kwan Chan, Chi Chung Lam, Siu-Lung Leung, Qiu Yuen, Kai Man Tin."
 ---
 Após uma revisita ao filme-gêmeo de Shaolin Soccer, ambos exploram esse conceito do Kung-fu extrapolado ao cotidiano, a sensação é de um frescor de ingenuidade e violência comparados a Kick Ass (e não me admiraria que este fosse inspirado naquele). Só pelo fato da violência existir com mortes e essas mortes serem relevantes para estabelecer o peso da tensão em um filme que obviamente é uma comédia já mereceria créditos de sobra.
 

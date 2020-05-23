@@ -7,7 +7,6 @@ date: "2016-07-28"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Fome"
 stars: "3/5"
-desc: "Fome. Hunger (Brazil, 2015). Dirigido por"
 ---
 Fome é um filme lento e arrastado, com seu lado amadorístico, com uma direção/edição que parece se apaixonar pela forma e não sabe a hora de cortar. Com a falta de ritmo em vários momentos, e um contraste curioso entre ficção e realidade, pode-se enxergar com clareza que este não é um trabalho para qualquer um, por exigir paciência e determinação em decifrá-lo. Ao mesmo tempo, ele permite diferentes interpretações, das mais simples às mais complexas; tudo depende de como se enxerga os objetivos de algumas decisões narrativas e estéticas da história.
 

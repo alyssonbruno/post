@@ -6,7 +6,6 @@ date: "2011-05-29"
 tags: [ "draft", "movies" ]
 title: "Singularidades de uma Rapariga Loura"
 stars: "2/5"
-desc: "Singularidades de uma Rapariga Loura. Singularidades de uma Rapariga Loura (Portugal, 2009). Dirigido por Manoel de Oliveira. Escrito por Eça de Queirós, Manoel de Oliveira, Manoel de Oliveira. Com Ricardo Trêpa, Catarina Wallenstein, Diogo Dória, Júlia Buisel, Leonor Silveira, Luís Miguel Cintra, Glória de Matos, Filipe Vargas, Rogério Samora."
 ---
 O filme 9 - A Salvação se baseia em um curta anteriormente produzido. O resultado é que temos uma história curta o suficiente para ser contada em 10 minutos ser expandida em tediosos 79 minutos.
 

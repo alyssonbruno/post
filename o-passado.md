@@ -7,7 +7,6 @@ review: [ "2019" ]
 tags: [ "draft", "movies" ]
 title: "O Passado"
 stars: "4/5"
-desc: "O Passado. El pasado (Argentina, 2007). Dirigido por Hector Babenco. Escrito por Hector Babenco, Marta Goes, Alan Pauls. Com Mabi Abele, Mariana Anghileri, Mimí Ardú, Paulo Autran, Hector Babenco, Ana Celentano, Analía Couceyro, Gael García Bernal, Alejandro Genes. Texto original de 2012-07-22."
 ---
 O grande problema quando um relacionamento acaba é que, apesar de tentarmos com sinceridade seguir em frente com nossas vidas, a memória do tempo vivido com a outra pessoa existirá para sempre. Quando Rímini (Gael García Bernal) e Sofia (Analía Couceyro) se separam, mesmo que civilizadamente, algo parece impedir que Sofia aceite essa nova realidade. E este é um filme cuja expressão "peso do passado" realmente se sente.
 

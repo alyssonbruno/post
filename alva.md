@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-22"
 title: "Alva"
-desc: '"Alva" (Portugal, França e Argentina, 2019), dirigido por Ico Costa, com Henrique Bonacho. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "10153664"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

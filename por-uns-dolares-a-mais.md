@@ -6,7 +6,6 @@ date: "2012-06-10"
 tags: [ "draft", "movies" ]
 title: "Por uns Dólares a Mais"
 stars: "5/5"
-desc: "Por uns Dólares a Mais. Per qualche dollaro in più (Italy, 1965). Dirigido por Sergio Leone. Escrito por Sergio Leone, Fulvio Morsella, Luciano Vincenzoni, Sergio Leone, Luciano Vincenzoni, Fernando Di Leo, Sergio Donati. Com Clint Eastwood, Lee Van Cleef, Gian Maria Volonté, Mario Brega, Luigi Pistilli, Aldo Sambrell, Klaus Kinski, Benito Stefanelli, Luis Rodríguez."
 ---
 Continuação de Por um Punhado de Dólares e apenas um ano após a produção original, Por uns Dólares a Mais concebe o universo do faroeste de uma maneira mais aventureira e empolgante que seu precursor. Dessa vez há duas figuras principais. O Homem Misterioso de antes já não é mais tão misterioso assim. Possui um nome: Manco. E possui uma função: é caçador de recompensas. Aliás, uma consequência mais que natural do que vimos no primeiro filme, pois se há tantos fora-da-lei espalhados pelo oeste faz sentido que a polícia precise de oportunistas para capturá-los.
 

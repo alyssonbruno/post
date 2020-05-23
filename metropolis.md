@@ -6,7 +6,6 @@ date: "2014-06-06"
 tags: [ "draft", "movies" ]
 title: "Metrópolis"
 stars: "5/5"
-desc: "Metrópolis. Metropolis (Germany, 1927). Dirigido por Fritz Lang. Escrito por Thea von Harbou, Thea von Harbou, Fritz Lang. Com Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge, Fritz Rasp, Theodor Loos, Erwin Biswanger, Heinrich George, Brigitte Helm, Fritz Alberti."
 ---
 Se algumas pessoas torcem o nariz ao ver filmes como "O Gabinete do Dr. Caligari" e Nosferatu, pois hoje soam caricatos, nada se pode dizer a respeito de Metrópolis, um épico da ficção científica dirigido e escrito por Fritz Lang e sua esposa em 1927. Os três são representantes clássicos do expressionismo alemão, um movimento artístico cujos movimentos dos personagens são exatamente o que vemos na tela: caricatos, exagerados, quase simbólicos. Para filmes mudos da época, um prato cheio para entreter e ainda capturar a essência das palavras que não saem da boca dos atores.
 

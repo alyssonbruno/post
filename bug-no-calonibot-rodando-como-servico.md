@@ -1,7 +1,6 @@
 ---
 date: "2020-05-10"
 title: "Bug no Calonibot Rodando Como Serviço"
-desc: "Vários bugs depois acho que encontrei a maneira mais enxuta de rodar meu botzinho de Telegram."
 categories: [ "blog" ]
 tags: [ "draft", "projects" ]
 ---

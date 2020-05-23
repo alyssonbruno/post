@@ -6,7 +6,6 @@ date: "2012-12-30"
 tags: [ "draft", "movies" ]
 title: "A Pele"
 stars: "3/5"
-desc: "A Pele. Fur: An Imaginary Portrait of Diane Arbus (USA, 2006). Dirigido por Steven Shainberg. Escrito por Erin Cressida Wilson, Patricia Bosworth. Com Nicole Kidman, Robert Downey Jr., Ty Burrell, Harris Yulin, Jane Alexander, Emmy Clarke, Genevieve McCarthy, Boris McGiver, Marceline Hugot."
 ---
 Quem é Diane Arbus? Com um objetivo um tanto curioso o filme de Steven Shainberg nos transporta em uma espécie de realidade alternativa onde a fotógrafa vivida por Nicole Kidman não só transfere sua inspiração e rédeas de seu processo criativo para o circense Lionel Sweeney (Robert Downey Jr.), que sofre de Hipertricose, como sugere que ele seria o (único) fruto da necessidade da artista de enfocar constantemente em seus trabalhos pessoas com algum tipo de deformação anti-natural.
 

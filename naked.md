@@ -6,7 +6,6 @@ date: 2017-08-14T20:48:15
 tags: [ "draft", "movies" ]
 title: "Naked"
 stars: "1/5"
-desc: "Naked. Naked (USA, 2017). Dirigido por Michael Tiddes. Escrito por Rick Alvarez, Mårten Knutsson, Torkel Knutsson, Cory Koller, Marlon Wayans. Com Marlon Wayans (Rob Anderson), Regina Hall (Megan), Dennis Haysbert (Reginald Swope), J.T. Jackson (Benny), Scott Foley (Cody Favors), Eliza Coupe (Vicky), Brian McKnight (Brian McKnight), Loretta Devine (Carol), Cory Hardrict (Drill)."
 ---
 É possível imaginar que este seria um dos primeiros filmes da Netflix cujo roteiro está mais próximo de ter sido feito por Machine Learning do que por roteiristas humanos. Ele é esquemático, usa fórmulas antigas, consagradas ou comentadas por décadas. Apela para movimentos de câmera fáceis, sem construção de cena. A ação está toda pronta já em trabalhos como GTA. E GTA é "apenas" um video-game.
 

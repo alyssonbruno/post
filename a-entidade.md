@@ -6,7 +6,6 @@ date: "2013-01-20"
 tags: [ "draft", "movies" ]
 title: "A Entidade"
 stars: "3/5"
-desc: "A Entidade. Sinister (USA, 2012). Dirigido por Scott Derrickson. Escrito por Scott Derrickson, C. Robert Cargill. Com Ethan Hawke, Juliet Rylance, Fred Dalton Thompson, James Ransone, Michael Hall D'Addario, Clare Foley, Rob Riley, Tavis Smiley, Janet Zappala."
 ---
 O desenvolvimento de A Entidade diz mais sobre o espectador do que sobre a própria história. Em um mundo cada vez mais cínico e cético, a dificuldade em gerar tensão em um filme de horror  com exceção das inúmeras versões de Atividade Paranormal  permanece na credibilidade dos acontecimentos. Se nossas crenças já não mais estabelecem espíritos e demônios como os seres supremos do mal a imersão nas histórias contemporâneas caminham cada vez mais para os efeitos dessas forças malignas: a morte, simplesmente.
 

@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-20"
 title: "O Castelo Animado"
 tags: [ "draft", "movies" ]
-desc: '"Hauru no ugoku shiro" (Japan, 2004), escrito por Hayao Miyazaki e Diana Wynne Jones, dirigido por Hayao Miyazaki, com Chieko Baishô, Takuya Kimura e Akihiro Miwa.'
 imdb: "0347149"
 stars: "4/5"
 ---

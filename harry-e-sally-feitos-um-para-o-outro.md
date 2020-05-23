@@ -6,7 +6,6 @@ date: "2013-07-01"
 tags: [ "draft", "movies" ]
 title: "Harry e Sally"
 stars: "5/5"
-desc: "Harry e Sally. When Harry Met Sally... (USA, 1989). Dirigido por Rob Reiner. Escrito por Nora Ephron. Com Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby, Steven Ford, Lisa Jane Persky, Michelle Nicastro, Gretchen Palmer, Robert Alan Beuth."
 ---
 Nora Ephron morreu ano passado. Escreveu e dirigiu trabalhos desde os anos 80 que hoje são agradáveis passeios pelas origens da comédia romântica como hoje a vemos (ainda que algumas bem datadas, como A Difícil Arte de Amar). No entanto, "Harry & Sally", comparado com a média das com-rom atuais, possui virtudes o suficiente para elevá-lo à categoria de grande filme.
 

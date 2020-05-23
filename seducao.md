@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-16"
 title: "Sedução"
-desc: '"Belle Epoque" (Espanha, Portugal e França, 1992), escrito por Rafael Azcona e José Luis García Sánchez, dirigido por Fernando Trueba, com Penélope Cruz, Miriam Díaz-Aroca e Gabino Diego. Um filme em DVD que eu vi a primeira vez décadas atrás pela coleção de VHSs da Folha.'
 imdb: "0103791"
 tags: [ "draft", "movies" ]
 stars: "4/5"

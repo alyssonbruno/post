@@ -6,7 +6,6 @@ date: "2014-01-07"
 tags: [ "draft", "movies" ]
 title: "Blue Jasmine"
 stars: "3/5"
-desc: "Blue Jasmine. Blue Jasmine (USA, 2013). Dirigido por Woody Allen. Escrito por Woody Allen. Com Cate Blanchett, Joy Carlin, Richard Conti, Glen Caspillo, Alec Baldwin, Charlie Tahan, Annie McNamara, Sally Hawkins, Daniel Jenks."
 ---
 Os créditos iniciais mais uma vez aparecem e com eles mais um filme de Woody Allen: neurose, traição, problemas financeiros. Não há dessa vez a questão existencialista (quando irei morrer?) e essa ausência é por si só uma novidade. A personagem de Cate Blanchett (a Jasmine do título) está mais preocupada em se recompor de sua vida passada como uma madame sem preocupações, o que ironicamente a faz ter constantemente ataques de pânico. Ela está em busca de um novo marido, fortuna e mimos.
 

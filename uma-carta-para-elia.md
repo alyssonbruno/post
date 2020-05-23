@@ -6,7 +6,6 @@ date: "2010-10-04"
 tags: [ "draft", "movies" ]
 title: "A Letter to Elia"
 stars: "3/5"
-desc: "A Letter to Elia. A Letter to Elia (USA, 2010). Dirigido por Kent Jones, Martin Scorsese. Escrito por Kent Jones, Martin Scorsese. Com Martin Scorsese, Elia Kazan, Elias Koteas."
 ---
 O documentário logo se revela mais pessoal que o normal, pois os nomes das pessoas não são apresentadas na primeira vez que elas aparecem (basicamente Elia Kazaan e Scorcese, o diretor do filme).
 

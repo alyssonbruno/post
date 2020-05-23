@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-17T17:22:23-02:00
 title: "Rock em Cabul"
-desc: "Rock the Kasbah. EUA, 2015. Escrito por Mitch Glazer. Dirigido por Barry Levinson. Com Bill Murray, Leem Lubany, Zooey Deschanel"
 imdb: "3164256"
 
 tags: [ "draft", "movies" ]

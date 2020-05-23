@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-13"
 title: "Rambo: Até o Fim"
-desc: '"Rambo: Last Blood" (EUA, 2019), escrito por Matthew Cirulnick, Sylvester Stallone e Dan Gordon, dirigido por Adrian Grunberg, com Sylvester Stallone, Yvette Monreal, Adriana Barraza, Óscar Jaenada, Sergio Peris-Mencheta e Paz Vega. Escrito para o CinemAqui.'
 imdb: "1206885"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

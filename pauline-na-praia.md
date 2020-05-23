@@ -1,7 +1,6 @@
 ---
 date: "2020-05-19"
 title: "Pauline na Praia"
-desc: '"Pauline at the Beach" (France, 1983), escrito por Éric Rohmer, dirigido por Éric Rohmer, com Amanda Langlet, Arielle Dombasle e Pascal Greggory.'
 imdb: "0086087"
 stars: "5/5"
 categories: [ "cinema" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-23"
 title: "O Menino que Fazia Rir"
-desc: '"Der Junge muss an die frische Luft" (Alemanha, 2018), escrito por Ruth Toma, adaptado por Caroline Link o livro de Hape Kerkeling, dirigido por Caroline Link, com Julius Weckauf e Luise Heyer. Escrito para o CinemAqui.'
 imdb: "5581284"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

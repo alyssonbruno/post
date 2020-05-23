@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-06"
 title: "A Camareira"
-desc: '"La camarista" (México, 2018), escrito por Lila Avilés e Juan Márquez, dirigido por Lila Avilés, com Gabriela Cartol, Agustina Quinci e Teresa Sánchez. Escrito para o CinemAqui.'
 imdb: "8331988"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

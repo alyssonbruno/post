@@ -2,7 +2,6 @@
 categories: [ "code" ]
 date: "2020-04-05"
 title: "Code Jam 2020"
-desc: "Vestigium, Nesting Depth, Parenting Partnering, ESab ATAd e Indicium foram os exercícios esse ano."
 tags: [ "draft", "puzzle" ]
 ---
 O Code Jam esse ano terminou rápido para mim. Estou enferrujado? Nem tanto. Apenas dei menos atenção ao evento no seu início, mas apesar de me concentrar nas últimas 11 horas não tive um resultado satisfatório, obtendo 24 pontos ao total, o que não me dá direito para o torneio, que exige pelo menos 30.

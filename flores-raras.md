@@ -6,7 +6,6 @@ date: "2013-08-26"
 tags: [ "draft", "movies" ]
 title: "Flores Raras"
 stars: "4/5"
-desc: "Flores Raras. Flores Raras (Brazil, 2013). Dirigido por Bruno Barreto. Escrito por Matthew Chapman, Julie Sayres, Carmen L. Oliveira, Carolina Kotscho. Com Glória Pires, Miranda Otto, Tracy Middendorf, Marcello Airoldi, Lola Kirke, Tânia Costa, Marianna Mac Niven, Marcio Ehrlich, Treat Williams."
 ---
 O tema "polêmico" de Flores Raras não existe há muito tempo, e apenas as mentes reduzidas de nossa época, que infelizmente não são poucas, irão enxergar qualquer anomalia no fato da história girar em torno de um triângulo amoroso entre três mulheres: Mary (Tracy Middendorf), a arquiteta Lota (Glória Pires) e a poetisa Elizabeth Bishop (Miranda Otto), todas encapsuladas em tramas tridimensionais. Sensível e inteligente, Bruno Barreto demonstra que a principal anomalia desse relacionamento é o ego controlador e descontrolado de Lota, uma arquiteta que através das influências políticas e dinheiro consegue manter em sua isolada casa no campo a ilusão de um mundo tolerante e tranquilo.
 

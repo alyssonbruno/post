@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "3409848"
 
 stars: "2/5"
-desc: "Zama (Argentina, 2017), escrito por Antonio Di Benedetto, Lucrecia Martel, dirigido por Lucrecia Martel, com Daniel Giménez Cacho, Lola Dueñas, Matheus Nachtergaele."
 
 ---
 Em algum momento na metade de Zama, da diretora argentina Lucrecia Martel, o protagonista se muda para um casebre pior de onde estava e começa a ser rodeado de mulheres que não existem. Esse poderia ser o clímax de um desejo reprimido que foi aumentando na mesma medida que suas frustrações, perdido em uma terra de ninguém. No entanto, como o filme nunca muda de tom, ainda estamos no mesmo estado de quando o filme começou. Exceto o sentimento de tempo perdido e um sono épico.

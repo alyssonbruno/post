@@ -6,7 +6,6 @@ date: "2015-02-22"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mr. Turner"
 stars: "4/5"
-desc: "Mr. Turner. Mr. Turner (UK, 2014). Dirigido por Mike Leigh. Escrito por Mike Leigh. Com Timothy Spall, Paul Jesson, Dorothy Atkinson, Marion Bailey, Karl Johnson, Ruth Sheen, Sandy Foster, Amy Dawson, Lesley Manville."
 ---
 Luzes, câmera, ação. Para os pintores, especialmente para o excêntrico pintor britânico Joseph Mallord William Turner (Timothy Spall), o primeiro elemento da tríade cinematográfica também é o mais importante de uma das artes de onde se derivou a sétima. A luz, nunca levada em conta pelo público médio, é vital para a compreensão do que um quadro quer dizer, seja ele uma pintura de aquarela ou as paisagens estáticas do filme escrito e dirigido por Mike Leigh (O Segredo de Vera Drake).
 

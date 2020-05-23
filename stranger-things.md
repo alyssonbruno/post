@@ -6,7 +6,6 @@ date: "2016-08-04"
 tags: [ "draft", "series" ]
 title: "Stranger Things (e a irrelevância da bilheteria Netflixiana)"
 stars: "3/5"
-desc: "Stranger Things (e a irrelevância da bilheteria Netflixiana). Stranger Things (USA, 2016). Dirigido por Matt Duffer, Ross Duffer, Shawn Levy. Escrito por Matt Duffer, Ross Duffer, Justin Doble. Com Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Natalia Dyer, Charlie Heaton, Cara Buono."
 ---
 A Netflix conseguiu mais uma vez. Usando seu algoritmo de análise do que o público quer ver, aí está justamente o que a grande massa adoraria ver: referências doentias aos anos 80 sem qualquer vergonha de se render ao clichê, ou apelar para emoções baratas. As pistas de uma série misteriosa aparecem na primeira cena que são usadas. Além de tudo, o roteiro é preguiçoso.
 

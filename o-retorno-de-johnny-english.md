@@ -6,7 +6,6 @@ date: "2011-11-13"
 tags: [ "draft", "movies" ]
 title: "O Retorno de Johnny English"
 stars: "3/5"
-desc: "O Retorno de Johnny English. Johnny English Reborn (USA, 2011). Dirigido por Oliver Parker. Escrito por Hamish McColl, William Davies, Neal Purvis, Robert Wade. Com Roger Barclay, Eric Carte, Rowan Atkinson, Togo Igawa, Eleanor Wyld, Mandi Sidhu, Margaret Clunie, Gillian Anderson, Rosamund Pike."
 ---
 Não assisti o original, mas a impressão geral desse novo trabalho de Rowan Atkinson, que aqui veste a pele de mais uma paródia de filmes do 007, é que, apesar do roteiro não se importar quase nada com a lógica da sua trama, esse não é motivo que impeça que o longa tenha momentos inspirados, criados principalmente pela boa performance do ator, que consegue flexibilidade para criar outro personagen caricato além de seu mundialmente famoso Mr. Bean.
 

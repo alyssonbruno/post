@@ -6,7 +6,6 @@ date: "2017-06-05"
 tags: [ "draft", "movies" ]
 title: "Ninguém Deseja a Noite"
 stars: "4/5"
-desc: "Ninguém Deseja a Noite. Nadie quiere la noche (Spain, 2015). Dirigido por Isabel Coixet. Escrito por Miguel Barros. Com Juliette Binoche (Josephine), Rinko Kikuchi (Allaka), Gabriel Byrne (Bram), Orto Ignatiussen, Matt Salinger (Captain Spalding), Ben Temple (Frand), Reed Brody (Lucius), Alberto Jo Lee (Odaq), Clarence Smith."
 ---
 Juliette Binoche se transforma completamente em uma americana aristocrata (vinda da França, até pelo nome) e que sai em busca de seu marido, um aventureiro que deseja mais que tudo ser o primeiro a atingir o Polo Norte e fincar uma bandeira. Ela vai a ajuda dos guias para o norte do Canadá, e o que encontra lá com certeza não era o que esperava.
 

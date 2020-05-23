@@ -6,7 +6,6 @@ date: "2014-06-19"
 tags: [ "draft", "series" ]
 title: "Orange is the New Black - Terceira Temporada"
 stars: "3/5"
-desc: "Orange is the New Black - Terceira Temporada. Orange Is the New Black (USA, 2013). Dirigido por Michael Trim, Andrew McCarthy, Phil Abraham, Constantine Makris, Uta Briesewitz, Jodie Foster. Escrito por Piper Kerman, Jenji Kohan, Sian Heder, Nick Jones, Lauren Morelli, Sara Hess, Tara Herrmann, Marco Ramirez. Com Taylor Schilling, Michael Harney, Kate Mulgrew, Natasha Lyonne, Uzo Aduba, Danielle Brooks, Samira Wiley, Dascha Polanco, Selenis Leyva."
 ---
 Orange is the New Black, apesar do título ultrapassado, ainda se mantém acima de sua irregular média. Digo irregular porque a série, apesar de possuir picos dramáticos e temáticos bem definidos, também possui os seus vales. Ou seja: se quiser aproveitar o que a série tem de bom, vai ter que aguentar muito lenga-lenga de mulher.
 

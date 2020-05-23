@@ -6,7 +6,6 @@ date: "2014-12-15"
 tags: [ "draft", "movies" ]
 title: "O Albergue"
 stars: "3/5"
-desc: "O Albergue. Hostel (USA, 2005). Dirigido por Eli Roth. Escrito por Eli Roth. Com Jay Hernandez, Derek Richardson, Eythor Gudjonsson, Barbara Nedeljakova, Jan Vlasák, Jana Kaderabkova, Jennifer Lim, Keiko Seiko, Lubomír Bukový."
 ---
 Este é um thriller que segue a cartilha básica do grupo de jovens descerebrados que entra em uma enrascada ao procurar prazer carnal no albergue de uma cidadezinha do Leste Europeu. O que eles não imaginavam -- nem teriam como, a não ser que você seja muito preconceituoso a respeito dessa região ex-comunista, portanto, esquecida e miserável -- é que a cidade emprega várias pessoas em um esquema que alimenta o prazer sádico de ricaços em torturar pessoas, especialmente americanos (nem preciso dizer de onde vem os nossos amigos).
 

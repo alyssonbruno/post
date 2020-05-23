@@ -1,7 +1,6 @@
 ---
 date: "2020-05-19"
 title: "Fechado Para Reformas"
-desc: "Pensamentos sobre como escrever profissionalmente."
 categories: [ "blog" ]
 tags: [ "draft", "essays" ]
 draft: "true"

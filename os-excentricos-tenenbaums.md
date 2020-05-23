@@ -6,7 +6,6 @@ date: "2015-12-05"
 tags: [ "draft", "movies" ]
 title: "Os Excêntricos Tenenbaums"
 stars: "4/5"
-desc: "Os Excêntricos Tenenbaums. The Royal Tenenbaums (USA, 2001). Dirigido por Wes Anderson. Escrito por Wes Anderson, Owen Wilson. Com Gene Hackman, Anjelica Huston, Ben Stiller, Gwyneth Paltrow, Luke Wilson, Owen Wilson, Bill Murray, Danny Glover, Seymour Cassel."
 ---
 Esse é um filme sobre família desajustada, feito ainda em uma época onde filmes sobre famílias desajustadas ainda instigavam o interesse do público Tênis Verde. Até porque, geralmente, essas histórias eram perfeitas para produções independentes de baixo orçamento. Dessa premissa saíram pérolas como Pequena Miss Sunshine, alguns anos depois.
 

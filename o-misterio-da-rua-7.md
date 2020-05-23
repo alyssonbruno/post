@@ -6,7 +6,6 @@ date: "2011-03-14"
 tags: [ "draft", "movies" ]
 title: "Mistério da Rua 7"
 stars: "3/5"
-desc: "Mistério da Rua 7. Vanishing on 7th Street (USA, 2010). Dirigido por Brad Anderson. Escrito por Anthony Jaswinski. Com Hayden Christensen, John Leguizamo, Thandie Newton, Jacob Latimore, Taylor Groothuis, Jordan Trovillion, Arthur Cartwright, Neal Huff, Hugh Maguire."
 ---
 Mensagem de cunho católico no mesmo molde de O Nevoeiro, porém, determinado a sacrificar a história pelo bem de um contra-ataque nada elegante?
 

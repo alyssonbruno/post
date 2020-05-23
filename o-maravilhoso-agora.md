@@ -6,7 +6,6 @@ date: "2016-04-13"
 tags: [ "draft", "movies" ]
 title: "O Maravilhoso Agora"
 stars: "3/5"
-desc: "O Maravilhoso Agora. The Spectacular Now (USA, 2013). Dirigido por James Ponsoldt. Escrito por Scott Neustadter, Michael H. Weber, Tim Tharp. Com Miles Teller, Shailene Woodley, Brie Larson, Masam Holden, Dayo Okeniyi, Kyle Chandler, Jennifer Jason Leigh, Nicci Faires, Ava London."
 ---
 Uma romance para ser realista ele tem que ser um drama. E para ser um drama ele tem que levar em conta a personalidade de seus personagens e levar isso até as últimas consequências. As últimas consequências para o herói de "The Spectactular Now" são trágicas, mas são reais. O que vimos de fato no final do filme é uma traição aos princípios desse personagem (que nunca mudaram) e, consequentemente, uma traição ao espectador que esteve lá por duas horas.
 

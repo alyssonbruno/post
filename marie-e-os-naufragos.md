@@ -6,7 +6,6 @@ date: "2016-10-28"
 tags: [ "draft", "movies" ]
 title: "Marie e os Náufragos"
 stars: "4/5"
-desc: "Marie e os Náufragos. Marie et les naufragés (France, 2016). Dirigido por Sébastien Betbeder. Escrito por Sébastien Betbeder. Com Pierre Rochefort (Siméon Forest), Vimala Pons (Marie Andrieu), Eric Cantona (Antoine), Damien Chapelle (Oscar), André Wilms (Cosmo), Emmanuelle Riva (Suzanne), Wim Willaert (Wim), Didier Sandre (L'éditeur), Kt Gorique (La jeune fille de 'La Jetée')."
 ---
 Um filme que atravessa o indie usando uma metalinguagem Kaufmaniana, descobrindo seus personagens no percurso, realizando uma trama eficiente que, por mais absurda que seja, mantém sempre o interesse do espectador.
 

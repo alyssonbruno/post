@@ -6,7 +6,6 @@ date: "2017-02-24"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Insubstituível"
 stars: "3/5"
-desc: "Insubstituível. Médecin de campagne (France, 2016). Dirigido por Thomas Lilti. Escrito por Thomas Lilti, Baya Kasmi, Khalladi Shérazade. Com François Cluzet (Jean-Pierre Werner), Marianne Denicourt (Nathalie Delezia), Christophe Odent (Norès), Patrick Descamps (Francis Maroini), Guy Faucher (Monsieur Sorlin), Margaux Fabre (Ninon), Julien Lucas (Le fiancé de Ninon), Yohann Goetzmann (Alexis), Josée Laprun (La mère d'Alexis)."
 ---
 Insubstituível é uma tentativa pálida e sem foco em explorar as dores da medicina, de passar a vida salvando vidas, e se preocupando com elas. Nos apresenta Jean-Pierre (François Cluzet), o médico do interior que descobre que tem câncer, e Nathalie (Marianne Denicourt), a médica que vem para ajudá-lo a atender seus pacientes durante seu tratamento.
 

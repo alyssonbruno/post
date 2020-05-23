@@ -1,7 +1,6 @@
 ---
 date: "2020-04-26"
 title: "Sem Sol"
-desc: '"Sans Soleil" (France, 1983), escrito por Chris Marker, dirigido por Chris Marker, com Florence Delay, Arielle Dombasle e Riyoko Ikeda.'
 imdb: "0084628"
 stars: "1/5"
 categories: [ "cinema" ]

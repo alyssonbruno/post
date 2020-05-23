@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-08"
 title: "Novo Mundo"
-desc: '"Golden Door" (Itália e França, 2006), escrito por Emanuele Crialese, dirigido por Emanuele Crialese, com Charlotte Gainsbourg, Vincenzo Amato e Vincent Schiavelli. Um filme em DVD de um diretor italiano filmado em Buenos Aires que tem apresentação no início de Martin Scorsese. Hein?'
 imdb: "0465188"
 tags: [ "draft", "movies" ]
 stars: "4/5"

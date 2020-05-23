@@ -6,7 +6,6 @@ tags: [ "draft", "series" ]
 imdb: "7902072"
 
 stars: "3/5"
-desc: "Safe. EUA, 2018. Criado por Harlan Coben. Com Amy James-Kelly, Amanda Abbington, Michael C. Hall."
 ---
 Antes que me perguntem, não, Michael C. Hall não mudou muita coisa desde seu icônico personagem em Dexter. Ele sempre foi o ator perfeito para o papel de serial killer, e aqui se sai muitíssimo bem no papel de um viúvo pai de duas meninas, onde uma delas some misteriosamente. Estamos em um condomínio fechado da classe média alta americana com pais um pouco autoritários demais com seus filhos (crítica social!) e vizinhos bem estranhos para ter como vizinhos.
 

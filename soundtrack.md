@@ -6,7 +6,6 @@ date: "2017-06-03"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Soundtrack"
 stars: "3/5"
-desc: "Soundtrack. Com Selton Mello (Cris), Ralph Ineson (Mark), Seu Jorge (Cao), Thomas Chaanhing (Huang), Lukas Loughran (Rafnar), J.G. Franklin (Nordic)."
 ---
 Ao chegarmos no fim de Soundtrack percebemos que falta um pouco de alma ao projeto, o que torna sua conclusão, diferente do esperado, mais patética do que triste ou inspirador. Esse é o resultado de um roteiro e direção focados em muitas ideias racionalmente organizadas e pouco envolvimento emocional. Aquelas pessoas parecem irremediavelmente isoladas de tudo e de todos, e quando algum tipo de aproximação acontece, ela soa forçada, artificial e contra os princípios dos personagens já estabelecidos.
 

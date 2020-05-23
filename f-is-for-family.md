@@ -6,7 +6,6 @@ date: "2016-01-30"
 tags: [ "draft", "series" ]
 title: "F is for Family"
 stars: "3/5"
-desc: "F is for Family. F is for Family (USA, 2015). Dirigido por Laurent Nicolas, Benjamin Marsaud. Escrito por Bill Burr, Michael Price, David Richardson. Com Bill Burr, Laura Dern, Justin Long, Debi Derryberry, Sam Rockwell, Haley Reinhart, Mo Collins, Trevor Devall, Phil Hendrie."
 ---
 Juventude Transviada e filmes do John Hughes são exemplos de filmes icônicos que discutem essa distância incômoda e fascinante entre as gerações de pais e filhos. F for Family é a tentativa da Netflix de mostrar isso E a distância que nos separa dos costumes de uma era: os (hoje) controversos anos 70, onde fumar em qualquer lugar era tão lei quanto falar palavrões na frente das crianças (e depois se perguntar onde foi que eles aprenderam a falar assim). E se formos perceber momentos mais reflexivos da série, seus próprios personagens estão propensos a questionarem seus próprios hábitos, sem nem ter muitas dicas do por que disso.
 

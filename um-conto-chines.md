@@ -6,7 +6,6 @@ date: "2018-07-14"
 tags: [ "draft", "movies" ]
 title: "Um Conto Chinês"
 stars: "4/5"
-desc: "Um Conto Chinês. Un cuento chino (Argentina, 2011). Dirigido por Sebastián Borensztein. Escrito por Sebastián Borensztein. Com Ricardo Darín, Muriel Santa Ana, Ignacio Huang, Enric Cambray, Iván Romanelli, Joaquín Bouzas, Julia Castelló Agulló, Gustavo Comini, Vivian El Jaber."
 ---
 (27 de abril de 2011) Assistir um filme argentino, em espanhol, em Buenos Aires, pode ser uma experiência inspiradora, ainda mais se estivermos falando de Cinema com C maiúsculo.
 

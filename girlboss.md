@@ -6,7 +6,6 @@ date: "2017-04-26"
 tags: [ "draft", "series" ]
 title: "Girlboss - Primeira Temporada"
 stars: "4/5"
-desc: "Girlboss - Primeira Temporada. Girlboss (USA, 2017). Dirigido por Christian Ditter, Jamie Babbit, Amanda Brotchie, Steven K. Tsuchida. Escrito por Jen Braeden, Kay Cannon, Karen Graci, Brian Shortall, Sophia Amoruso, Sonny Lee, Eben Russell, Caroline Williams. Com Britt Robertson (Sophia / ...), Ellie Reed (Annie), Johnny Simmons (Shane), Alphonso McAuley (Dax), RuPaul (Lionel)."
 ---
 Girlboss é uma história sobre os desafios do empreendedorismo. A série pega muito leve nos obstáculos, porque isso é EUA, e isso é Califórnia (se fosse no Brasil não existiria história, provavelmente). Seu núcleo gira em torno de uma menininha que, assim como quase todos nós, ainda não achou seu lugar no mundo, mas parece finalmente ter entendido o sentido da vida: tornar as pessoas felizes. E ela faz isso do seu jeito, reconfigurando roupas usadas (consideradas "vintage"), e não chama o que ela faz de negócio, mas de outra coisa. Caia na real, menina: você é uma capitalista malvadona!
 

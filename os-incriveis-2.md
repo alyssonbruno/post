@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-18T21:07:38-03:00
 title: "Os Incríveis 2"
-desc: "Incredibles 2. Dirigido e escrito por Brad Bird. Com Craig T. Nelson, Holly Hunter, Sarah Vowell (os dubladores brasileiros não faço ideia porque tem que ficar catando coquinho na internet)."
 imdb: "3606756"
 
 tags: [ "draft", "movies" ]

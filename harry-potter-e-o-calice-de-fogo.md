@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-29"
 title: "Harry Potter e o Cálice de Fogo"
-desc: '"Harry Potter and the Goblet of Fire" (Reino Unido e EUA, 2005), escrito por Steve Kloves baseado no livro de J.K. Rowling, dirigido por Mike Newell, com Eric Sykes, Timothy Spall e David Tennant. Maratona Harry Potter.'
 imdb: "0330373"
 tags: [ "draft", "movies" ]
 stars: "3/5"

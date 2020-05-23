@@ -6,7 +6,6 @@ date: "2012-08-06"
 tags: [ "draft", "movies" ]
 title: "Flores do Oriente"
 stars: "3/5"
-desc: "Flores do Oriente. Jin líng shí san chai (China, 2011). Dirigido por Yimou Zhang. Escrito por Heng Liu, Geling Yan. Com Christian Bale, Ni Ni, Xinyi Zhang, Tianyuan Huang, Xiting Han, Doudou Zhang, Dawei Tong, Atsurô Watabe, Kefan Cao."
 ---
 O diretor Yimou Zhang, desde seu Clã das Adagas Voadoras (2004), parece não ter perdido seu ar "afetado" de expor o horror da guerra de maneira estilada e "gore". O problema é que em Flores do Oriente esse estilo não possui espaço, pois é um drama que envolve meninas encarceradas em um convento no meio da ocupação japonesa, um grupo de meretrizes que acabam se refugiando no mesmo lugar, e um agente funerário (Cristian Bale), com uma inclinação em beber sem parar e tentar ser engraçado e espirituoso, mesmo que seja para um bando de crianças.
 

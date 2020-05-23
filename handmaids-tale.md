@@ -6,7 +6,6 @@ tags: [ "draft", "series" ]
 imdb: "5834204"
 
 stars: "4/5"
-desc: "Handmaid's Tale. EUA, 2017. Criado por Bruce Miller. Dirigido por Mike Barker, Kari Skogland, Reed Morano, Kate Dennis, Floria Sigismondi. Com Elisabeth Moss, Yvonne Strahovski, Max Minghella."
 ---
 Esta série da Hulu pode ser vista como uma mini-aula de história e sociologia "a céus abertos". Começamos vendo uma família fugindo na floresta. Um pai, uma mãe e uma garota. Eles fogem das forças inexoráveis de um Estado autoritário (isso na prática, se você já assistiu filmes suficientes, quer dizer que a família acaba ali). São momentos fortes que sintetizam o significado do totalitarismo na vida das pessoas, quando o coletivo vale mais do que a própria unidade básica da sociedade: a família.
 

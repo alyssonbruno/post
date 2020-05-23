@@ -6,7 +6,6 @@ date: "2014-05-31"
 tags: [ "draft", "movies" ]
 title: "O Cheiro do Ralo"
 stars: "5/5"
-desc: "O Cheiro do Ralo. O Cheiro do Ralo (Brazil, 2006). Dirigido por Heitor Dhalia. Escrito por Marçal Aquino, Heitor Dhalia, Lourenço Mutarelli. Com Selton Mello, Paula Braun, Paulo Alves, Susana Alves, Roberto Audio, Flavio Bauraqui, Boi, Alice Braga, Calico."
 ---
 O Cheiro do Ralo fala sobre trocas, ou melhor dizendo, sobre o valor das coisas. Coisas podem se resumir em objetos que possuíam ou não valor sentimental para as pessoas que a oferecem ao Sr. Lourenço (Selton Mello), para receber em troca o dinheiro que, pelo menos naquele momento, é mais valioso que o objeto em si.
 

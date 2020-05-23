@@ -6,7 +6,6 @@ date: "2011-11-16"
 tags: [ "draft", "movies" ]
 title: "A Casa dos Sonhos"
 stars: "3/5"
-desc: "A Casa dos Sonhos. Dream House (USA, 2011). Dirigido por Jim Sheridan. Escrito por David Loucka. Com Daniel Craig, Naomi Watts, Rachel Weisz, Elias Koteas, Marton Csokas, Taylor Geare, Claire Geare, Rachel G. Fox, Jane Alexander."
 ---
 Vendido como uma história de terror/suspense, a história gira em torno de Will Atenton (Craig) que, depois de anos dedicado ao seu emprego, se aposenta e volta a morar junto de sua família em um bairro afastado, onde terá todo o tempo para, além de curtir sua amada esposa (Weisz) e suas adoráveis filhas (ambas irmãs na vida real, que já fizeram ponta em A Origem), terminar o romance que vinha escrevendo nas horas vagas.
 

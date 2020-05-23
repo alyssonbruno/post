@@ -6,7 +6,6 @@ date: "2015-07-30"
 tags: [ "draft", "movies" ]
 title: "Homem de Ferro"
 stars: "4/5"
-desc: "Homem de Ferro. Iron Man (USA, 2008). Dirigido por Jon Favreau. Escrito por Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway, Stan Lee, Don Heck, Larry Lieber, Jack Kirby. Com Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, Shaun Toub, Faran Tahir, Clark Gregg, Bill Smitrovich."
 ---
 Pepper Potts (Gwyneth Paltrow) guarda o primeiro coração nuclear de Tony Stark (Robert Downey Jr.) como prova de que ele tem um coração. Ironicamente, o primeiro Homem de Ferro também prova que a franquia tinha coração e lógica em suas primeiras duas horas, estruturados de uma forma que jamais veríamos novamente nas novas aparições do gênio/bilionário/herói.
 

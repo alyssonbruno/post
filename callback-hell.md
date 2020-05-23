@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2020-04-09"
 title: "Callback Hell"
-desc: "Programar em C pode ser uma dádiva ou um pesadelo."
 tags: [ "draft", "essays" ]
 ---
 Foi aprendendo sobre kernel do Windows que eu descobri que a linguagem C suporta todas as abstrações que um homem crescido precisa para desenvolver sistemas. Também aprendi que você precisa ser um homem crescido para saber usar direito.

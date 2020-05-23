@@ -6,7 +6,6 @@ date: "2016-09-08"
 tags: [ "draft", "movies" ]
 title: "Grande Coisa"
 stars: "3/5"
-desc: "Grande Coisa. Big Nothing (UK, 2006). Dirigido por Jean-Baptiste Andrea. Escrito por Jean-Baptiste Andrea, William Rosenfeld. Com David Schwimmer, Simon Pegg, Alice Eve, Natascha McElhone, Jon Polito, Mimi Rogers, William Rosenfeld, Julian Glover, Olivia Peterson."
 ---
 Lembra aquelas comédias meio-thriller, meio-policial e meio-pastelão(?!?). Pois é, em "Grande Coisa", isso foi pasteurizado, talvez "reimaginado", e se tornou uma trama pseudo-complexa sobre uma série de acontecimentos inesperados recheados de mentiras deslavadas e reviravoltas impossíveis, a ponto de duvidarmos se tudo aquilo poderia fazer sentido em um filme menos... retardado.
 

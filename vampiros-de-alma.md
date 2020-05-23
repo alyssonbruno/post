@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-20"
 title: "Vampiros de Alma"
 tags: [ "draft", "movies" ]
-desc: '"Invasion of the Body Snatchers" (United States, 1956), escrito por Daniel Mainwaring, Jack Finney e Richard Collins, dirigido por Don Siegel, com Kevin McCarthy, Dana Wynter e Larry Gates.'
 imdb: "0049366"
 stars: "3/5"
 ---

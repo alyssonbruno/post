@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2019-08-19"
 title: "Restaurante Tenda Do Nilo"
-desc: "Um restaurante libanês de bairro que lembra um boteco, mas que tem um autêntico sabor regional."
 tags: [ "draft", "food" ]
 stars: "4/5"
 ---

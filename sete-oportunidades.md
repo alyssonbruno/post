@@ -6,7 +6,6 @@ date: "2015-09-17"
 tags: [ "draft", "movies" ]
 title: "Sete Oportunidades"
 stars: "5/5"
-desc: "Sete Oportunidades. Seven Chances (USA, 1925). Dirigido por Buster Keaton. Escrito por Roi Cooper Megrue, Clyde Bruckman, Jean C. Havez, Joseph A. Mitchell. Com Buster Keaton, T. Roy Barnes, Snitz Edwards, Ruth Dwyer, Frances Raymond, Erwin Connelly, Jules Cowles, Jean Arthur, Lori Bara."
 ---
 Seven Chances é um filme de uma hora de Buster Keaton que mais uma vez consegue a proeza de contar uma história datada, fútil e banal da maneira mais prosaica, mais hilária e mais movimentada possível.
 

@@ -6,7 +6,6 @@ date: "2015-09-11"
 tags: [ "draft", "movies" ]
 title: "A Incrível História de Adaline"
 stars: "3/5"
-desc: "A Incrível História de Adaline. The Age of Adaline (USA, 2015). Dirigido por Lee Toland Krieger. Escrito por J. Mills Goodloe, Salvador Paskowitz, J. Mills Goodloe, J. Mills Goodloe, Salvador Paskowitz. Com Blake Lively, Michiel Huisman, Harrison Ford, Ellen Burstyn, Kathy Baker, Amanda Crew, Lynda Boyd, Hugh Ross, Richard Harmon."
 ---
 A premissa por trás de "Adaline" é muito interessante, como toda ficção científica bem imaginada costuma ser. O filme, aliás, possui diversos pontos altos em sua história. Porém, o novelão romântico ao qual ele se entrega não deixa de incomodar durante todo o tempo, fazendo com que uma experiência fascinante vá aos poucos nos lembrando das velhas fórmulas de fazer romance com um drama genérico.
 

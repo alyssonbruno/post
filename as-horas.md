@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-24T19:28:42-03:00
 title: "As Horas"
-desc: "The Hours. EUA, Reino Unido, 2002. Dirigido por Stephen Daldry, escrito por David Hare baseado em livro de Michael Cunningham. Com Meryl Streep, Nicole Kidman, Julianne Moore."
 imdb: "0274558"
 
 tags: [ "draft", "movies" ]

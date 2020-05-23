@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "7633052"
 
 stars: "2/5"
-desc: "Todos Os Paulos Do Mundo (Brasil, 2017), escrito e dirigido por Rodrigo de Oliveira, Gustavo Ribeiro, com Paulo José, Selton Mello, Joana Fomm, Fernanda Montenegro."
 
 ---
 Existia uma aura em mim que me dizia que o ator Paulo José era uma grande persona, e uma versão mais velha do Seu Jorge, uma figura que parece presente em todos os momentos importantes da cinematografia nacional (e até mundial). Se você também tem este grande apreço por este grande ator, não indico assistir a Todos os Paulos do Mundo, uma pseudo-homenagem inglória que perde em ritmo a mesma quantidade do que perde em brilho sobre quem foi, é e será Paulo José em nossas memórias.

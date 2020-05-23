@@ -6,7 +6,6 @@ date: 2016-06-06
 tags: [ "draft", "movies" ]
 title: "Ninfomaníaca Vol. 1"
 stars: "4/5"
-desc: "Ninfomaníaca Vol. 1. Nymphomaniac: Vol. I (Denmark, 2013). Dirigido por Lars von Trier. Escrito por Lars von Trier. Com Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf, Christian Slater, Uma Thurman, Sophie Kennedy Clark, Connie Nielsen, Ronja Rissmann."
 ---
 Antes mesmo de ser anunciado, a ideia de um filme sobre uma ninfomaníaca dirigido pelo pessimista Lars von Trier (Dogville, Melancolia, Dançando no Escuro) já fazia todo o sentido: experimentando uma vida vazia de significado, mas cheia de sexo por todos os lados, a história de Joe (Charlotte Gainsbourg) atravessa todos os períodos da sua vida e aparentemente não há qualquer resquício nela de prazer, paixão ou saudade. Tendo que ser dividido em volumes por causa de sua longa duração, a experiência ainda recebe toques metalinguísticos, pois "Ninfomaníaca, Volume I" é uma experiência tão incompleta e inacabada quanto a sintomática personagem, vivida por Charlotte Gainsbourg de maneira amargurada ao calcular todo o mal que já fez para o mundo.
 

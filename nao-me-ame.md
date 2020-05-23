@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-24"
 title: "Não me Ame"
-desc: '"Love Me Not" (Espanha e México, 2019), escrito por Sergi Belbel e Lluís Miñarro, dirigido por Lluís Miñarro, com Luis Alberti, Fausto Alzati e Hugo Catalán. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "8445700"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

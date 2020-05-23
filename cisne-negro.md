@@ -6,7 +6,6 @@ date: "2011-02-23"
 tags: [ "draft", "movies" ]
 title: "Cisne Negro"
 stars: "5/5"
-desc: "Cisne Negro. Black Swan (USA, 2010). Dirigido por Darren Aronofsky. Escrito por Mark Heyman, Andres Heinz, John J. McLaughlin, Andres Heinz. Com Natalie Portman, Mila Kunis, Vincent Cassel, Barbara Hershey, Winona Ryder, Benjamin Millepied, Ksenia Solo, Kristina Anapau, Janet Montgomery."
 ---
 Nina é uma dançarina de balé que, assim como muitas, devota toda sua vida a essa arte. Perfeccionista ao extremo e apoiada pela mãe controladora, ela está prestes a participar da escolha de quem será a nova protagonista de uma nova versão do clássico O Lago dos Cisnes, dirigida pelo seu controverso diretor Thomas Leroy (Cassel).
 

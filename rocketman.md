@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-03"
 title: "Rocketman"
-desc: '"Rocketman" (Reino Unido, Canadá e EUA, 2019), escrito por Lee Hall, dirigido por Dexter Fletcher, com Taron Egerton, Jamie Bell e Richard Madden. Assistindo para o top10 2019.'
 imdb: "2066051"
 tags: [ "draft", "movies" ]
 stars: "4/5"

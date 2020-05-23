@@ -6,7 +6,6 @@ date: "2016-10-22"
 tags: [ "draft", "series" ]
 title: "Supergirl"
 stars: "3/5"
-desc: "Supergirl. Supergirl (piloto) (USA, 2015). Dirigido por Glen Winter, Larry Teng, Dermott Downs. Escrito por Ali Adler, Greg Berlanti, Andrew Kreisberg, Joe Shuster, Jerry Siegel, Otto Binder, Jerry Ordway, Caitlin Parrish, Al Plastino. Com Melissa Benoist (Kara Danvers / ...), Mehcad Brooks (James Olsen), Chyler Leigh (Alex Danvers), Jeremy Jordan (Winn Schott), David Harewood (Hank Henshaw / ...), Calista Flockhart (Cat Grant), Chris Wood (Mon-El)."
 ---
 A nova série da "menina de aço" parece importada do seu original de 1984 e atualizada de maneira preguiçosa com os temas do momento (leia: feminazismo). Se até a metade do piloto conseguimos nos importar minimamente com a trama e, principalmente, com o destino de Kara e a decisão de ser quem ela verdadeiramente é (uma super-heroína), de lá pra frente o que vemos é a entrega total ao televisivo, a soluções fáceis e a modelos de entretenimento que utilizam referências dos últimos trabalhos da DC para soar antenado.
 

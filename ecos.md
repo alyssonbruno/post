@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-22"
 title: "Ecos"
-desc: '"Echo" (Islândia, 2019), escrito por Rúnar Rúnarsson, dirigido por Rúnar Rúnarsson, com Sigurmar Albertsson, Bent Kingo Andersen e Sif Arnarsdóttir. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9296808"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

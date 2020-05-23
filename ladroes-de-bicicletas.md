@@ -6,7 +6,6 @@ date: "2015-06-18"
 tags: [ "draft", "movies" ]
 title: "Ladrões de Bicicletas"
 stars: "5/5"
-desc: "Ladrões de Bicicletas. Ladri di biciclette (Italy, 1948). Dirigido por Vittorio De Sica. Escrito por Cesare Zavattini, Luigi Bartolini, Oreste Biancoli, Suso Cecchi D'Amico, Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri, Cesare Zavattini. Com Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Gino Saltamerenda, Vittorio Antonucci, Giulio Chiari, Elena Altieri, Carlo Jachino, Michele Sakara."
 ---
 Ladrões de Bicicletas é um filme curto (menos de uma hora e meia) e antigo (da década de 40) e italiano. Porém, apesar dele ser curto ele é completo, apesar dele ser antigo ele é atual, e apesar dele ser italiano ele é, felizmente ou infelizmente, universal. Para os que se interessam por bobagens, foi um dos primeiros longa-metragens a ganhar um Oscar de Filme Estrangeiro, um título que não existia e era dado de vez em quando pela academia. Para os que se interessam pelo Cinema como arte, este filme virou um dos exemplos mais conhecidos do neo-realismo italiano, um estilo de fazer filmes que buscava refletir a realidade social da época, sendo filmado quase como um documentário. Tanto que os personagens não são nada especiais, podendo ser qualquer um na megalópole italiana naquela época pós-guerra.
 

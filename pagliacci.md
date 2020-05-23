@@ -4,7 +4,6 @@ date: 2018-04-13T13:22:47-03:00
 title: "Pagliacci"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
-desc: "Pagliacci (Brasil, 2018), dirigido por Chico Gomes, Júlio Hey, Pedro Moscalcoff, Luiz Villaça e Luiza Villaça, com Alexandre Roit, Carla Candiotto, Chico Pelúcio, Domingos Montagner, Fernando Paz, Fernando Sampaio, Filipe Bregantim, Keila Bueno."
 
 ---
 Sobre o que fala Pagliacci, este pequeno documentário? Sobre palhaços, basicamente. Várias definições de profissionais e estudiosos do ramo, de várias gerações e sobre várias facetas. No entanto, você vai sair da sala com a impressão de ter ouvido mais do mesmo por 80 minutos.

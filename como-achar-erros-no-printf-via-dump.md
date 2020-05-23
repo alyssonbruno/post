@@ -2,7 +2,6 @@
 categories: [ "code" ]
 date: "2018-01-25"
 title: "Como Achar Erros no Printf via Dump"
-desc: "A análise de dumps pode ser útil até quando a memória é corrompida por funções com números de argumentos variáveis como essa da libc."
 tags: [ "draft", "ccpp", "debug" ]
 ---
 Às vezes, e apenas às vezes, é útil ter um dump do processo que acabou de capotar e ter um singelo backup do pdb (arquivo de símbolos) dos binários envolvidos nessa tragédia. Com alguns cliques pontuais e uma análise simples da stack, da variável e do código envolvido é possível chegar em um veredito sem muitas controversas se foi isso mesmo que gerou o crash. No caso peguei hoje um caso assim.

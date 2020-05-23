@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-17"
 title: "Homem Aranha: Longe De Casa"
-desc: "Spider-Man: Far from Home. United States, 2019. Dirigido por Jon Watts, escrito por Chris McKenna, Stan Lee, Steve Ditko. Com Tom Holland, Samuel L. Jackson, Jake Gyllenhaal."
 imdb: "6320628"
 tags: [ "draft", "movies" ]
 stars: "3/5"

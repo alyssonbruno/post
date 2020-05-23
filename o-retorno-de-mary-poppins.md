@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-13T12:39:21-02:00
 title: "O Retorno De Mary Poppins"
-desc: "Mary Poppins Returns (EUA, 2018), escrito por David Magee e modificado depois por ele, Rob Marshall e John DeLuca (e tudo é baseado nas histórias de Mary Poppins por P.L. Travers), dirigido por Rob Marshall, com Emily Blunt, Lin-Manuel Miranda, Ben Whishaw, Emily Mortimer, Julie Walters, Colin Firth e crianças. PS: há uma participação mais que especial de Dick Van Dyke."
 imdb: "5028340"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

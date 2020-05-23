@@ -5,7 +5,6 @@ date: "2016-10-31"
 tags: [ "draft", "movies" ]
 title: "Haymatloz - Exílio na Turquia"
 stars: "1/5"
-desc: "Haymatloz - Exílio na Turquia. Import-Export - Eine Reise in die deutsch-türkische Vergangenheit (Germany, 2006). Dirigido por Eren Önsöz. Escrito por Eren Önsöz. Com Götz Aly, Ayhan Ayrilmaz, Cornelius Bischoff, Christoph Daum, Gültekin Emre, Hartmut Heller, Jörg Hustiak (Narrator), Rudi Höhnow, Bayram Kaya."
 ---
 Este é um documentário quase televisivo, descritivo, que não tem praticamente nada a falar. Burocrático do começo ao fim, tem por objetivo uma homenagem aos professores expulsos da Alemanha Nazista que lecionaram em Istambul, na Turquia, além de alguns na Suíça. Seus filhos e netos voltam, então, às origens e o que vemos acaba por aí.
 

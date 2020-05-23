@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-17"
 title: "A Garota com a Pulseira"
-desc: '"La Fille au Bracelet" (França, 2019), escrito por Stéphane Demoustier, dirigido por Stéphane Demoustier, com Melissa Guers, Roschdy Zem e Anaïs Demoustier. Escrito para o CinemAqui na cobertura da #mostrap.'
 imdb: "7766886"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

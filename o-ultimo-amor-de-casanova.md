@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-12"
 title: "O Último Amor de Casanova"
-desc: '"Dernier amour" (França, 2019), escrito por Jérôme Beaujour e Giacomo Casanova, dirigido por Benoît Jacquot, com Vincent Lindon, Stacy Martin e Valeria Golino. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9105628"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-05"
 title: "A Chance de Fahim"
-desc: '"Fahim" (França, 2019), escrito por Pierre-François Martin-Laval, dirigido por Pierre-François Martin-Laval, com Gérard Depardieu, Isabelle Nanty e Assad Ahmed.'
 imdb: "4693588"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "2/5"

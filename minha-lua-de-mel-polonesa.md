@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-27"
 title: "Minha Lua de Mel Polonesa"
-desc: '"Lune de miel" (França, 2018), escrito por Mathias Gavarry e Élise Otzenberger, dirigido por Élise Otzenberger, com Judith Chemla, Arthur Igual e Brigitte Roüan. Escrito para o CinemAqui.'
 imdb: "8682932"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

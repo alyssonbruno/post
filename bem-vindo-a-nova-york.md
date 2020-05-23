@@ -6,7 +6,6 @@ date: "2014-09-11"
 tags: [ "draft", "movies" ]
 title: "Bem-Vindo a Nova York"
 stars: "4/5"
-desc: "Bem-Vindo a Nova York. Welcome to New York (USA, 2014). Dirigido por Abel Ferrara. Escrito por Abel Ferrara, Christ Zois. Com Jacqueline Bisset, Gérard Depardieu, Amy Ferguson, Drena De Niro, Paul Calderon, Paul Hipp, Maria Di Angelis, Ronald Guttman, Natasha Romanova."
 ---
 Devereaux, o personagem de Gérard Depardieu em mais um papel memorável, é um intelectual que está no topo da cadeia do mercado financeiro e que ainda é casado com uma esposa bilionária. Por onde passa espalha admiração. É um senhor fisicamente grande e desengonçado, mas educado e cordial. Fora isso é um pervertido sexual que simplesmente não consegue se controlar diante de uma mulher, e é isso que abala completamente as estruturas sociais de sua vida bem-sucedida.
 

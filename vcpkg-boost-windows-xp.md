@@ -2,7 +2,6 @@
 categories: [ "code" ]
 date: "2019-09-16"
 title: "Vcpkg: Boost para Windows XP"
-desc: "Como compilar uma versão do Boost que funcione para XP usando o pacote existente do vcpkg. Nessa descoberta aprenda maneiras de averiguar erros de linker, dependências de executáveis Windows e como o pacote vcpkg do boost funciona."
 tags: [ "draft",  ]
 ---
 Quem programa em C++ no Brasil geralmente precisa estar preparado para manter velharias. Boa parte do parque de máquinas das empresas usam Windows, e não estou falando de Windows 10, mas muitas vezes XP. Apesar da Microsoft ter largado uma das melhores versões do seu SO para trás, milhares de máquinas ainda rodam esse bichinho, e muitos programadores precisam manter e desenvolver em nome da compatibilidade.

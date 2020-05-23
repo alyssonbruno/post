@@ -6,7 +6,6 @@ date: "2013-10-20"
 tags: [ "draft", "movies" ]
 title: "Aqui é o Meu Lugar"
 stars: "3/5"
-desc: "Aqui é o Meu Lugar. This Must Be the Place (Italy, 2011). Dirigido por Paolo Sorrentino. Escrito por Paolo Sorrentino, Umberto Contarello, Paolo Sorrentino. Com Sean Penn, Olwen Fouere, Judd Hirsch, Eve Hewson, Kerry Condon, Joyce Van Patten, David Byrne, Shea Whigham, Liron Levo."
 ---
 Sean Penn é um excelente ator, diga-se de passagem. Mas nesse trabalho em que ele coloca uma peruca (que insiste em assoprar) e fala como se fosse desmaiar a qualquer momento é daqueles típicos casos de vergonha alheia.
 

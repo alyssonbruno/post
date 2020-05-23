@@ -6,7 +6,6 @@ date: "2016-08-21"
 tags: [ "draft", "movies" ]
 title: "Angry Birds: O Filme"
 stars: "4/5"
-desc: "Angry Birds: O Filme. Angry Birds (USA, 2016). Dirigido por Clay Kaytis, Fergal Reilly. Escrito por John Cohen, Mikael Hed, Mikko Pöllä, Jon Vitti. Com Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph, Bill Hader, Peter Dinklage, Sean Penn, Keegan-Michael Key, Kate McKinnon."
 ---
 Filmes baseados em jogos não costumam gerar resultados positivos. Um jogo para celulares, então, teria probabilidades maiores ainda de fracassar como Cinema. Porém, eis aqui um filme que aproveita cada oportunidade de sua história para evocar o universo simples de Angry Birds. Ele constrói personagens e seu mundinho baseados nos elementos do jogo, mas está longe de ser apenas isso. É um filme sobre como os sentimentos ditos como negativos -- como a raiva -- podem ser positivos em alguns momentos da vida.
 

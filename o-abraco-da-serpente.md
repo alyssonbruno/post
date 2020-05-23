@@ -7,7 +7,6 @@ date: "2016-02-18"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Abraço da Serpente"
 stars: "4/5"
-desc: "O Abraço da Serpente. El abrazo de la serpiente (Colombia, 2015). Dirigido por Ciro Guerra. Escrito por Ciro Guerra, Theodor Koch-Grunberg, Richard Evans Schultes, Jacques Toulemonde Vidal. Com Nilbio Torres, Jan Bijvoet, Antonio Bolivar, Brionne Davis, Yauenkü Migue, Nicolás Cancino, Luigi Sciamanna."
 ---
 O Abraço da Serpente é uma viagem cósmica através da descendência de todos os homens. Razão e tradição se digladiam para contar uma história que atravessa o senso da individualidade sem perder o senso da responsabilidade. E, sim, é também sobre índios.
 

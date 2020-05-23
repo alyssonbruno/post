@@ -6,7 +6,6 @@ date: "2016-03-27"
 tags: [ "draft", "movies" ]
 title: "Albert Nobbs"
 stars: "4/5"
-desc: "Albert Nobbs. Albert Nobbs (UK, 2011). Dirigido por Rodrigo García. Escrito por Gabriella Prekop, John Banville, Glenn Close, George Moore, István Szabó. Com Glenn Close, Antonia Campbell-Hughes, Mia Wasikowska, Pauline Collins, Maria Doyle Kennedy, Mark Williams, James Greene, Serena Brabazon, Michael McElhatton."
 ---
 Não é uma discussão de gêneros, mas da estreiteza da alma humana. Albert Nobbs se torna um personagem de tragédia anunciada, mas nunca deixa de ser fascinante através da pele de uma Glenn Close obstinada em entregar uma figura que teve uma vida tão desesperada, e por tanto tempo, que se acostumou em viver presa em sua jaula do dia-a-dia, enquanto ajunta pacientemente centavos e xelins para uma dia viver a vida que lhe fora negada desde a infância. 
 

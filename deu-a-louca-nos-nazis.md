@@ -6,7 +6,6 @@ date: "2015-09-25"
 tags: [ "draft", "movies" ]
 title: "Deu a Louca nos Nazis"
 stars: "3/5"
-desc: "Deu a Louca nos Nazis. Iron Sky (Finland, 2012). Dirigido por Timo Vuorensola. Escrito por Jarmo Puskala, Johanna Sinisalo, Michael Kalesniko, Timo Vuorensola. Com Julia Dietze, Christopher Kirby, Götz Otto, Udo Kier, Peta Sergeant, Stephanie Paul, Tilo Prückner, Michael Cullen, Kym Jackson."
 ---
 Uma comédia, ou suposta comédia, sobre nazistas que fogem para a Lua no final da guerra e vivem lá planejando um ataque à Terra, até que dois astronautas, sessenta anos depois, voltam a pisar em solo lunar e um deles se torna cobaia para experimentos de um cientista maluco nazista. Infelizmente esse rapaz é negro.
 

@@ -6,7 +6,6 @@ date: "2015-01-17"
 tags: [ "draft", "movies" ]
 title: "O Homem Mais Procurado"
 stars: "3/5"
-desc: "O Homem Mais Procurado. A Most Wanted Man (UK, 2014). Dirigido por Anton Corbijn. Escrito por Andrew Bovell, John le Carré, Stephen Cornwell. Com Grigoriy Dobrygin, Philip Seymour Hoffman, Homayoun Ershadi, Mehdi Dehbi, Neil Malik Abdullah, Nina Hoss, Daniel Brühl, Vicky Krieps, Kostja Ullmann."
 ---
 O Homem Mais Procurado é um daqueles filmes que tenta te manter quase que completamente atento apenas pelo poder de persuasão de seu protagonista. Para sorte do diretor Anton Corbijn (Um Homem Misterioso), o intérprete Philip Seymour Hoffman, apesar de ter ido jovem, foi um dos grandes de sua geração, e constrói mais uma vez um personagem, se não multidimensional, crível naquele esquema de espionagem pós-atentados 11/9.
 

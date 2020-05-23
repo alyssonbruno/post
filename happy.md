@@ -6,7 +6,6 @@ tags: [ "draft", "series" ]
 imdb: "2452242"
 
 stars: "4/5"
-desc: "Happy! (EUA, 2017). Criado por Grant Morrison e Brian Taylor. Escrito por Morrison e Taylor; dirigido por Taylor. Com Christopher Meloni, Ritchie Coster, Lili Mirojnick."
 ---
 Happy! é uma feliz (que surpresa!) importada do serviço de streaming Netflix de um conteúdo da produtora Syfi, responsável pelos jovens clássicos Sharknado. Criado pela dupla Grant Morrison e Brian Taylor baseado nos quadrinhos criado por Morrison e ilustrado por Darick Robertson, esta aventura de ação policial distópica se passa em um universo onde há muitas brechas para o sobrenatural, mas ao mesmo tempo garante um realismo fantástico bem típico dos criadores de Adrenalina (1 e 2).
 

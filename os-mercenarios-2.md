@@ -6,7 +6,6 @@ date: "2012-09-03"
 tags: [ "draft", "movies" ]
 title: "Os Mercenários 2"
 stars: "3/5"
-desc: "Os Mercenários 2. The Expendables 2 (USA, 2012). Dirigido por Simon West. Escrito por Richard Wenk, Sylvester Stallone, Ken Kaufman, David Agosto, Richard Wenk, Dave Callaham. Com Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren, Chuck Norris, Jean-Claude Van Damme, Bruce Willis, Arnold Schwarzenegger, Terry Crews."
 ---
 Mercenários 2 já começa sua história querendo arrebentar o maior número de muros, cabeças e corpos humanos por centímetro cinematográfico quadrado. O som das armas parece verdadeiro, ou melhor: parece surreal. Não há nada pode deter o maior arrebatamento de heróis de ação de um passado já distante, mas que é aqui comemorado de uma maneira perigosamente indulgente.
 

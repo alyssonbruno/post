@@ -6,7 +6,6 @@ date: "2017-05-26"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Frantz"
 stars: "5/5"
-desc: "Frantz. Frantz (France, 2016). Dirigido por François Ozon. Escrito por François Ozon, Philippe Piazzo, Ernst Lubitsch, Reginald Berkeley, Samson Raphaelson, Ernest Vajda, Maurice Rostand. Com Pierre Niney (Adrien Rivoire), Paula Beer (Anna), Ernst Stötzner (Doktor Hans Hoffmeister), Marie Gruber (Magda Hoffmeister), Johann von Bülow (Kreutz), Anton von Lucke (Frantz Hoffmeister), Cyrielle Clair (La mère d'Adrien), Alice de Lencquesaing (Fanny), Axel Wandtke (Le réceptionniste de l'hôtel)."
 ---
 Ao final de Frantz, apesar de ensaiar uma mensagem de esperança, há ainda um peso imenso a ser erguido quando nos levantamos da poltrona. Este é um filme que explora seu tema de forma tão sistemática e apaixonada que não sobram muitas lacunas para onde irá o espectador mais crítico se esconder. Ainda que seja um drama um tanto exagerado, não se pode acusá-lo de não ser honesto. E assim como ao final de uma guerra, não sobram perdedores e vitoriosos, mas dois lados ressentidos e amargurados que se mantém em estado de melancolia generalizada.
 

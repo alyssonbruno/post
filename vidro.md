@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-08T23:18:18-02:00
 title: "Vidro"
-desc: "Glass (EUA, 2019), escrito e dirigido por M. Night Shyamalan, com Samuel L. Jackson como Elijah Price / Mr. Glass, Bruce Willis como David Dunn, James McAvoy como Kevin Wendell"
 imdb: "6823368"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

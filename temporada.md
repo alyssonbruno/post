@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-11T11:48:52-02:00
 title: "Temporada"
-desc: "Temporada (Brasil, 2018), escrito e dirigido por André Novais Oliveira, com Grace Passô (Juliana), Russo Apr (Russão), Rejane Faria (Lúcia), Hélio Ricardo (Hélio)."
 imdb: "8731138"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

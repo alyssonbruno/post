@@ -6,7 +6,6 @@ date: "2015-07-28"
 tags: [ "draft", "series" ]
 title: "Regular Show"
 stars: "3/5"
-desc: "Regular Show. Regular Show (USA, 2009). Dirigido por John Infantino, Sean Szeles, J.G. Quintel, Mike Roth. Escrito por J.G. Quintel, Mike Roth, Matt Price, John Infantino, Sean Szeles, Michele Cavin, Benton Connor, Calvin Wong, Jack C. Thomas. Com J.G. Quintel, William Salyers, Sam Marin, Mark Hamill, Roger Craig Smith."
 ---
 Regular Show consegue contar seus episódios em apenas dez minutos. Isso em uma história quase sempre dotada de uma criatividade sem limites onde figuras impossíveis surgem para finalizar as piadas com o toque final do absurdo necessário para finalizar histórias como essa. Confuso, mas é sempre assim.
 

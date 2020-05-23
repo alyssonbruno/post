@@ -6,7 +6,6 @@ date: "2013-12-29"
 tags: [ "draft", "movies" ]
 title: "Frances Ha"
 stars: "4/5"
-desc: "Frances Ha. Frances Ha (USA, 2012). Dirigido por Noah Baumbach. Escrito por Noah Baumbach, Greta Gerwig. Com Greta Gerwig, Mickey Sumner, Michael Esper, Adam Driver, Michael Zegen, Charlotte d'Amboise, Grace Gummer, Daiva Deupree, Isabelle McNally."
 ---
 Nunca vi um filme tão alto astral com uma personagem tão... errada. E fascinante. O mundo de Frances é medíocre. Ela é uma dançarina (ou gostaria de ser) e como todo artista que se preza, tenta viver em Nova Iorque. Porém, como sua amiga bem observa, só um artista rico para se manter próximo da Broadway. Acompanhamos, então, suas vicissitudes, inicialmente com sua melhor amiga, que parece ser a única que lhe resta. Ela é "inamorável", como um amigo costuma dizer. Pegamos partes de sua personalidade de seu convívio com as pessoas.
 

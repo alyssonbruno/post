@@ -6,7 +6,6 @@ date: "2011-06-30"
 tags: [ "draft", "movies" ]
 title: "Psicose"
 stars: "5/5"
-desc: "Psicose. Psycho (USA, 1960). Dirigido por Alfred Hitchcock. Escrito por Joseph Stefano, Robert Bloch. Com Anthony Perkins, Vera Miles, John Gavin, Janet Leigh, Martin Balsam, John McIntire, Simon Oakland, Frank Albertson, Patricia Hitchcock."
 ---
 A sensação de assistir Psicose na telona do cinema se compara a voltar ao próprio tempo em que o filme estreou. Ainda considerando que a última vez que o assisti estava eu abaixo da regra dos 15 anos e, portanto, livre do meu senso crítico, me fez revisitar as sequências mais importantes do longa como se agora sim eu tivesse algo a dizer. Ledo engano. Saí do cinema sem saber mentalizar uma frase sequer. Nem de efeito. Estava sem palavras diante de uma obra de arte. Petrificado. Extasiado. Feliz.
 

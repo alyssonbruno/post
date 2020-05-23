@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-09"
 title: "Chuvas Suaves Virão"
-desc: '"Vendrán lluvias suaves" (Argentina, 2018), escrito por Tomás Dotta e Iván Fund, dirigido por Iván Fund, com Alma Bozzo Kloster, Florencia Canavesio e Massimo Canavesio. Escrito para o CinemAqui pela cobertura da #mostrasp.'
 imdb: "9213792"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

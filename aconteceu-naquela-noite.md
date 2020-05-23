@@ -6,7 +6,6 @@ date: "2015-11-01"
 tags: [ "draft", "movies" ]
 title: "Aconteceu Naquela Noite"
 stars: "4/5"
-desc: "Aconteceu Naquela Noite. It Happened One Night (USA, 1934). Dirigido por Frank Capra. Escrito por Robert Riskin, Samuel Hopkins Adams. Com Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns, Jameson Thomas, Alan Hale, Arthur Hoyt, Blanche Friderici, Charles C. Wilson."
 ---
 Será esta a comédia romântica mãe de todas as comédias românticas? Bom, uma coisa ela é: o exemplo perfeito de como, mesmo se tratando de um sub-gênero maniqueísta, é possível extrair boas histórias e um ótimo elenco em cima do que hoje são clichês mais que consagrados. Alguns já são jurássicos!
 

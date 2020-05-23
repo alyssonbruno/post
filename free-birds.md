@@ -6,7 +6,6 @@ date: "2014-08-15"
 tags: [ "draft", "movies" ]
 title: "Free Birds"
 stars: "3/5"
-desc: "Free Birds. Free Birds (USA, 2013). Dirigido por Jimmy Hayward. Escrito por Scott Mosier, Jimmy Hayward, David I. Stern, John J. Strauss. Com Owen Wilson, Woody Harrelson, Amy Poehler, George Takei, Colm Meaney, Keith David, Dan Fogler, Jimmy Hayward, Kaitlyn Maher."
 ---
 Free Birds é um desenho com qualidade técnica discutível e narrativa idem. Suas ideias oscilam entre o divertido e o repetitivo. Seus personagens são quase cópias de outros desenhos. Dito isto, o conjunto da obra mais impressiona por conseguir levar a história do começo ao fim a despeito de todas suas limitações.
 

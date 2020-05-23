@@ -6,7 +6,6 @@ date: 2017-12-14T23:44:06
 tags: [ "draft", "movies" ]
 title: "Algo de Novo"
 stars: "3/5"
-desc: "Algo de Novo. Qualcosa di nuovo (Italy, 2016). Dirigido por Cristina Comencini. Escrito por Giulia Calenda, Cristina Comencini, Paola Cortellesi. Com Paola Cortellesi (Lucia), Micaela Ramazzotti (Maria), Eduardo Valdarnini (Luca), Eleonora Danco (Flavia)."
 ---
 Esta comédia italiana sobre o mundo feminino de meia-idade brinca entre os estereótipos da moça séria que quer achar o cara sério depois da desilusão de sua vida e sua amiga mãe solteira que fala em poder ficar sem encostar nos homens como um copo de uísque para um alcoólatra. Sua maior virtude são as duas atrizes por trás dessas duas "garotas" problemáticas. Elas parece especialistas em fazer comédia. Não são exageradas além do limite apesar de conhecer os limites para comédias românticas. O rapaz que contracena com elas está aí para mostrar o oposto, de que o exagero sempre prejudica o equilíbrio das relações.
 

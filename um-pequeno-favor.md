@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-02T14:09:58-02:00
 title: "Um Pequeno Favor"
-desc: "A Simple Favor. Canadá, EUA, 2018. Escrito por Jessica Sharzer baseado no romance de Darcey Bell. Dirigido por Paul Feig. Com Anna Kendrick e Blake Livery."
 imdb: "7040874"
 
 tags: [ "draft", "movies" ]

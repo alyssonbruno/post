@@ -6,7 +6,6 @@ date: "2010-09-25"
 tags: [ "draft", "movies" ]
 title: "Tropa de Elite"
 stars: "5/5"
-desc: "Tropa de Elite. Tropa de Elite (Brazil, 2007). Dirigido por José Padilha. Escrito por André Batista, John Kaylin, Bráulio Mantovani, José Padilha, Rodrigo Pimentel, Rodrigo Pimentel, Luiz Eduardo Soares. Com Wagner Moura, André Ramiro, Caio Junqueira, Milhem Cortaz, Fernanda Machado, Maria Ribeiro, Paulo Vilela, Fernanda de Freitas, André Felipe."
 ---
 Assisti depois de muito tempo ter sido uma febre entre as pessoas. As frases que se tornaram famosas ouvi pela primeira vez. Mas nem por isso o filme deixou de ter o peso que acreditava que tivesse.
 

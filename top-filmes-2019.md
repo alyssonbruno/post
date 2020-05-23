@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2019-12-29"
 title: "Top Filmes 2019"
-desc: "Lista compilada para o CinemAqui."
 tags: [ "draft", "cinemaqui" ]
 ---
 Apesar de sempre mudar no futuro e sempre gerar acaloradas, intermináveis e fúteis discussões entre cinéfilos, as famigeradas listas dos melhores ajudam a colocar uma certa época ou gênero em perspectiva, nos permitindo avaliar melhor através desses exemplos a coleção completa. Claro que cada um terá sua lista e a defenderá até o fim, mas é justamente essa a graça de conversar sobre arte: cada pessoa tem sua experiência muito particular sobre o todo.

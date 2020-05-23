@@ -7,7 +7,6 @@ date: "2015-04-30"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Jogada de Mestre"
 stars: "3/5"
-desc: "Jogada de Mestre. Kidnapping Mr. Heineken (Netherlands, 2015). Dirigido por Daniel Alfredson. Escrito por William Brookfield, Peter R. de Vries. Com Jim Sturgess, Sam Worthington, Ryan Kwanten, Anthony Hopkins, Mark van Eeuwen, Thomas Cocquerel, Jemima West, David Dencik, Vera Van Dooren."
 ---
 Jogada de Mestre (da distribuidoras sempre criativas), ou Kidnapping Mr. Heineken, é um thriller "baseado em fatos reais", como dizem os letreiros iniciais. Sempre encarei esses dizeres como uma forma de se desculpar pela história não ser tão boa, e esse caso não foge à regra. Inspirado também no livro do repórter criminal Peter R. de Vries, é dirigiro por Daniel Alfredson, responsável pelas continuações do filme sueco Os Homens que Não Amavam as Mulheres.
 

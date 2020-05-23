@@ -6,7 +6,6 @@ date: "2013-02-05"
 tags: [ "draft", "movies" ]
 title: "Django Livre"
 stars: "4/5"
-desc: "Django Livre. Django Unchained (USA, 2012). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino. Com Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson, Walton Goggins, Dennis Christopher, James Remar, David Steen."
 ---
 Django Livre é divertido moderadamente e possui um conteúdo pseudo-histórico de impacto que faz jus aos bons faroestes. Quentin Tarantino poderia ter futuramente  caso conseguisse controlar seu gigantesco ego  a mesma habilidade e maestria na direção que tornou Sergio Leone conhecido para sempre na história do Cinema.
 

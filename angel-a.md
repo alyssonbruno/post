@@ -6,7 +6,6 @@ date: "2017-03-26"
 tags: [ "draft", "movies" ]
 title: "Angel-A"
 stars: "3/5"
-desc: "Angel-A. Angel-A (France, 2005). Dirigido por Luc Besson. Escrito por Luc Besson. Com Jamel Debbouze (André Moussah), Rie Rasmussen (Angel-A), Gilbert Melki (Franck), Serge Riaboukine (Pedro), Akim Chir (Le chef des malfrats), Eric Balliet (Garde du corps Franck), Loïc Pora (Le malfrat #2), Venus Boone (La mère d'Angela), Jérôme Guesdon (Le malfrat #3)."
 ---
 O diretor e roteirista Luc Besson nos entrega um filme noir dos anos 2000 em p&b, que se passa em Paris em um ritmo bem-humorado, um tanto sarcástico e que mais uma vez estuda personagens à margem da sociedade e esquisitões em geral. Usa o weirdo Jameil Debbouze (Amélie Poulain) e a gata Rie Rasmussen (Femme Fatale). Também usa trilha sonora de jazz e um roteiro todo redondinho, higienizado com respeito ao sexo e apropriado para uma esquecível degustação.
 

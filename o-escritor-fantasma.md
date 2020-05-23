@@ -6,7 +6,6 @@ date: "2010-05-28"
 tags: [ "draft", "movies" ]
 title: "O Escritor Fantasma"
 stars: "5/5"
-desc: "O Escritor Fantasma. The Ghost Writer (France, 2010). Dirigido por Roman Polanski. Escrito por Robert Harris, Roman Polanski, Robert Harris. Com Ewan McGregor, Jon Bernthal, Tim Preece, James Belushi, Timothy Hutton, Anna Botting, Yvonne Tomlinson, Milton Welsh, Alister Mazzotti."
 ---
 O Escritor Fantasma é o tipo de thriller que, diferente da enxurrada de pistas e falsas-pistas que funcionam muito bem em Os Homens que não Amavam as Mulheres, ele nos leva a desvendar o mistério da trama recriando-o gradualmente em uma série de passos sutis, mas consistentes, que revelam em seu momento final um mosaico diferente na mente de cada espectador.
 

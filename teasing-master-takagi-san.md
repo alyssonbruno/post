@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-26"
 title: "Teasing Master: Takagi-san"
-desc: '"Karakai Jouzu no Takagi-san" (Japão, 2018), escrito por Touko Machida, Fumi Tsubota e Soichiro Yamamoto, dirigido por Hiroaki Akagi, com Rie Takahashi, Yûki Kaji e Konomi Kohara. Uma surpresa agradável na Netflix.'
 imdb: "7808344"
 tags: [ "draft", "series", "animes" ]
 stars: "4/5"

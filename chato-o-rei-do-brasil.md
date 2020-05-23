@@ -6,7 +6,6 @@ date: "2016-03-15"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Chatô - O Rei do Brasil"
 stars: "1/5"
-desc: "Chatô - O Rei do Brasil. Chatô - O Rei do Brasil (Brazil, 2015). Dirigido por Guilherme Fontes. Escrito por João Emanuel Carneiro, Guilherme Fontes, Matthew Robbins, Fernando Morais. Com Andrea Beltrão, Paulo Betti, Ingrid Borgoin, Gabriel Braga Nunes, Nathália França, Eliane Giardini, Leandra Leal, Tatiana Monteiro, Luís Antônio Pilar."
 ---
 O filme "Chatô - O Rei do Brasil", entre paralisações e processos na justiça, levou 20 anos para ser concluído. Uma vez lançado, pode ser facilmente resumido em uma palavra: bagunça. O ator televisivo Guilherme Fontes faz aqui sua estreia na direção e realiza um primeiro trabalho que já pode ser comparado a de Arnaldo Jabor em seu último: A Suprema Felicidade. Em ambos os filmes, há um misto entre cenas desconexas tentando extrair significado do nada, como se apenas a justaposição de diferentes tempos na vida do magnata Assis Chateaubriand e sua relação com figuras históricas -- entre elas Getúlio Vargas -- fosse rivalizar com a construção de personagem vista em "Cidadão Kane"; não funciona. No máximo, consegue soar no máximo com o mais semelhante "Plano 9 do Espaço Sideral".
 

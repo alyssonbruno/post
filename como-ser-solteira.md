@@ -6,7 +6,6 @@ date: "2016-11-17"
 tags: [ "draft", "movies" ]
 title: "Como Ser Solteira"
 stars: "4/5"
-desc: "Como Ser Solteira. How to Be Single (USA, 2016). Dirigido por Christian Ditter. Escrito por Abby Kohn, Marc Silverstein, Dana Fox, Liz Tuccillo. Com Dakota Johnson (Alice), Rebel Wilson (Robin), Leslie Mann (Meg), Damon Wayans Jr. (David), Anders Holm (Tom), Alison Brie (Lucy), Nicholas Braun (Josh), Jake Lacy (Ken), Jason Mantzoukas (George)."
 ---
 É cada vez melhor a surpresa com relação a comédias românticas (ou apenas comédias) protagonizadas por mulheres. O universo feminino independente do masculino estava escondido por gerações, mas hoje, no formato de uma sociedade que cada vez mais reconhece o direito da mulher de se divertir tanto quanto os homens, está a cada dia causando no Cinema resultados positivos, da mesma forma com que o universo masculino muitas vezes é representado (vide o último filme de Richard Linklater, "Jovens, Loucos e Mais Rebeldes") sem ressalvas pelo machismo e a quem isso possa doer. Ele existe. Assim como mulheres que transam por 100% de prazer e 0% de comprometimento.
 

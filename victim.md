@@ -6,7 +6,6 @@ date: "2013-08-11"
 tags: [ "draft", "movies" ]
 title: "Victim"
 stars: "5/5"
-desc: "Victim. Victim (USA, 2010). Dirigido por Matt Eskandari, Michael A. Pierce. Escrito por Michael Hultquist, Robert Martinez. Com Stephen Weigand, Bob Bancroft, Brendan Kelly, Jelly Howie, Stacy Haiduk, Bru Muller, Wayne Morse, Dianne Kwon, Tara Holt."
 ---
 Adoro filmes que me surpreendem. Melhor ainda quando eles começam não prometendo quase nada. É o caso desse "Meu Passado me Condena" (Victim no original), que inicia como um thriller nada original, caminha por estradas tortuosas do gênero para finalmente se definir no terceiro ato com seu momento glorioso que nos faz voltar desde o começo e entender que nada do que parecia era exatamente como se supunha.
 

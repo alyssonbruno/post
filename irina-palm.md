@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-17T16:12:08-03:00
 title: "Irina Palm"
-desc: "Irina Palm. Dirigido por Sam Garbarski, escrito por Philippe Blasband e Martin Herron. Com Marianne Faithfull, Predrag 'Miki' Manojlovic, Kevin Bishop."
 imdb: "0762110"
 tags: [ "draft", "movies" ]
 stars: "3/5"

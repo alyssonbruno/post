@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-14T11:03:09-03:00
 title: "A Última Casa da Rua"
-desc: "House at the End of the Street. Canadá, EUA, 2012. Dirigido por Mark Tonderai e escrito por David Loucka e Jonathan Mostow, com Jennifer Lawrence como a mega-star, Max Thieriot como o garoto bonitinho e Elisabeth Shue como a mãezona protetora e muito bem, obrigado."
 imdb: "1582507"
 
 tags: [ "draft", "movies" ]

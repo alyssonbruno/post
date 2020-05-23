@@ -6,7 +6,6 @@ date: "2016-07-31"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Bom Gigante Amigo"
 stars: "3/5"
-desc: "O Bom Gigante Amigo. The BFG (UK, 2016). Dirigido por Steven Spielberg. Escrito por Melissa Mathison, Roald Dahl. Com Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement, Rebecca Hall, Rafe Spall, Bill Hader, Ólafur Darri Ólafsson, Adam Godley."
 ---
 O Bom Gigante Amigo é um filme de criança baseado em um livro para crianças. Produzido pela Disney e dirigido por Steven Spielberg, deveria ser o ápice da pureza e inocência, mas parece trazer uma forte carga política em sua mensagem, acidental ou não. Pode ser impressão de uma história fraca e sem muito sentido, mas só por sugerir uma relação entre sua lúdica história e a história da Europa contemporânea é digno de nota.
 

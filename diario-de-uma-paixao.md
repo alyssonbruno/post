@@ -6,7 +6,6 @@ date: "2014-03-15"
 tags: [ "draft", "movies" ]
 title: "Diário de uma Paixão"
 stars: "4/5"
-desc: "Diário de uma Paixão. The Notebook (USA, 2004). Dirigido por Nick Cassavetes. Escrito por Jeremy Leven, Jan Sardi, Nicholas Sparks. Com Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner, Anthony-Michael Q. Thomas, Ed Grady, Renée Amber, Jennifer Echols, Geoffrey Knight."
 ---
 É curioso que Ryan Gosling (Drive, O Lugar Onde Tudo Termina) tenha protagonizado um filme tão cândido e seis anos depois tenha dividido a tela com Michelle Williams em Blue Valentine, para despedaçar qualquer traço de esperança romântica que qualquer fã do ator tivesse em torno da persona idealista que criou. O fato é que Diário de Uma Paixão obtém sua força justamente em fazer-nos crer que um romance totalmente desvinculado da razão conseguisse suportar a situação adversa e, ainda mais, a passagem do tempo que destrói e transforma tudo em sua volta.
 

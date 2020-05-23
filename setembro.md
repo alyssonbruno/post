@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-02T23:28:48-02:00
 title: "Setembro"
-desc: "September. EUA, 1987. Escrito e dirigido por Woody Allen. Com Elaine Stritch, Denholm Elliott, Mia Farrow, Dianne West."
 imdb: "0093940"
 
 tags: [ "draft", "movies" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-28"
 title: "O Amante"
-desc: '"The Lover" (France, United Kingdom e Vietnam, 1992), escrito Marguerite Duras, Gérard Brach e Jean-Jacques Annaud, dirigido por Jean-Jacques Annaud, com Jane March, Tony Ka Fai Leung e Frédérique Meininger.'
 tags: [ "draft", "movies" ]
 imdb: "0101316"
 stars: "5/5"

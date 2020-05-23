@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-28T15:58:03-02:00
 title: "Vamos Dançar?"
-desc: "Shall We Dance. EUA, 1937. Escrito por uma galera grande, incluindo Allan Scott e Ernest Pagano. Dirigido por Mark Sandrich. Com Fred Astaire e Ginger Rogers como seus alter-egos."
 imdb: "0029546"
 
 tags: [ "draft", "movies" ]

@@ -6,7 +6,6 @@ date: "2012-04-01"
 tags: [ "draft", "movies" ]
 title: "Jogos Vorazes"
 stars: "4/5"
-desc: "Jogos Vorazes. The Hunger Games (USA, 2012). Dirigido por Gary Ross. Escrito por Gary Ross, Suzanne Collins, Billy Ray, Suzanne Collins. Com Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields, Liam Hemsworth, Elizabeth Banks, Sandra Ellis Lafferty, Paula Malcomson, Rhoda Griffis."
 ---
 Há ótimas ideias em Jogos Vorazes, produção baseada no romance homônimo de Suzanne Collins (que também participa do roteiro) e que deve ser o primeiro de uma trilogia. Ambientado em um mundo futurista, mas devidamente verossímil, apresenta a delicada situação de 12 distritos que, após perderem uma tentativa de revolução contra o governo dominante, se veem sujeitos a sacrificar um casal de jovens anualmente em uma batalha por sobrevivência em uma floresta "criada" de maneira inóspita cujo objetivo é condecorar o último ser humano que restar.
 

@@ -6,7 +6,6 @@ tags: [ "draft", "movies" ]
 imdb: "6060156"
 
 stars: "2/5"
-desc: "Toc Toc. Espanha, 2017. Peça escrita por Laurent Baffie, roteiro e direção de Vicente Villanueva. Com Paco León, Alexandra Jiménez, Rossy de Palma."
 ---
 Este é um filme de mau-gosto. Ele explora como comédia diferentes tipos de Transtornos Obsessivo-Compulsivos. E ele não é de mau-gosto por causa do Politicamente Incorreto, mas justamente por causa dele. Como ele é leve demais se torna uma afronta usar a doença dessas pessoas para criar um filme sem graça, com piadas soltas e que não possui sequer personagens reais.
 

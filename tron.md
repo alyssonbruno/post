@@ -6,7 +6,6 @@ date: "2010-12-04"
 tags: [ "draft", "movies" ]
 title: "Tron Uma Odisséia Eletrônica"
 stars: "3/5"
-desc: "Tron Uma Odisséia Eletrônica. TRON (USA, 1982). Dirigido por Steven Lisberger. Escrito por Steven Lisberger, Steven Lisberger, Bonnie MacBird. Com Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan, Barnard Hughes, Dan Shor, Peter Jurasik, Tony Stephano, Craig Chudy."
 ---
 Mesmo assistindo hoje, 28 anos depois, Tron ainda parece um filme dedicado principalmente a vender video-games.
 

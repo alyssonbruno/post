@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-22"
 title: "A Verdadeira História da Gangue de Ned Kelly"
-desc: '"True History of the Kelly Gang" (Austrália e Reino Unido, 2019), escrito por Shaun Grant baseado no livro de Peter Carey, dirigido por Justin Kurzel, com George MacKay, Essie Davis, Nicholas Hoult, Orlando Schwerdt, Thomasin McKenzie e Sean Keenan. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "4844140"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

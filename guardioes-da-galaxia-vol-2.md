@@ -6,7 +6,6 @@ date: "2017-04-27"
 tags: [ "draft", "movies" ]
 title: "Guardiões da Galáxia Vol. 2"
 stars: "5/5"
-desc: "Guardiões da Galáxia Vol. 2. Guardians of the Galaxy Vol. 2 (USA, 2017). Dirigido por James Gunn. Escrito por James Gunn, Dan Abnett, Andy Lanning, Steve Englehart, Steve Gan, Jim Starlin, Stan Lee, Larry Lieber, Jack Kirby. Com Chris Pratt (Peter Quill / Star-Lord), Zoe Saldana (Gamora), Dave Bautista (Drax), Vin Diesel (Baby Groot), Bradley Cooper (Rocket), Michael Rooker (Yondu), Karen Gillan (Nebula), Pom Klementieff (Mantis), Sylvester Stallone (Stakar Ogord), Kurt Russell (Ego)."
 ---
 Se você gostou de Guardiões da Galáxia é quase certeza que irá apreciar as novas aventuras do time de escanteio da Marvel, que ironicamente são os que mais lembram, com orgulho e um certo sarcasmo, a mídia original de onde vieram: os quadrinhos. Agora, se você é como eu, tenho certeza que achou que nada de bom viria de um filme onde novamente há uma equipe de anti-heróis de mentirinha formados por um guaxinim bancando o bad ass, um macho alfa genérico e seu objeto de desejo pintado de verde (porque é uma atriz negra), um brutamontes genérico isento de neurônios no cérebro e papas na língua e uma árvore falante (Eu sou Groot) dublada por Vin Diesel (que agora é pequena, o que torna Vin Diesel por tabela fofinho). Para você que pensa como eu, acredito que provavelmente você estará errado em julgar prematuramente uma continuação que faz de tudo dessa vez para acertar as pontas soltas desse ensaio bem-humorado dos quadrinhos para as telonas.
 

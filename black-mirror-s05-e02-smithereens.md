@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-14T14:23:24-03:00
 title: "Black Mirror S05 E02 Smithereens"
-desc: "Black Mirror S05 E02 Smithereens. Reino Unido, 2019. Dirigido por James Hawes, escrito por Charlie Brooker. Com Andrew Scott, Damson Idris, Topher Grace."
 imdb: "8758202"
 tags: [ "draft", "series" ]
 stars: "4/5"

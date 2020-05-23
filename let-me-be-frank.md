@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-02T22:51:20-02:00
 title: "Let Me Be Frank"
-desc: "Let Me Be Frank. EUA, 2018. Com Kevin Spacey como Frank Underwood."
 imdb: "9495238"
 tags: [ "draft", "shorts" ]
 stars: "5/5"

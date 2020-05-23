@@ -6,7 +6,6 @@ date: "2016-01-18"
 tags: [ "draft", "movies" ]
 title: "Lawrence da Arábia"
 stars: "5/5"
-desc: "Lawrence da Arábia. Lawrence of Arabia (UK, 1962). Dirigido por David Lean. Escrito por T.E. Lawrence, Robert Bolt, Michael Wilson. Com Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins, Omar Sharif, José Ferrer, Anthony Quayle, Claude Rains, Arthur Kennedy."
 ---
 Nota: O filme que estou me referindo é a versão restaurada por Robert A. Harris com a supervisão do diretor David Lean, em 1989. Ela exclui alguns diálogos e, se formos considerar o tamanho da versão original, creio que podemos descartar as menores diferenças entre as duas. Além disso, essa versão também recebeu um tratamento de restauração para ser lançada em DVD em 2000 por Martin Scorsese e Steven Spielberg. Scorsese, como se sabe, é um ávido militante pela restauração de obras clássicas do Cinema e mantém um acervo digital inestimável.
 

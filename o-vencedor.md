@@ -6,7 +6,6 @@ date: "2011-04-02"
 tags: [ "draft", "movies" ]
 title: "O Vencedor"
 stars: "4/5"
-desc: "O Vencedor. The Fighter (USA, 2010). Dirigido por David O. Russell. Escrito por Scott Silver, Paul Tamasy, Eric Johnson, Paul Tamasy, Eric Johnson, Keith Dorrington. Com Mark Wahlberg, Christian Bale, Amy Adams, Melissa Leo, Mickey O'Keefe, Jack McGee, Melissa McMeekin, Bianca Hunter, Erica McDermott."
 ---
 O filme começa como um documentário, mas corta para outro documentário sobre o vício do irmão. Isso acaba derrubando nossa visão inicial, mas o tom documental dá realismo ao filme.
 

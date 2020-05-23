@@ -6,7 +6,6 @@ date: "2016-10-23"
 tags: [ "draft", "movies" ]
 title: "Indiana Jones e o Templo da Perdição"
 stars: "5/5"
-desc: "Indiana Jones e o Templo da Perdição. Indiana Jones and the Temple of Doom (USA, 1984). Dirigido por Steven Spielberg. Escrito por Willard Huyck, Gloria Katz, George Lucas. Com Harrison Ford (Indiana Jones), Kate Capshaw (Willie Scott), Jonathan Ke Quan (Short Round), Amrish Puri (Mola Ram), Roshan Seth (Chattar Lal), Philip Stone (Captain Blumburtt), Roy Chiao (Lao Che), David Yip (Wu Han), Ric Young (Kao Kan)."
 ---
 A continuação das aventuras de Indiana Jones é tudo aquilo que eu lembrava de quando era criança e muito mais. A trilha sonora de John William conserta o plágio de Star Wars; "Indy" ganha um jeito mais escrachado, bonachão e cínico; Jonathan Ke Quan é o melhor alívio cômico da década; e Steven Spielberg faz em 1984 o que George Miller fez em "Fury Road": um filme de ação quase que completamente sem pausa para respirar. Dado a distância de nossos tempos digitais, o feito de Spielberg (e George Lucas como produtor) parece ainda maior.
 

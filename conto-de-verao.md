@@ -1,7 +1,6 @@
 ---
 date: "2020-05-16"
 title: "Conto de Verão"
-desc: '"Conte d''été" (France, 1996), escrito por Éric Rohmer, dirigido por Éric Rohmer, com Melvil Poupaud, Amanda Langlet e Gwenaëlle Simon.'
 imdb: "0115940"
 stars: "3/5"
 categories: [ "cinema" ]

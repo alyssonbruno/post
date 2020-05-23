@@ -6,7 +6,6 @@ date: "2014-12-16"
 tags: [ "draft", "movies" ]
 title: "O Fabuloso Destino de Amélie Poulain"
 stars: "5/5"
-desc: "Le fabuleux destin d'Amélie Poulain (France, 2001). Dirigido por Jean-Pierre Jeunet. Escrito por Guillaume Laurant, Jean-Pierre Jeunet, Guillaume Laurant. Com Audrey Tautou (Amélie Poulain), Mathieu Kassovitz (Nino Quincampoix), Rufus (Raphaël Poulain), Lorella Cravotta (Amandine Poulain), Serge Merlin (Raymond Dufayel), Jamel Debbouze (Lucien), Clotilde Mollet (Gina), Claire Maurier (Madame Suzanne - la patronne du café), Isabelle Nanty (Georgette), Dominique Pinon (Joseph), Artus de Penguern (Hipolito), Yolande Moreau (Madeleine Wallace), Urbain Cancelier (Collignon), Maurice Bénichou (Dominique Bretodeau)."
 ---
 A edição em Blu-Ray dO Fabuloso Destino de Amélie Poulain é uma pequena jóia. A qualidade da imagem do filme é impresionante. Todos os detalhes que faz qualquer cinéfilo de carteririnha vibrar estão lá: fotografia, direção de arte, trilha sonora. Com uma TV decente o Home Video pode te entregar (quase) a mesma sensação de ter participado de uma das sessões mágicas em que esse filme foi exibido.
 

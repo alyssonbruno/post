@@ -6,7 +6,6 @@ date: "2017-03-26"
 tags: [ "draft", "movies" ]
 title: "Deep Web"
 stars: "4/5"
-desc: "Deep Web. Deep Web (USA, 2015). Dirigido por Alex Winter. Escrito por Alex Winter. Com Nicolas Christin (Himself), Cindy Cohn (Herself), Joshua L. Dratel (Himself), Andy Greenberg (Himself), Keanu Reeves (Narration), Runa Sandvik (Herself), Todd Shipley (Himself), Christopher Soghoian (Himself), Amir Taaki (Himself)."
 ---
 Este é um documentário que irá te dar uma visão diametralmente oposta do que você já ouviu falar sobre a deep web na mídia. Para começo de conversa, o filme não fala sobre assassinos e pedófilos, e quando fala sobre crimes cibernéticos, estranhamente eles são cometidos sem vítimas. A venda de drogas em um site chamado Silk Road se apresenta um mercado onde vendedores e compradores conseguem, sem o uso da violência e evitando riscos físicos, trocar drogas de todos os tipos.
 

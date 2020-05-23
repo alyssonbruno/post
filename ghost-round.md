@@ -6,7 +6,6 @@ date: "2016-10-23"
 tags: [ "draft", "series", "animes" ]
 title: "Ghost Hound"
 stars: "3/5"
-desc: "Ghost Hound. Ghost Hound (Japan, 2007). Dirigido por Ryûtarô Nakamura. Escrito por Chiaki Konaka. Com Kara Greenberg (Miki Komori / ...)."
 ---
 Geralmente as animações japonesas pecam pelo caricato sem ter muito realismo (exceção: stúdios Ghibli). Aqui, em Ghost Hound, começamos assistindo um drama psicológico, mas no meio a coisa vira exatamente este caricato, que, embora em um nível mais sutil, acaba por acusar a si mesmo de ser... uma animação.
 

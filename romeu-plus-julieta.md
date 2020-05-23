@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2019-07-28"
 title: "Romeu + Julieta"
 imdb: "0117509"
-desc: "Romeo + Juliet. United States, Mexico, 1996. Dirigido por Baz Luhrmann, escrito por William Shakespeare, Craig Pearce, Baz Luhrmann. Com Leonardo DiCaprio, Claire Danes, John Leguizamo."
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

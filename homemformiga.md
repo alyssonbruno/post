@@ -6,7 +6,6 @@ date: "2015-11-07"
 tags: [ "draft", "movies" ]
 title: "Homem-Formiga"
 stars: "3/5"
-desc: "Homem-Formiga. Ant-Man (USA, 2015). Dirigido por Peyton Reed. Escrito por Edgar Wright, Joe Cornish, Adam McKay, Paul Rudd, Edgar Wright, Joe Cornish, Stan Lee, Larry Lieber, Jack Kirby. Com Paul Rudd, Michael Douglas, Evangeline Lilly, Corey Stoll, Bobby Cannavale, Anthony Mackie, Judy Greer, Abby Ryder Fortson, Michael Peña."
 ---
 Mês passado, enquanto trabalhava em meu escritório em casa, um pequeno grilo pulou da janela para do lado de minha mesa. Ele "averiguou" o local e ficou no ponto mais alto do recinto: o suporte fechado de minha câmera. Passados três dias, resolvi alimentá-lo com um pedaço de folha de alface e uma uva. Logo foram folhas do manjericão e salsinha, direto dos meus vasos do quintal. Quando ele ia passear em torno do aquecedor, fui aos poucos abrindo o suporte onde ele ficava até atingir quase a altura do parapeito da janela, no que ele voltava a escalá-lo, sempre permanecendo parado por longas horas no seu ponto mais alto.
 

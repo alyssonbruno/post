@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-11"
 title: "Chernobyl"
-desc: '"Chernobyl" (EUA e Reino Unido, 2019), escrito por Craig Mazin, dirigido por Johan Renck, com Jessie Buckley, Jared Harris e Stellan Skarsgård. Assisti após um tempo baixado.'
 imdb: "7366338"
 tags: [ "draft", "series" ]
 stars: "4/5"

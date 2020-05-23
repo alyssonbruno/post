@@ -6,7 +6,6 @@ date: "2015-09-20"
 tags: [ "draft", "movies" ]
 title: "Living on One Dollar"
 stars: "4/5"
-desc: "Living on One Dollar. Living on One Dollar (USA, 2013). Dirigido por Zach Ingrasci, Sean Leonard, Chris Temple. Com Ryan Christoffersen, Zach Ingrasci, Sean Leonard, Chris Temple."
 ---
 Alguns filmes são propositadamente desonestos com suas premissas, dramatizando em excesso para conseguir validar seus argumentos. No processo, consegue realizar um bom trabalho, ainda que parcial demais. Dessa safra temos Blackfish e Chasing Ice.
 

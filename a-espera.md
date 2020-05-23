@@ -6,7 +6,6 @@ date: "2017-01-16"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Espera"
 stars: "4/5"
-desc: "A Espera. L'attesa (Italy, 2015). Dirigido por Piero Messina. Escrito por Giacomo Bendotti, Ilaria Macchia, Andrea Paolo Massara, Piero Messina, Luigi Pirandello. Com Juliette Binoche (Anna), Giorgio Colangeli (Pietro), Lou de Laâge (Jeanne), Domenico Diele (Giorgio), Antonio Folletto (Paolo), Corinna Locastro (Rosa), Giovanni Anzaldo (Giuseppe)."
 ---
 A Espera é um filme que mergulha fundo no tema da morte de um filho. Tão fundo quanto a mitologia cristã. Para isso ele entende que é imprescindível a figura de Juliette Binoche, que não é uma madre italiana, o que pode tornar a mensagem confusa ou universal. De qualquer forma, ela manda bem, e as expressões dos seus exuberantes olhos contidos em um rosto envelhecido, mas ainda lindo, faz boa parte do trabalho do diretor italiano Piero Messina valer a pena.
 

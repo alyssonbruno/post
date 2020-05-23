@@ -6,7 +6,6 @@ date: "2014-05-10"
 tags: [ "draft", "movies" ]
 title: "Monty Python O Sentido da Vida"
 stars: "5/5"
-desc: "Monty Python O Sentido da Vida. The Meaning of Life (UK, 1983). Dirigido por Terry Jones, Terry Gilliam. Escrito por Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin. Com Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin, Carol Cleveland, Simon Jones, Patricia Quinn."
 ---
 Os comediantes do Monty Python parecem sempre querer se superar. Em O Sentido da Vida, apesar de estarmos vendo diversas esquetes  no melhor estilo do seu programa televisivo The Flying Circus  elas se juntam para tentar explicar, do nascimento à morte, qual é, enfim, o sentido da vida? Pegando emprestados alguns temas mais ou menos comuns com o livro (e pequeno filme) O Guia do Mochileiro das Galáxias, o filme inicia com um pequeno curta (que se juntará ao longa em determinado momento) que consegue, assim como a montagem Eisensteiniana, relacionar um grupo de contadores velhinhos de uma empresa de seguros durante a crise econômica dos ano 80 com um motim dos escravos de um navio.
 

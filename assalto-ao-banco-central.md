@@ -6,7 +6,6 @@ date: "2011-08-23"
 tags: [ "draft", "movies" ]
 title: "Assalto ao Banco Central"
 stars: "2/5"
-desc: "Assalto ao Banco Central. Assalto ao Banco Central (Brazil, 2011). Dirigido por Marcos Paulo. Escrito por Rene Belmonte, Lucio Manfredi, Tais Moreno. Com Milhem Cortaz, Eriberto Leão, Hermila Guedes, Lima Duarte, Giulia Gam, Tonico Pereira, Gero Camilo, Vinícius de Oliveira, Heitor Martinez Mello."
 ---
 Assalto ao Banco Central está longe de ser o filme insuportável pintado pela crítica. Porém, o que é mais importante: Assalto é um filme que decepciona em todos os gêneros que tenta se inserir.
 

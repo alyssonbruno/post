@@ -6,7 +6,6 @@ date: "2016-04-17"
 tags: [ "draft", "movies" ]
 title: "Se Beber, Não Case! Parte II"
 stars: "3/5"
-desc: "Se Beber, Não Case! Parte II. The Hangover Part II (USA, 2011). Dirigido por Todd Phillips. Escrito por Craig Mazin, Scot Armstrong, Todd Phillips, Jon Lucas, Scott Moore. Com Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha, Ken Jeong, Paul Giamatti, Mike Tyson, Jeffrey Tambor, Mason Lee."
 ---
 Como seria o original se ele não tivesse graça. Não seria uma novidade se a sequência de Todd Phillips repetisse a fórmula exata da ótima comédia que é o filme original, que é o que este Parte II faz do início ao fim. A novidade é que, mesmo juntando o elenco original, o curioso é que quase nada funciona, quase nada é engraçado e muito pouco é imprevisível.
 

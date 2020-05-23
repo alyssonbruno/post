@@ -6,7 +6,6 @@ date: "2015-09-29"
 tags: [ "draft", "movies" ]
 title: "Shortbus"
 stars: "3/5"
-desc: "Shortbus. Shortbus (USA, 2006). Dirigido por John Cameron Mitchell. Escrito por John Cameron Mitchell. Com Sook-Yin Lee, Paul Dawson, Lindsay Beamish, PJ DeBoy, Raphael Barker, Peter Stickles, Jay Brannan, Alan Mandell, Adam Hardman."
 ---
 Um indie por natureza, apresentado em uma Nova Iorque de maquete com textura surreal, colorido todo o tempo com uma extensa e agradável trilha sonora, protagonizado por atores em sua maioria completos desconhecidos e, para salpicar ainda mais, recheado de cenas de sexo reais, por casais, trios e grupos inteiros.
 

@@ -7,7 +7,6 @@ date: "2016-05-20"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Valor de um Homem"
 stars: "4/5"
-desc: "O Valor de um Homem. La loi du marché (France, 2015). Dirigido por Stéphane Brizé. Escrito por Stéphane Brizé, Olivier Gorce. Com Vincent Lindon, Karine de Mirbeck, Matthieu Schaller, Yves Ory, Xavier Mathieu, Paul Portoleau, Pierre-Jean Feld, Philippe Vesco, Christophe Rossignon."
 ---
 Lá vamos nós de novo. O Valor de um Homem não é um filme difícil, mas pode se tornar um martírio para muita gente acostumada com histórias mais "palatáveis". Esse é o típico filme que muitos comentam como "parado, sem nada acontecendo" ou, pior: sem final. Infelizmente, a história que ele pretende contar depende justamente dessa atmosfera opressiva, intimista e... parada. Sim, parada, já que não sai sequer um lufo de esperança para acalentar o protagonista desta história.
 

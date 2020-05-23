@@ -6,7 +6,6 @@ date: "2016-10-03"
 tags: [ "draft", "movies" ]
 title: "Sete Homens E um Destino"
 stars: "4/5"
-desc: "Sete Homens E um Destino. The Magnificent Seven (USA, 1960). Dirigido por John Sturges. Escrito por William Roberts, Walter Bernstein, Shinobu Hashimoto, Akira Kurosawa, Walter Newman, Hideo Oguni. Com Yul Brynner (Chris Larabee Adams), Eli Wallach (Calvera), Steve McQueen (Vin Tanner), Horst Buchholz (Chico), Charles Bronson (Bernardo O'Reilly), Robert Vaughn (Lee), Brad Dexter (Harry Luck), James Coburn (Britt), Jorge Martínez de Hoyos (Hilario)."
 ---
 Um filme do velho oeste que é um remake do clássico de Akira Kurosawa, Os Sete Samurais, que acabou virando também meio um clássico. Sua estrutura é poderosa, mexe com heróis incidentais que resolvem salvar uma vila de camponeses das garras do Estado... quer dizer, de uma gangue de bandidos que rouba parte da produção de alimentos para eles próprios sobreviverem. É uma história que mexe com o teatral, mas que mantém sua tensão como todo bom e velho faroeste.
 

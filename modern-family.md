@@ -6,7 +6,6 @@ date: "2016-08-04"
 tags: [ "draft", "series" ]
 title: "Modern Family - Primeira Temporada, Episódios 1 ao 5"
 stars: "3/5"
-desc: "Modern Family - Primeira Temporada, Episódios 1 ao 5. Modern Family (USA, 2009). Dirigido por Gail Mancuso, Michael Alan Spiller, Jason Winer, Steven Levitan, Beth McCarthy-Miller, James R. Bagdonas, Chris Koch, James Alan Hensz, Fred Savage. Escrito por Steven Levitan, Christopher Lloyd, Paul Corrigan, Brad Walsh, Ryan Walls, Jeffrey Richman, Danny Zuker, Abraham Higginbotham, Elaine Ko. Com Ed O'Neill, Sofía Vergara, Julie Bowen, Ty Burrell, Jesse Tyler Ferguson, Eric Stonestreet, Rico Rodriguez, Nolan Gould, Sarah Hyland."
 ---
 Família Moderna é uma série que explora justamente o conceito que seu título sugere. Há um casal gay que adota uma criança estrangeira, há a imigrante nova que casa com o velho rico, que tem um filho que é mais maduro que o próprio velho. Há o casal americano padrão -- para preencher a cota, supostamente -- e basicamente é isso. Engraçadinho, sitcom, não sabemos se a ideia era retirar estereótipos ou reafirmá-los. Ou talvez tirar sarro de quem considera isso a vanguarda.
 

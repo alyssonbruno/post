@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-28"
 title: "As 4 Aventuras De Reinette E Mirabelle"
-desc: '"Four Adventures of Reinette and Mirabelle" (França, 1987), escrito por Éric Rohmer e Joëlle Miquel, dirigido por Éric Rohmer, com Joëlle Miquel e Jessica Forde. Da coleção de DVDs'
 imdb: "0090565"
 tags: [ "draft", "movies" ]
 stars: "3/5"

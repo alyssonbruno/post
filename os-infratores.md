@@ -6,7 +6,6 @@ date: "2012-10-19"
 tags: [ "draft", "movies" ]
 title: "Os Infratores"
 stars: "4/5"
-desc: "Os Infratores. Lawless (USA, 2012). Dirigido por John Hillcoat. Escrito por Nick Cave, Matt Bondurant. Com Shia LaBeouf, Tom Hardy, Jason Clarke, Guy Pearce, Jessica Chastain, Mia Wasikowska, Dane DeHaan, Chris McGarry, Tim Tolin."
 ---
 Os Infratores é um filme de gênero: de gângsteres, para ser exato. Se passa na época da lei seca, quando comercializar bebidas nos Estados Unidos era um crime punido severamente. Acompanhamos a narrativa em off de Jack (Shia LaBeouf), um dos três irmãos Forrest (Tom Hardy), Howard (Jason Clarke) e Cricket (Dane DeHaan). Juntos formam a família Bondurant, que através do controle da distribuição ilegal de licores criados de forma caseira administram sua influência no Condado de Franklin, uma região isolada vizinha de Chicago (que, não é preciso lembrar, foi a morada de Al Capone).
 

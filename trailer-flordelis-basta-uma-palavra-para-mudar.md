@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-24"
 title: "Trailer: Flordelis: Basta Uma Palavra Para Mudar"
-desc: '"Flordelis: Basta Uma Palavra Para Mudar" (Brazil, 2009), escrito por Marco Antônio Ferraz, Ed Nobrega e Marco Antônio Ferraz, dirigido por Anderson Corrêa e Marco Antônio Ferraz, com Letícia Sabatella, Fernanda Machado e Deborah Secco. Texto escrito para o CinemAqui.'
 imdb: "2069774"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "1/5"

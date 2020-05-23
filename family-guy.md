@@ -6,7 +6,6 @@ date: "2015-07-28"
 tags: [ "draft", "series" ]
 title: "Family Guy"
 stars: "4/5"
-desc: "Family Guy. Family Guy (USA, 1999). Dirigido por Peter Shin, James Purdum, Dominic Bianchi, Pete Michels, John Holmquist, Greg Colton, Brian Iles, Julius Wu, Roy Allen Smith. Escrito por Seth MacFarlane, David Zuckerman, Alex Borstein, Teresa Hsiao, Steve Callaghan, Patrick Meighan, Andrew Goldberg, Spencer Porter, Tom Devanney. Com Seth MacFarlane, Alex Borstein, Seth Green, Mila Kunis, Mike Henry, Danny Smith, John Viener, Patrick Warburton, Alec Sulkin."
 ---
 Depois de mais de 10 anos de sucesso, o sempre interessante Seth MacFarlane (Ted) insiste em piadas sobre eventos passados dos seus personagens, brincadeiras metalinguísticas e regionalismos durante quase todo o tempo. Talvez essa seja a eterna questão da série que já acumula treze temporadas e continua se auto-reciclando em altos e baixos.
 

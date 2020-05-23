@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-26T12:37:44-02:00
 title: "Wanderlust"
-desc: "Wanderlust. Série em seis episódios escrita por Nick Payne e dirigida por Luke Snellin e Lucy Tcherniak. Com Toni Collette, Steven Mackintosh, Zawe Ashton. Relacionamento/casamento aberto, luxúria, depressão, terapia."
 imdb: "7608238"
 
 tags: [ "draft", "series" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-13"
 title: "Filhas do Sol"
-desc: '"Les filles du soleil" (França, Bélgica, Geórgia, 2018), escrito por Eva Husson e Jacques Akchoti, dirigido por Eva Husson, com Golshifteh Farahani, Emmanuelle Bercot e Zübeyde Bulut. Escrito para o CinemAqui.'
 imdb: "6704880"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

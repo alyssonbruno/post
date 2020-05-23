@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-12"
 title: "Nós"
-desc: '"Us" (EUA e China, 2019), escrito por Jordan Peele, dirigido por Jordan Peele, com Lupita Nyong''o, Winston Duke e Elisabeth Moss. Vendo para o top10 do ano.'
 imdb: "6857112"
 tags: [ "draft", "movies" ]
 stars: "5/5"

@@ -6,7 +6,6 @@ date: "2013-10-26"
 tags: [ "draft", "movies" ]
 title: "Los tentados"
 stars: "2/5"
-desc: "Los tentados. Los tentados (Argentina, 2013). Dirigido por Mariano Blanco. Escrito por Mariano Blanco. Com Fany Palmieri, Lucía Romero, Javier Abril Rotger, Ramiro Sciallo."
 ---
 Primeiro longa do diretor Mariano Blanco, não existem muitas ideias a serem seguidas em Los Tentados, ou elas estão tão sutilmente colocadas ali que fica difícil encontrar base para qualquer tipo de interpretação.
 

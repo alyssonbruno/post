@@ -6,7 +6,6 @@ date: "2015-02-14"
 tags: [ "draft", "movies" ]
 title: "Madrugada dos Mortos"
 stars: "5/5"
-desc: "Madrugada dos Mortos. Dawn of the Dead (USA, 2004). Dirigido por Zack Snyder. Escrito por George A. Romero, James Gunn. Com Sarah Polley, Ving Rhames, Jake Weber, Mekhi Phifer, Ty Burrell, Michael Kelly, Kevin Zegers, Michael Barry, Lindy Booth."
 ---
 Queria comparar algum filme de zumbis que não fosse de George Romero ou comédia (Zumbilândia, Meu Namorado é um Zumbi) e nem tão dramático/ação (World War Z), mas que carregasse aqueles símbolos do velho Cinema de Romero no melhor estilo A Noite dos Mortos-Vivos. E eis que finalmente vi esse Madrugada dos Mortos, de Zack Snyder (do interessante Sucker Punch, do sensacional Watchmen e do infelizmente medíocre Homem de Aço).
 

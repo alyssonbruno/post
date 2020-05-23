@@ -6,7 +6,6 @@ date: "2011-05-21"
 tags: [ "draft", "movies" ]
 title: "Garota Infernal"
 stars: "2/5"
-desc: "Garota Infernal. Jennifer's Body (USA, 2009). Dirigido por Karyn Kusama. Escrito por Diablo Cody. Com Megan Fox, Amanda Seyfried, Johnny Simmons, Adam Brody, Sal Cortez, Ryan Levine, Juan Riedinger, Colin Askey, Chris Pratt."
 ---
 Aprendemos duas coisas assistindo Garota Infernal: que não se dá Oscar de melhor roteiro para uma estreante com delírios de grandeza (Diablo Cody, de Juno) e não se coloca atrizes como Megan Fox (Transformers e... argh! Transformers 2), que rivaliza com Kristen Stewart em atuação, em um papel principal.
 

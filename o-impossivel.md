@@ -6,7 +6,6 @@ date: "2013-01-07"
 tags: [ "draft", "movies" ]
 title: "O Impossível"
 stars: "4/5"
-desc: "O Impossível. Lo imposible (Spain, 2012). Dirigido por J.A. Bayona. Escrito por Sergio G. Sánchez, María Belón. Com Naomi Watts, Ewan McGregor, Tom Holland, Samuel Joslin, Oaklee Pendergast, Marta Etura, Sönke Möhring, Geraldine Chaplin, Ploy Jindachote."
 ---
 A abordagem que o diretor espanhol Juan Antonio Bayona realiza para contar a história da família que se separa durante o Tsunami de 2004 que matou mais de 230 mil pessoas consegue transmitir a emoção pelo drama específico sem se esquecer da perda incomensurável de vidas naquela tragédia que mudou a vida de muito mais pessoas que podemos imaginar. Diz ainda o que números nunca serão capazes de dizer: que cada vida que se perde é uma tragédia particular.
 

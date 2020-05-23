@@ -6,7 +6,6 @@ date: "2013-10-04"
 tags: [ "draft", "movies" ]
 title: "A Família"
 stars: "3/5"
-desc: "A Família. The Family (USA, 2013). Dirigido por Luc Besson. Escrito por Luc Besson, Michael Caleo, Tonino Benacquista. Com Robert De Niro, Michelle Pfeiffer, Dianna Agron, John D'Leo, Tommy Lee Jones, Jimmy Palumbo, Domenick Lombardozzi, Stan Carp, Vincent Pastore."
 ---
 Aquele filme esquecível que até que tem uma ideia interessante: proteger uma família de mafiosos. Protagonizada por Robert de Niro. Encabeçada por Michelle Pfeiffer. Assessorada por Tommy Lee Jones. O que poderia dar errado?
 

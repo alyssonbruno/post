@@ -6,7 +6,6 @@ date: "2016-06-27"
 tags: [ "draft", "movies" ]
 title: "X-Men: Apocalipse"
 stars: "3/5"
-desc: "X-Men: Apocalipse. X-Men: Apocalypse (USA, 2016). Dirigido por Bryan Singer. Escrito por Simon Kinberg, Bryan Singer, Simon Kinberg, Michael Dougherty, Dan Harris. Com James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult, Oscar Isaac, Rose Byrne, Evan Peters, Josh Helman, Sophie Turner."
 ---
 O clássico problema da ótima direção não salvar um roteiro ruim. E, neste caso, o roteiro consegue construir a história mais fraca desde que "X-Men: O Filme" (do mesmo Bryan Singer, em 2000) deu à luz à série.
 

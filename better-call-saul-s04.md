@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-26T00:53:11-02:00
 title: "Better Call Saul S04"
-desc: "Better Call Saul (USA, 2015). Escrito por Vince Gilligan, Peter Gould. Com Bob Odenkirk, Jonathan Banks, Rhea Seehorn, Patrick Fabian, Michael Mando."
 imdb: "3032476"
 
 tags: [ "draft", "series" ]

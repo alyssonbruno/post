@@ -6,7 +6,6 @@ date: "2017-04-11"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Variações de Casanova"
 stars: "3/5"
-desc: "Variações de Casanova. Casanova Variations (France, 2014). Dirigido por Michael Sturminger. Escrito por Michael Sturminger, Markus Schleinzer. Com John Malkovich (Giacomo), Veronica Ferres (Elisa), Florian Boesch (Giacomo II), Miah Persson (Elisa II), Lola Naymark (Cecile), Kerstin Avemo (Leonilda), Tracy Ann Oberman (Jessica), Maria João Bastos (Lady Doctor), Kate Lindsey (Belline)."
 ---
 Variações de Casanova consegue provar que a ópera, até mesmo a transformada em filme, não é desse mundo. Não o mundo de hoje. Ela é terrivelmente mais lenta que isso, e por isso mesmo alheia à sua existência. Mas, além disso, aqui temos uma versão de Casanova que está em descompasso com a visão positiva de conquistador de mulheres. É um moribundo, e isso sim, diz muito mais sobre a época em que vivemos do que uma ópera de Mozart.
 

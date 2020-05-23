@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2019-08-16"
 title: "On Writing, por Stephen King"
-desc: "Minha percepção sobre o livro do mestre dos livros de coisas sobrenaturais (e best sellers)."
 tags: [ "draft", "books" ]
 ---
 Eu lembro que em algum momento entre ler On Writing Well, um livro de William Zinsser sobre melhorar a escrita, e estar escrevendo meus reviews diários sobre filmes comecei a ficar bem insatisfeito com a qualidade dos meus trabalhos. Isso não é novidade para mim, o eterno insatisfeito, e não me surpreendi quando me vi novamente buscando literatura para me aprimorar. Afinal de contas, quando não se está praticando é a hora de afiar seus instrumentos, e esse momento para um escritor não é quando se está escrevendo, mas lendo.

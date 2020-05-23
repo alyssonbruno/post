@@ -6,7 +6,6 @@ date: "2010-06-09"
 tags: [ "draft", "movies" ]
 title: "Almas à venda"
 stars: "2/5"
-desc: "Almas à venda. Cold Souls (USA, 2009). Dirigido por Sophie Barthes. Escrito por Sophie Barthes. Com Paul Giamatti, Armand Schultz, Michael Tucker, Dina Korzun, Ted Koch, Oksana Lada, Natalia Zvereva, Larisa Bell, Anna Dyukova."
 ---
 Esse filme escrito e dirigido pela estreante Sophie Barthes tenta usar o conceito de alma mais ou menos como um órgão transplantado, mas muito mais flexível, já que é possível usar a alma de outras pessoas para potencializar áreas na vida em que se é um zero à esquerda. Aí é que entra Paul Giamatti que interpreta... Paul Giamatti! Ele está com problemas com uma nova peça e resolve trocar de alma por uma que seja compatível com o personagem que tenta interpretar.
 

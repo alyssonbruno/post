@@ -6,7 +6,6 @@ date: "2011-05-27"
 tags: [ "draft", "movies" ]
 title: "Star Wars Episódio I A Ameaça Fantasma"
 stars: "3/5"
-desc: "Star Wars Episódio I A Ameaça Fantasma. Star Wars: Episode I - The Phantom Menace (USA, 1999). Dirigido por George Lucas. Escrito por George Lucas. Com Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Ian McDiarmid, Pernilla August, Oliver Ford Davies, Hugh Quarshie, Ahmed Best."
 ---
 Quando se mexe com algo sagrado como a trilogia clássica de Star Wars ou alguém está produzindo uma sátira ou essa pessoa é George Lucas. Por mais que os fãs apontem defeitos e/ou sugestões, o Criador da saga sempre teve palavra final. Portanto, não é de se admirar que a nova trilogia comece com seu roteiro, direção, e autoridade.
 

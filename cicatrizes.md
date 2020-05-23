@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-12"
 title: "Cicatrizes"
-desc: '"Savovi" (Sérvia, 2019), escrito por Elma Tataragic, dirigido por Miroslav Terzic, com Snezana Bogdanovic, Marko Bacovic e Jovana Stojiljkovic. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7319312"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"

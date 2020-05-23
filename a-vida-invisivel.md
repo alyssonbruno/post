@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-19"
 title: "A Vida Invisível"
-desc: '"A Vida Invisível" (Brasil e Alemanha, 2019), escrito por Murilo Hauser, Inés Bortagaray e Karim Aïnouz baseados no livro de Martha Batalha, dirigido por Karim Aïnouz, com Fernanda Montenegro, Carol Duarte, Julia Stockler, Gregório Duvivier, Marcio Vito, Flavio Bauraqui, António Fonseca, Bárbara Santos, Maria Manoella e Cristina Pereira. Escrito para o CinemAqui.'
 imdb: "6390668"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

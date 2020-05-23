@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-05"
 title: "O Labirinto do Fauno"
-desc: '"El laberinto del fauno (aka Pan''s Labyrinth)" (México e Espanha, 2006), escrito por Guillermo del Toro, dirigido por Guillermo del Toro, com Ivana Baquero, Sergi López e Maribel Verdú.'
 imdb: "0457430"
 tags: [ "draft", "movies" ]
 stars: "5/5"

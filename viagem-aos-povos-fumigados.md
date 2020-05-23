@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-27T01:25:00-02:00
 title: "Viagem Aos Povos Fumigados"
-desc: ""
 imdb: "7962890"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

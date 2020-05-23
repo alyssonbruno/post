@@ -7,7 +7,6 @@ date: "2016-04-30"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Nós, Eles e Eu"
 stars: "3/5"
-desc: "Nós, Eles e Eu. NEY: Nosotros, ellos y yo (Argentina, 2015). Dirigido por Nicolás Avruj. Escrito por Nicolás Avruj, Alejandro Dujovne, Andrea Kleinman. Com Nur Al Levi, Frieda Geffner, Abu Harbed, Sebastián Muller, Iosef Shai."
 ---
 Um documentário não é obrigado a destilar sua opinião para todos os lados, mas no caso de "Nós, Eles e Eu", um filme feito por um diretor judeu e membro de uma família sionista, a opinião sobre o eterno conflito entre judeus e palestinos parece inevitável.
 

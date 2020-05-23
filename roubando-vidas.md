@@ -6,7 +6,6 @@ date: "2011-10-23"
 tags: [ "draft", "movies" ]
 title: "Roubando Vidas"
 stars: "2/5"
-desc: "Roubando Vidas. Taking Lives (USA, 2004). Dirigido por D.J. Caruso. Escrito por Michael Pye, Jon Bokenkamp, Jon Bokenkamp. Com Angelina Jolie, Ethan Hawke, Kiefer Sutherland, Gena Rowlands, Olivier Martinez, Tchéky Karyo, Jean-Hugues Anglade, Paul Dano, Justin Chatwin."
 ---
 Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.
 

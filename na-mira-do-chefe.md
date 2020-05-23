@@ -6,7 +6,6 @@ date: "2016-03-07"
 tags: [ "draft", "movies" ]
 title: "Na Mira do Chefe"
 stars: "4/5"
-desc: "Na Mira do Chefe. In Bruges (UK, 2008). Dirigido por Martin McDonagh. Escrito por Martin McDonagh. Com Elizabeth Berrington, Rudy Blomme, Olivier Bonjour, Mark Donovan, Ann Elsley, Colin Farrell, Jean-Marc Favorin, Ralph Fiennes, Brendan Gleeson."
 ---
 Esse filme parece uma coisa, mas é outra. Vendido como uma comédia despretensiosa e potencialmente um pastelão, Na Mira do Chefe é um trabalho de roteiro que brinca com seu universo próprio achando graça em levar a sério as histórias de máfia.
 

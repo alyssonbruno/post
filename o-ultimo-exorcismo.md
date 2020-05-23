@@ -6,7 +6,6 @@ date: "2010-09-24"
 tags: [ "draft", "movies" ]
 title: "O Último Exorcismo"
 stars: "4/5"
-desc: "O Último Exorcismo. The Last Exorcism (USA, 2010). Dirigido por Daniel Stamm. Escrito por Huck Botko, Andrew Gurland. Com Patrick Fabian, Ashley Bell, Iris Bahr, Louis Herthum, Caleb Landry Jones, Tony Bentley, John Wright Jr., Shanna Forrestall, Justin Shafer."
 ---
 Esse é "O Exorcista" invertido. Aqui o padre, que na verdade é tipo um reverendo de sua religião, possui suas dúvidas com respeito a Deus, e usa a religião como um meio de ganhar a vida. Reflexo exato do atual status das religiões polêmicas, que as usam também como um meio de se proliferarem, o próprio padre afirma que o principal é fazer as pessoas abrirem a mão, pois não se vive só de fé.
 

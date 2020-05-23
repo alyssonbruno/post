@@ -6,7 +6,6 @@ date: "2016-10-21"
 tags: [ "draft", "movies" ]
 title: "O Que Restou da Minha Vida"
 stars: "3/5"
-desc: "O Que Restou da Minha Vida. Die Reste meines Lebens (Germany, 2016). Dirigido por Jens Wischnewski. Escrito por Julia C. Kaiser, Jens Wischnewski. Com Karoline Bär (Jella May), Daniel Arthur Fischer (Young Anton), Luise Heyer (Milena Nelko), Christoph Letkowski (Schimon May)."
 ---
 Tratando da morte de uma maneira leve para depois reverenciar a perda das pessoas que amamos, O Que Restou da Minha Vida é um misto de temas que combina comédia, romance e drama em uma sequência de idas e voltas não necessariamente confusas, mas frustrantes.
 

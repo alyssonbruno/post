@@ -6,7 +6,6 @@ date: "2010-11-01"
 tags: [ "draft", "movies" ]
 title: "Cargo"
 stars: "3/5"
-desc: "Cargo. Cargo (Switzerland, 2009). Dirigido por Ivan Engler, Ralph Etter. Escrito por Arnold Bucher, Ivan Engler, Arnold Bucher, Ivan Engler, Patrik Steinmann, Thilo Röscheisen, Johnny Hartmann. Com Anna Katharina Schwabroh, Martin Rapold, Regula Grauwiller, Yangzom Brauen, Pierre Semmler, Claude-Oliver Rudolph, Michael Finger, Gilles Tschudi, Maria Boettner."
 ---
 Se fosse resumir essa ficção-científica, diria que ela começa como Aliens - O Resgate e termina como Matrix. De fato, muitas características do longa nos lembra esses dois filmes. Porém, longe de se igualar em qualidade narrativa, este cai no lugar comum de passeios contemplativos pelo cenário com trilhas sonoras igualmente batidas.
 

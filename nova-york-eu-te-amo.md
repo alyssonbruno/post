@@ -6,7 +6,6 @@ date: "2019-03-17"
 tags: [ "draft", "movies" ]
 title: "Nova York, Eu Te Amo"
 stars: "3/5"
-desc: "New York, I Love You. EUA, 2008. Dirigido por Fatih Akin, Yvan Attal, Randall Balsmeyer, Allen Hughes, Shunji Iwai, Wen Jiang, Shekhar Kapur, Joshua Marston, Mira Nair. Escrito por Hu Hong, Yao Meng, Israel Horovitz, Suketu Mehta, Shunji Iwai, Israel Horovitz, Olivier Lécot, Jeff Nathanson, Xan Cassavetes. Com Hayden Christensen, Andy Garcia, Rachel Bilson, Natalie Portman, Irrfan Khan, Orlando Bloom, Christina Ricci, Maggie Q, Ethan Hawke."
 ---
 Todas as comédias românticas americanas se passam em Nova York. Todos os romances se passam em Nova York. Toda a carreira de Woody Allen antes das duas últimas décadas se passa em Nova York (OK, Noivo Neurótico, Noiva Nervosa não). Logo, ou "por quê??", que tal mais um filme onde histórias se entrelaçam, só que dessa vez em Nova York?
 

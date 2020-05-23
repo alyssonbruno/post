@@ -6,7 +6,6 @@ date: "2017-05-23"
 tags: [ "draft", "movies" ]
 title: "Alien: Covenant"
 stars: "3/5"
-desc: "Alien: Covenant. Alien: Covenant (UK, 2017). Dirigido por Ridley Scott. Escrito por Dan O'Bannon, Ronald Shusett, Jack Paglen, Michael Green, John Logan, Dante Harper. Com Michael Fassbender (David / Walter), Katherine Waterston (Daniels), Billy Crudup (Oram), Danny McBride (Tennessee), Demián Bichir (Lope), Carmen Ejogo (Karine), Jussie Smollett (Ricks), Callie Hernandez (Upworth), Amy Seimetz (Faris)."
 ---
 É muito bom poder assistir um terror espacial novamente. Reviver o pouco do brilho da tripulação original de Alien. Eu faria isso facilmente pela vida toda. E depois do infelizmente medíocre Prometheus, é possível quase perdoar as pequenas falhas de "Alien: Covenant,", a segunda aventura dessa nova fase que pretende se estender pelo menos mais um episódio.
 

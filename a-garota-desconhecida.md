@@ -6,7 +6,6 @@ date: "2017-01-24"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota Desconhecida"
 stars: "4/5"
-desc: "A Garota Desconhecida. La fille inconnue (Belgium, 2016). Dirigido por Jean-Pierre Dardenne, Luc Dardenne. Escrito por Jean-Pierre Dardenne, Luc Dardenne. Com Adèle Haenel (Jenny Davin), Olivier Bonnaud (Julien), Jérémie Renier (Le père de Bryan), Louka Minnella (Bryan), Christelle Cornil (La mère de Bryan), Nadège Ouedraogo (La caissière du cybercafé), Olivier Gourmet (Le fils Lambert), Pierre Sumkay (Le père Lambert), Yves Larec (Le docteur Habran)."
 ---
 A Garota Desconhecida, em um resumão narrativo, é sobre o arco de sua protagonista, Dra. Jenny Davin, que ao não abrir a porta após o horário de seu consultório por uma mera questão de capricho -- e sofrer as duras consequência de seu ato -- acaba abrindo uma outra porta: para a possibilidade de redenção, aceitando que seus pacientes são seres humanos, e mais do que tudo: de que ela pode se dar ao direito de ser também humana.
 

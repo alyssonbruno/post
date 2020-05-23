@@ -6,7 +6,6 @@ date: "2015-09-27"
 tags: [ "draft", "movies" ]
 title: "Planeta Terror"
 stars: "3/5"
-desc: "Planeta Terror. Planet Terror (USA, 2007). Dirigido por Robert Rodriguez. Escrito por Robert Rodriguez. Com Rose McGowan, Freddy Rodríguez, Josh Brolin, Marley Shelton, Jeff Fahey, Michael Biehn, Rebel Rodriguez, Bruce Willis, Naveen Andrews."
 ---
 Quando se fala em fazer um filme trash, o diretor Robert Rodriguez não brinca em serviço. Planeta Terror, o filme-parceiro do projeto grindhouse criado por ele e Tarantino -- em que cada um realiza um filme com essa proposta de filme antigo Lado B -- é um exemplo de filme ruim que é ruim por ambos os motivos: o real e o imaginado. Porém, para realizar este feito ele precisa percorrer o destino de diferentes personagens que se tornam marcantes por dois motivos: as ótimas atuações dos atores que o interpretam e o velho jeito Robert Rodriguez de criar momentos icônicos, ainda que desprovidos de senso estético.
 

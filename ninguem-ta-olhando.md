@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-02"
 title: "Ninguém Tá Olhando"
-desc: '"Ninguém Tá Olhando" (Brasil, 2019), escrito por Carolina Markowicz, Teodoro Poppovic e Daniel Rezende, com Kéfera Buchmann, Danilo de Moura e Victor Lamoglia. Netflix.'
 imdb: "11131980"
 tags: [ "draft", "series" ]
 stars: "1/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-26"
 title: "AlphaGo"
-desc: '"AlphaGo" (EUA, 2017), dirigido por Greg Kohs, com Ioannis Antonoglou, Lucas Baker e Nick Bostrom. Tava na minha lista da Netflix.'
 imdb: "6700846"
 tags: [ "draft", "movies" ]
 stars: "3/5"

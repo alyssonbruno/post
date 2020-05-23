@@ -6,7 +6,6 @@ date: "2012-12-18"
 tags: [ "draft", "movies" ]
 title: "Histórias Cruzadas"
 stars: "3/5"
-desc: "Histórias Cruzadas. The Help (USA, 2011). Dirigido por Tate Taylor. Escrito por Tate Taylor, Kathryn Stockett. Com Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer, Jessica Chastain, Ahna O'Reilly, Allison Janney, Anna Camp, Eleanor Henry."
 ---
 Depois de um filme inteiro martelando a segregação entre negros e brancos, a cena em que uma branca prepara um banquete para sua empregada negra é emocionante por detectarmos finalmente sentimentos naturais a qualquer ser humano sadio: solidariedade, compaixão, gratidão, respeito. O que não é natural é descobrirmos os sentimentos contraditórios presentes durante todo Histórias Cruzadas.
 

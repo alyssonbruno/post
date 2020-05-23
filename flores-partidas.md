@@ -6,7 +6,6 @@ date: "2012-05-07"
 tags: [ "draft", "movies" ]
 title: "Flores Partidas"
 stars: "5/5"
-desc: "Flores Partidas. Broken Flowers (USA, 2005). Dirigido por Jim Jarmusch. Escrito por Jim Jarmusch, Bill Raden, Sara Driver. Com Bill Murray, Julie Delpy, Heather Simms, Brea Frazier, Jarry Fall, Korka Fall, Saul Holland, Zakira Holland, Niles Lee Wilson."
 ---
 Don Johnston (Bill Murray, impagável) tem seu nome frequentemente confundido com seu quasi-homônimo Don Johnson ("o meu é com T"). No entanto, o que intimamente gostaria de ser é seu outro homônimo, Don Juan, conquistador inveterado de corações femininos. Um belo dia recebe uma carta rosa que menciona a existência de um filho já crescido, fruto de uma de suas inúmeras amantes. Crente de ter as qualidades de um verdadeiro conquistador, Don parte em uma jornada pelo país para verificar qual das quatro mulheres que consegue se lembrar de seu passado possuem vínculo com a suposta carta.
 

@@ -7,7 +7,6 @@ tags: [ "draft", "movies" ]
 count: 2
 title: "Ela"
 stars: "5/5"
-desc: "Ela. Her (USA, 2013). Dirigido por Spike Jonze. Escrito por Spike Jonze. Com Joaquin Phoenix, Lynn Adrianna, Lisa Renee Pitts, Gabe Gomez, Chris Pratt, Artt Butler, May Lindstrom, Rooney Mara, Bill Hader."
 ---
 Ela pode ser chamado de romance  mesmo que seja entre um ser humano e um sistema operacional  porque é basicamente um filme sobre relacionamentos. O roteiro e a direção de Spike Jonze (Quero Ser John Malkovich) entram fundo na questão "o que torna uma pessoa atraente para outra" desintegrando a parte material e se focando no mundo das ideias; quase que um Antes do Amanhecer futurista.
 

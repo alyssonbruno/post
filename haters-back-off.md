@@ -6,7 +6,6 @@ date: "2016-12-04"
 tags: [ "draft", "series" ]
 title: "Haters Back Off!"
 stars: "3/5"
-desc: "Haters Back Off!. Haters Back Off! (USA, 2016). Dirigido por Andrew Gaynord, Todd Rohal. Escrito por Christopher Ballinger, Colleen Ballinger, Gigi McCreery, Perry M. Rein, Justin Varava, Russ Woody. Com Colleen Ballinger (Miranda Sings), Angela Kinsey (Bethany), Francesca Reale (Emily), Erik Stocklin (Patrick), Steve Little (Jim / ...), Chaz Lamar Shepherd (Keith)."
 ---
 É difícil saber o que esperar dessa série de humor da Netflix. Ela oferece personagens que são sobrenaturalmente estúpidos. Mas, ao mesmo tempo, é tentador tentar entender a mente de pessoas tão estúpidas interagindo, especialmente se essas pessoas possuem uma visão tão fechada sobre o mundo e pretendem ganhá-lo, elevando à fama a garota mais midada da casa: Miranda Sings (o nome veios antes da fama, para saberem que o que ela faz no YouTube é cantar). Se os personagens são estúpidos, e alguns deles possuem atuações dignos de nota, eu arrisco dizer que nada disso é relevante se você não olhar para o desempenho de Colleen Ballinger e constatar: esse projeto nasceu nessa performance. Quer dizer... o que é isso?
 

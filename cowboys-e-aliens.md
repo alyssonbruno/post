@@ -6,7 +6,6 @@ date: "2011-09-18"
 tags: [ "draft", "movies" ]
 title: "Cowboys e Aliens"
 stars: "3/5"
-desc: "Cowboys e Aliens. Cowboys & Aliens (USA, 2011). Dirigido por Jon Favreau. Escrito por Roberto Orci, Alex Kurtzman, Damon Lindelof, Mark Fergus, Hawk Ostby, Mark Fergus, Hawk Ostby, Steve Oedekerk, Scott Mitchell Rosenberg. Com Daniel Craig, Abigail Spencer, Buck Taylor, Matthew Taylor, Cooper Taylor, Clancy Brown, Paul Dano, Chris Browning, Adam Beach."
 ---
 Não há muito o que falar da história em Cowboys & Aliens, novo filme de Jon Favreau (dos dois O Homem de Ferro e Zathura - Uma Aventura Espacial). O título já torna tudo muito óbvio, por mais bizarro que isso seja. No entanto, acredito que a definição desse gênero misto acabe sendo o principal motivo do filme não conseguir "decolar" em nenhum momento, sendo constantemente cozinhado em forno brando.
 

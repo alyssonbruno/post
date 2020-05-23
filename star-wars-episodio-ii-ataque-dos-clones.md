@@ -6,7 +6,6 @@ date: "2011-05-29"
 tags: [ "draft", "movies" ]
 title: "Star Wars Episódio II Ataque dos Clones"
 stars: "5/5"
-desc: "Star Wars Episódio II Ataque dos Clones. Star Wars: Episode II - Attack of the Clones (USA, 2002). Dirigido por George Lucas. Escrito por George Lucas, George Lucas, Jonathan Hales. Com Ewan McGregor, Natalie Portman, Hayden Christensen, Christopher Lee, Samuel L. Jackson, Frank Oz, Ian McDiarmid, Pernilla August, Temuera Morrison."
 ---
 A República começa a perder a força, e o desespero pela resolução da crise no Senado faz com que forças especiais sejam entregues ao Chanceler Palpatine. Como podemos ver, a história caminha em ritmo adequado para o ponto de encontro com o antes chamado Guerra nas Estrelas e rebatizado para Episódio IV.
 

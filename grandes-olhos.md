@@ -6,7 +6,6 @@ date: "2017-05-02"
 tags: [ "draft", "movies" ]
 title: "Grandes Olhos"
 stars: "3/5"
-desc: "Grandes Olhos. Big Eyes (USA, 2014). Dirigido por Tim Burton. Escrito por Scott Alexander, Larry Karaszewski. Com Amy Adams (Margaret Keane), Christoph Waltz (Walter Keane), Danny Huston (Dick Nolan), Krysten Ritter (DeeAnn), Jason Schwartzman (Ruben), Terence Stamp (John Canaday), Jon Polito (Enrico Banducci), Delaney Raye (Young Jane), Madeleine Arthur (Older Jane)."
 ---
 Olhos Grandes é uma incursão do diretor Tim Burton por um universo já existente, o que se por um lado favorece seu lado de direção de arte a exagerar um conteúdo já determinado, por outro lado limita sua capacidade de fazer o mesmo com seus personagens, que soam irreais em uma história baseada em fatos reais.
 

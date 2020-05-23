@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-10T20:33:29-03:00
 title: "Time - O Amor Contra a Passagem do Tempo"
-desc: "Shi gan (aka Time). Por Ki-duk Kim, com Jung-woo Ha, Ji-Yeon Park, Jun-yeong Jang."
 imdb: "0497986"
 tags: [ "draft", "movies" ]
 stars: "4/5"

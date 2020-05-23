@@ -6,7 +6,6 @@ date: "2013-03-06"
 tags: [ "draft", "movies" ]
 title: "Duro de Matar Um Bom Dia para Morrer"
 stars: "2/5"
-desc: "Duro de Matar Um Bom Dia para Morrer. A Good Day to Die Hard (USA, 2013). Dirigido por John Moore. Escrito por Skip Woods, Roderick Thorp. Com Bruce Willis, Jai Courtney, Sebastian Koch, Mary Elizabeth Winstead, Yuliya Snigir, Radivoje Bukvic, Cole Hauser, Amaury Nolasco, Sergey Kolesnikov."
 ---
 Digirido pelo medíocre John Moore (Max Payne) e escrito pelo problemático Skip Woods (X-Men Origens: Wolwerine), o novo filme da série Die Hard parece uma mistura de estilos que mais confunde do que inova. Há a trilha de espionagem claramente inspirada em 007 e Missão Impossível. Há os cortes, movimentos de câmera e zooms frenéticos da série Identidade Bourne. Há, sim, perseguições e explosões dignas da série original, mas que não desempenham qualquer função em uma história sem reviravoltas (foras as mais patéticas) e sem tensão (ou alguém duvida em algum momento que a dupla principal não vai se safar dos bandidos histéricos?).
 

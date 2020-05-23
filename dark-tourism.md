@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-26T11:00:06-03:00
 title: "Dark Tourism"
-desc: "Dark Tourism é uma série Netflix com David Farrier, que também dirige."
 imdb: "8725166"
 
 tags: [ "draft", "series" ]

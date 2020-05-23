@@ -6,7 +6,6 @@ date: "2013-10-28"
 tags: [ "draft", "movies" ]
 title: "O Vento Está Soprando"
 stars: "4/5"
-desc: "O Vento Está Soprando. Kaze tachinu (Japan, 2013). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki, Hayao Miyazaki, Mike Jones. Com Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto, Masahiko Nishimura, Mansai Nomura, Jun Kunimura, Mirai Shida, Shinobu Ôtake, Morio Kazama."
 ---
 Não há o que criticar da perfeição técnica dos estúdios Ghibli. Acostumados a entregar desenhos que já seriam motivo de prazer e satisfação só de olhar, os filmes dirigidos pelo mestre Hayao Miyazaki prezam também por uma história completa, uma trilha sonora, uma fotografia, direção de arte, efeitos sonoros que representam juntos sempre o ápice daquele estilo.
 

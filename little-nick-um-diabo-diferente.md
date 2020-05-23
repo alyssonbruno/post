@@ -6,7 +6,6 @@ date: "2015-08-09"
 tags: [ "draft", "movies" ]
 title: "Little Nick - Um Diabo Diferente"
 stars: "3/5"
-desc: "Little Nick - Um Diabo Diferente. Little Nicky (USA, 2000). Dirigido por Steven Brill. Escrito por Tim Herlihy, Adam Sandler, Steven Brill. Com Adam Sandler, Patricia Arquette, Harvey Keitel, Rhys Ifans, Tommy 'Tiny' Lister, Rodney Dangerfield, Allen Covert, Peter Dante, Jonathan Loughran."
 ---
 Todo momento em Little Nicky pode ser resumido em pausar a ação, ver uma piada de gosto duvidoso, dar ou não uma risada -- algo muito pessoal -- e continuar a história do filho do diabo que precisa reencontrar seus dois irmãos na Terra e enviá-los de volta para o inferno ou seu pai, o Diabo, irá derreter até definhar.
 

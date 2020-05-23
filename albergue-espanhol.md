@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-28T12:35:30-03:00
 title: "Albergue Espanhol"
-desc: "L'auberge espagnole. França, Espanha, 2002. Dirigido e escrito por Cédric Klapisch. Com Romain Duris, Judith Godrèche, Kelly Reilly, Audrey Tautou, Cécile de France, Cristina Brondo, Barnaby Metschurat, Kevin Bishop."
 imdb: "0283900"
 
 tags: [ "draft", "movies" ]

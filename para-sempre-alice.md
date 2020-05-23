@@ -6,7 +6,6 @@ date: "2015-02-14"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Para Sempre Alice"
 stars: "4/5"
-desc: "Para Sempre Alice. Still Alice (USA, 2014). Dirigido por Richard Glatzer, Wash Westmoreland. Escrito por Lisa Genova, Richard Glatzer, Wash Westmoreland. Com Julianne Moore, Kate Bosworth, Shane McRae, Hunter Parrish, Alec Baldwin, Seth Gilliam, Kristen Stewart, Stephen Kunken, Erin Drake."
 ---
 No decorrer do filme esqueci completamente de Julianne Moore. Sim, é claro que a atriz estava ali, e não é difícil capturar seus trejeitos característicos. Porém, determinada em criar uma personagem unidimensional que representasse a espécie humana como seres individuais e efêmeros, apenas Alice existia, e deixava de existir, assim como cada um de nós. A diferença entre nós e Alice simplesmente é o ritmo. Todos nós iremos nos extinguir. Nossas memórias, pensamentos, sentimentos e aquele "algo a mais" que podemos ou não acreditar irão evaporar em átomos que não conterão sequer uma pista do que foram no passado: aquele ser orgânico dotado de consciência e raciocício só existiu por um momento. A força contida em Para Sempre Alice é que, para ela, a cada momento esse processo de morte acontece repentinamente, e um dia pode ter a duração de um mês. Aumentando o ritmo, esse processo que todos nós sofremos se torna extremamente dramático.
 

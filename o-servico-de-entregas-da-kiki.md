@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-28"
 title: "O Serviço de Entregas da Kiki"
-desc: '"Kiki''s Delivery Service" (Japan, 1989), escrito por Eiko Kadono e Hayao Miyazaki, dirigido por Hayao Miyazaki, com Minami Takayama, Rei Sakuma e Kappei Yamaguchi.'
 tags: [ "draft", "movies" ]
 imdb: "0097814"
 stars: "3/5"

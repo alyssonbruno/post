@@ -6,7 +6,6 @@ date: "2017-06-01"
 tags: [ "draft", "movies" ]
 title: "Mulher-Maravilha"
 stars: "2/5"
-desc: "Mulher-Maravilha. Wonder Woman (USA, 2017). Dirigido por Patty Jenkins. Escrito por Allan Heinberg, Zack Snyder, Jason Fuchs, William Moulton Marston. Com Gal Gadot (Diana), Chris Pine (Steve Trevor), Connie Nielsen (Hippolyta), Robin Wright (Antiope), Danny Huston (Ludendorff), David Thewlis (Sir Patrick), Saïd Taghmaoui (Sameer), Ewen Bremner (Charlie), Eugene Brave Rock (The Chief)."
 ---
 Depois de uma história seríssima e enfadonha envolvendo o Homem de Aço e o Homem Morcego, agora temos... mais uma história seríssima, dessa vez envolvendo a mulher misteriosa que aparecia no filme anterior, sempre acompanhada de sua música-tema. Ela é a Mulher-Maravilha, em um filme que não é lá essas maravilhas. Mas agora, pensando bem, eu não sei se o título de "Mulher-Maravilha" serve para esta versão asséptica e ultra-estilizada de uma das poucas heroínas solo. Eu sou mais a Lynda Carter, sua fantasia colorida e sua voluptuosidade honesta.
 

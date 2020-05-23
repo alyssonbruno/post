@@ -6,7 +6,6 @@ date: "2010-11-07"
 tags: [ "draft", "movies" ]
 title: "Atividade Paranormal 2"
 stars: "3/5"
-desc: "Atividade Paranormal 2. Paranormal Activity 2 (USA, 2010). Dirigido por Tod Williams. Escrito por Michael R. Perry, Christopher Landon, Tom Pabst, Michael R. Perry, Oren Peli. Com David Bierend, Brian Boland, Molly Ephraim, Katie Featherston, Seth Ginsberg, Sprague Grayden, William Juan Prieto, Jackson Xenia Prieto, Micah Sloat."
 ---
 Assim como o primeiro filme, essa continuação tenta passar a impressão documental através de uma mensagem da produtora agradecendo os envolvidos pelas cenas que veremos a seguir. Apesar desse aviso deixar sua devida pulga na orelha, não é uma solução que por si só baste, dependendo principalmente da competência da narrativa em introduzir a sensação de que o que estamos vendo são filmagens realizadas de forma caseira e que relatam acontecimentos verdadeiramente inexplicáveis.
 

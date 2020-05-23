@@ -6,7 +6,6 @@ date: "2016-04-07"
 tags: [ "draft", "series" ]
 title: "Sherlock - A Noiva Abominável"
 stars: "5/5"
-desc: "Sherlock - A Noiva Abominável. Sherlock (UK, 2010). Dirigido por Paul McGuigan. Escrito por Mark Gatiss, Steven Moffat, Arthur Conan Doyle, Steve Thompson. Com Benedict Cumberbatch, Martin Freeman, Rupert Graves, Una Stubbs, Louise Brealey, Mark Gatiss, Andrew Scott, Jonathan Aris."
 ---
 Como li em algum lugar, ser fã da série Sherlock é aguardar ansiosamente por um ano três episódios que terminam em um fim-de-semana. Depois disso, mais um ano (ou dois) de espera interminável.
 

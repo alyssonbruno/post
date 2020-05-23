@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: 2018-07-17T13:32:56-03:00
 title: "Estrutura de Roteiro"
-desc: "Estrutura de Roteiro -- Como Escrever um Livro: Aprenda a escrever histórias de sucesso com as técnicas usadas no cinema, por Leonardo Bighi Lourenço"
 tags: [ "draft", "books" ]
 ---
 Às vezes dá vontade de ler todos os livros sobre um assunto e fazer um apanhado de dicas em 50 páginas. Mas isso passa rápido depois que você percebe que vai perder alguns anos de sua vida. Leonardo Bighi Lourenço perdeu 3 anos de sua vida para nós, e nos apresenta todas aquelas teorias de 4 atos (ou 3, com o do meio dividido em dois (???)), seus pontos de virada, conflito, protagonista, antagonista, ponto de impacto... enfim, a pataquada toda.

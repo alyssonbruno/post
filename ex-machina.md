@@ -7,7 +7,6 @@ tags: [ "draft", "movies" ]
 title: "Ex Machina"
 review: [ "2016" ]
 stars: "4/5"
-desc: "Ex Machina. Ex Machina (UK, 2015). Dirigido por Alex Garland. Escrito por Alex Garland. Com Domhnall Gleeson, Corey Johnson, Oscar Isaac, Alicia Vikander, Sonoya Mizuno, Claire Selby, Symara A. Templeman, Gana Bayarsaikhan, Tiffany Pisani."
 ---
 Um exercício filosófico em forma de filme que entrega um thriller que prende a atenção do começo ao fim, mas que por evitar usar palavras "complicadas", ou melhor dizendo, empregar relações mais complexas entre seus personagens, constrói uma experiência "sanitizada". Todo o ambiente reflete isso: as paredes acinzentadas, as portas idênticas, os padrões geométricos repetidos. Porém, ao usar vidros por todos os lados e diálogos reveladores, há pelo menos uma coisa que somos obrigados a encarar de frente: a nossa humanidade sendo roubada por nossa própria criação.
 

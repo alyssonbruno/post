@@ -6,7 +6,6 @@ date: "2015-05-17"
 tags: [ "draft", "movies" ]
 title: "As Aventuras de Tintim"
 stars: "4/5"
-desc: "As Aventuras de Tintim. The Adventures of Tintin (USA, 2011). Dirigido por Steven Spielberg. Escrito por Steven Moffat, Edgar Wright, Joe Cornish, Hergé. Com Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg, Daniel Mays, Gad Elmaleh, Toby Jones, Joe Starr."
 ---
 Quem diria que, no meio de tantos filmes de super-herói machões com frases de efeito e diferentes efeitos digitais para fazer você comer pipoca freneticamente, As Aventuras de Tintim seja o que possui o personagem mais maduro e o conflito mais adulto de todos?
 

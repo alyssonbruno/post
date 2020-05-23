@@ -6,7 +6,6 @@ date: "2017-01-05"
 tags: [ "draft", "movies" ]
 title: "Um Cadáver Para Sobreviver"
 stars: "4/5"
-desc: "Um Cadáver Para Sobreviver. Swiss Army Man (USA, 2016). Dirigido por Dan Kwan, Daniel Scheinert. Escrito por Dan Kwan, Daniel Scheinert. Com Paul Dano (Hank), Daniel Radcliffe (Manny), Mary Elizabeth Winstead (Sarah), Antonia Ribero (Crissie), Timothy Eulich (Preston), Richard Gross (Hank's Dad), Marika Casteel (Reporter), Andy Hull (Cameraman), Aaron Marshall (Officer #1)."
 ---
 Swiss Army Man é o grito de desespero do tímido comum elevado à décima potência, o que segundo meus cálculos, pela regra do absurdo, gera um filme com um humor tão hilário quanto triste. Acorrentado em seus próprios medos, o tímido comum busca uma conexão com quem não o julga, ou quem não se parece superior a ele. Eu diria que qualquer um se sentiria menos inferior do lado de um defunto que continua soltando gases e nem sabe ainda o que é masturbação.
 

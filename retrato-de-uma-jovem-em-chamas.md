@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-11"
 title: "Retrato de Uma Jovem em Chamas"
-desc: '"Portrait de la jeune fille en feu" (França, 2019), escrito por Céline Sciamma, dirigido por Céline Sciamma, com Noémie Merlant, Adèle Haenel e Luàna Bajrami. Escrito para o CinemAqui.'
 imdb: "8613070"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

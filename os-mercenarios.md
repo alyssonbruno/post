@@ -6,7 +6,6 @@ date: "2010-08-13"
 tags: [ "draft", "movies" ]
 title: "Os Mercenários"
 stars: "2/5"
-desc: "Os Mercenários. The Expendables (USA, 2010). Dirigido por Sylvester Stallone. Escrito por Dave Callaham, Sylvester Stallone, Dave Callaham. Com Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren, Eric Roberts, Randy Couture, Steve Austin, David Zayas, Giselle Itié."
 ---
 Usando uma steady cam e iniciando no tom de documentário, Os Mercenários traz uma gangue de atores milionários que, em seus devidos personagens unidimensionais, fazem operações de guerra por uns trocados. A primeira cena, aliás, resume bem o que teremos no resto das cenas de ação: muito sangue. Tanto sangue que, no início, vemos o resto da matança através de uma lente de visão noturno, para não afastar de imediato o espectador que ainda verá muitas cabeças explodindo e corpos rolando.
 

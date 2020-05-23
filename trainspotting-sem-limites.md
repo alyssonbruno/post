@@ -6,7 +6,6 @@ date: "2014-05-21"
 tags: [ "draft", "movies" ]
 title: "Trainspotting Sem Limites"
 stars: "5/5"
-desc: "Trainspotting Sem Limites. Trainspotting (UK, 1996). Dirigido por Danny Boyle. Escrito por Irvine Welsh, John Hodge. Com Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd, Robert Carlyle, Kelly Macdonald, Peter Mullan, James Cosmo, Eileen Nicholas."
 ---
 Quando vi pela primeira vez Transpotting, aos meus 17 e poucos anos, ele ficou incrustado na minha mente por todo esse tempo. Até ontem, quando tudo que eu sabia visualmente sobre o filme foi apenas reafirmado, pois jamais havia sido esquecido. É um trabalho intenso que, acredito, atravessa gerações facilmente. Danny Boyle, de Quem Quer ser Um Milionário, dirige com uma economia visual absurda. Os diálogos são complementos de um filme para ser degustado principalmente pela visão. E que visão!
 

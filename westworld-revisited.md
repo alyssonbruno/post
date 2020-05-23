@@ -6,7 +6,6 @@ date: 2018-12-30
 tags: [ "draft", "series" ]
 title: "Westworld (Revisita ao S01 com algumas questões e spoilers)"
 stars: "5/5"
-desc: "Westworld (USA, 2016). Dirigido por Jonathan Nolan, Fred Toye. Escrito por Lisa Joy, Jonathan Nolan, Michael Crichton, Halley Wegryn Gross, Dan Dietz, Charles Yu. Com Evan Rachel Wood (Dolores Abernathy), Thandie Newton (Maeve Millay), James Marsden (Teddy Flood), Jeffrey Wright (Bernard Lowe), Ed Harris (Man in Black), Anthony Hopkins (Dr. Robert Ford)."
 ---
 A revisita a Westworld vale muito a pena. Detalhes que só serão revelados no final são percebidos desde o começo, e a experiência de torna única novamente. Em meu primeiro texto não me lembro se liberei spoilers (vendo agora... não), mas este aqui é certeza que terá. Como toda revisita a esta série deve ter.
 

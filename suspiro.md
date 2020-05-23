@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2020-01-04"
 title: "Receita: Suspiro"
-desc: "Através das dicas da chef confeiteira minha amiga Silvana Oliveira aprendemos os tipos de merengue e outras dicas de como aprimorar a receita super-doce."
 tags: [ "draft", "food", "recipes" ]
 ---
 Esta é uma receita aprendida por um artigo do programa da Ana Maria Braga onde minha amiga chef confeiteira Silvana Oliveira dá dicas de como fazer este doce tão famoso.

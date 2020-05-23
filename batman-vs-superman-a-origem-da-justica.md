@@ -6,7 +6,6 @@ date: "2016-04-02"
 tags: [ "draft", "movies" ]
 title: "Batman vs Superman: A Origem da Justiça"
 stars: "3/5"
-desc: "Batman vs Superman: A Origem da Justiça. Batman v Superman: Dawn of Justice (USA, 2016). Dirigido por Zack Snyder. Escrito por Chris Terrio, David S. Goyer, Bob Kane, Bill Finger, Jerry Siegel, Joe Shuster. Com Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg, Diane Lane, Laurence Fishburne, Jeremy Irons, Holly Hunter, Gal Gadot."
 ---
 Os deuses da DC descem do Olimpo para se exibir. Não há muito o que mostrar senão uma demonstração interminável de força, poder e loucura. São tempos sinistros para amantes dos quadrinhos, mas mais sinistros ainda para cinéfilos que se enveredam pelos filmes dessa trupe que gosta de se vestir engraçado.
 

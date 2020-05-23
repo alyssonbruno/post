@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-29"
 title: "Harry Potter e o Prisioneiro de Azkaban"
-desc: '"Harry Potter and the Prisoner of Azkaban" (Reino Unido e EUA, 2004), escrito por Steve Kloves baseado no livro de J.K. Rowling, dirigido por Alfonso Cuarón, com Daniel Radcliffe, Richard Griffiths e Pam Ferris. Na maratona Blu-Ray de Harry Potter.'
 imdb: "0304141"
 tags: [ "draft", "movies" ]
 stars: "4/5"

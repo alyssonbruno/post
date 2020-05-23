@@ -6,7 +6,6 @@ date: "2011-02-13"
 tags: [ "draft", "movies" ]
 title: "Biutiful"
 stars: "2/5"
-desc: "Biutiful. Biutiful (Mexico, 2010). Dirigido por Alejandro González Iñárritu. Escrito por Alejandro González Iñárritu, Armando Bo, Nicolás Giacobone, Alejandro González Iñárritu. Com Javier Bardem, Maricel Álvarez, Hanaa Bouchaib, Guillermo Estrella, Eduard Fernández, Cheikh Ndiaye, Diaryatou Daff, Taisheng Chen, Jin Luo."
 ---
 Este é mais um filme que flerta com o mundo após a morte, como o Além da Vida de Eastwood, mas com uma interpretação tensa de Javier Bardem (Vicky Cristina Barcelona), que faz Uxbal, um pai separado que tem que tomar conta dos dois filhos pequenos e de seus negócios escusos, como produtos falsificados por chineses semi-escravos.
 

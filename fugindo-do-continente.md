@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-01T15:55:18-03:00
 title: "Fugindo do Continente"
-desc: "Série televisita de reality show apresentada pela estonteante Nicki Chapman."
 imdb: "3641246"
 tags: [ "draft", "series" ]
 stars: "3/5"

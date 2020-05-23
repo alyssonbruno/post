@@ -7,7 +7,6 @@ review: [ "2019" ]
 tags: [ "draft", "movies" ]
 title: "Star Wars: O Despertar da Força"
 stars: "4/5"
-desc: "Star Wars: The Force Awakens (USA, 2015). Dirigido por J.J. Abrams. Escrito por Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas. Com Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Andy Serkis. Texto original de 2016-01-08."
 ---
 Este reboot praticamente da saga vem com direito a todas as cotas possíveis e imagináveis. Daisy Ridley (mulher: check) faz a jedi que consegue fazer tudo em um episódio, desbancando Luke Skywalker e o resto da galáxia. John Boyega (negro: check) é um ex-stormtropper que possui o tom cômico que a série precisa, mas está cheio de draminhas pessoais e faz questão de envolver todos neles. Oscar Isaac tem essa faceta meio gay (check) e que eleva a ambiguidade entre triângulo amoroso e incesto do filme original para outro nível.
 

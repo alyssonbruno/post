@@ -6,7 +6,6 @@ date: "2017-03-28"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Mundo Fora do Lugar"
 stars: "3/5"
-desc: "O Mundo Fora do Lugar. Die abhandene Welt (Germany, 2015). Dirigido por Margarethe von Trotta. Escrito por Margarethe von Trotta. Com Katja Riemann (Sophie), Barbara Sukowa (Caterina Fabiani / Evelyn Kromberger), Matthias Habich (Paul Kromberger), Robert Seeliger (Philip), Gunnar Möller (Ralf Kromberger), Karin Dor (Rosa), August Zirner (Georg), Tom Beck (Florian), Arne Jansen (Piet)."
 ---
 O Mundo Fora do Lugar é uma sutil defesa dos psicologicamente abusados (coincidentemente mulheres em um relacionamento). Ele usa um drama familiar do passado com revelações de novela, mas faz isso com muito charme e boa música. E é um filme alemão, o que nesse caso quer dizer que as emoções estarão contidas, embora elas existam.
 

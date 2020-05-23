@@ -7,7 +7,6 @@ stars: "3/5"
 title: "A Número Um"
 date: 2018-02-28T17:47:55
 tags: [ "draft", "movies" , "cinemaqui" ]
-desc: "A Número Um."
 ---
 A Número Um é um melodrama feminista sobre poder. Ele emprega diversos momentos picados de seus personagens para compor uma narrativa que vai se tornando ligeiramente exagerada em seu tom. Não há muito prazer ou emoção em acompanhar a heroína deste filme, que é triste do começo ao fim. Não se trata de ganhar uma batalha, mas de entender o que é a guerra.
 

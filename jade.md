@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-02T18:57:28-03:00
 title: "Jade"
-desc: "Jade. EUA, 1995. Dirigido por William Friedkin, escrito por Joe Eszterhas. Com David Caruso, Linda Fiorentino, Chazz Palminteri. Editado por Augie Hess, música de James Horner."
 imdb: "0113451"
 
 tags: [ "draft", "movies" ]

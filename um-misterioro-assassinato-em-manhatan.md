@@ -6,7 +6,6 @@ date: "2012-05-14"
 tags: [ "draft", "movies" ]
 title: "Um Misterioso Assassinato em Manhattan"
 stars: "3/5"
-desc: "Um Misterioso Assassinato em Manhattan. Manhattan Murder Mystery (USA, 1993). Dirigido por Woody Allen. Escrito por Woody Allen, Marshall Brickman. Com Woody Allen, Diane Keaton, Jerry Adler, Lynn Cohen, Ron Rifkin, Joy Behar, William Addy, John Doumanian, Sylvia Kauders."
 ---
 Nova Iorque, chuva, assassinato e um filme de Woody Allen. Uma combinação que costuma ser fértil para o Cinema, seja pela inteligência e ironia das falas dos personagens, ou até mesmo pela situação que eles vivem. Aqui, temos o casal de meia-idade Larry e Carol Lipton (Allen e Keaton) que, após conhecerem um idoso e simpático casal, no dia seguinte presenciam a morte súbita da esposa, consequência de um ataque cardíaco.
 

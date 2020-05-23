@@ -3,7 +3,6 @@ categories: [ "code" ]
 date: 2019-05-06T22:23:40-03:00
 title: "Visual Studio Unit Test (C++)"
 tags: [ "draft",  ]
-desc: "Como funciona a interface entre unit tests em C++ e o Visual Studio?"
 ---
 Desde o Visual Studio 2015 há suporte a unit tests em C++ automatizado na IDE. Porém, a partir do VS 2017 15.5 o suporte aumentou drasticamente, vindo embutidos os suportes para as bibliotecas de teste Google Test, Boost.Test e CTest. Além, é claro, do Microsoft Unit Testing Framework for C++, o caseiro da M$.
 

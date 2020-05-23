@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-21T18:20:34-03:00
 title: "O Círculo"
-desc: "Dayereh. Irã, Itália, Suíça, 2000. Dirigido por Jafar Panahi, escrito por Kambuzia Partovi a partir de uma ideia de Jafar Panahi. Com Maryiam Palvin Almani, Nargess Mamizadeh, Mojgan Faramarzi."
 imdb: "0255094"
 tags: [ "draft", "movies" ]
 stars: "5/5"

@@ -7,7 +7,6 @@ date: 2017-10-20T21:47:12
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Uma Verdade Mais Inconveniente"
 stars: "3/5"
-desc: "Uma Verdade Mais Inconveniente. An Inconvenient Sequel: Truth to Power (USA, 2017). Dirigido por Bonni Cohen, Jon Shenk. Escrito por Al Gore. Com Al Gore (Himself), George W. Bush (Himself), John Kerry (Himself), Marco Krapels (Himself), Angela Merkel (Herself), Barack Obama (Himself), Vladimir Putin (Himself), Donald J. Trump (Himself), Tom Rielly (Himself)."
 ---
 Se você já viu Uma Verdade Inconveniente, Oscar de melhor documentário de 2006, provavelmente vai se sentir em casa com essa continuação. Ela é espalhafatosa, desinformativa e um apelo à emoção. Mas isso não é nenhuma novidade para você. Conhecida por jogar números estatísticos como forma de combate, o folheto de propaganda na forma de documentário continua balançando ao vento para quem quiser e quem não quiser ver. E como os voluntários de programas sociais que vemos na Avenida Paulista, há a sensação que mais do mesmo não irá resolver o problema. Exceto que agora a calçada ficou um pouco menos agradável de se andar.
 

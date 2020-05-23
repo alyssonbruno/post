@@ -6,7 +6,6 @@ date: "2012-04-02"
 tags: [ "draft", "movies" ]
 title: "Insônia"
 stars: "5/5"
-desc: "Insônia. Insomnia (USA, 2002). Dirigido por Christopher Nolan. Escrito por Hillary Seitz, Nikolaj Frobenius, Erik Skjoldbjærg. Com Al Pacino, Martin Donovan, Oliver 'Ole' Zemen, Hilary Swank, Paul Dooley, Nicky Katt, Larry Holden, Jay Brazeau, Lorne Cardinal."
 ---
 Em um momento em que Holliwood se esqueceu que os bons policiais/suspenses quase sempre vem dotados de uma carga dramática e multidimencional em seus personagens, o segundo trabalho de Christopher Nolan na direção vem lembrar aos cinéfilos que é possível construir uma narrativa inteligente e ainda assim ser envolvente pela sua ação.
 

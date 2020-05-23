@@ -6,7 +6,6 @@ date: "2011-07-06"
 tags: [ "draft", "movies" ]
 title: "Transformers O Lado Oculto da Lua"
 stars: "1/5"
-desc: "Transformers O Lado Oculto da Lua. Transformers: Dark of the Moon (USA, 2011). Dirigido por Michael Bay. Escrito por Ehren Kruger. Com Shia LaBeouf, Rosie Huntington-Whiteley, Josh Duhamel, John Turturro, Tyrese Gibson, Patrick Dempsey, Frances McDormand, John Malkovich, Kevin Dunn."
 ---
 É muito difícil para quem começa a estudar aos poucos os segredos do cinema descobrir o que faz um filme ruim. Apenas o fato de não gostar do que se vê não é argumento satisfatório para entender quais mecanismos estão ali (ou não) para sabotar por completo uma experiência cinematográfica tão bem sucedida tecnicamente, como para mim foi esse Transformers 3.
 

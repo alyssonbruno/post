@@ -6,7 +6,6 @@ date: "2016-09-07"
 tags: [ "draft", "movies" ]
 title: "Star Trek: Sem Fronteiras"
 stars: "3/5"
-desc: "Star Trek: Sem Fronteiras. Star Trek Beyond (USA, 2016). Dirigido por Justin Lin. Escrito por Simon Pegg, Doug Jung, Gene Roddenberry, Patrick McKay, Roberto Orci, John D. Payne. Com Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana, Simon Pegg, John Cho, Anton Yelchin, Idris Elba, Sofia Boutella."
 ---
 O reboot megalomaníaco da série de filmes inspirada pela série televisiva nerd dos anos 60 está com muita bala na agulha para poder gastar e pouca vontade de arriscar. Isso quer dizer que o novo filme com Capitão Kirk e Spock tem basicamente o mesmo enredo do filme anterior (Além da Escuridão) tirando a emoção.
 

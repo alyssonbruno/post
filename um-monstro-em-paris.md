@@ -6,7 +6,6 @@ date: "2014-04-05"
 tags: [ "draft", "movies" ]
 title: "Um Monstro em Paris"
 stars: "3/5"
-desc: "Um Monstro em Paris. Un monstre à Paris (France, 2011). Dirigido por Bibo Bergeron. Escrito por Bibo Bergeron, Stéphane Kazandjian. Com Matthieu Chedid, Vanessa Paradis, Gad Elmaleh, François Cluzet, Ludivine Sagnier, Julie Ferrier, Bruno Salomone, Sébastien Desjours, Philippe Peythieu."
 ---
 Uma animação francesa de alta qualidade em sua direção de arte, movimento dos personagens e números musicais que são bonitinhos por natureza, mas às vezes parecem mal trabalhados pela artificialidade do ritmo (talvez uma câmera aqui e ali resolvessem, mas a maioria dos números insiste em se manter na visão da plateia). É uma história batida a respeito de um monstro que surge na cidade de Paris na época em que ela abrigava ninguém menos que George Méliès, o mago da arte cinematográfica que tinha acabado de nascer e que foi homenageado recentemente no arranca-lágrimas Hugo Cabret.
 

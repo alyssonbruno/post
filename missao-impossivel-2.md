@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-17T18:26:12-03:00
 title: "Missão: Impossível 2"
-desc: "Mission: Impossible II. EUA, 2000. Dirigido por John Woo, roteiro de Ronald D. Moore. Com Tom Cruise como Ethan Hunt, Dougray Scott, Thandie Newton."
 imdb: "0120755"
 
 tags: [ "draft", "movies" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-27"
 title: "Jalla! Jalla!"
-desc: '"Jalla! Jalla!" (Suécia, 2000), escrito por Josef Fares, dirigido por Josef Fares, com Fares Fares, Torkel Petersson e Tuva Novotny. Reassisti por DVD, a primeira vez foi no Noitão Belas Artes há milênios atrás.'
 imdb: "0269389"
 tags: [ "draft", "movies" ]
 stars: "2/5"

@@ -6,7 +6,6 @@ date: "2015-01-20"
 tags: [ "draft", "movies" ]
 title: "Sob a Pele"
 stars: "4/5"
-desc: "Sob a Pele. Under the Skin (UK, 2013). Dirigido por Jonathan Glazer. Escrito por Walter Campbell, Jonathan Glazer, Michel Faber. Com Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay, Dougie McConnell, Kevin McAlinden, D. Meade, Andrew Gorman, Joe Szula, Krystof Hádek."
 ---
 Sob a Pele lembra um remake de um trash e obscuro dos anos 70 cujo estilo é mimetizado, o que tem tudo a ver com a história da alienígena que finge ser uma humana e seduz homens para "comê-los". Dentro desse aspecto do filme também há vários bons motivos para escolher Scarlett Johansson nesse papel, e ser uma "musa corporal" é apenas um deles. Atraindo sempre homens solitários através da mesma técnica de se fingir de perdida, são unicamente eles os responsáveis por serem suas vítimas, tanto que ela apenas tem a missão de verbalizar, andar, tirar a roupa.
 

@@ -4,7 +4,6 @@ imdb: "0242653"
 date: 2017-09-18T21:53:43
 tags: [ "draft", "essays" ]
 title: "Matrix: Ghost in The Shell"
-desc: "Matrix: Ghost in The Shell. The Matrix Revolutions (Australia, 2003). Dirigido por Lana Wachowski, Lilly Wachowski. Escrito por Lilly Wachowski, Lana Wachowski. Com Mary Alice (The Oracle), Tanveer K. Atwal (Sati), Helmut Bakaitis (The Architect), Kate Beahan (Coat Check Girl), Francine Bell (Councillor Grace), Monica Bellucci (Persephone), Rachel Blackman (Charra), Henry Blasingame (Deus Ex Machina), Ian Bliss (Bane)."
 ---
 De todas as teorias malucas criadas em torno da trilogia das Irmãs Wachowski, acredito que esta que tenho para lhes falar supera em simplicidade e elegância. Por isso mesmo acredito que esta seria a solução empregada por elas caso quisessem deixar toda a trama às claras. Felizmente, não quiseram, o que deu vazão para um esoterismo e obscurantismo que torna o conjunto de três filmes indecifrável. Mas, fala sério. Sou programador. Depois de Ghost in the Shell as coisas têm se tornado mais claras ainda. Quer ver como toda essa fábula é explicada por ela mesma?
 

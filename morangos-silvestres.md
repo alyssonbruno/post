@@ -6,7 +6,6 @@ date: "2016-01-05"
 tags: [ "draft", "movies" ]
 title: "Morangos Silvestres"
 stars: "4/5"
-desc: "Morangos Silvestres. Smultronstället (Sweden, 1957). Dirigido por Ingmar Bergman. Escrito por Ingmar Bergman. Com Victor Sjöström, Bibi Andersson, Ingrid Thulin, Gunnar Björnstrand, Jullan Kindahl, Folke Sundquist, Björn Bjelfvenstam, Naima Wifstrand, Gunnel Broström."
 ---
 Os filmes de Ingmar Bergman tem um efeito hipnótico que é difícil se desvencilhar. Pelo menos para mim. Todo filme que assisto dele, quase morro de sono.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-02T12:57:26-02:00
 title: "Amor Ocasional"
-desc: "Plan Coeur. França, 2018. Criado por Chris Lang e Noémie Saglio. Com Tom Dingler como Matthieu, Joséphine Drai como Emilie, Zita Hanrot como Elsa, Guillaume Labbé como Maxime, Yvan Naubron como Roman, Sabrina Ouazani como Charlotte, Marc Rucmann como Jules e Syrus Shahidi como Antoine."
 imdb: "9170638"
 
 tags: [ "draft", "series" ]

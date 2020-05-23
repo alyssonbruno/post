@@ -6,7 +6,6 @@ date: "2014-12-30"
 tags: [ "draft", "movies" ]
 title: "James e o Pêssego Gigante"
 stars: "4/5"
-desc: "James e o Pêssego Gigante. James and the Giant Peach (UK, 1996). Dirigido por Henry Selick. Escrito por Roald Dahl, Karey Kirkpatrick, Jonathan Roberts, Steve Bloom. Com Simon Callow, Richard Dreyfuss, Jane Leeves, Joanna Lumley, Miriam Margolyes, Pete Postlethwaite, Susan Sarandon, Paul Terry, David Thewlis."
 ---
 Antes de qualquer ataque óbvio ao roteiro formulaico e os personagens caricatos e unidimensionais, é melhor avisar: se trata de um filme Disney. Ou seja, o mau é mau, o bom é bom e não há praticamente nada que fuja do bê-a-bá dos estúdios "da moral e dos bons costumes". Dito isto, damo-nos por satisfeitos a inexistência de princesas e fadas.
 

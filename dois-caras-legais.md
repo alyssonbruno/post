@@ -6,7 +6,6 @@ date: "2016-07-28"
 tags: [ "draft", "movies" ]
 title: "Dois Caras Legais"
 stars: "3/5"
-desc: "Dois Caras Legais. The Nice Guys (USA, 2016). Dirigido por Shane Black. Escrito por Shane Black, Anthony Bagarozzi. Com Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer, Margaret Qualley, Yaya DaCosta, Keith David, Beau Knapp, Lois Smith."
 ---
 Shane Black (Beijos e Tiros, Homem de Ferro 3) costuma usar com eficiência o humor negro, além de brincar com situações bizarras entre seus personagens. Em Dois Caras Legais, essa situação fica ainda mais bizarra pela caracterização tão peculiar dos anos 70. São anos 70 de brincadeira, da geração pera-com-leite. Russell Crowe e Ryan Gosling são ótimos na química, mas não precisava colocar bigode, óculos escuros e uma conspiração capitalista, OK?
 

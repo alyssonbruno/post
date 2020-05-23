@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-09"
 title: "Cells at Work!"
-desc: '"Cells at Work!" (Japão, 2018), escrito por Yuko Kakihara, Akane Shimizu e Kenichi Suzuki, com Karen Strassman, Mamiko Noto e Morgan Berry.'
 imdb: "8673610"
 tags: [ "draft", "series", "animes" ]
 stars: "4/5"

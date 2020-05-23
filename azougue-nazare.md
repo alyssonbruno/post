@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-08"
 title: "Azougue Nazaré"
-desc: '"Azougue Nazaré" (Brasil, 2018), escrito por Jeronimo Lemos e Tiago Melo, dirigido por Tiago Melo, com Valmir do Côco, Joana Gatis, Mestre Barachinha, Edilson Silva e Mohana Uchoa. Escrito para o CinemAqui.'
 imdb: "8183418"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

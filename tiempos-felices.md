@@ -6,7 +6,6 @@ date: "2017-03-10"
 tags: [ "draft", "movies" ]
 title: "Tiempos Felices"
 stars: "3/5"
-desc: "Tiempos Felices. Tiempos Felices (Mexico, 2014). Dirigido por Luis Javier M. Henaine. Escrito por Luis Javier M. Henaine, Alejandra Olvera Avila. Com Luis Arrieta (Max Quintana), Cassandra Ciangherotti (Mónica Villalobos), Humberto Busto (Niko), Iván Arana (Rigo), Daniela Gerdes (Andrea Villalobos), Miguel Rodarte (Psicólogo Agencia), J.C. Montes-Roldan (Investigador Agencia), Jorge Caballero (Investigador Agencia), Elizabeth Guindi (Señora Villalobos)."
 ---
 Este é o clichê versão argentina daquela comédia onde o namorado quer se separar mas não consegue dizer para a namorada. A partir daí você já deve conseguir concluir que verá aquela velha cena dele imaginando que está se separando e as possíveis reações da sua ex-amada.
 

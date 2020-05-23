@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2010-04-03"
 imdb: "1228705"
 title: "Homem de Ferro 2"
-desc: '"Iron Man 2" (EUA, 2010), escrito por Justin Theroux, Stan Lee e Don Heck, dirigido por Jon Favreau, com Robert Downey Jr., Gwyneth Paltrow e Don Cheadle.'
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

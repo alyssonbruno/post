@@ -2,7 +2,6 @@
 date: "2020-04-26"
 title: "O Homem Que Virou Suco"
 categories: [ "cinema" ]
-desc: '"O Homem que Virou Suco" (Brazil, 1980), escrito por João Batista de Andrade, dirigido por João Batista de Andrade, com Aldo Bueno, Rafael de Carvalho e Ruthinéa de Moraes.'
 imdb: "0178585"
 stars: "5/5"
 tags: [ "draft", "movies" ]

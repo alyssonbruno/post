@@ -6,7 +6,6 @@ date: 2017-07-31T20:10:47
 tags: [ "draft", "movies" ]
 title: "Usagi Drop"
 stars: "3/5"
-desc: "Usagi Drop. Usagi doroppu (Japan, 2011). Dirigido por SABU. Escrito por Yumi Unita, Tamio Hayashi, SABU. Com Ken'ichi Matsuyama (Daikichi Kawachi), Karina (Yukari Nitani), Mana Ashida (Rin Kaga), Mirei Kiritani (Kazumi Kawachi), Mayu Kitaki (Masako Yoshii), Ruiki Satô (Koki Nitani), Gô Ayano (Kyoichi), Ryô Kimura (Yuichi Suzuki), Atsuko Takahata (Yumiko Sugiyama)."
 ---
 Há algo novelístico e caricato nesse filme que parece ser seu único defeito para uma história doce e sensível sobre paternidade. E quando digo paternidade não me refiro a pais biológicos, mas à relação entre adultos e crianças que estão sob sua guarda. Por ser um filme japonês há vários detalhes culturais, mas ainda assim ele se esforça por ser universal.
 

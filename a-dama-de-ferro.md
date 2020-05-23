@@ -6,7 +6,6 @@ date: "2012-03-04"
 tags: [ "draft", "movies" ]
 title: "A Dama de Ferro"
 stars: "2/5"
-desc: "A Dama de Ferro. The Iron Lady (UK, 2011). Dirigido por Phyllida Lloyd. Escrito por Abi Morgan. Com Meryl Streep, Jim Broadbent, Susan Brown, Alice da Cunha, Phoebe Waller-Bridge, Iain Glen, Alexandra Roach, Victoria Bewick, Emma Dewhurst."
 ---
 Ao terminar o filme temos a nítida impressão que ele foi dirigido por alguém que possui ideias completamente repulsivas a respeito da figura de Margaret Thatcher e/ou sobre a ideia de uma mulher governando uma nação. Ou isso ou não temos aí um estudo de personagem (histórico), mas simplesmente um pseudo-documentário que tenta ilustrar tanto a vida pessoal quanto política de uma das mulheres mais significativas do nosso século, mas sem conseguir unificá-la em um ser inteligível, sugerindo de uma forma covarde e inescrupulosa que, bem, se as coisas aconteceram daquela maneira, foi porque estávamos falando de uma mulher que não soube o seu lugar.
 

@@ -6,7 +6,6 @@ date: "2015-08-06"
 tags: [ "draft", "movies" ]
 title: "Magic Mike XXL"
 stars: "3/5"
-desc: "Magic Mike XXL. Magic Mike XXL (USA, 2015). Dirigido por Gregory Jacobs. Escrito por Reid Carolin, Reid Carolin. Com Channing Tatum, Juan Piedrahita, Sharon Blackwood, Alison Faulk, Josh Diogo, Joe Manganiello, Kevin Nash, Gabriel Iglesias, Matt Bomer."
 ---
 Continuação que pretende sempre fazer uma cena de reencontro com todo mundo do filme original que reaparece. Abraços, beijos e nada a acrescentar (nem um "ei, você engordou!").
 

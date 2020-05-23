@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-24"
 title: "Amor à Flor da Pele"
-desc: '"In the Mood for Love" (Hong Kong, China, 2000), escrito por Kar-Wai Wong, dirigido por Kar-Wai Wong, com Maggie Cheung, Tony Chiu-Wai Leung e Ping Lam Siu. Dos DVDs daqui de casa (revisita depois de muito tempo).'
 imdb: "0118694"
 tags: [ "draft", "movies" ]
 stars: "3/5"

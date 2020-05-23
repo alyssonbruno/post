@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: 2019-01-06T21:57:29-02:00
 title: "Minecraft: O Jogo"
-desc: "O jogo Minecraft foi criado por Markus Persson e depois desenvolvido pela Mojang."
 tags: [ "draft", "fun" ]
 ---
 Fundamentado em bases materialistas, a partir das quais Karl Marx se orgulharia, Minecraft é uma luta por recursos e sobrevivência. E por ser simples e fácil de jogar, as crianças adoram. Isso e porque também tem skins na aparência dos players.

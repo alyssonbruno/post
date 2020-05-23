@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-08T22:47:49-03:00
 title: "Better Call Saul - Quarta Temporada, Episódio 1"
-desc: "Better Call Saul - Terceira Temporada, Episódio 1: Mabel. Dirigido por Vince Gilligan. Escrito por Vince Gilligan, Peter Gould. Com Bob Odenkirk (Jimmy McGill), Jonathan Banks (Mike Ehrmantraut), Rhea Seehorn (Kim Wexler), Patrick Fabian (Howard Hamlin), Michael Mando (Nacho Varga), Michael McKean (Chuck McGill), Cara Pifko (Paige Novick), Brendan Fehr (Captain Bauer), Joe DeRosa (Veterinarian)."
 imdb: "5554490"
 
 tags: [ "draft", "series" ]

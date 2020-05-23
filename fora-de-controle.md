@@ -6,7 +6,6 @@ date: "2013-11-15"
 tags: [ "draft", "movies" ]
 title: "Fora de Controle"
 stars: "3/5"
-desc: "Fora de Controle. Changing Lanes (USA, 2002). Dirigido por Roger Michell. Escrito por Chap Taylor, Chap Taylor, Michael Tolkin. Com Ben Affleck, Samuel L. Jackson, Kim Staunton, Toni Collette, Sydney Pollack, Tina Sloan, Richard Jenkins, Akil Walker, Cole Hawkins."
 ---
 Um drama moral tão bem construído não deveria ser conduzido de forma tão insegura como é feito aqui. A direção de Roger Michell (Um Lugar Chamado Notting Hill, Uma Manhã Gloriosa) combina uma atmosfera de thriller policial com filme de ação e peca justamente ao não nos aproximar dos seus dois personagens quando essa abordagem seria merecida ou necessária.
 

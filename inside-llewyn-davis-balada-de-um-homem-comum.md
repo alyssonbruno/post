@@ -6,7 +6,6 @@ date: "2014-03-24"
 tags: [ "draft", "movies" ]
 title: "Inside Llewyn Davis Balada de Um Homem Comum"
 stars: "5/5"
-desc: "Inside Llewyn Davis Balada de Um Homem Comum. Inside Llewyn Davis (USA, 2013). Dirigido por Ethan Coen, Joel Coen. Escrito por Joel Coen, Ethan Coen. Com Oscar Isaac, Carey Mulligan, Justin Timberlake, Ethan Phillips, Robin Bartlett, Max Casella, Jerry Grayson, Jeanine Serralles, Adam Driver."
 ---
 Os irmãos Coen (Onde os Fracos não Têm Vez, Fargo) são mestres em contar histórias prosaicas e mergulhar fundo nas sensações que estas geram, sempre de uma forma estilizada e com uma fotografia impecável (Bravura Indômita, O Grande Lebowski) que evoque o ambiente onde se situa a ação. Esse "Inside Llewyn Davis - Balada de Um Homem Comum" não foge à regra e se torna a partir da transformação em ficção da nada incomum história do músico folk Dave Van Ronk um verdadeiro estudo de personagem.
 

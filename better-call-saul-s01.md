@@ -6,7 +6,6 @@ date: "2016-04-22"
 tags: [ "draft", "series" ]
 title: "Better Call Saul - Primeira Temporada"
 stars: "5/5"
-desc: "Better Call Saul - Primeira Temporada. Better Call Saul (USA, 2015). Dirigido por Colin Bucksey. Escrito por Vince Gilligan, Peter Gould, Gennifer Hutchison, Thomas Schnauz, Gordon Smith. Com Bob Odenkirk, Jonathan Banks, Rhea Seehorn, Patrick Fabian, Michael Mando, Michael McKean."
 ---
 A primeira temporada de Better Call Saul, spin-off do personagem Saul Goodman da série Breaking Bad, realiza um arco tão lendário quando o Walter White da série original. Esse arco é mais simples, previsível em sua própria estrutura, mas simplório jamais. Oscilando entre o cômico e o dramático, ganha mais o espectador que encara tudo aquilo como um drama tão intenso que consegue soar às vezes caricato, mas no final acaba se transformando em um tema digno de reflexão: como pode um sujeito ser esmagado de tantas formas diferentes e, ainda assim, continuar resistindo?
 

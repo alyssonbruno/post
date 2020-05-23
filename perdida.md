@@ -6,7 +6,6 @@ date: "2015-12-04"
 tags: [ "draft", "movies" ]
 title: "Perdida"
 stars: "4/5"
-desc: "Perdida. Perdida (Mexico, 2009). Dirigido por Viviana García-Besné. Escrito por Viviana García-Besné, Edson Lechuga. Com Guillermo Calderón, José Luis Calderón, Pedro A. Calderón, Joaquín Cordero, Emilia Guiú, Antonio de Hud, Rafael Inclán, Agustín Lara, Lyn May."
 ---
 Esse documentário de colagens charmosas tenta resgatar do passado longínquo toda a história de uma família de cineastas, de sua ascensão até os diferentes declínios, como o fim de uma grande fortuna.
 

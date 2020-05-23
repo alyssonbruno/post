@@ -6,7 +6,6 @@ date: "2016-05-29"
 tags: [ "draft", "movies" ]
 title: "Ace Ventura - Um Detetive Diferente"
 stars: "3/5"
-desc: "Ace Ventura - Um Detetive Diferente. Ace Ventura: Pet Detective (USA, 1994). Dirigido por Tom Shadyac. Escrito por Jack Bernstein, Jack Bernstein, Tom Shadyac, Jim Carrey. Com Jim Carrey, Courteney Cox, Sean Young, Tone Loc, Dan Marino, Noble Willingham, Troy Evans, Raynor Scheine, Udo Kier."
 ---
 Jim Carrey possuía uma energia invejável. O seu timing cômico e sua atuação de exageros é responsável por praticamente todo Ace Ventura, o filme. Note como ele caminha na ponta dos pés de fininho e mastiga sementes de maneira completamente idiota, acumulando as cascas na mesa de sua cliente. Quando oferecido um cinzeiro, responde: "obrigado, eu não fumo; este é um ato nojento".
 

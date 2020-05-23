@@ -6,7 +6,6 @@ date: "2013-01-31"
 tags: [ "draft", "movies" ]
 title: "Lincoln"
 stars: "4/5"
-desc: "Lincoln. Lincoln (USA, 2012). Dirigido por Steven Spielberg. Escrito por Tony Kushner, Doris Kearns Goodwin. Com Daniel Day-Lewis, Sally Field, David Strathairn, Joseph Gordon-Levitt, James Spader, Hal Holbrook, Tommy Lee Jones, John Hawkes, Jackie Earle Haley."
 ---
 Talvez Spielberg tenha reverenciado demais a figura do presidente abolicionista. Mas quem poderá acusá-lo? Em uma época onde imperava os pensamentos que vemos do povo e dos seus dirigentes é admirável que o filme comece já com uma figura como ele, vindo do sul e com pensamentos simples e bem colocados, como chefe de estado de uma nação dividida.
 

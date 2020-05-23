@@ -6,7 +6,6 @@ date: "2011-04-27"
 tags: [ "draft", "movies" ]
 title: "A Minha Versão do Amor"
 stars: "5/5"
-desc: "A Minha Versão do Amor. Barney's Version (Canada, 2010). Dirigido por Richard J. Lewis. Escrito por Mordecai Richler, Michael Konyves. Com Paul Giamatti, Macha Grenon, Paul Gross, Atom Egoyan, Mark Camacho, David Pryde, Paula Jean Hixson, Mark Addy, Scott Speedman."
 ---
 Paul Giamatti é uma das melhores surpresas que se poderia esperar desse início de século para o cinema. Sempre envolvido em história no mínimo curiosas (Sideways) e em no máximo transcendentais (Sinédoque), temos aqui um conjunto das duas coisas espelhadas em um personagem desde os primeiros minutos de projeção que nos fascina pela sua mente conturbada e sua alma acuada, tão humano quanto qualquer um de nós foi em um dado período da vida.
 

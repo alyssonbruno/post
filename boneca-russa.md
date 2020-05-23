@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-06T12:23:04-02:00
 title: "Boneca Russa"
-desc: "Russian Doll. EUA, 2019. Criado por Leslye Headland, Natasha Lyonne e Amy Poehler. Com Natasha Lyonne, Charlie Barnett, Greta Lee."
 imdb: "7520794"
 
 tags: [ "draft", "series" ]

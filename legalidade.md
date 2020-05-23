@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-31"
 title: "Legalidade"
-desc: '"Legalidade (aka Resistance)" (Brasil, 2019), escrito por Zeca Brito e Leo Garcia, dirigido por Zeca Brito, com Leonardo Machado, Cleo, Fernando Alves Pinto, José Henrique Ligabue, Letícia Sabatella. Escrito para o CinemAqui.'
 imdb: "6682820"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

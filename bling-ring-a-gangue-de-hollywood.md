@@ -6,7 +6,6 @@ date: "2014-01-02"
 tags: [ "draft", "movies" ]
 title: "Bling Ring A Gangue de Hollywood"
 stars: "4/5"
-desc: "Bling Ring A Gangue de Hollywood. The Bling Ring (USA, 2013). Dirigido por Sofia Coppola. Escrito por Sofia Coppola, Nancy Jo Sales. Com Katie Chang, Israel Broussard, Emma Watson, Claire Julien, Taissa Farmiga, Georgia Rock, Leslie Mann, Carlos Miranda, Gavin Rossdale."
 ---
 O mundo é materialista e não há nada de errado nisso. Somos feitos de matéria e a matéria circula por nossos poros. Não há nada mais que matéria, ainda que esforços descomunais da mente tentem imaginar algo mágico saindo por detrás de nossas cabeças. Entre esses esforços, a tal da "fama".
 

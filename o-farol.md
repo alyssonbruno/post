@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-29"
 title: "O Farol"
-desc: '"The Lighthouse" (EUA e Brasil, 2019), escrito por Max Eggers e Robert Eggers, dirigido por Robert Eggers, com Willem Dafoe, Robert Pattinson e Valeriia Karaman. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7984734"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"

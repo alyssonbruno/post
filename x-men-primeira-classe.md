@@ -6,7 +6,6 @@ date: "2011-06-07"
 tags: [ "draft", "movies" ]
 title: "X-Men Primeira Classe"
 stars: "5/5"
-desc: "X-Men Primeira Classe. X-Men: First Class (USA, 2011). Dirigido por Matthew Vaughn. Escrito por Ashley Miller, Zack Stentz, Jane Goldman, Matthew Vaughn, Sheldon Turner, Bryan Singer. Com James McAvoy, Laurence Belcher, Michael Fassbender, Bill Milner, Kevin Bacon, Rose Byrne, Jennifer Lawrence, Beth Goddard, Morgan Lily."
 ---
 Quando se fala de X-Men no cinema é sempre bom relembrar que uma ficção científica, assim como qualquer filme, é um documentário da época em que foi filmado. No caso do gênero Sci-Fi, as liberdades são significativamente maiores, e por isso mesmo permitem alegorias/caracterizações que nos levam a viajar para outro universo e debater temas tão presentes no mundo de hoje quanto o preconceito e a intolerância.
 

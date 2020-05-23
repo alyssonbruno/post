@@ -1,7 +1,6 @@
 ---
 date: "2020-05-04"
 title: "Tesouro Perdido"
-desc: '"Lost Treasure" (Brazil, 1927), escrito por Humberto Mauro, dirigido por Humberto Mauro, com Lola Lys, Humberto Mauro e Bruno Mauro.'
 imdb: "0018478"
 stars: "1/5"
 categories: [ "cinema" ]

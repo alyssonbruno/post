@@ -6,7 +6,6 @@ date: "2016-08-20"
 tags: [ "draft", "movies" ]
 title: "Sharknado 2: A Segunda Onda"
 stars: "1/5"
-desc: "Sharknado 2: A Segunda Onda. Sharknado 2: The Second One (USA, 2014). Dirigido por Anthony C. Ferrante. Escrito por Thunder Levin. Com Ian Ziering, Tara Reid, Vivica A. Fox, Mark McGrath, Kari Wuhrer, Courtney Baxter, Dante Palminteri, Judd Hirsch, Stephanie Abrams."
 ---
 Há uma coisa de se orgulhar da série Sharknado: ela não tem medo de passar vergonha. Os personagens ruins falando diálogos escritos por crianças de seis anos em situações absurdamente toscas parecem existir nesse universo por apenas um motivo: inserir no meio deles os tubarões voadores criados por uma computação gráfica que tornou o primeiro Sharknado "famoso", tão famoso que gerou uma série de filmes. Porém, diferente da pretensiosa "saga" Crepúsculo, o objetivo da série é bem mais claro e honesto: "fale mal, fale péssimo, mas fale de mim".
 

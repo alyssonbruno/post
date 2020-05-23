@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-10"
 title: "O Irlandês"
-desc: '"The Irishman" (EUA, 2019), escrito por Steven Zaillian baseado no livro de Charles Brandt, dirigido por Martin Scorsese, com Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel, Ray Romano e Bobby Cannavale. Produzido pela Netflix.'
 imdb: "1302006"
 tags: [ "draft", "movies" ]
 stars: "5/5"

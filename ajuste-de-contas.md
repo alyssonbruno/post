@@ -6,7 +6,6 @@ date: "2014-01-25"
 tags: [ "draft", "movies" ]
 title: "Ajuste de Contas"
 stars: "4/5"
-desc: "Ajuste de Contas. Grudge Match (USA, 2013). Dirigido por Peter Segal. Escrito por Tim Kelleher, Rodney Rothman, Tim Kelleher. Com Jim Lampley, Sylvester Stallone, Robert De Niro, Rich Little, Ireland Baldwin, Anthony Bean, Mason Mackie, Kevin Hart, Barry Primus."
 ---
 Desde o começo a ideia de colocar Sylvester Stallone e Robert de Niro de volta ao ringue, no mesmo ringue, parecia um ótimo plot que estava faltando na história do Cinema. O fato de ambos os atores já terem passado do tempo e estarem respirando com dificuldade enquanto um tenta golpear (ou pelo menos enxergar) o outro se torna um bônus, já que o passado de rivalidade que o filme constrói em torno dos dois profissionais (os pugilistas perderam em sua carreira apenas um para o outro) rivaliza com o ódio e ressentimento que os afetou em suas vidas pessoais durante 30 anos após a última luta (o que envolve traição e um filho bastardo).
 

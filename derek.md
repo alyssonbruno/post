@@ -6,7 +6,6 @@ date: "2015-07-28"
 tags: [ "draft", "series" ]
 title: "Derek"
 stars: "4/5"
-desc: "Derek. Derek (UK, 2012). Dirigido por Ricky Gervais. Escrito por Ricky Gervais. Com Ricky Gervais, Kerry Godliman, David Earl, Tim Barlow, Arthur Nightingale, Margaret Towner, Ninette Finch, Sheila Collings, Barry Martin."
 ---
 Derek é uma série britânica totalmente dirigida e roteirizada  além de ser protagonizada  pelo comediante Ricky Gervais. Seu personagem é a espinha dorsal e moral de um lar para idosos orquestrado pela perseverante Hanna (Kerry Godliman). A câmera trabalha da mesma forma com que seu trabalho em The Office (o britânico original), como se estivessem filmando um documentário e mesmo assim as pessoas fossem elas mesmas. É um formato popular, também usado em Parks and Recreation e copiado no The Office americano. Possui no momento apenas uma temporada com seis episódios de 20 minutos cada, o que no fundo dá um filme de duas horas.
 

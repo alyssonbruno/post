@@ -6,7 +6,6 @@ date: "2013-06-17"
 tags: [ "draft", "movies" ]
 title: "Além da Escuridão Star Trek"
 stars: "5/5"
-desc: "Além da Escuridão Star Trek. Star Trek Into Darkness (USA, 2013). Dirigido por J.J. Abrams. Escrito por Roberto Orci, Alex Kurtzman, Damon Lindelof, Gene Roddenberry. Com Chris Pine, Zachary Quinto, Zoe Saldana, Karl Urban, Simon Pegg, John Cho, Benedict Cumberbatch, Anton Yelchin, Bruce Greenwood."
 ---
 Vendo a nova aventura dos Trekkers e revendo o genial reboot de J. J. Abrams (2008/9) fica claro que cada um é a metade de um todo maior, que poderiam ser mais enxutos (assim como Kill Bill) e que juntos seriam um excelente estudo de personagem. Ainda assim, separados, se transformam em duas aventuras físicas e mentais (essa nem tanto) ótimas em si mesmo, embora perigosamente esquecíveis para os não-fãs.
 

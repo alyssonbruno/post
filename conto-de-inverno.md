@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-04"
 title: "Conto De Inverno"
-desc: '"Conto de Inverno" (França, 1992), escrito por Éric Rohmer, dirigido por Éric Rohmer, com Charlotte Véry, Frédéric van den Driessche e Michel Voletti. Mais um DVD de Éric Rohmer.'
 imdb: "0104008"
 tags: [ "draft", "movies" ]
 stars: "3/5"

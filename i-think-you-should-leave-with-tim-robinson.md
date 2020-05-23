@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-27T13:56:32-03:00
 title: "I Think You Should Leave With Tim Robinson"
-desc: "I Think You Should Leave With Tim Robinson"
 imdb: "10050772"
 
 tags: [ "draft", "series" ]

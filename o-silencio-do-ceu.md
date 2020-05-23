@@ -7,7 +7,6 @@ date: "2016-09-13"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Silêncio do Céu"
 stars: "5/5"
-desc: "O Silêncio do Céu. Era el Cielo (Brazil, 2016). Dirigido por Marco Dutra. Escrito por Sergio Bizzio, Sergio Bizzio, Caetano Gotardo, Lucía Puenzo. Com Leonardo Sbaraglia, Carolina Dieckmann, Chino Darín, Alvaro Armand Ugon, Mirella Pascual, Roberto Suárez, Paula Cohen, Dylan Cortes, Priscila Bellora."
 ---
 O Silêncio do Céu é mais uma incursão do diretor Marco Dutra ("Trabalhar Cansa") em um filme que flerta entre o drama e o terror. Porém, nesse caso não há o apelo ao sobrenatural, mas a uma substância social que permeia cada um de nós: o medo.
 

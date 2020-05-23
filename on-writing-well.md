@@ -3,7 +3,6 @@ categories: [ "blog" ]
 date: 2019-02-03T17:18:02-02:00
 title: "On Writing Well"
 tags: [ "draft", "books" ]
-desc: "Este é um livro de William Zinsser que já tem mais de 30 anos e que é falado no Hacker News como referência para escritores de não-ficção."
 
 ---
 On Writing Well de William Zinsser é considerado por muitos do Hackers News como uma ótima referência para se escrever bem não-ficção. Tenho minhas dúvidas. Mas justiça seja feita, o livro parece um Syd Field (Screenplay) para não-ficção, cheio de guidelines que podem auxiliar o escritor ainda amador tentando se profissionalizar e impressionar alguns editores por aí.

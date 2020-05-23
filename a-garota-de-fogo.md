@@ -7,7 +7,6 @@ date: "2016-04-14"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota de Fogo"
 stars: "5/5"
-desc: "A Garota de Fogo. Magical Girl (Spain, 2014). Dirigido por Carlos Vermut. Escrito por Carlos Vermut. Com José Sacristán, Marina Andruix, Raimundo Reyes de los, Lucía Pollán, Luis Bermejo, Alberto Chaves, Julián Génisson, Roser Pujol, Toña Medina."
 ---
 "Muitas coisas podem acontecer", se você alterar algumas variáveis na História, diz o professor de matemática durante a aula. "Porém, dois mais dois sempre serão quatro." E isso se torna uma conclusão, ou profecia, a respeito da inacreditável história de A Garota de Fogo. E o mais inacreditável no filme é que essa fala e tudo o que vemos nele favorece a narrativa, além de estar intrinsecamente ligado ao tema que ele quer explorar.
 

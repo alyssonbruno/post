@@ -7,7 +7,6 @@ date: "2015-09-16"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Pele de Vênus"
 stars: "4/5"
-desc: "A Pele de Vênus. La Vénus à la fourrure (France, 2013). Dirigido por Roman Polanski. Escrito por David Ives, Roman Polanski, David Ives, Leopold von Sacher-Masoch. Com Emmanuelle Seigner, Mathieu Amalric."
 ---
 Finalmente chega no Brasil "A Pele de Vênus", filme de 2013 do diretor Roman Polanski e que lembra bastante Lua de Fel ao falar das complexidades da relação entre os sexos, principalmente sobre dominação de um sobre outro.
 

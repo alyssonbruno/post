@@ -6,7 +6,6 @@ date: "2011-06-12"
 tags: [ "draft", "movies" ]
 title: "Star Wars Episódio III A Vingança dos Sith"
 stars: "4/5"
-desc: "Star Wars Episódio III A Vingança dos Sith. Star Wars: Episode III - Revenge of the Sith (USA, 2005). Dirigido por George Lucas. Escrito por George Lucas. Com Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Jimmy Smits, Frank Oz, Anthony Daniels, Christopher Lee."
 ---
 A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os dois filmes iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus iguais.
 

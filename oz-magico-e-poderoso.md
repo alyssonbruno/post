@@ -6,7 +6,6 @@ date: "2013-03-14"
 tags: [ "draft", "movies" ]
 title: "Oz Mágico e Poderoso"
 stars: "3/5"
-desc: "Oz Mágico e Poderoso. Oz the Great and Powerful (USA, 2013). Dirigido por Sam Raimi. Escrito por Mitchell Kapner, David Lindsay-Abaire, Mitchell Kapner, L. Frank Baum. Com James Franco, Mila Kunis, Rachel Weisz, Michelle Williams, Zach Braff, Bill Cobbs, Joey King, Tony Cox, Stephen R. Hart."
 ---
 A visão em preto e branco em uma tela quadrada de Kansas nos revela um lugar com pouco lugar para imaginação. Isso não impede que Oscar (James Franco), um mágico em um circo itinerante, apresente seus espetáculos como shows inesquecíveis para o público. Isso gera uma crença descomunal do povo, que acha que o homem é capaz de realizar milagres. Por não pertencer a esse mundo, sua fuga o leva literalmente a outro: um fabuloso, colorido e dentro de uma ampla tela. É assim que o diretor Sam Raimi (trilogia Homem Aranha) quer que vejamos Oz, uma terra verdadeiramente mágica.
 

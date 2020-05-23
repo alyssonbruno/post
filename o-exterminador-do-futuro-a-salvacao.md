@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-17"
 title: "O Exterminador do Futuro: A Salvação"
-desc: '"Terminator Salvation" (EUA, Alemanha, Reino Unido e Itália, 2009), escrito por John Brancato e Michael Ferris, dirigido por McG, com Christian Bale, Sam Worthington e Moon Bloodgood. Revendo por causa do novo. Passando o texto para o especial no CinemAqui.'
 imdb: "0438488"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

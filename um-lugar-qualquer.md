@@ -6,7 +6,6 @@ date: "2013-12-25"
 tags: [ "draft", "movies" ]
 title: "Um Lugar Qualquer"
 stars: "4/5"
-desc: "Um Lugar Qualquer. Somewhere (USA, 2010). Dirigido por Sofia Coppola. Escrito por Sofia Coppola. Com Stephen Dorff, Chris Pontius, Erin Wasson, Alexandra Williams, Nathalie Fay, Kristina Shannon, Karissa Shannon, John Prudhont, Ruby Corley."
 ---
 A rotina "solitária" do playboy/ator Johnny Marco (Stephen Dorff), cercado de tietes por todos os lados, mas que não abre mão de uma sessão privada de pole dance protagonizada por gêmeas, e a mudança que vai ocorrendo conforme sua filha Cleo (Elle Fanning) vai participando cada vez mais de sua vida, é mostrada pela lente humanamente aguçada de Sofia Coppola (Encontros e Desencontros), o que dispensa muitos diálogos.
 

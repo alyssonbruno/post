@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-05T17:47:30-02:00
 title: "Alita: Anjo de Combate"
-desc: "Alita Anjo De Combate (Canadá, Argentina, EUA, 2019), escrito por James Cameron, Laeta Kalogridis e Robert Rodriguez baseados no mangá de Yukito Kishiro, dirigido por Robert Rodriguez, com Rosa Salazar como Alita, Keean Johnson como Hugo, Christoph Waltz como Dr. Dyson Ido, Jennifer Connelly como Dra. Chiren, Mahershala Ali como Vector."
 imdb: "0437086"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

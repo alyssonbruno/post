@@ -6,7 +6,6 @@ date: "2011-02-20"
 tags: [ "draft", "movies" ]
 title: "O Turista"
 stars: "2/5"
-desc: "O Turista. The Tourist (USA, 2010). Dirigido por Florian Henckel von Donnersmarck. Escrito por Florian Henckel von Donnersmarck, Christopher McQuarrie, Julian Fellowes, Jérôme Salle. Com Johnny Depp, Angelina Jolie, Paul Bettany, Timothy Dalton, Steven Berkoff, Rufus Sewell, Christian De Sica, Alessio Boni, Daniele Pecci."
 ---
 Há filme que enriquecem ainda mais em uma revisita (O Sexto Sentido, Donnie Darko, Cidade dos Sonhos). Porém, ter um segredo final que pode mudar tudo o que vínhamos assistindo desde o início nem sempre se revela uma boa ideia (Os Esquecidos, A Caixa, A Passagem). Infelizmente, O Turista se encaixa nessa segunda situação.
 

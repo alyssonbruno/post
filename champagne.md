@@ -6,7 +6,6 @@ date: "2017-01-18"
 tags: [ "draft", "movies" ]
 title: "Champagne"
 stars: "4/5"
-desc: "Champagne. Champagne (UK, 1928). Dirigido por Alfred Hitchcock. Escrito por Alfred Hitchcock, Walter C. Mycroft, Eliot Stannard. Com Betty Balfour (The Girl), Jean Bradin (The Boy), Ferdinand von Alten (The Man), Gordon Harker (The Father), Alexander D'Arcy, Vivian Gibson, Clifford Heatherley (The Manager), Claude Hulbert (Club Guest), Hannah Jones (Club Servant)."
 ---
 Champagne é uma divertida comédia dramática que esbanja críticas à alta sociedade. Em seu núcleo está a figura carismática e intensa de Betty Balfour, que faz, conforme o IMDB, "The Girl". Em torno dela orbitam as pessoas comuns, que a veem como excêntrica. Mas, tudo bem, já que seu pai é rico. Mesmo se vestindo de empregada ela diverte e se diverte.
 

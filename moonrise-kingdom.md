@@ -6,7 +6,6 @@ date: "2014-12-21"
 tags: [ "draft", "movies" ]
 title: "Moonrise Kingdom"
 stars: "3/5"
-desc: "Moonrise Kingdom. Moonrise Kingdom (USA, 2012). Dirigido por Wes Anderson. Escrito por Wes Anderson, Roman Coppola. Com Bruce Willis, Edward Norton, Bill Murray, Frances McDormand, Tilda Swinton, Jared Gilman, Kara Hayward, Jason Schwartzman, Bob Balaban."
 ---
 Moonrise Kingdom é uma história que se passa em um conjunto de ilhas onde grupos de escoteiros estão alojados e alguns poucos moradores resolveram viver. A história gira em torno da fuga de dois jovens -- um escoteiro e uma jovem moradora -- e a "caça" que se faz em busca deles. Não é apenas sobre isso, é claro, pois o diretor Wes Anderson está mais interessado em analisar aquela micro-sociedade e com isso levantar questões para as próprias pessoas que moram no(s) continente(s): a maioria de nós.
 

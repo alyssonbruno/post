@@ -6,7 +6,6 @@ date: "2016-11-04"
 tags: [ "draft", "movies" ]
 title: "Indiana Jones e o Reino da Caveira de Cristal"
 stars: "1/5"
-desc: "Indiana Jones e o Reino da Caveira de Cristal. Indiana Jones and the Kingdom of the Crystal Skull (USA, 2008). Dirigido por Steven Spielberg. Escrito por David Koepp, George Lucas, Jeff Nathanson, Philip Kaufman. Com Harrison Ford (Indiana Jones), Cate Blanchett (Irina Spalko), Karen Allen (Marion Ravenwood), Shia LaBeouf (Mutt Williams), Ray Winstone ('Mac' George Michale), John Hurt (Professor Oxley), Jim Broadbent (Dean Charles Stanforth), Igor Jijikine (Dovchenko), Dimitri Diatchenko (Russian Suit)."
 ---
 Indiana Jones e o Reino da Caveira de Cristal não é apenas um filme ruim. Ele vai muito além do que simplesmente duas horas desperdiçadas. Ele trai uma trilogia bem acabada e desencanta um universo intocável. E vai ainda além. Ele subverte a beleza da aventura realista de tempos pré-digitais em prol de um fundo verde que dá lugar a uma pavorosa fotografia que empalidece até o conceito de filme de ação contemporâneo. Ele explora personagens memoráveis em prol das cenas fáceis, do video-game de segunda categoria, de quebra-cabeças para crianças de cinco anos. Ele fere o coração de toda uma geração que sonhava com arqueologia exploratória. Ele chega ao cúmulo de tornar Indiana Jones um desistente, um perdedor, um conformista. A sombra do que um dia foi um Homem.
 

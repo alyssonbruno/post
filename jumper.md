@@ -6,7 +6,6 @@ date: "2011-04-27"
 tags: [ "draft", "movies" ]
 title: "Jumper"
 stars: "3/5"
-desc: "Jumper. Jumper (USA, 2008). Dirigido por Doug Liman. Escrito por David S. Goyer, Jim Uhls, Simon Kinberg, Steven Gould. Com Hayden Christensen, Jamie Bell, Rachel Bilson, Diane Lane, Samuel L. Jackson, Michael Rooker, AnnaSophia Robb, Max Thieriot, Jesse James."
 ---
 Em vários momentos de Jumper, principalmente na sua conclusão, podemos quase sentir o desperdício quase completo de uma boa ideia para um filme mais intrigante do que se transformou na realidade.
 

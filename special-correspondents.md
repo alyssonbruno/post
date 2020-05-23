@@ -6,7 +6,6 @@ date: "2016-05-22"
 tags: [ "draft", "movies" ]
 title: "Special Correspondents"
 stars: "3/5"
-desc: "Special Correspondents. Special Correspondents (UK, 2016). Dirigido por Ricky Gervais. Escrito por Ricky Gervais, Jacques Labib, Simon Michaël. Com Ricky Gervais, Eric Bana, Vera Farmiga, Kelly Macdonald, Kevin Pollak, America Ferrera, Raúl Castillo, Benjamin Bratt, Kim Ramirez."
 ---
 Ricky Gervais arrisca pouco, mas ganha. Special Correspondents tem a cara e o gosto do diretor/roteirista em suas inúmeras comédias (The Office, Derek, Life is Too Short), mas por se tratar de um longa-metragem, evita a batidíssima câmera na mão e tenta criar uma ficção de fato.
 

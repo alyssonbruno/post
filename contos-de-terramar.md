@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-02"
 title: "Contos de Terramar"
-desc: '"Tales from Earthsea" (Japan, 2006), escrito por Ursula K. Le Guin, Gorô Miyazaki e Keiko Niwa, dirigido por Gorô Miyazaki, com Jun''ichi Okada, Aoi Teshima e Bunta Sugawara.'
 imdb: "0495596"
 tags: [ "draft", "movies" ]
 stars: "3/5"

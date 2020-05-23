@@ -6,7 +6,6 @@ date: "2011-03-28"
 tags: [ "draft", "movies" ]
 title: "Arca Russa"
 stars: "3/5"
-desc: "Arca Russa. Russkiy kovcheg (Russia, 2002). Dirigido por Aleksandr Sokurov. Escrito por Boris Khaimsky, Anatoli Nikiforov, Svetlana Proskurina, Aleksandr Sokurov, Aleksandr Sokurov. Com Sergey Dreyden, Mariya Kuznetsova, Leonid Mozgovoy, Mikhail Piotrovsky, David Giorgobiani, Aleksandr Chaban, Lev Eliseev, Oleg Khmelnitsky, Alla Osipenko."
 ---
 Arca Russa é uma experiência que, como cinéfilos que somos, devemos assistir para aprender o que uma técnica como o plano-sequência consegue em termos de narrativa.
 

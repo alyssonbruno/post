@@ -6,7 +6,6 @@ date: "2014-02-26"
 tags: [ "draft", "movies" ]
 title: "A Outra História Americana"
 stars: "4/5"
-desc: "A Outra História Americana. American History X (USA, 1998). Dirigido por Tony Kaye. Escrito por David McKenna. Com Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien, Ethan Suplee, Fairuza Balk, Avery Brooks, Elliott Gould, Stacy Keach."
 ---
 Este não é um filme sobre nazismo, mas sobre fanatismo. Pessoas fanáticas a respeito dos mais diversos assuntos: política, religião ou (coloque aqui sua doutrina). Quer assistir um filme sobre os males do fanatismo? Assista A Outra História Americana. É um filme didático, mas não explícito. Sua sutileza reside nas simples expressões do dia-a-dia como resposta a situações das mais prosaicas, como um almoço de família. Porém, a mensagem é clara.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-15T23:59:50-03:00
 title: "Coisa Mais Linda"
-desc: "Coisa Mais Linda. Brasil, 2019. Criado por Giuliano Cedroni, Heather Roth. Com Maria Casadevall, Pathy Dejesus, Fernanda Vasconcellos."
 imdb: "8001788"
 
 tags: [ "draft", "series" ]

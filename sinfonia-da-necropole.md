@@ -7,7 +7,6 @@ date: "2016-03-30"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Sinfonia da Necrópole"
 stars: "3/5"
-desc: "Sinfonia da Necrópole. Sinfonia da Necrópole (Brazil, 2014). Dirigido por Juliana Rojas. Escrito por Juliana Rojas. Com Eduardo Gomes, Paulo Jordão, Germano Melo, Adriana Mendonça, Luís Mármora, Luciana Paes, Augusto Pompeo, Antonio Velloso, Hugo Villavicenzio."
 ---
 Esse é o segundo musical brasileiro que estreia recentemente nos cinemas. O primeiro, Amor em Sampa, tropeça na falta de jeito nacional com trilha sonora. A boa notícia é que Sinfonia da Necrópole não só se sai bem melhor nesse quesito, como possui uma coleção de músicas inspiradas sobre o tema: o além-vida.
 

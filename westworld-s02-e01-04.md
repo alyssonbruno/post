@@ -6,7 +6,6 @@ date: 2018-12-30
 tags: [ "draft", "series" ]
 title: "Westworld S02 E01-04"
 stars: "4/5"
-desc: "Westworld (USA, 2016). Dirigido por Jonathan Nolan, Fred Toye. Escrito por Lisa Joy, Jonathan Nolan, Michael Crichton, Halley Wegryn Gross, Dan Dietz, Charles Yu. Com Evan Rachel Wood (Dolores Abernathy), Thandie Newton (Maeve Millay), James Marsden (Teddy Flood), Jeffrey Wright (Bernard Lowe), Ed Harris (Man in Black), Anthony Hopkins (Dr. Robert Ford)."
 ---
 Westworld e suas revelações nos primeiros quatro episódios são tão profundas que suas várias linhas narrativas ficam em um vácuo por mais de um episódio. E isso é por uma causa justíssima, pois não há como se concentrar com vários acontecimentos em paralelo (e em várias linhas do tempo), e também porque eles (por enquanto) não se influenciam, mas se completam, para explicar um assunto que já vai ficando claro no segundo episódio e óbvio no terceiro: a busca por imortalidade.
 

@@ -1,7 +1,6 @@
 ---
 date: "2020-05-04"
 title: "Sussurros do Coração"
-desc: '"Whisper of the Heart" (Japan, 1995), escrito por Hayao Miyazaki, Aoi Hiiragi e Cindy Davis, dirigido por Yoshifumi Kondô, com Yoko Honna, Issey Takahashi e Takashi Tachibana.'
 imdb: "0113824"
 stars: "3/5"
 categories: [ "cinema" ]

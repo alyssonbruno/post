@@ -6,7 +6,6 @@ imdb: "5580036"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 title: "Eu, Tonya"
-desc: "Eu, Tonya."
 ---
 Para quem gosta de biografias que contam a história de esportistas com uma infância difícil, uma carreira rodeada de percalços, uma dose sadia de ironia, um final tragicômico e uma trilha sonora com os hits da época, então "Eu, Tonya" talvez seja para você o filme do ano. Do início, pelo menos.
 

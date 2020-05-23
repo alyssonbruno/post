@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-20"
 title: "O Dorminhoco"
-desc: '"Sleeper" (EUA, 1973), escrito por Woody Allen e Marshall Brickman, dirigido por Woody Allen, com Woody Allen, Diane Keaton e John Beck.'
 imdb: "0070707"
 tags: [ "draft", "movies" ]
 stars: "2/5"

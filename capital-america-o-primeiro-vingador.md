@@ -6,7 +6,6 @@ date: "2011-08-09"
 tags: [ "draft", "movies" ]
 title: "Capitão América O Primeiro Vingador"
 stars: "3/5"
-desc: "Capitão América O Primeiro Vingador. Captain America: The First Avenger (USA, 2011). Dirigido por Joe Johnston. Escrito por Christopher Markus, Stephen McFeely, Joe Simon, Jack Kirby. Com Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones, Hugo Weaving, Dominic Cooper, Richard Armitage, Stanley Tucci, Samuel L. Jackson."
 ---
 A Marvel parece que resolveu esquecer de vez a construção de histórias com profundidade dramática para dar vazão aos seus heróis secundários. O objetivo maior é o lançamento dos Vingadores, seu ambicioso projeto que exigiu a criação de diversos filmes, cada um retratando um personagem diferente que fará parte dessa equipe de super-heróis.
 

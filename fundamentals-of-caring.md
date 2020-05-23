@@ -6,7 +6,6 @@ date: "2017-01-27"
 tags: [ "draft", "movies" ]
 title: "The Fundamentals of Caring"
 stars: "3/5"
-desc: "The Fundamentals of Caring. The Fundamentals of Caring (USA, 2016). Dirigido por Rob Burnett. Escrito por Rob Burnett, Jonathan Evison. Com Alex Huff (Jodi), Donna Biscoe (Caregiving Instructor), Paul Rudd (Ben Benjamin), Julia Denton (Janet), Jennifer Ehle (Elsa), Craig Roberts (Trevor), Ashley White (Cute Travel Channel Girl), Matthew Pruitt (TV Reporter), Alan Boell (Courier)."
 ---
 A Netflix tem um algoritmo de sua enorme base de dados para criar conteúdo novo. Deve funcionar mais ou menos assim: "pai que perdeu o filho e que agora terá uma provação/redenção; misturar com gente em cadeira de rodas (porque está na moda); usar road movie". E pronto. Está criado um filme com esses elementos básicos, atores quase desconhecidos em uma direção e roteiro encomendados.
 

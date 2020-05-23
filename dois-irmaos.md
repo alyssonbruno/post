@@ -6,7 +6,6 @@ date: "2010-10-08"
 tags: [ "draft", "movies" ]
 title: "Dois Irmãos"
 stars: "4/5"
-desc: "Dois Irmãos. Dos hermanos (Argentina, 2010). Dirigido por Daniel Burman. Escrito por Daniel Burman, Diego Dubcovsky, Diego Dubcovsky. Com Antonio Gasalla, Graciela Borges, Elena Lucena, Rita Cortese, Osmar Núñez, Gustavo Jalife."
 ---
 O maior mérito da direção deste filme é deixar a história fluir sem interferências, dando vazão a ambas às interpretações, ambas dignas, apesar de gerarem efeitos diversos.
 

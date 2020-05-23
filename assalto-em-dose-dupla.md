@@ -6,7 +6,6 @@ date: "2011-11-28"
 tags: [ "draft", "movies" ]
 title: "Assalto em Dose Dupla"
 stars: "3/5"
-desc: "Assalto em Dose Dupla. Flypaper (Germany, 2011). Dirigido por Rob Minkoff. Escrito por Jon Lucas, Scott Moore. Com Patrick Dempsey, Ashley Judd, Tim Blake Nelson, Mekhi Phifer, Matt Ryan, Jeffrey Tambor, John Ventimiglia, Pruitt Taylor Vince, Curtis Armstrong."
 ---
 Apenas o fato da direção de arte de Assalto em Dose Dupla tentar fazer lembrar os detalhes do banco de Um Dia de Cão chega a parecer uma ofensa, pois enquanto o clássico de Sidney Lumet tenta fazer rir através do inusitado em um assalto, mas sempre se lembrando que todos os envolvidos são seres humanos, o roteiro de Jon Lucas e Scott Moore (ambos de Se Beber Não Case) cria constrangimentos a partir de estereótipos que cria, como se apenas isso fosse motivo de risadas, o que de fato se comprova, pois a maioria das piadas se limita a apenas isso.
 

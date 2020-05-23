@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: 2019-05-20T12:19:09-03:00
 title: "Dixit (Jogo)"
-desc: "Dixit é um jogo de cartas criado por Jean-Louis Roubira, ilustrado por Marie Cardouat e publicado por Libellud."
 tags: [ "draft", "fun" ]
 ---
 Uma festa com karaokê e jogos de mesa. O que pode surgir de interessante em um cenário millenial como esse? Um jogo de cartas que em sua simplicidade revela um intrincado sistema que soluciona todos os problemas que outros jogos de mesa costumam ter.

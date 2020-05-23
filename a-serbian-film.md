@@ -6,7 +6,6 @@ date: "2011-07-31"
 tags: [ "draft", "movies" ]
 title: "A Serbian Film Terror sem Limites"
 stars: "4/5"
-desc: "A Serbian Film Terror sem Limites. Srpski film (Serbia, 2010). Dirigido por Srdjan Spasojevic. Escrito por Aleksandar Radivojevic, Srdjan Spasojevic. Com Srdjan Todorovic, Sergej Trifunovic, Jelena Gavrilovic, Slobodan Bestic, Katarina Zutic, Luka Mijatovic, Ana Sakic, Lena Bogdanovic, Miodrag Krcmarik."
 ---
 Segundo um relatório sobre a Guerra da Bósnia feito pela Agência Central de Inteligência americana, 90% dos crimes de guerra foram cometidos pelos sérvios. Em uma região conturbada política e religiosamente por mais de um século, o povo sérvio se acostumou a um ambiente instável. A grande questão é como isso afeta a moral dessas pessoas.
 

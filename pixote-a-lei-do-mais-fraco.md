@@ -6,7 +6,6 @@ date: "2015-12-07"
 tags: [ "draft", "movies" ]
 title: "Pixote: A Lei do Mais Fraco"
 stars: "5/5"
-desc: "Pixote: A Lei do Mais Fraco. Pixote: A Lei do Mais Fraco (Brazil, 1981). Dirigido por Hector Babenco. Escrito por Hector Babenco, Jorge Durán, Hector Babenco, Jorge Durán, José Louzeiro. Com Fernando Ramos da Silva, Jorge Julião, Gilberto Moura, Edilson Lino, Zenildo Oliveira Santos, Claudio Bernardo, Israel Feres David, Jose Nilson Martin Dos Santos, Marília Pêra."
 ---
 O menino Fernando Ramos da Silva fez sua estreia no Cinema interpretando uma figura parecida com a realidade em que vivia: Pixote, um garoto que precisa cheirar cola para fugir da realidade em que vive.
 

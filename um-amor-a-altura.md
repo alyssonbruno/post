@@ -7,7 +7,6 @@ date: "2016-06-03"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Amor À Altura"
 stars: "3/5"
-desc: "Um Amor À Altura. Un homme à la hauteur (France, 2016). Dirigido por Laurent Tirard. Escrito por Marcos Carnevale, Laurent Tirard, Laurent Tirard, Laurent Tirard, Grégoire Vigneron, Grégoire Vigneron, Grégoire Vigneron. Com Jean Dujardin, Virginie Efira, Cédric Kahn, Stéphanie Papanian, César Domboy, Edmonde Franchi, Manoëlle Gaillard, Bruno Gomila, Camille Damour."
 ---
 É estranha a sensação de assistir a Um Amor À Altura, sabendo que esta é uma comédia romântica francesa. Ao mesmo tempo que podemos encontrar situações em sua história tipicamente europeias (e francesas), há um misto com comédia pastelão que dificilmente funciona. E é preciso lembrar que ainda existe um terceiro filme acontecendo: o terrível drama que é o mundo dos ricos e bem-sucedidos. Sim, há até um pouco de Nancy Meyers em uma comédia romântica francesa.
 

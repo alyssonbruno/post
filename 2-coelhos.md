@@ -6,7 +6,6 @@ date: "2012-02-15"
 tags: [ "draft", "movies" ]
 title: "2 Coelhos"
 stars: "4/5"
-desc: "2 Coelhos. 2 Coelhos (Brazil, 2012). Dirigido por Afonso Poyart. Escrito por Afonso Poyart. Com Fernando Alves Pinto, Alessandra Negrini, Caco Ciocler, Marat Descartes, Neco Villa Lobos, Thaíde, Robson Nunes, Thogun, Roberto Marchese."
 ---
 Uma montagem impecável consegue dar o tom da narrativa do complexo 2 Coelhos. Além de complexo, existem pequenos detalhes da trama que forçam um pouco a realidade (como a união entre o protagonista e o pai-de-família que tem sua família brutalmente assassinada pelo seu carro). Porém, o que mais chama a atenção é o apelo visual e estético do longa, que pode ser considerado à altura de produções norte-americanas. Está à altura, sim, mas com isso também constatamos que a criatividade da direção de arte não vai muito além dos lugares-comuns de filmes do gênero, incluindo aí as apresentações Tarantinescas (e é também de Tarantino essa tentativa de humanizar os bandidos, com pequenos detalhes de suas ações) e chegando ao absurdo de incluir uma cena a la Sucker Punch com o único propósito de desviar nossa atenção.
 

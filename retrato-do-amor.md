@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-06"
 title: "Retrato do Amor"
-desc: "Photograph. Germany, India, United States, 2019. Dirigido por Ritesh Batra, escrito por Ritesh Batra. Com Nawazuddin Siddiqui, Sanya Malhotra, Sachin Khedekar. Escrito originalmente para o CinemAqui."
 imdb: "7778680"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

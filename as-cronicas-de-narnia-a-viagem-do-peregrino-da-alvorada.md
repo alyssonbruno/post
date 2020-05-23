@@ -6,7 +6,6 @@ date: "2010-10-21"
 tags: [ "draft", "movies" ]
 title: "As Crônicas de Nárnia A Viagem do Peregrino da Alvorada"
 stars: "3/5"
-desc: "As Crônicas de Nárnia A Viagem do Peregrino da Alvorada. The Chronicles of Narnia: The Voyage of the Dawn Treader (USA, 2010). Dirigido por Michael Apted. Escrito por Christopher Markus, Stephen McFeely, Michael Petroni, C.S. Lewis. Com Georgie Henley, Skandar Keynes, Ben Barnes, Will Poulter, Gary Sweet, Terry Norris, Bruce Spence, Bille Brown, Laura Brent."
 ---
 Lembro de ter visto a primeira Crônica de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa. Alguma coisa me dizia para não confiar muito em títulos muito longos, e... dito e feito. Não gostei da frágil história em uma narrativa que supõe-se introduzir personagens importante para as próximas tramas, mas que simplesmente joga seus elementos iniciais em um tabuleiro de xadrez e trata apenas de arrastar preguiçosamente essas peças nada originais, tiradas do fundo do baú da crença cristã com cobertura de mitologia grega.
 

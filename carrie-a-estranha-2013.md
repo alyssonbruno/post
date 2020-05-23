@@ -6,7 +6,6 @@ date: "2014-09-26"
 tags: [ "draft", "movies" ]
 title: "Carrie, a Estranha"
 stars: "3/5"
-desc: "Carrie, a Estranha. Carrie (USA, 2013). Dirigido por Kimberly Peirce. Escrito por Lawrence D. Cohen, Roberto Aguirre-Sacasa, Stephen King. Com Julianne Moore, Chloë Grace Moretz, Gabriella Wilde, Portia Doubleday, Zoë Belkin, Samantha Weinstein, Karissa Strain, Katie Strain, Ansel Elgort."
 ---
 Talvez esse remake do clássico de Brian de Palma seja até eficiente na maior parte do tempo, ou não sei se pegando carona na memória afetiva do original ele consegue se sair melhor do que aparenta, até por discutir a história de Carrie quase como uma análise do bullying escolar dos tempos atuais e da diferença de visões religiosas dos mais jovens. Porém, uma direção grosseira e um roteiro equivocado conseguem estragar uma revisita até que curiosa.
 

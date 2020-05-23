@@ -6,7 +6,6 @@ date: "2011-04-27"
 tags: [ "draft", "movies" ]
 title: "Polaróides Urbanas"
 stars: "4/5"
-desc: "Polaróides Urbanas. Polaróides Urbanas (Brazil, 2008). Dirigido por Miguel Falabella. Escrito por Miguel Falabella, Miguel Falabella. Com Marília Pêra, Arlete Salles, Natália do Vale, Neuza Borges, Roberta Gualda, Stella Miranda, Marcos Caruso, Otávio Augusto, Juliana Baroni."
 ---
 O único exemplo cinematográfico de Miguel Falabela como diretor demonstra o talento de seu idealizador no formato tão conhecido por ele e praticado por anos a fio: o teatro.
 

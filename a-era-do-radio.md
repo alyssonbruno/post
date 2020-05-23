@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-29T13:13:02-02:00
 title: "A Era do Rádio"
-desc: "Radio Days. EUA, 1987. Escrito e dirigido por Woody Allen. Com Woody Allen como o narrador, Wallace Shawn como Vingador Mascarado, Hy Anzell como Sr. Waldbaum, Seth Green como o jovem Joe, Danny Aiello como Rocco, Jeff Daniels como Biff Baxter, Mia Farrow como Sally White, Julie Kavner a mãe, Diane Keaton como a cantadora do Ano Novo (!)."
 imdb: "0093818"
 
 tags: [ "draft", "movies" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-02"
 title: "Better Call Saul (S05 E01)"
-desc: '"Better Call Saul" (United States, 2015), escrito por Vince Gilligan, Peter Gould e Gordon Smith, com Bob Odenkirk, Jonathan Banks e Rhea Seehorn.'
 imdb: "3032476"
 tags: [ "draft", "series" ]
 stars: "5/5"

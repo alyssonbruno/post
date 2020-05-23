@@ -6,7 +6,6 @@ date: "2016-05-08"
 tags: [ "draft", "movies" ]
 title: "Equilibrium"
 stars: "3/5"
-desc: "Equilibrium. Equilibrium (USA, 2002). Dirigido por Kurt Wimmer. Escrito por Kurt Wimmer. Com Christian Bale, Dominic Purcell, Sean Bean, Christian Kahrmann, John Keogh, Sean Pertwee, William Fichtner, Angus Macfadyen, David Barrash."
 ---
 Equilibrium é um filme que parece sofrer do próprio efeito afetado de seus personagens, pertencentes a uma espécie de paródia de "1984" a respeito de um futuro distópico onde é proibido sentir. Se o sentir para os personagens é algo natural, transformar isso em linguagem cinematográfica é um desafio que o diretor/roteirista Kurt Wimmer topa conduzir, gerando no processo resultados mistos.
 

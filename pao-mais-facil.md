@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2019-12-26"
 title: "Receita: Pão mais Fácil do Mundo"
-desc: "Uma receita sem sovar, mas com uns macetes na hora de dobrar e a longa fermentação que o deixa azedo."
 tags: [ "draft", "food", "recipes" ]
 ---
 A partir de um vídeo do canal Pão da Casa comecei a experimentar fazer pão usando fermento natural. A primeira vez que experimentei essa receita usei o fermento seco de mercado, pois estava ainda experimentando, e funcionou. Agora com fermento natural o resultado fica mais azedo.

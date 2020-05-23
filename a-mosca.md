@@ -6,7 +6,6 @@ date: 2017-11-27T19:26:57
 tags: [ "draft", "movies" ]
 title: "A Mosca"
 stars: "4/5"
-desc: "A Mosca. The Fly (USA, 1986). Dirigido por David Cronenberg. Escrito por George Langelaan, Charles Edward Pogue, David Cronenberg. Com Jeff Goldblum (Seth Brundle), Geena Davis (Veronica Quaife), John Getz (Stathis Borans), Joy Boushel (Tawny), Leslie Carlson (Dr. Brent Cheevers), George Chuvalo (Marky), Michael Copeman (2nd Man in Bar), David Cronenberg (Gynecologist), Carol Lazare (Nurse)."
 ---
 Poucos filmes da época de infância traziam tantas cenas marcantes quanto os filmes de David Cronenberg. E entre eles com certeza A Mosca é o que parece sintetizar o horror de seus filmes em um formato clássico e ideal. Porque se trabalhos como A Hora da Zona Morta, Um Método Perigoso e Cosmópolis são mais psicológicos e internos aos seus personagens, A Mosca traz o velho dilema e a velha maldição do homem e dos caminhos que a ciência pode tomar de uma forma mais universal.
 

@@ -6,7 +6,6 @@ date: "2015-12-06"
 tags: [ "draft", "movies" ]
 title: "Uma Verdade Inconveniente"
 stars: "4/5"
-desc: "Uma Verdade Inconveniente. An Inconvenient Truth (USA, 2006). Dirigido por Davis Guggenheim. Com Al Gore, Billy West, George Bush, George W. Bush, Ronald Reagan."
 ---
 Dez anos após esse documentário de Al Gore, temos à disposição um material muito mais rico na série Cosmos. Porém, a diferença é que este filme é também uma espécie de discurso político disfarçado por um político que teve colegas cientistas em sua formação. Qualquer um consegue obter insights sobre a natureza em seu passado, e Al Gore teve a genialidade de inserir momentos sentimentais por todo seu discurso anti-aquecimento.
 

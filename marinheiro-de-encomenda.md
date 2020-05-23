@@ -6,7 +6,6 @@ date: "2015-01-06"
 tags: [ "draft", "movies" ]
 title: "Marinheiro de Encomenda"
 stars: "4/5"
-desc: "Marinheiro de Encomenda. Steamboat Bill, Jr. (USA, 1928). Dirigido por Charles Reisner, Buster Keaton. Escrito por Carl Harbaugh, Carl Harbaugh, Carl Harbaugh. Com Buster Keaton, Tom McGuire, Ernest Torrence, Tom Lewis, Marion Byron, James T. Mack."
 ---
 Esse filme, assim como Os Irmãos Cara-de-Pau, tem um ritmo que cozinha em fogo lento até uma sequência absurda e frenética (até para a época) envolvendo um acontecimento que muda todo o rumo da história. É difícil saber como toda ela foi criada: Buster Keaton é um especialista em trucagens cinematográficas, como já visto em Sherlock Jr. Porém, é impossível ficar impassível a tantos truques que além de impressionantes continuam colaborando com a narrativa.
 

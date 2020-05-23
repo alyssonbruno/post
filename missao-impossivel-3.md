@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-18T23:24:15-03:00
 title: "Missão Impossível: 3"
-desc: "Mission: Impossible III. EUA, Alemanha, China, Itália, 2006. Dirigido por J.J. Abrams, escrito por Alex Kurtzman, Roberto Orci e Abrams. Com Tom Cruise, Michelle Monaghan, Ving Rhames, Philip Seymour Hoffman, Billy Crudup, Simon Pegg."
 imdb: "0317919"
 
 tags: [ "draft", "movies" ]

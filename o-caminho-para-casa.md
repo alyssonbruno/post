@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-21"
 title: "O Caminho Para Casa"
-desc: '"Wo de fu qin mu qin" (China, 1999), escrito por Shi Bao, dirigido por Yimou Zhang, com Ziyi Zhang, Honglei Sun e Hao Zheng. Mais um dos DVDs de herança.'
 imdb: "0235060"
 tags: [ "draft", "movies" ]
 stars: "3/5"

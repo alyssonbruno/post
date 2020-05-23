@@ -6,7 +6,6 @@ date: "2010-09-24"
 tags: [ "draft", "movies" ]
 title: "Gente Grande"
 stars: "3/5"
-desc: "Gente Grande. Grown Ups (USA, 2010). Dirigido por Dennis Dugan. Escrito por Adam Sandler, Fred Wolf. Com Adam Sandler, Kevin James, Chris Rock, David Spade, Rob Schneider, Salma Hayek, Maria Bello, Maya Rudolph, Joyce Van Patten."
 ---
 As piadas do filme parecem internas e da vida real ("você aumentou o número do sutiã?", pergunta Sandler para seu amigo recém-chegado que aparentemente engordou mais que ele, ou "dessa vez vc trouxe a mãe", se referindo ao cachorro em seu carro), ou, pior: elas foram achadas pelo google. No entanto, aparentemente os realizadores do filme acham elas estupidamente engraçadas, pois estão sempre inseridas em momentos de clímax.
 

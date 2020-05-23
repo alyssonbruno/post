@@ -6,7 +6,6 @@ date: "2013-12-22"
 tags: [ "draft", "movies" ]
 title: "Tokyo Godfathers"
 stars: "3/5"
-desc: "Tokyo Godfathers. Tokyo Godfathers (Japan, 2003). Dirigido por Satoshi Kon, Shôgo Furuya. Escrito por Satoshi Kon, Satoshi Kon, Keiko Nobumoto. Com Tôru Emori, Aya Okamoto, Yoshiaki Umegaki, Shôzô Iizuka, Seizô Katô, Hiroya Ishimaru, Ryûji Saikachi, Yûsaku Yara, Kyôko Terase."
 ---
 Essa animação natalina japonesa segue os mesmos moldes do ótimo Paprika, também dirigido e escrito por Satoshi Kon e co-dirigido por Shôgo Furuya, que já havia trabalhado como animador em A Viagem de Chihiro (2001). Quando digo os mesmos moldes me refiro à caracterização exagerada e satirizada da realidade que cerca os personagens. As expressões de rosto absurdas, tão comuns no anime, aqui funcionam em parte pelo seu humor e não funcionam em parte pela sua dramatização exagerada.
 

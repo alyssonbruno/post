@@ -7,7 +7,6 @@ date: 2017-09-28T19:13:47
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Churchill"
 stars: "2/5"
-desc: "Churchill. Churchill (UK, 2017). Dirigido por Jonathan Teplitzky. Escrito por Alex von Tunzelmann. Com Brian Cox (Winston Churchill), Miranda Richardson (Clementine Churchill), John Slattery (Dwight Eisenhower), Ella Purnell (Helen Garrett), Julian Wadham (Bernard Montgomery), Richard Durden (Jan Smuts), James Purefoy (King George VI), Danny Webb (Alan Brooke), Jonathan Aris (Trafford Leigh-Mallory)."
 ---
 Churchill é uma pálida tentativa em reviver os últimos momentos da Segunda Guerra sob a prisma do polêmico e brutal ministro britânico. Parecendo feito para televisão e sem muita atmosfera nem história para conseguir realizar a imersão necessária na história, seu principal defeito é acreditar piamente que o que está sendo visto na tela é emocionante e honroso, simplesmente por ter em seu epicentro o grutão inglês mais famoso da política recente.
 

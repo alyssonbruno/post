@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-21"
 title: "A Maldição da Chorona"
-desc: '"The Curse of La Llorona" (EUA, 2019), escrito por Mikki Daughtry e Tobias Iaconis, dirigido por Michael Chaves, com Linda Cardellini, Roman Christou e Jaynee-Lynne Kinchen. Maratona final de ano.'
 imdb: "4913966"
 tags: [ "draft", "movies" ]
 stars: "4/5"

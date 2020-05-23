@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-24"
 title: "Os Olhos de Cabul"
-desc: '"Les hirondelles de Kabou" (França, Luxemburgo e Suíça, 2019), escrito por Zabou Breitman, dirigido por Zabou Breitman e Eléa Gobbé-Mévellec, com Simon Abkarian, Zita Hanrot e Swann Arlaud. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7534102"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

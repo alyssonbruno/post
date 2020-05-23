@@ -6,7 +6,6 @@ date: "2016-05-01"
 tags: [ "draft", "movies" ]
 title: "O Fantasma do Futuro"
 stars: "5/5"
-desc: "O Fantasma do Futuro. Kôkaku Kidôtai (Japan, 1995). Dirigido por Mamoru Oshii. Escrito por Kazunori Itô, Masamune Shirow. Com Atsuko Tanaka, Akio Ôtsuka, Kôichi Yamadera, Yutaka Nakano, Tamio Ôki, Tesshô Genda, Namaki Masakazu, Masato Yamanouchi, Shinji Ogawa."
 ---
 Não, esse não é o "original". Aliás, o conceito de originalidade, ou individualidade, é justamente o que é atacado em Ghost in the Shell, uma animação japonesa que precede em muito toda a discussão filosófica gerada pelo filme Matrix, dos irmãos Wachoski, e que marca a predominância do tema em Hollywood.
 

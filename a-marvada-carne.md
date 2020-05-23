@@ -6,7 +6,6 @@ date: "2012-04-24"
 tags: [ "draft", "movies" ]
 title: "A Marvada Carne"
 stars: "3/5"
-desc: "A Marvada Carne. A Marvada Carne (Brazil, 1985). Dirigido por André Klotzel. Escrito por André Klotzel, Cornélio Pires, Carlos Alberto Sofredini. Com Dionísio Azevedo, Adilson Barros, Chiquinho Brandão, Regina Casé, Tio Celso, Henrique Lisboa, Lucélia Maquiavelli, Geny Prado, Paco Sanches."
 ---
 É muito fácil assistir à Marvada Carne sem compreender o mínimo de subtexto em uma trama que de tão simples parece totalmente despretensiosa. No entanto, se engana quem imagina que existem filmes que estão aí apenas para entreter. Todo filme reflete necessariamente uma opinião, um argumento e um ponto de vista. Partindo desse princípio, podemos afirmar que A Marvada Carne não só contém muito mais do que aparenta ter em sua superfície como tristemente seu conteúdo carece de exemplos na recente filmografia da comédia nacional, que aposta na exploração sexual e nas piadas contemporâneas vazias.
 

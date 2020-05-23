@@ -7,7 +7,6 @@ date: "2015-10-24"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Dheepan"
 stars: "4/5"
-desc: "Dheepan. Dheepan (France, 2015). Dirigido por Jacques Audiard. Escrito por Jacques Audiard, Jacques Audiard, Thomas Bidegain, Thomas Bidegain, Noé Debré, Noé Debré. Com Jesuthasan Antonythasan, Kalieaswari Srinivasan, Claudine Vinasithamby, Vincent Rottiers, Faouzi Bensaïdi, Marc Zinga, Bass Dhem, Franck Falise, Joséphine de Meaux."
 ---
 A Sri Lanka é uma ilha bem ao sul da Índia. Obteve sua independência da coroa britânica há mais de meio século, e desde a década de 80 participou de dois processos diametralmente opostos: o crescimento econômico pela liberalização do mercado e cerca de cem mil mortos em uma guerra civil de 25 anos contra o norte e leste do país. Atualmente é uma democracia consolidada e a mais antiga da região, mas não faltam acusações de que houve durante essa guerra um verdadeiro genocídio, ou pelo menos um massacre desproporcional.
 

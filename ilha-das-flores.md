@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-15"
 title: "Ilha Das Flores"
 tags: [ "draft", "shorts" ]
-desc: '"Idem" (Brazil, 1989), escrito por Jorge Furtado e Cecília Meireles, dirigido por Jorge Furtado, com Paulo José, Ciça Reckziegel e Douglas Trainini.'
 imdb: "0097564"
 stars: "4/5"
 ---

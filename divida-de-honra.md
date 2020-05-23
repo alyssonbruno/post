@@ -7,7 +7,6 @@ date: "2015-01-20"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Dívida de Honra"
 stars: "4/5"
-desc: "Dívida de Honra. The Homesman (France, 2014). Dirigido por Tommy Lee Jones. Escrito por Tommy Lee Jones, Kieran Fitzgerald, Wesley A. Oliver, Glendon Swarthout. Com Tommy Lee Jones, Hilary Swank, Grace Gummer, Miranda Otto, Sonja Richter, Jo Harvey Allen, Barry Corbin, David Dencik, William Fichtner."
 ---
 Diferente de como o Cinema costuma retratar o velho Oeste americano, o ator e diretor Tommy Lee Jones abraça um projeto que planeja desmistifica-lo. Em uma versão desprovida do romantismo de Bravura Indômita dos Irmãos Coen, a história de Dívida de Honra é um road-movie com dois excluídos da sociedade levando outros três em uma viagem reveladora antes mesmo do seu início.
 

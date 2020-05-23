@@ -6,7 +6,6 @@ date: "2016-08-16"
 tags: [ "draft", "movies" ]
 title: "Hardcore: Missão Extrema"
 stars: "4/5"
-desc: "Hardcore: Missão Extrema. Hardcore Henry (Russia, 2015). Dirigido por Ilya Naishuller. Escrito por Ilya Naishuller, Will Stewart. Com Sharlto Copley, Danila Kozlovsky, Haley Bennett, Tim Roth, Andrei Dementiev, Svetlana Ustinova, Darya Charusha, Oleg Poddubnyy, Jack Hahn."
 ---
 Este não é um vídeogame, mas um filme que utiliza completamente a estética dos jogos de tiro em primeira pessoa. Ele tem uma narrativa coesa, e ainda que não tão bem articulada, qual filme de ação você conhece que consegue ser tão realista a ponto de enxergarmos toda a ação do ponto de vista do mocinho? Pior: que filme de ação hoje em dia consegue te entregar todo o pacote 18+, com direito a sangue, esquartejamento, esmagamento, esfaqueamento e outros "mentos" por aí, e não aquelas brincadeiras de criança da Marvel?
 

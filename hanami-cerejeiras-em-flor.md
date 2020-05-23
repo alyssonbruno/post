@@ -7,7 +7,6 @@ review: [ "2014", "2019" ]
 tags: [ "draft", "movies" ]
 title: "Hanami Cerejeiras em Flor"
 stars: "5/5"
-desc: "Hanami Cerejeiras em Flor. Kirschblüten - Hanami (Germany, 2008). Dirigido por Doris Dörrie. Escrito por Doris Dörrie. Com Elmar Wepper, Hannelore Elsner, Aya Irizuki, Maximilian Brückner, Nadja Uhl, Birgit Minichmayr, Felix Eitner, Floriane Daniel, Celine Tanneberger."
 ---
 Hanami conta a história de um casal que mantém uma vida pacata no interior da Alemanha enquanto mantém uma relação distante com seus três filhos  especialmente o caçula, que vive em Tóquio. O sonho da esposa é poder visitá-lo, pois, além da saudade, é visivelmente encantada pela cultura japonesa, como pode-se perceber pelos detalhes de decoração da casa deles e pelo seu interesse no butô, uma espécie de dança teatral que utiliza a expressão do corpo e seu efeito na sombra formada pelos movimentos.
 

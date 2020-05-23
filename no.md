@@ -6,7 +6,6 @@ date: "2013-01-02"
 tags: [ "draft", "movies" ]
 title: "No"
 stars: "4/5"
-desc: "No. No (Chile, 2012). Dirigido por Pablo Larraín. Escrito por Pedro Peirano, Antonio Skármeta. Com Gael García Bernal, Alfredo Castro, Luis Gnecco, Néstor Cantillana, Antonia Zegers, Marcial Tagle, Pascal Montero, Jaime Vadell, Elsa Poblete."
 ---
 No poderia muito bem ser um documentário, uma vez que seu objetivo principal é aproximar o espectador pelo seu realismo. No entanto, a decisão de "estilizar" essa realidade com um pouco de ficção não poderia ser mais propício em um filme que, acima de política, trata dos detentores atuais do poder da influência no mundo: a publicidade.
 

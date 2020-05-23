@@ -6,7 +6,6 @@ date: 2016-06-06
 tags: [ "draft", "movies" ]
 title: "Ninfomaníaca Volume 2"
 stars: "4/5"
-desc: "Ninfomaníaca Volume 2. Nymphomaniac: Vol. II (Denmark, 2013). Dirigido por Lars von Trier. Escrito por Lars von Trier. Com Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin, Shia LaBeouf, Christian Slater, Jamie Bell, Uma Thurman, Willem Dafoe, Mia Goth."
 ---
 Podemos chamar Joe de vadia, vulgar ou de qualquer outro adjetivo que achemos o pior em uma pessoa. No entanto, uma coisa que Lars von Trier te impede de fazer durante todas as seis horas de projeção de Ninfomaníaca é permitir que, do topo de nossa suposta moral, a chamemos de vítima. E é isso que autentica essa personagem como uma dura crítica ao nosso modo de pensar a respeito de sexo e da relação entre seus praticantes. Joe, interpretada de maneira dura e auto-reflexiva pela impassível Charlotte Gainsbourg, é que pode, do topo de sua experiência no assunto, julgar a hipocrisia humana.
 

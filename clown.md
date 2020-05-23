@@ -6,7 +6,6 @@ date: "2016-02-29"
 tags: [ "draft", "movies" ]
 title: "Clown"
 stars: "2/5"
-desc: "Clown. Clown (USA, 2014). Dirigido por Jon Watts. Escrito por Christopher Ford, Jon Watts. Com Peter Stormare, Eli Roth, Laura Allen, Elizabeth Whitmere, Christian Distefano, Andy Powers, John MacDonald, Chuck Shamata, Sarah Scheffer."
 ---
 Quando Eli Roth (O Albergue) está envolvido, seja como diretor ou, no caso, produtor e ator, pode esperar cenas de violência gráfica de muito mal gosto. Mas como gosto é algo que não se discute, talvez ver o coração de uma criança ser atirado em uma televisão seja a sua praia. Nesse caso, bem-vindo ao parque de diversões doentio da mente de alguém obcecado em chocar e, se sobrar tempo, tentar contar uma história.
 

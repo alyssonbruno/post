@@ -6,7 +6,6 @@ imdb: "2380307"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 title: "Viva: A Vida é uma Festa"
-desc: "Viva: A Vida é uma Festa."
 ---
 Um filme sobre família. E é sobre gerações. A Pixar, como (quase) sempre, perfeccionista até nos detalhes das calçadas por onde corre o pequeno e sonhador Miguel e nas rugas de sua bisa. Ah, sim, este é mais um filme sobre buscar o seu sonho apesar de todos os obstáculos e... apesar de estar quase morto. Porém, isso é Disney, então pode se despreocupar. Ninguém vai sequer ficar ferido, exceto o vilão. E um cachorro que é literalente um saco de pulgas que cai por onde quer que se coce.
 

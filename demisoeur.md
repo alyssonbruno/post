@@ -6,7 +6,6 @@ date: "2016-03-13"
 tags: [ "draft", "movies" ]
 title: "Demi-soeur"
 stars: "4/5"
-desc: "Demi-soeur. Demi-soeur (France, 2013). Dirigido por Josiane Balasko. Escrito por Josiane Balasko, Franck Le Joseph. Com Josiane Balasko, Michel Blanc, Brigitte Roüan, Françoise Lépine, George Aguilar, Christine Murillo, Grégoire Baujat, Jean-Yves Chatelais, Stéphan Wojtowicz."
 ---
 Essa comédia francesa com certeza segue o molde do estereótipo... "comédia francesa". Fala sobre amor em família, personagens cativantes e transformações de caráter.
 

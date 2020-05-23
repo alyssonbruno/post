@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2019-08-17"
 title: "Restaurante Jojo Ramen"
-desc: "Esse é daqueles hipsters onde você paga 50 conto por um prato de miojo com tempero de vinagrete."
 tags: [ "draft", "food" ]
 stars: "2/5"
 ---

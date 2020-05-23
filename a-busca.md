@@ -6,7 +6,6 @@ date: "2016-11-02"
 tags: [ "draft", "movies" ]
 title: "A Busca"
 stars: "3/5"
-desc: "A Busca. A Busca (Brazil, 2012). Dirigido por Luciano Moura. Escrito por Luciano Moura, Elena Soarez. Com Wagner Moura (Theo Gadelha), Lima Duarte (Theo's Father), Mariana Lima (Branca), Brás Antunes (Pedro), Lucas de Araujo (China - garoto carona)."
 ---
 Wagner Moura é um ator bem versátil. Seja como Capitão Nascimento ou Pablo Escobar, Moura consegue através do tom de voz e dos movimentos de corpo denotar alguém menos ou mais vulnerável, alguém mais ou menos estressado. Seu Theo Gadelha é um pai de família recém-separado que concentra em seus óculos todo seu jeito atrapalhado de lidar com o mundo, com sua esposa, seu filho e, principalmente, seu pai.
 

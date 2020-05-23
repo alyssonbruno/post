@@ -6,7 +6,6 @@ date: "2016-03-27"
 tags: [ "draft", "movies" ]
 title: "Winter on Fire"
 stars: "5/5"
-desc: "Winter on Fire. Winter on Fire: Ukraine's Fight for Freedom (UK, 2015). Dirigido por Evgeny Afineevsky. Escrito por Den Tolmor. Com Bishop Agapit, Serhii Averchenko, Kristina Berdinskikh, Pavlo Dobryanskyy, Valery Dovgiy, Bogdan Dubas, Kurganskyi Eduard, Mykhailo Havryliuk, Natan Hazin."
 ---
 Um hino à liberdade em três atos. No primeiro ato, a repulsa à traição do líder máximo da nação com uma manifestação espontânea e apartidária. No segundo ato, um cenário de conflitos que são dominados pelo patriotismo e organização cooperativa. No terceiro ato, o estado, esse monstro disforme que mata tudo que toca, revela sua última faceta, e transforma o hino de liberdade em um banho de sangue.
 

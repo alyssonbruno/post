@@ -1,7 +1,6 @@
 ---
 date: "2020-05-19"
 title: "A Padeira Do Bairro"
-desc: '"La boulangère de Monceau" (France e Algeria, 1963), escrito por Éric Rohmer, dirigido por Éric Rohmer, com Barbet Schroeder, Claudine Soubrier e Michèle Girardon.'
 imdb: "0056884"
 stars: "3/5"
 categories: [ "cinema" ]

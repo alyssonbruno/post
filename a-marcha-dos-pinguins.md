@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-20T16:36:30-02:00
 title: "A Marcha dos Pinguins"
-desc: "La marche de l'empereur. França, 2005. Escrito e dirigido por Luc Jacquet (a narração americana é de Jordan Roberts). Com Charles Berling, Romane Bohringer, Jules Sitruk e Morgan Freeman fez a voz na versão americana."
 imdb: "0428803"
 
 tags: [ "draft", "movies" ]

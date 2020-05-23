@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "6045466"
 
 stars: "4/5"
-desc: "Madame"
 
 ---
 É uma comédia de costumes que analisa a elite decadente que janta em uma mansão em Paris como parte do jogo de ser rico. No meio deles está a governanta da anfitriã, disfarçada de realeza. Só que a história é menos sobre a plebeia e mais sobre como aquelas criaturas interagem com aquele brinquedo ocasional.

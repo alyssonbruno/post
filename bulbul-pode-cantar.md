@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-23"
 title: "Bulbul Pode Cantar"
-desc: '"Bulbul Can Sing" (Índia, 2018), escrito por Rima Das, dirigido por Rima Das, com Pakija Begam, Arnali Das e Manabendra Das. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "8659050"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

@@ -6,7 +6,6 @@ date: "2017-03-26"
 tags: [ "draft", "movies" ]
 title: "Synchronicity"
 stars: "2/5"
-desc: "Synchronicity. Synchronicity (USA, 2015). Dirigido por Jacob Gentry. Escrito por Jacob Gentry, Alex Orr. Com Chad McKnight (Jim Beale), Brianne Davis (Abby), AJ Bowen (Chuck), Scott Poythress (Matty), Michael Ironside (Klaus Meisner), Claire Bronson (Helen), Ashley Drayton (Herself), Derek Ryan Duke (Resident), Sergine Dumais (Helen)."
 ---
 Sabe aqueles filmes trash anos 80 que misturam tecnologia, terror e sci-fi? Exemplos são Tron (o original) e Mulher Nota 1000. Synchronicity emula com perfeição esse tipo de gênero. Com um roteiro capenga, atuações sofríveis, clichês de filme noir mal usados e trilha sonora de flashback, o resultado é uma viagem pelo mundo dos filme complicados apenas pelo gosto da complicação.
 

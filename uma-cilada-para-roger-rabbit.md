@@ -6,7 +6,6 @@ date: "2016-01-19"
 tags: [ "draft", "movies" ]
 title: "Uma Cilada para Roger Rabbit"
 stars: "5/5"
-desc: "Uma Cilada para Roger Rabbit. Who Framed Roger Rabbit (USA, 1988). Dirigido por Robert Zemeckis. Escrito por Gary K. Wolf, Jeffrey Price, Peter S. Seaman. Com Bob Hoskins, Christopher Lloyd, Joanna Cassidy, Charles Fleischer, Stubby Kaye, Alan Tilvern, Richard LeParmentier, Lou Hirsch, Betsy Brantley."
 ---
 Um filme de 1988 que conseguiu unir desenhos com live action de uma maneira que até hoje não parece datado. Sua grande sacada é já fazer um filme de época, a Hollywood da década de 40, e embutir todos os desenhos icônicos em um longa-metragem que é usado apenas para realizar essa façanha, mas que em si possui um roteiro com uma trama inteligente por utilizar a própria fusão do mundo dos desenhos e dos humanos.
 

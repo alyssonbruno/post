@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-26"
 title: "Frozen 2"
-desc: '"Frozen II" (EUA, 2019), escrito por Jennifer Lee e Chris Buck, dirigido por Chris Buck e Jennifer Lee, com Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff, Sterling K. Brown e Evan Rachel Wood. Escrito para o CinemAqui.'
 imdb: "4520988"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

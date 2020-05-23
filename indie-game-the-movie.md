@@ -6,7 +6,6 @@ date: "2013-06-17"
 tags: [ "draft", "movies" ]
 title: "Indie Game The Movie"
 stars: "3/5"
-desc: "Indie Game The Movie. Indie Game: The Movie (Canada, 2012). Dirigido por Lisanne Pajot, James Swirsky. Com Jonathan Blow, Phil Fish, Edmund McMillen, Tommy Refenes, Joe Drilling."
 ---
 Focado principalmente no amor, dedicação, desespero e muitas vezes loucura dos criadores de jogos de computador independentes, Indie é uma grata surpresa ao mostrar os nerds solitários como artistas que lutam pelo reconhecimento, mas, acima de tudo, pela máxima expressão de si mesmos dentro dos bits e bytes que insistem em escrever.
 

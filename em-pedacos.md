@@ -6,7 +6,6 @@ imdb: "5723272"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 title: "Em Pedaços"
-desc: "In the Fade (Alemanha/França, 2017), escrito por Fatih Akin e Hark Bohm, dirigido por Fatih Akin, com Diane Kruger, Denis Moschitto, Numan Acar."
 ---
 Não parece haver pior dor da perda do que quando uma mãe perde seu filho. E não parece haver sentimento maior de impunidade do que quando sabemos que algo não está certo e vai ficar dessa jeito mesmo. Esses dois sentimentos extremamente pesados estão misturados no ótimo Em Pedaços, que captura uma história de violência do cotidiano de hoje e a torna visceral do começo ao fim.
 

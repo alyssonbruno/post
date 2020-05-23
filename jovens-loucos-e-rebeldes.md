@@ -6,7 +6,6 @@ date: "2016-09-09"
 tags: [ "draft", "movies" ]
 title: "Jovens, Loucos e Rebeldes"
 stars: "5/5"
-desc: "Jovens, Loucos e Rebeldes. Dazed and Confused (USA, 1993). Dirigido por Richard Linklater. Escrito por Richard Linklater. Com Jason London, Joey Lauren Adams, Milla Jovovich, Shawn Andrews, Rory Cochrane, Adam Goldberg, Anthony Rapp, Sasha Jenson, Marissa Ribisi."
 ---
 Este é o filme de uma geração de Richard Linklater (Trilogia do Antes, Boyhood), um de seus primeiros, de 1993. Ele conta com um elenco de desconhecidos, onde alguns irá começar a ser mais conhecido. Ele conta uma história simples, que evoca o naturalismo, mas que contém tensão o suficiente para entreter. E ele contém o mais importante: a empatia do público que sabe como é ser jovem, como é experimentar coisas novas e sabe como é estar naquele momento mágico, vivenciando tudo isso, tendo toda a vida pela frente.
 

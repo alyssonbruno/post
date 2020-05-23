@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-28"
 title: "O Paradoxo da Democracia"
-desc: '"O Paradoxo da Democracia" (Brasil, 2019), escrito por Belisario Franca e Pedro Nóbrega, dirigido por Belisario Franca. Escrito para o CinemAqui na cobertura da #mostrasp.'
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
 ---

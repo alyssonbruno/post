@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2007-10-12"
 title: "A Linguagem de Programação C"
-desc: "The C Programming Language (2nd Edition, 1989, 288p). Por Brian Kernighan e Dennis Ritchie. Editora Campus"
 tags: [ "draft", "books" ]
 
 ---

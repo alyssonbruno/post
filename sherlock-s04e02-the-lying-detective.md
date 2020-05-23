@@ -6,7 +6,6 @@ date: "2017-04-16"
 tags: [ "draft", "series" ]
 title: "Sherlock - Quarta Temporada, Episódio 2: The Lying Detective"
 stars: "5/5"
-desc: "Sherlock - Quarta Temporada, Episódio 2: The Lying Detective. Dirigido por Nick Hurran. Escrito por Steven Moffat, Arthur Conan Doyle, Mark Gatiss. Com Benedict Cumberbatch (Sherlock Holmes), Martin Freeman (Dr. John Watson), Una Stubbs (Mrs. Hudson), Rupert Graves (DI Lestrade), Mark Gatiss (Mycroft Holmes), Louise Brealey (Molly Hooper), Amanda Abbington (Mary Watson), Toby Jones (Culverton Smith), Lindsay Duncan (Lady Smallwood)."
 ---
 Eis mais um vilão de respeito para a série Sherlock, embora este seja apenas um fantoche para mais uma demonstração das inúmeras habilidades do detetive de Baker Street. Há brincadeiras a respeito dele ser o autor do blog que Watson (Martin Freeman) escreve a respeito das aventuras do companheiro, e há uma participação perturbadora do detetive e seu escudeiro em um hospital com crianças. O vilão, interpretado de maneira caricata e divertida por Toby Jones, ainda assim é um marco, pois permite que os heróis sejam... heróis!
 

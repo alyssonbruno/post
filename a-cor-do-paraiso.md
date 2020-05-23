@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-18"
 title: "A Cor do Paraíso"
-desc: '"Rang-e khoda" (Irã, 1999), escrito por Majid Majidi, dirigido por Majid Majidi, com Hossein Mahjoub, Mohsen Ramezani e Salameh Feyzi. Da leva de DVDs de arte.'
 imdb: "0191043"
 tags: [ "draft", "movies" ]
 stars: "3/5"

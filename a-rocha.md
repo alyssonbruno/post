@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-29"
 title: "A Rocha"
-desc: '"The Rock" (EUA, 1996), escrito por Douglas Cook e David Weisberg, dirigido por Michael Bay, com Sean Connery, Nicolas Cage e Ed Harris. Assisti na Netflix porque queria ver um filme farofa velho tipo Independence Day, mas eles tiraram do catálogo e deixei baixando.'
 imdb: "0117500"
 tags: [ "draft", "movies" ]
 stars: "4/5"

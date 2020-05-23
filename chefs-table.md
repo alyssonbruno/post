@@ -6,7 +6,6 @@ date: "2016-12-04"
 tags: [ "draft", "series" ]
 title: "Chef's Table"
 stars: "4/5"
-desc: "Chef's Table. Chef's Table (USA, 2015). Dirigido por Clay Jeter, Brian McGinn, Andrew Fried, David Gelb. Com Dan Barber (Himself - Chef), Massimo Bottura (Himself - Chef), Bill Buford (Himself), Lara Gilmore (Herself), Francis Mallmann (Himself - Chef), Niki Nakayama (Herself - Chef), Magnus Nilsson (Himself - Chef), Ruth Reichl (Herself), Ben Shewry (Himself - Chef)."
 ---
 As séries que costumo testar/acompanhar da Netflix me fazem às vezes questionar a capacidade da distribuidora de conteúdo de se manter na média das outras produtoras. Às vezes eles parecem ligeiramente superiores. E é o caso de Chef's Table, que se veste de uma série documental com cada episódios abordando um chefe de cozinha e o que ele tem a oferecer à alta gastronomia. Porém, no fundo, os idealizadores da série vão além, e embora sigam constantemente uma cartilha estática no roteiro (e na direção), os resultados podem surpreender.
 

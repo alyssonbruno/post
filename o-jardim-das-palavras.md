@@ -5,7 +5,6 @@ date: "2016-08-06"
 tags: [ "draft", "shorts" ]
 title: "O Jardim das Palavras"
 stars: "4/5"
-desc: "O Jardim das Palavras. Koto no ha no niwa (Japan, 2013). Dirigido por Makoto Shinkai. Escrito por Makoto Shinkai. Com Miyu Irino, Kana Hanazawa, Fumi Hirano, Gou Maeda, Takeshi Maeda, Yuka Terasaki, Takanori Hoshino, Suguru Inoue, Megumi Han."
 ---
 Makoto Shinkai tem um apuro visual muito interessante. Adentrando em uma megalópole para narrar este conto intimista entre uma professora e um aluno, ele consegue encontrar os quadros perfeitos para animar e dar a sensação, através do som, de estarmos de fato experimentando um dia-a-dia naquela cidade movimentada que contém em seus dias de chuva um refúgio secreto entre duas pessoas.
 

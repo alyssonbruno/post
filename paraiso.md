@@ -6,7 +6,6 @@ date: "2017-01-20"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Paraíso"
 stars: "5/5"
-desc: "Paraíso. Ray (Russia, 2016). Dirigido por Andrey Konchalovskiy. Escrito por Elena Kiseleva, Andrey Konchalovskiy. Com Yuliya Vysotskaya (Olga), Viktor Sukhorukov (Genrikh Gimmler), Peter Kurth (Krauze), Philippe Duquesne (Zhyul), Christian Clauss (Khelmut), Jean Denis Römer (Shulman), George Lenz, Jakob Diehl (Fogel), Irina Demidkina (Okhrannitsa tyurmy)."
 ---
 Paraíso poderia de uma maneira peculiar fazer sessão dupla com A Fita Branca. Enquanto o trabalho de Michael Haneke explora em boa parte do tempo o que tornou uma nação propensa a cometer os horrores que seriam cometidos na Segunda Guerra, este trabalho russo/alemão do diretor Andrey Konchalovskiy já está imerso nesta situação. Vemos as pessoas executando e racionalizando suas tarefas da melhor maneira possível, mesmo que sua tarefa seja quebrar os joelhos de alguém tentando salvar duas crianças ou queimar o maior número de judeus na câmara de gás. Por trás das máscaras sociais dessa época Konchalovskiy conta uma história fascinante de terror através do ultrarrealismo.
 

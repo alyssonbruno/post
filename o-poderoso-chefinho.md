@@ -6,7 +6,6 @@ date: "2017-04-16"
 tags: [ "draft", "movies" ]
 title: "O Poderoso Chefinho"
 stars: "4/5"
-desc: "O Poderoso Chefinho. The Boss Baby (USA, 2017). Dirigido por Tom McGrath. Escrito por Michael McCullers, Marla Frazee. Com Alec Baldwin (Boss Baby), Steve Buscemi (Francis Francis), Jimmy Kimmel (Dad), Lisa Kudrow (Mom), Tobey Maguire (Adult Tim / Narrator), Miles Christopher Bakshi (Tim), James McGrath (Wizzie / Elvis Impersonator), Conrad Vernon (Eugene), ViviAnn Yee (Staci)."
 ---
 É um alívio assistir a uma animação que não se esforça nem um pouco em ser a primeira de uma franquia, e que corajosamente atravessa todo o arco de seu herói para terminar como um "filme normal". Além disso, dirigido com uma fluidez dinâmica alimentada por uma criatividade sem limites de seu roteiro -- que usa uma chupeta da maneira mais inventiva possível -- e sua direção de arte -- que explora através de formas e cores os passeios deliciosos na mente de uma criança e suas aventuras -- O Poderoso Chefinho é uma animação que subverte um pouco o circuito comercial e em troca recebemos uma divertida história fácil de acompanhar, e que ainda que não esteja completa e redonda do começo ao fim, empolga mais que o suficiente para nos lembrarmos do filme com uma certa memória afetiva.
 

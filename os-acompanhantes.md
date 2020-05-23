@@ -6,7 +6,6 @@ date: "2015-08-23"
 tags: [ "draft", "movies" ]
 title: "Os Acompanhantes"
 stars: "3/5"
-desc: "Os Acompanhantes. The Extra Man (USA, 2010). Dirigido por Shari Springer Berman, Robert Pulcini. Escrito por Robert Pulcini, Jonathan Ames, Shari Springer Berman, Jonathan Ames. Com Paul Dano, Marian Seldes, Celia Weston, Patti D'Arbanville, John C. Reilly, Dan Hedaya, Kevin Kline, Jason Butler Harner, Alex Burns."
 ---
 Não é de hoje que acompanho o ótimo desempenho de Paul Dano e sua ascenção desde Pequena Miss Sunshine. Dotado de uma feição característica, sua figura simpática e ingênua soa familiar na maioria dos seus filmes em que é o mocinho. Porém, o que mais gosto nele são seus trabalhos como vilão (Sangue Negro, 12 Anos de Escravidão, Os Suspeitos), pois sua feição "característica" adquire uma função muito mais efetiva: a vontade de socar a sua cara.
 

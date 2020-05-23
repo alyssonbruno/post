@@ -6,7 +6,6 @@ date: "2015-11-06"
 tags: [ "draft", "movies" ]
 title: "A Fortuna de Ned"
 stars: "4/5"
-desc: "A Fortuna de Ned. Waking Ned (UK, 1998). Dirigido por Kirk Jones. Escrito por Kirk Jones. Com Ian Bannen, David Kelly, Fionnula Flanagan, Susan Lynch, James Nesbitt, Paul Vaughan, Adrian Robinson, Maura O'Malley, Robert Hickey."
 ---
 Se eu fosse um crítico de prestígio lá pelos idos de 1998, seria o primeiro a defender o filme estreante do diretor/roteirista Kirk Jones, que depois dirigiu os mais famosos "Nanny McPhee, a Babá Encantada" e Estão Todos Bem. A Fortuna de Ned é um filme de baixa produção, com uma única trilha sonora e 55 atores que interpretam um pequeno vilarejo isolado na poética Irlanda.
 

@@ -6,7 +6,6 @@ date: "2017-04-01"
 tags: [ "draft", "movies" ]
 title: "O Doador de Memórias"
 stars: "3/5"
-desc: "O Doador de Memórias. The Giver (South Africa, 2014). Dirigido por Phillip Noyce. Escrito por Michael Mitnick, Robert B. Weide, Lois Lowry. Com Jeff Bridges (The Giver), Meryl Streep (Chief Elder), Brenton Thwaites (Jonas), Alexander Skarsgård (Father), Katie Holmes (Mother), Odeya Rush (Fiona), Cameron Monaghan (Asher), Taylor Swift (Rosemary), Emma Tremblay (Lilly)."
 ---
 A ideia mais interessante por trás deste filme é usar a analogia de cores para exemplificar por que uma vida em uma sociedade igualitária é como uma vida preto e branca fosca, enquanto uma vida desigual, cheio das nuanças, dores e prazeres dos seres humanos "de verdade" é uma vida cheia de cores e luz. Infelizmente, essa analogia não apenas está errada como é mal empregada no próprio filme, e nos tenta fazer acreditar que nosso conhecimento sobre cores vem das nossas memórias (como se bebês não soubessem o que são cores ou herdassem memórias de seus pais). E isso é apenas a ponta do iceberg em um filme que tenta criar uma alegoria ambiciosa demais a respeito de uma distopia que mistura de maneira fragilizada Admirável Mundo Novo, THX e até "Brazil: O Filme". Bom, não é sempre que se pode bancar Aldous Huxley e não levar na cara por sua petulância.
 

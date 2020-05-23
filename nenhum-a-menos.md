@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2019-07-02T18:49:16-03:00
 title: "Nenhum a Menos"
 imdb: "0209189"
-desc: "Not One Less. China, 1999. Dirigido por Yimou Zhang, escrito por Xiangsheng Shi. Com Minzhi Wei, Huike Zhang, Zhenda Tian."
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

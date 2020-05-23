@@ -6,7 +6,6 @@ date: "2011-04-27"
 tags: [ "draft", "movies" ]
 title: "Rio"
 stars: "3/5"
-desc: "Rio. Rio (USA, 2011). Dirigido por Carlos Saldanha. Escrito por Carlos Saldanha, Earl Richey Jones, Todd R. Jones, Don Rhymer, Joshua Sternin, Jennifer Ventimilia, Sam Harper. Com Karen Disher, Jason Fricchione, Sofia Scarpa Saldanha, Leslie Mann, Kelly Keaton, Jesse Eisenberg, Wanda Sykes, Jane Lynch, Rodrigo Santoro."
 ---
 Mais um filme visto em castelhano. Tenho a dizer que os dubladores argentinos são tão competentes quanto os nossos, e acompanhar a trajetória de Blu por Rio de Janeiro, sob o ponto de vista dos portenhos, foi mais uma experiência pra vida cinematográfica.
 

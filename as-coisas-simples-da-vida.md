@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-08"
 title: "As Coisas Simples da Vida"
-desc: '"Yi Yi" (Taiwan e Japão, 2000), escrito por Edward Yang, dirigido por Edward Yang, com Nien-Jen Wu, Elaine Jin e Issei Ogata. Um DVD da coleção.'
 imdb: "0244316"
 tags: [ "draft", "movies" ]
 stars: "5/5"

@@ -6,7 +6,6 @@ date: "2013-07-21"
 tags: [ "draft", "movies" ]
 title: "Retratos de uma Obsessão"
 stars: "4/5"
-desc: "Retratos de uma Obsessão. One Hour Photo (USA, 2002). Dirigido por Mark Romanek. Escrito por Mark Romanek. Com Robin Williams, Connie Nielsen, Michael Vartan, Dylan Smith, Erin Daniels, Paul Hansen Kim, Lee Garlington, Gary Cole, Marion Calvert."
 ---
 Entre tantas coisas que poderiam ser destacadas da performance de Robin Williams como Seymour Parrish, um funcionário de uma hoje extinta reveladora de fotos, o que permanece ao final de Retratos de uma Obsessão são os inúmeros filtros que parecem cobrir sua vida de uma aura tão poética quanto trágica. Esse sentimentos ecoam principalmente através das cores, presentes nas fotos e nas vidas das pessoa para quem trabalha, mas que a ele são negadas. Quer uso mais metafórico da fotografia no Cinema do que a própria fotografia sendo o tema principal?
 

@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2015-10-12"
 tags: [ "draft", "events", "lists" ]
 title: "Diretores da 39a. Mostra de Cinema em São Paulo"
-desc: "Diretores da 39a. Mostra de Cinema em São Paulo."
 ---
 Mostra chegando, e começa a ser liberadas as listas de diretores, filmes e, em breve (na última hora) a programação. Segue a lista dos diretores que dirigiram pelo menos algum filme com texto no Cine Tênis Verde:
 

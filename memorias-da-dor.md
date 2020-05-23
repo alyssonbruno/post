@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-31T16:31:17-03:00
 title: "Memórias da Dor"
-desc: "Memórias da Dor (França, Bélgica, Suíça, 2017), escrito por Emmanuel Finkiel adaptado do romance de Marguerite Duras, dirigido por Finkiel, com Mélanie Thierry, Benoît Magimel, Benjamin Biolay."
 imdb: "6313378"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

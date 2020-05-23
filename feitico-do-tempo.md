@@ -6,7 +6,6 @@ date: "2011-12-20"
 tags: [ "draft", "movies" ]
 title: "Feitiço do Tempo"
 stars: "5/5"
-desc: "Feitiço do Tempo. Groundhog Day (USA, 1993). Dirigido por Harold Ramis. Escrito por Danny Rubin, Harold Ramis, Danny Rubin. Com Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky, Brian Doyle-Murray, Marita Geraghty, Angela Paton, Rick Ducommun, Rick Overton."
 ---
 Bill Murray em um papel que é a cara dele: Phil Connor é o homem do tempo de uma emissora de televisão e precisa cobrir o tradicional "Dia da Marmota", uma cerimônia de uma cidadezinha secular cuja lenda uma marmota (ironicamente também chamada Phil) faz a previsão se haverá mais inverno.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-09-28T19:04:03-03:00
 title: "De Volta ao Jogo"
-desc: "John Wick (China/EUA, 2014). Escrito por Derek Kolstad, dirigido por Chad Stahelski e David Leitch. Com Keanu Reeves, Michael Nyqvist, Alfie Allen."
 imdb: "2911666"
 
 tags: [ "draft", "movies" ]

@@ -6,7 +6,6 @@ date: "2016-01-04"
 tags: [ "draft", "movies" ]
 title: "O Mentiroso"
 stars: "4/5"
-desc: "O Mentiroso. Liar Liar (USA, 1997). Dirigido por Tom Shadyac. Escrito por Paul Guay, Stephen Mazur. Com Jim Carrey, Maura Tierney, Justin Cooper, Cary Elwes, Anne Haney, Jennifer Tilly, Amanda Donohoe, Jason Bernard, Swoosie Kurtz."
 ---
 Jim Carrey é um comediante tão talentoso que, se inserido no projeto certo, pode render um filme que sem ele seria apenas um passatempo da sessão da tarde, mas com ele ganha contornos cartunescos que remetem o significado da história que acompanhamos para algo além do trivial.
 

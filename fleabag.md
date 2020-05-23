@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-18"
 title: "Fleabag"
-desc: '"Fleabag" (Reino Unido, 2016), escrito por Phoebe Waller-Bridge, dirigido por com Phoebe Waller-Bridge, Sian Clifford, Olivia Colman e Andrew Scott. Baixei pra dar uma olhada depois que ganhou o Emmy.'
 imdb: "5687612"
 tags: [ "draft", "series" ]
 stars: "4/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-02T20:52:19-03:00
 title: "Uma Noite de 12 Anos"
-desc: "La noche de 12 años. Uruguai, Argentina, Espanha, 2018. Escrito e dirigido por Álvaro Brechner. Com Antonio de la Torre, Chino Darín, Alfonso Tort."
 imdb: "6792282"
 
 tags: [ "draft", "movies" ]

@@ -6,7 +6,6 @@ date: "2017-02-17"
 tags: [ "draft", "movies" ]
 title: "Estrelas Além do Tempo"
 stars: "5/5"
-desc: "Estrelas Além do Tempo. Hidden Figures (USA, 2016). Dirigido por Theodore Melfi. Escrito por Allison Schroeder, Theodore Melfi, Margot Lee Shetterly. Com Taraji P. Henson (Katherine G. Johnson), Octavia Spencer (Dorothy Vaughan), Janelle Monáe (Mary Jackson), Kevin Costner (Al Harrison), Kirsten Dunst (Vivian Mitchell), Jim Parsons (Paul Stafford), Mahershala Ali (Colonel Jim Johnson), Aldis Hodge (Levi Jackson), Glen Powell (John Glenn)."
 ---
 "Fortran é uma nova e excitante linguagem usada por programadores para se comunicar com computadores..." -- começa lendo Dorothy Vaughan, líder das programadoras de cor da NASA. É difícil imaginar como uma espécie tão irracional a ponto de subestimar a mente humana baseada na cor e sexo do corpo que a carrega teria conseguido chegar até ao espaço. Assistindo a Estrelas Além do Tempo torna-se difícil imaginar como colocariam um homem branco orbitando o planeta se não fosse pela genial mente humana de Katherine G. Johnson, uma mulher, negra, e gênio.
 

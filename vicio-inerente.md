@@ -6,7 +6,6 @@ date: "2015-03-27"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Vício Inerente"
 stars: "4/5"
-desc: "Vício Inerente. Inherent Vice (USA, 2014). Dirigido por Paul Thomas Anderson. Escrito por Paul Thomas Anderson, Thomas Pynchon. Com Joanna Newsom, Katherine Waterston, Joaquin Phoenix, Jordan Christian Hearn, Taylor Bonin, Jeannie Berlin, Josh Brolin, Eric Roberts, Serena Scott Thomas."
 ---
 Paul Thomas Anderson volta ao seu estilo Boogie Nights e, de certa forma, Magnólia, com esse Vício Inerente. A história gira em torno de Larry "Doc" Sportello (Joaquin Phoenix), um hippie, viciado em diversas drogas e detetive particular nas horas vagas. Horas vagas essas que se tornam uma constante quando ele vai pegando três casos de uma só vez que parecem estar ligados em torno da persona do empreiteiro Mickey Wolfmann. Tudo começa quando sua ex-namorada, Shasta (Katherine Waterston), lhe faz a mais estranhas das visitas dizendo que Mickey é seu novo amante e pede que Doc impeça que a esposa do empreiteiro e seu amante internem-no em um asilo. Apenas essa premissa já seria complicada, mas as coisas vão piorando.
 

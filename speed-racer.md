@@ -6,7 +6,6 @@ date: "2013-11-28"
 tags: [ "draft", "movies" ]
 title: "Speed Racer"
 stars: "5/5"
-desc: "Speed Racer. Speed Racer (USA, 2008). Dirigido por Andy Wachowski, Lana Wachowski. Escrito por Andy Wachowski, Lana Wachowski, Tatsuo Yoshida. Com Emile Hirsch, Nicholas Elia, Susan Sarandon, Melissa Holroyd, Ariel Winter, Scott Porter, Gian Ganziano, Peter Fernandez, Harvey Friedman."
 ---
 Speed Racer está para os animes infantis assim como Scott Pilgrim está para o mundo dos vídeogames: dois filmes que homenageiam seu universo abraçando-o sem limites e que por isso são rechaçados pelo público em geral. Uma linguagem tão inovadora pode causar medo e desconforto, mas é o ponto de virada de todo cinéfilo que se preze e que que deseja sentir mais pelos filmes que assiste.
 

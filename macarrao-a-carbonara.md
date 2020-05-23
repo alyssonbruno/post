@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2020-04-05"
 title: "Receita: Macarrão a Carbonara"
-desc: "Vai bacon, queijo, ovos e macarrão. Ou seja, não tem como errar."
 tags: [ "draft", "food", "recipes" ]
 ---
 Essa receita foi inventada por um solteiro na Itália, e é muito útil para solteiros no mundo todo. Se for em um restaurante italiano pela primeira vez, siga o conselho do meu amigo, que sempre pede uma Carbonara. Com bacon, queijo, ovos e macarrão na receita, para o restaurante errar essa receita ele terá que ser muito ruim.

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-21"
 title: "O Fantasma de Peter Sellers"
-desc: '"The Ghost of Peter Sellers" (Chipre, 2018), dirigido por Peter Medak, com Peter Sellers, Spike Milligan e Peter Medak. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "4857058"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

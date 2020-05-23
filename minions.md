@@ -6,7 +6,6 @@ date: "2015-06-27"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Minions"
 stars: "2/5"
-desc: "Minions. Minions (USA, 2015). Dirigido por Kyle Balda, Pierre Coffin. Escrito por Brian Lynch. Com Sandra Bullock, Jon Hamm, Michael Keaton, Allison Janney, Steve Coogan, Jennifer Saunders, Geoffrey Rush, Steve Carell, Pierre Coffin."
 ---
 As árvores que jorram dinheiro em franquias de animação já conseguiram provar com Os Pinguins de Madagascar e Carros 2 que spin-offs de personagens secundários -- os que geralmente completam a história para seus heróis -- têm tudo para dar errado. No entanto, agora é a vez de Meu Malvado Favorito (e sua sequência) remoer o terreno de sua árvore milionária, esta plantada em um terreno arenoso, uma vez que as histórias dos dois filmes dependem de uma série de piadas prontas jogadas na tela em um ritmo que não nos permita perceber que sua história principal são dois fiapos de raiz prestes a se romper. Dessa forma, podemos considerar a ideia de produzir um filme apenas com os seres amarelos dos dois filmes -- que realizam cenas pontuais de dois segundos -- um projeto ambiciosamente marqueteiro e artisticamente repulsivo.
 

@@ -6,7 +6,6 @@ date: "2014-12-01"
 tags: [ "draft", "series" ]
 title: "Diário de um Jovem Médico"
 stars: "3/5"
-desc: "Diário de um Jovem Médico. A Young Doctor's Notebook (UK, 2012). Dirigido por Alex Hardcastle, Robert McKillop. Escrito por Mikhail A. Bulgakov, Mark Chappell, Alan Connor, Shaun Pye. Com Jon Hamm, Daniel Radcliffe, Rosie Cavaliero, Adam Godley, Vicki Pepperdine, Daniel Cerqueira, Tim Steed."
 ---
 
 É epoca da revolução! Todos querem lutar, mas nem todos podem. Em um hospital russo perdido no meio da neve um jovem recém-formado médico, conhecido como "Doutor" (Daniel Radcliffe), descobre que tudo que aprendeu nos livros não serve de muita coisa quando a vida e a morte diariamente estão em suas mãos. O mesmo Doutor, décadas depois (Jon Hamm), está tendo problemas com a justiça por conta do seu vício em morfina. Ciente de que estragou sua vida pela droga ele convive com seu eu do passado e tenta convencê-lo a não se viciar, além de ajudá-lo a lidar com os problemas que ele já havia lidado quando era mais jovem, pois era ele mesmo (?!)

@@ -6,7 +6,6 @@ date: "2012-08-17"
 tags: [ "draft", "movies" ]
 title: "Batman O Cavaleiro das Trevas Ressurge"
 stars: "4/5"
-desc: "Batman O Cavaleiro das Trevas Ressurge. The Dark Knight Rises (USA, 2012). Dirigido por Christopher Nolan. Escrito por Jonathan Nolan, Christopher Nolan, Christopher Nolan, David S. Goyer, Bob Kane. Com Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt, Anne Hathaway, Marion Cotillard, Morgan Freeman, Michael Caine, Matthew Modine."
 ---
 O Batman de Nolan possui uma virtude cada vez mais ausente em produções Hollywoodianas de super-heróis: a capacidade de fazer pensar. O que é uma pena, já que o universo fantasioso em que se passam essas histórias tem potencial para ser o pano de fundo de questões filosóficas das mais diversas. No caso de Batman, O Cavaleiro das Trevas, a grande discussões que Nolan se propõe a fazer é com respeito à violência nas grandes cidades e como essa violência transforma o destino das pessoas que nela vivem.
 

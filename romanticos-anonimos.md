@@ -6,7 +6,6 @@ date: "2012-01-04"
 tags: [ "draft", "movies" ]
 title: "Românticos Anônimos"
 stars: "4/5"
-desc: "Românticos Anônimos. Les émotifs anonymes (France, 2010). Dirigido por Jean-Pierre Améris. Escrito por Jean-Pierre Améris, Philippe Blasband. Com Benoît Poelvoorde, Isabelle Carré, Lorella Cravotta, Lise Lamétrie, Swann Arlaud, Pierre Niney, Stéphan Wojtowicz, Jacques Boudet, Alice Pol."
 ---
 Como bom tímido que fui (sou?) posso com autoridade dizer que Românticos Anônimos ao mesmo tempo que permite nos identificarmos com o casal protagonizado por dois tímidos irremediáveis também nos permite identificar as diferenças peculiares de cada um, evitando assim estereotipar mas manter-se engraçado e terno.
 

@@ -1,7 +1,6 @@
 ---
 date: "2020-04-26"
 title: "Aproveitando Fermento Natural"
-desc: "Receitas para testar quando for criar mais fermento."
 categories: [ "blog" ]
 tags: [ "draft", "food", "recipes" ]
 ---

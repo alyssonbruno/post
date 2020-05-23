@@ -7,7 +7,6 @@ date: "2015-10-21"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Goosebumps: Monstros e Arrepios"
 stars: "3/5"
-desc: "Goosebumps: Monstros e Arrepios. Goosebumps (USA, 2015). Dirigido por Rob Letterman. Escrito por Darren Lemke, Scott Alexander, Larry Karaszewski, R.L. Stine. Com Jack Black, Dylan Minnette, Odeya Rush, Ryan Lee, Amy Ryan, Jillian Bell, Ken Marino, Halston Sage, Steven Krueger."
 ---
 O escritor R. L. Stine é conhecido como o "Stephen King da literatura infantil". Se formos levar essa analogias para as telas, a comparação parece se tornar até mais óbvia. Enquanto os monstros criados por King encarnam o drama humano, em "Goosebumps" vemos um louva-a-deus gigante e maluco tropeçando nos carros em seu caminho e um boneco de ventríloquo servindo como o vilão personificado de um mal que está mais para encarnação da travessura.
 

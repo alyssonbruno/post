@@ -6,7 +6,6 @@ date: "2016-07-14"
 tags: [ "draft", "movies" ]
 title: "Independence Day: O Ressurgimento"
 stars: "2/5"
-desc: "Independence Day: O Ressurgimento. Independence Day: Resurgence (USA, 2016). Dirigido por Roland Emmerich. Escrito por Nicolas Wright, James A. Woods, Dean Devlin, Roland Emmerich, James Vanderbilt, Dean Devlin, Roland Emmerich, Nicolas Wright, James A. Woods. Com Liam Hemsworth, Jeff Goldblum, Jessie T. Usher, Bill Pullman, Maika Monroe, Sela Ward, William Fichtner, Judd Hirsch, Brent Spiner."
 ---
 Mais um remake que uma continuação. Infestado de momentos, diálogos e situações idênticas ao original, "Independency Day: Resurgence" se rende à fórmula que o tornou uma das farofas mais divertidas e rentáveis da década de 90.
 

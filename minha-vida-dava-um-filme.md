@@ -6,7 +6,6 @@ date: "2014-01-18"
 tags: [ "draft", "movies" ]
 title: "Minha Vida Dava um Filme"
 stars: "3/5"
-desc: "Minha Vida Dava um Filme. Girl Most Likely (USA, 2012). Dirigido por Shari Springer Berman, Robert Pulcini. Escrito por Michelle Morgan. Com Kristen Wiig, Annette Bening, Matt Dillon, Darren Criss, Christopher Fitzgerald, June Diane Raphael, Natasha Lyonne, Bob Balaban, Sydney Lucas."
 ---
 Kristen Wiig, distante de A Vida Secreta de Walter Mitty e próxima de Missão Madrinha de Casamento, protagoniza essa comédia em que faz o papel de Imogene, uma escritora fracassada que é literalmente obrigada a voltar a morar pelas próximas 72 horas com a sua mãe e família após ter maquiado seu suicídio. O fato da carta de despedida de Imogene ter sido tão bem escrita é o que consegue unir seu passado de potencial glorioso e o seu eminente fracasso.
 

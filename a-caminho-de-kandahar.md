@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-17"
 title: "A Caminho de Kandahar"
-desc: '"Safar e Ghandehar (aka The Sun Behind the Moon)" (Irã e França, 2001), escrito por Mohsen Makhmalbaf, dirigido por Mohsen Makhmalbaf, com Ike Ogut, Nelofer Pazira e Hassan Tantai. Da série dos DVDs da Augusta.'
 imdb: "0283431"
 tags: [ "draft", "movies" ]
 stars: "3/5"

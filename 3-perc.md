@@ -6,7 +6,6 @@ date: "2016-12-04"
 tags: [ "draft", "series" ]
 title: "3%"
 stars: "3/5"
-desc: "3%. 3% (Brazil, 2016). Dirigido por César Charlone, Jotagá Crema, Daina Giannecchini, Dani Libardi. Escrito por Pedro Aguilera, Jotagá Crema, Cássio Koshikumo, Ivan Nakamura, Denis Nielsen. Com João Miguel (Ezequiel), Bianca Comparato (Michele Santana), Michel Gomes (Fernando Carvalho), Rodolfo Valente (Rafael Moreira), Vaneza Oliveira (Joana Coelho), Viviane Porto (Aline), Sérgio Mamberti (Matheus), Zezé Motta (Nair), Celso Frateschi (Líder da Causa)."
 ---
 Mais uma série Netflix advinda de um experimento de produtores brasileiros. Cheguei a ver o piloto experimental no YouTube. Parecia promissor, ainda que precisasse de polimento no formato novelístico e superficial. Hoje, com a primeira temporada já produzida em nível Netflix, é possível afirmar que ele ainda precisa de polimento, pois possui os mesmos defeitos ignorados pela gangue de roteiristas.
 

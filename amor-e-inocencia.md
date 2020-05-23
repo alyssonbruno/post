@@ -6,7 +6,6 @@ date: "2011-04-27"
 tags: [ "draft", "movies" ]
 title: "Amor e Inocência"
 stars: "5/5"
-desc: "Amor e Inocência. Becoming Jane (UK, 2007). Dirigido por Julian Jarrold. Escrito por Jane Austen, Kevin Hood, Sarah Williams. Com Anne Hathaway, James McAvoy, Julie Walters, James Cromwell, Maggie Smith, Anna Maxwell Martin, Lucy Cohu, Laurence Fox, Ian Richardson."
 ---
 Depois de acompanharmos as divertidas adaptações dos romances de Jane Austen (Razão e Sensibilidade, Emma, Orgulho e Preconceito), chegou a hora de vermos a história da própria Jane, e como ela se tornou a escritora dos romances de época.
 

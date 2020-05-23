@@ -6,7 +6,6 @@ date: "2013-11-16"
 tags: [ "draft", "movies" ]
 title: "A Conversação"
 stars: "5/5"
-desc: "A Conversação. The Conversation (USA, 1974). Dirigido por Francis Ford Coppola. Escrito por Francis Ford Coppola. Com Gene Hackman, John Cazale, Allen Garfield, Frederic Forrest, Cindy Williams, Michael Higgins, Elizabeth MacRae, Teri Garr, Harrison Ford."
 ---
 Geralmente quando o Cinema se volta para si mesmo (rendendo boa parte das vezes filmes memoráveis) ele nunca pensa em descrever como o som é importante. Direção, atores, fotografia, trilha sonora, tudo isso parece relevante para o público médio. Mas o som, esse pobre coitado, é renegado à posição de "quanto mais invisível, melhor".
 

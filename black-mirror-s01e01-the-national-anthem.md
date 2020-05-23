@@ -6,7 +6,6 @@ date: "2015-12-13"
 tags: [ "draft", "series" ]
 title: "Black Mirror - S01E01 - The National Anthem"
 stars: "5/5"
-desc: "The National Anthem. Black Mirror (UK, 2011). Dirigido por Otto Bathurst. Escrito por Charlie Brooker, Charlie Brooker. Com Rory Kinnear, Lindsay Duncan, Donald Sumpter."
 ---
 Black Mirror é uma série que explora o que há de pior em nossa era da comunicação instantânea e da tecnologia crescente. Na verdade, eles vão um pouco além da nossa realidade atual, avançando alguns anos/décadas, onde algumas novidades brincam com nosso conceito de humanidade e relacionamentos, mídia e governos.
 

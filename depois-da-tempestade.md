@@ -7,7 +7,6 @@ date: "2016-10-20"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Depois da Tempestade"
 stars: "4/5"
-desc: "Depois da Tempestade. Umi yori mo mada fukaku (Japan, 2016). Dirigido por Hirokazu Kore-eda. Escrito por Hirokazu Koreeda, Hirokazu Koreeda. Com Hiroshi Abe (Shinoda Ryota), Yôko Maki (Shiraishi Kyoko), Taiyô Yoshizawa (Shiraishi Shingo), Kirin Kiki (Shinoda Yoshiko), Lily Franky, Isao Hashizume, Shôno Hayama (High school student), Sôsuke Ikematsu, Satomi Kobayashi."
 ---
 
 Os personagens são tão reais e carismáticos, exatamente como seria se estivéssemos testemunhando uma família japonesa e seus problemas (financeiros e emocionais), que há vários momentos em Depois da Tempestade em que assisti-lo se torna uma experiência naturalista, quase documental. O que "frustra" um pouco esse realismo é apenas a leve dramatização realizada para tornar mais palatável ao grande público, com uma ou outra trilha sonora cômica, e um ou outro comentário que algum personagem solta que é "perspicaz demais pra ser verdade". Mas esses são pecadilhos frente ao resultado final, denso e complexo, pois consegue explorar seus personagens e ainda evocar uma visão um tanto decadente da cultura japonesa (para o bem e para o mal), como o envelhecimento de sua população, a autonomia cada vez maior da mulher e as crises financeiras dos mais jovens.

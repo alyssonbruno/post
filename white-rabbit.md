@@ -6,7 +6,6 @@ date: "2016-01-04"
 tags: [ "draft", "movies" ]
 title: "White Rabbit"
 stars: "3/5"
-desc: "White Rabbit. White Rabbit (USA, 2013). Dirigido por Tim McCann. Escrito por Anthony Di Pietro, Anthony Di Pietro. Com Britt Robertson, Sam Trammell, Ryan Lee, Nick Krause, Dodie Brown, Kelcy Baker, Gabrielle N. Brown, Hayden Price, Cameron Feucht."
 ---
 O que esse filme quer dizer? Que é assim que se forma um psicopata que mata jovens em uma escola? Ou que é assim que se salva uma das vítimas? Qual a lição apresentada por um filme que já revela seu desfecho nos primeiros 30 segundos?
 

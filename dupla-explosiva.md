@@ -7,7 +7,6 @@ date: 2017-08-24T17:47:41
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Dupla Explosiva"
 stars: "4/5"
-desc: "Dupla Explosiva. The Hitman's Bodyguard (USA, 2017). Dirigido por Patrick Hughes. Escrito por Tom O'Connor. Com Elodie Yung (Amelia Roussel), Ryan Reynolds (Michael Bryce), Tsuwayuki Saotome (Kurosawa), Roy Hill (Helicopter Pilot / Newscaster), Richard E. Grant (Seifert), Gary Oldman (Vladislav Dukhovich), Rod Hallett (Professor Asimov), Yuri Kolokolnikov (Ivan), Nadia Konakchieva (Mrs. Asimov), Samuel L. Jackson (Darius Kincaid)."
 ---
 Dupla Explosiva pega carona na atmosfera cômica e absurda de Dois Caras Legais (Shane Black, 2016) e se dá muito bem com isso. O resultado é um filme de ação que consegue ser tenso com uma história que nos envolva, protagonizado por personagens carismáticos.
 

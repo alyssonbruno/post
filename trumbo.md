@@ -7,7 +7,6 @@ date: "2016-02-09"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Trumbo"
 stars: "4/5"
-desc: "Trumbo. Trumbo (USA, 2015). Dirigido por Jay Roach. Escrito por John McNamara, Bruce Cook. Com Bryan"
 ---
 Trumbo tristemente é daqueles filmes que nos esquecemos como foi nos primeiros minutos após a sessão. Felizmente, aquela experiência cinematográfica da viagem no tempo ainda irá entregar ao espectador a doce memória de um personagem tão excêntrico, além de estarmos falando de Cinema, um assunto sempre agradável (mesmo que nesse caso envolva sua pequena dose de política).
 

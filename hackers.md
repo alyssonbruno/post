@@ -6,7 +6,6 @@ date: "2011-11-19"
 tags: [ "draft", "movies" ]
 title: "Hackers"
 stars: "3/5"
-desc: "Hackers. Hackers (USA, 1995). Dirigido por Iain Softley. Escrito por Rafael Moreu. Com Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard, Laurence Mason, Renoly Santiago, Fisher Stevens, Alberta Watson, Darren Lee."
 ---
 O mundo dos computadores na década de 90 poderia parecer muito intimidador para a pessoa leiga. Com a internet ainda engatinhando, as raras pessoas que sabiam mexer com esses dispositivos modernos eram considerados gênios incompreendidos, pois quase ninguém realmente entendia o que as pessoas faziam digitando naquela máquina de escrever eletrônica. O fato de ser incompreendido também gerava a desconfiança, pois quem controlaria essas pessoas dotadas do raro dom de conversar com as máquinas? Ao mesmo tempo, havia uma sensação de "perigo invisível", pois a priori qualquer pessoa dessas poderia ter controle nos sistemas que aos poucos estavam sendo entregues à informatização.
 

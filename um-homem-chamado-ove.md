@@ -6,7 +6,6 @@ date: "2017-02-04"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Homem Chamado Ove"
 stars: "3/5"
-desc: "Um Homem Chamado Ove. En man som heter Ove (Sweden, 2015). Dirigido por Hannes Holm. Escrito por Hannes Holm, Fredrik Backman. Com Rolf Lassgård (Ove), Bahar Pars (Parvaneh), Filip Berg (Unga Ove), Ida Engvoll (Sonja), Tobias Almborg (Patrick), Klas Wiljergård (Jimmy), Chatarina Larsson (Anita), Börje Lundberg (Rune), Stefan Gödicke (Oves pappa)."
 ---
 Um Homem Chamado Ove é um filme extremamente fácil de se ver. Indicado ao Oscar por filme estrangeiro e maquiagem, acaba sendo paradoxal ver um filme que se esforça tanto em ser tão agradável sobre um homem que parece fazer de tudo para não o ser.
 

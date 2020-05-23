@@ -6,7 +6,6 @@ date: "2012-06-27"
 tags: [ "draft", "movies" ]
 title: "Sombras da Noite"
 stars: "3/5"
-desc: "Sombras da Noite. Dark Shadows (USA, 2012). Dirigido por Tim Burton. Escrito por Seth Grahame-Smith, John August, Seth Grahame-Smith, Dan Curtis. Com Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Eva Green, Jackie Earle Haley, Jonny Lee Miller, Bella Heathcote, Chloë Grace Moretz, Gulliver McGrath."
 ---
 Em minha cabeça há um filme muito bonito que reconstrói Drácula com um apuro técnico que apenas um diretor como Tim Burton poderia conceber com sua singular visão gótica do mundo. Se transportarmos esse mundo para os coloridos anos 70 teremos então um divertido e promissor choque cultural entre épocas separadas por nada menos do que duzentos anos.
 

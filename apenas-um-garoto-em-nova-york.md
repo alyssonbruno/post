@@ -7,7 +7,6 @@ date: 2017-11-29T23:29:38
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Apenas um Garoto em Nova York"
 stars: "4/5"
-desc: "Apenas um Garoto em Nova York. The Only Living Boy in New York (USA, 2017). Dirigido por Marc Webb. Escrito por Allan Loeb. Com Callum Turner (Thomas Webb), Jeff Bridges (W.F. Gerald), Kate Beckinsale (Johanna), Pierce Brosnan (Ethan Webb), Cynthia Nixon (Judith Webb), Kiersey Clemons (Mimi Pastori), Tate Donovan (George), Wallace Shawn (David), Anh Duong (Barbara)."
 ---
 A sensação de Apenas um Garoto em Nova York é parecida com tantos outros. Uma mistura de drama social com romance misterioso. Com uma femme fatale mais realista. E uma relação familiar problemática. Relações de poder que são fachadas sociais... e no topo de tudo isso, um garoto tentando fazer a coisa certa. Quer dizer, pelo menos enquanto ele acredita existir a coisa certa. Ah, e o seu narrador, que o conhece tão profundamente que "seu" garoto parece ser o personagem para o qual seu livro foi criado.
 

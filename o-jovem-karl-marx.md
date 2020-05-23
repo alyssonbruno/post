@@ -7,7 +7,6 @@ date: 2017-10-21T20:06:17
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Jovem Karl Marx"
 stars: "3/5"
-desc: "O Jovem Karl Marx. Le jeune Karl Marx (Germany, 2017). Dirigido por Raoul Peck. Escrito por Pascal Bonitzer, Raoul Peck, Pierre Hodgson. Com August Diehl (Karl Marx), Stefan Konarske (Friedrich Engels), Vicky Krieps (Jenny von Westphalen), Olivier Gourmet (Pierre Proudhon), Hannah Steele (Mary Burns), Alexander Scheer (Wilhelm Weitling), Hans-Uwe Bauer (Arnold Ruge), Michael Brandner (Joseph Moll), Ivan Franek (Maaikhail Aleksandrovich Bakunin)."
 ---
 É muito comum fãs de quadrinhos e livros ficarem ansiosos em ver o resultado das histórias retratadas nesses formatos transpostas para o cinema. E o resultado que mais os agrada geralmente é o mais fidedigno ao conteúdo original. Pois bem: eis que surge este O Jovem Karl Marx, que direto dos livros de escola, retrata um período da História de maneira formal e burocrática, o que não é um defeito se você gostar de História, economia, política ou até filosofia.
 

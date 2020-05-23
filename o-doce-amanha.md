@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-04"
 title: "O Doce Amanhã"
-desc: '"The Sweet Hereafter" (Canadá, 1997), escrito por Russell Banks e Atom Egoyan, dirigido por Atom Egoyan, com Ian Holm, Caerthan Banks e Sarah Polley. DVD.'
 imdb: "0120255"
 tags: [ "draft", "movies" ]
 stars: "2/5"

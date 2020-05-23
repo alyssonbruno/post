@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "1137450"
 
 stars: "4/5"
-desc: "Death Wish (EUA, 2018), escrito por Joe Carnahan baseado no romance de Brian Garfield e no filme de 1974 de Wendell Mayes, dirigido por Eli Roth, com Bruce Willis, Vincent D'Onofrio, Elisabeth Shue."
 
 ---
 Se você tem uma certa idade ou já se interessou por filmes de ação antigos provavelmente já se deparou com a série Desejo de Matar, protagonizada por um Charles Bronson que começava a formar a persona do "homem que busca vingança por algo que fizeram com sua família". Para os contemporâneos essa persona é de Liam Neeson e sua série Busca Implacável. Curiosamente este remake contém a mesma premissa do último filme de Neeson, O Passageiro, onde o homem comum, apesar de fazer tudo conforme a lei e os bons costumes, se vê acuado em uma vida opressiva e que ainda por cima dá a sensação de impotência e injustiça.

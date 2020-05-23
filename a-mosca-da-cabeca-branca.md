@@ -6,7 +6,6 @@ date: "2015-11-28"
 tags: [ "draft", "movies" ]
 title: "A Mosca da Cabeça Branca"
 stars: "5/5"
-desc: "A Mosca da Cabeça Branca. The Fly (USA, 1958). Dirigido por Kurt Neumann. Escrito por James Clavell, George Langelaan. Com David Hedison, Patricia Owens, Vincent Price, Herbert Marshall, Kathleen Freeman, Betty Lou Gerson, Charles Herbert, Eugene Borden, Harry Carter."
 ---
 "The Fly" cria uma sensação de deslumbramento e fascinação pelo horror da possibilidade de acontecer na vida real o que vemos no filme. E o que vemos não é muito, e seus efeitos são irregulares. Porém, ao apostar no circunstancial em vez do puro deleite visual e gráfico, a obra não-datada da década de 50 mantém sua força dramática e a capacidade de fazer espectadores ainda hoje se pegarem pensando em como tudo isso é surreal, horrível e... fascinante.
 

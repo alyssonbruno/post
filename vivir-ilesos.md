@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-15"
 title: "Vivir Ilesos"
-desc: '"Vivir Ilesos" (Peru, 2019), escrito por Manuel Siles, dirigido por Manuel Siles, com Magaly Solier, Oscar Ludeña, Javier Trujillo e Renato Gianoli. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9682578"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

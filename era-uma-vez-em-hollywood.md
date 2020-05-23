@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-23"
 title: "Era Uma Vez em... Hollywood"
-desc: '"Once Upon a Time... in Hollywood" (EUA, Reino Unido, China, 2019), escrito por Quentin Tarantino, dirigido por Quentin Tarantino, com Leonardo DiCaprio, Brad Pitt e Margot Robbie. Vi no cinema comercial, cercado de pessoas que adoravam comentar sobre referências do Tarantino em vez de assistir ao filme.'
 imdb: "7131622"
 tags: [ "draft", "movies" ]
 stars: "3/5"

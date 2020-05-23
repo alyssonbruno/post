@@ -6,7 +6,6 @@ date: "2017-01-05"
 tags: [ "draft", "movies" ]
 title: "A Assassina"
 stars: "4/5"
-desc: "A Assassina. Cìkè Niè Yinniáng (Taiwan, 2015). Dirigido por Hsiao-Hsien Hou. Escrito por Cheng Ah, T'ien-wen Chu, Hsiao-Hsien Hou, Hai-Meng Hsieh, Xing Pei. Com Chen Chang (Tian Ji'an), Qi Shu (Nie Yinniang), Yun Zhou (Lady Tian), Satoshi Tsumabuki (The Mirror Polisher), Dahong Ni (Nie Feng), Mei Yong (Yinniang' Mother), Zhen Yu Lei (Tien Xing), Nikki Hsin-Ying Hsieh (Huji), Ethan Juan (Xia Jing)."
 ---
 Esta é uma dica para os fãs de adaptações live-action de animes, para os fãs de filmes de lutas marciais sem sentido e para os fãs da cultura milenar do Oriente. A estilização por si só gera resultados bonitos, impressionantes e que entretem momentaneamente. É seguindo a contramão que A Assassina estiliza seu retrato perene de um momento na história da China para atingir não a beleza pela beleza, mas a introspecção do espectador em um mundo que não existe mais, mas que em algum momento do tempo era vívido, colorido e rico nas mentes das pessoas.
 

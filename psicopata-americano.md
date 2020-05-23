@@ -6,7 +6,6 @@ date: "2012-02-26"
 tags: [ "draft", "movies" ]
 title: "Psicopata Americano"
 stars: "5/5"
-desc: "Psicopata Americano. American Psycho (USA, 2000). Dirigido por Mary Harron. Escrito por Bret Easton Ellis, Mary Harron, Guinevere Turner. Com Christian Bale, Justin Theroux, Josh Lucas, Bill Sage, Chloë Sevigny, Reese Witherspoon, Samantha Mathis, Matt Ross, Jared Leto."
 ---
 Existem vários exemplos de serial killers organizados na literatura e no cinema/tv, como Kevin Costner em Mr. Brooks (Instinto Secreto) e o mais famoso Michael C. Hall como Dexter Morgan. Porém, pouco se vê dos assassinos que são facilmente pegos exatamente porque não possuem disciplina e ordem: matam as pessoas de qualquer forma. Não possuem método: possuem impulso.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-24"
 title: "Testemunha Invisível"
-desc: '"Il testimone invisibile", escrito por Oriol Paulo, Stefano Mordini e Massimiliano Cantoni, dirigido por Stefano Mordini, com Riccardo Scamarcio, Miriam Leone e Fabrizio Bentivoglio. Escrito para o CinemAqui.'
 imdb: "7735502"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

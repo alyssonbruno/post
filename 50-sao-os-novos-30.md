@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-11T18:10:21-03:00
 title: "50 São os Novos 30"
-desc: "Marie-Francine. França/Bélgica, 2017. Escrito por Sabine Haudepin e Valérie Lemercier. Dirigido por Lemercier. Com Valérie Lemercier, Patrick Timsit, Hélène Vincent."
 imdb: "6081632"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

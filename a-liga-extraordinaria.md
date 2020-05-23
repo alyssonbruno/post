@@ -6,7 +6,6 @@ date: "2012-01-01"
 tags: [ "draft", "movies" ]
 title: "A Liga Extraordinária"
 stars: "1/5"
-desc: "A Liga Extraordinária. The League of Extraordinary Gentlemen (USA, 2003). Dirigido por Stephen Norrington. Escrito por Alan Moore, Kevin O'Neill, James Robinson. Com Sean Connery, Naseeruddin Shah, Peta Wilson, Tony Curran, Stuart Townsend, Shane West, Jason Flemyng, Richard Roxburgh, Max Ryan."
 ---
 O filme pretende contar a história de pessoas que, dotadas de alguma capacidade especial para sobreviver, são reunidos pelo Império Britânico para tentar evitar que seja instaurada uma possível guerra mundial, tentativas de um ganancioso sujeito que usa uma máscara e simula ataque entre nações. Isso na virada para o século XX em uma Era Vitoriana alternativa.
 

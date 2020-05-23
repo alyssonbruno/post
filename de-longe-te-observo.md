@@ -7,7 +7,6 @@ date: "2016-07-16"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "De Longe Te Observo"
 stars: "4/5"
-desc: "De Longe Te Observo. Desde allá (Venezuela, 2015). Dirigido por Lorenzo Vigas. Escrito por Lorenzo Vigas, Guillermo Arriaga, Lorenzo Vigas. Com Alfredo Castro, Luis Silva, Jericó Montilla, Catherina Cardozo, Jorge Luis Bosque, Greymer Acosta, Auffer Camacho, Ivan Peña, Joretsis Ibarra."
 ---
 De Longe Te Observo é um trabalho intimista que subverte a estrutura dos elementos que formam esse thriller/drama e com isso inverte nossa percepção sobre o que realmente está acontecendo. Talvez ele não consiga nos despistar o suficiente, mas o importante aqui é que o efeito funciona. Dessa forma, previsível ou não, aqui temos uma história que mexe com conceitos como trauma, apego, dinheiro e vingança.
 

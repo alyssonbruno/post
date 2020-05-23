@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-09"
 title: "Assunto de Família"
-desc: '"Manbiki kazoku (aka Shoplifters)" (Japão, 2018), escrito por Hirokazu Koreeda, dirigido por Hirokazu Koreeda, com Lily Franky, Sakura Andô, Kirin Kiki, Mayu Matsuoka, Jyo Kairi e Miyu Sasaki. Estreou na Netflix e já estávamos pensando em ver no cinema quando saiu de cartaz.'
 imdb: "8075192"
 tags: [ "draft", "movies" ]
 stars: "4/5"

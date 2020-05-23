@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-01"
 title: "Os Dois Filhos de Joseph"
-desc: "Deux fils (aka Father and Sons). France, Belgium, 2018. Dirigido por Félix Moati, escrito por Félix Moati, Florence Seyvos. Com Vincent Lacoste, Benoît Poelvoorde, Mathieu Capella. Escrito originalmente para o CinemAqui."
 imdb: "7543914"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

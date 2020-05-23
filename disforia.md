@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-08"
 title: "Disforia"
-desc: '"Disforia" (Brasil, 2019), escrito por Lucas Cassales, dirigido por Lucas Cassales, com Isabela Lima, Rafael Sieg, Vinícius Ferreira e Janaína Kremer.'
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "2/5"
 ---

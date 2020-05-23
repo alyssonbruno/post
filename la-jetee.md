@@ -1,6 +1,5 @@
 ---
 date: "2020-04-26"
-desc: '"La Jetée" (France, 1962), escrito por Chris Marker, dirigido por Chris Marker, com Jean Négroni, Hélène Chatelain e Davos Hanich.'
 imdb: "0056119"
 stars: "5/5"
 title: "A Pista (La Jetée)"

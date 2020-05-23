@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-22T19:29:20-03:00
 title: "O Silêncio dos Outros"
-desc: "El silencio de otros (aka The Silence of Others) (EUA, Espanha, Canadá, França), escrito por Ricardo Acosta, Robert Bahar, Almudena Carracedo, Kim Roberts, dirigido por Robert Bahar e Almudena Carracedo, com María Martín, José María Galante, Carlos Slepoy."
 imdb: "8099236"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

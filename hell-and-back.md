@@ -6,7 +6,6 @@ date: "2016-03-13"
 tags: [ "draft", "movies" ]
 title: "Hell and Back"
 stars: "1/5"
-desc: "Hell and Back. Hell and Back (USA, 2015). Dirigido por Tom Gianas, Ross Shuman. Escrito por Tom Gianas, Hugh Sterbakov, Zeb Wells. Com Nick Swardson, Mila Kunis, Bob Odenkirk, T.J. Miller, Rob Riggle, Susan Sarandon, Danny McBride, Maria Bamford, Lance Bass."
 ---
 Uma comédia escrachada nem sempre é lançar um monte de palavrões e piadas a respeito de sexo, gays, estupro, negros, pênis e vagina. Se você não sabe o que está fazendo, corre grande risco de gerar o efeito contrário: a indiferença, ou o desprazer. A maior prova disso recentemente é essa animação, que consegue errar na história, no tom, na lógica, na narrativa e na direção.
 

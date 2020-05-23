@@ -6,7 +6,6 @@ date: "2010-11-26"
 tags: [ "draft", "movies" ]
 title: "Senna"
 stars: "5/5"
-desc: "Senna. Senna (UK, 2010). Dirigido por Asif Kapadia. Escrito por Manish Pandey. Com Ayrton Senna, Alain Prost, Frank Williams, Ron Dennis, Viviane Senna, Milton da Silva, Neide Senna, Jackie Stewart, Sid Watkins."
 ---
 De que são feitos os heróis? Como uma pessoa cresce internamente e transparece externamente, para o resto do mundo, como alguém que faz a diferença; tanto profissional, quanto moralmente?
 

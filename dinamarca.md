@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-24"
 title: "Dinamarca"
-desc: '"Denmark" (Reino Unido, 2019), escrito por Jeff Murphy, dirigido por Adrian Shergold, com Rafe Spall, Joel Fry e Steve Speirs. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7037712"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

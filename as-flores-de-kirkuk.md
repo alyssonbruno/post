@@ -6,7 +6,6 @@ date: "2011-10-25"
 tags: [ "draft", "movies" ]
 title: "As Flores de Kirkuk"
 stars: "3/5"
-desc: "As Flores de Kirkuk. Golakani Kirkuk - The Flowers of Kirkuk (Italy, 2010). Dirigido por Fariborz Kamkari. Escrito por Fariborz Kamkari, Naseh Kamkari. Com Morjana Alaoui, Ertem Eser, Mohamed Zouaoui, Mohammad Bakri, Maryam Hassouni, Ashraf Hamdi, Falah Fleveh, Shilan Rahmani, Sarkaw Gorany."
 ---
 A aparente originalidade desse filme situado na história do Iraque sob o comando do ditador Saddam Hussein, que promoveu uma matança de povos que não apoiavam seu regime, reside no seu diretor italiano e em sua estrutura formulaica, que lembra romances novelescos, mas que aparece erroneamente embutido em uma atmosfera de drama e desolação.
 

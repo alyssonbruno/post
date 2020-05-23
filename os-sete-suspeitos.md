@@ -6,7 +6,6 @@ date: "2012-03-04"
 tags: [ "draft", "movies" ]
 title: "Os 7 Suspeitos"
 stars: "3/5"
-desc: "Os 7 Suspeitos. Clue (USA, 1985). Dirigido por Jonathan Lynn. Escrito por John Landis, Jonathan Lynn, Jonathan Lynn, Anthony E. Pratt. Com Eileen Brennan, Tim Curry, Madeline Kahn, Christopher Lloyd, Michael McKean, Martin Mull, Lesley Ann Warren, Colleen Camp, Lee Ving."
 ---
 Já faz algumas décadas que não revia essa comédia ambientada nos anos 50 que mistura elementos de suspense, terror e policial de uma maneira particularmente competente. De certa forma, quando eu tinha cerca de 10 anos já sabia que a graça do filme residia tanto em sua história quanto na dinâmica do grupo, os suspeitos do título.
 

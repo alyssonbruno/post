@@ -6,7 +6,6 @@ date: "2014-05-10"
 tags: [ "draft", "movies" ]
 title: "Scarface"
 stars: "5/5"
-desc: "Scarface. Scarface (USA, 1983). Dirigido por Brian De Palma. Escrito por Oliver Stone, Howard Hawks, Ben Hecht, Armitage Trail. Com Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio, Robert Loggia, Miriam Colon, F. Murray Abraham, Paul Shenar, Harris Yulin."
 ---
 Scarface é um clássico instantâneo, desses que nasce um dia e já gera uma multidão de fãs. O mais novo seriado de sucesso, Breaking Bad, faz praticamente uma apologia ao filme de Brian de Palma. Porém, diferente de Walter White, Tony Montana já se mostra um bicho ruim desde a primeira cena, interrogado e acuado por americanos que precisam verificar quais dentro os milhares de cubanos que chegaram ao "país da liberdade" são criminosos. Tony se denomina um preso político, e fala horrores do regime e da figura de Fidel Castro. Sua revolta contra o comunismo encontrará uma rima poética em suas reclamações contra os capitalistas ambiciosos depois de um arco de quase três horas de duração ter se fechado.
 

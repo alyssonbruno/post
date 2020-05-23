@@ -6,7 +6,6 @@ tags: [ "draft", "series" ]
 imdb: "0487831"
 
 stars: "4/5"
-desc: "The IT Crowd"
 ---
 Já tentou desligar e ligar o computador de novo? Você sabe o que é IT? Se a resposta para essas perguntas foram sim então talvez você goste dessa série de comédia britânica que apela para quadros que fogem um pouquinho da realidade, mas que continua nos lembrando como é o ecossistema do pessoal de suporte.
 

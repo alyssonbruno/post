@@ -7,7 +7,6 @@ date: "2015-04-24"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Garotas"
 stars: "5/5"
-desc: "Garotas. Bande de filles (France, 2014). Dirigido por Céline Sciamma. Escrito por Céline Sciamma. Com Karidja Touré, Assa Sylla, Lindsay Karamoh, Mariétou Touré, Idrissa Diabaté, Simina Soumaré, Dielika Coulibaly, Cyril Mendy, Djibril Gueye."
 ---
 Garotas é daqueles filmes que você começa assistir sem entender muito bem qual a história que quer ser contada. Sabemos que é sobre adolescência, essa fase impulsiva. A primeira cena mostra meninas dando duro em um jogo de futebol americano. A cena seguinte as mostra juntas, falando todas ao mesmo tempo, empolgadas. A cena que finaliza a introdução as mostra quietas, já no conjunto de prédios onde moram, e onde aos poucos vão se separando. Até sobrar Marieme (Karidja Touré em sua estreia).
 

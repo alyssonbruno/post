@@ -6,7 +6,6 @@ date: "2014-05-13"
 tags: [ "draft", "movies" ]
 title: "Divergente"
 stars: "3/5"
-desc: "Divergente. Divergent (USA, 2014). Dirigido por Neil Burger. Escrito por Veronica Roth, Evan Daugherty, Vanessa Taylor. Com Shailene Woodley, Theo James, Ashley Judd, Jai Courtney, Ray Stevenson, Zoë Kravitz, Miles Teller, Tony Goldwyn, Ansel Elgort."
 ---
 Divergente é o Jogos Vorazes sem muita ação, sem muito drama, sem atuações e com pouca inspiração. No entanto, não deixa de ser um filme OK. Ele se mantém morno o tempo todo, mas aqui e ali existem momentos que prometem ser mais alguma coisa. Infelizmente, são apenas momentos. A apresentação do mundo distópico ocupa uma parte da história, e a tentativa da protagonista, Beatrice/Tris (Shailene Woodley de Os Descendentes), de não ser eliminada da facção que escolheu ocupa a outra parte da história. É necessário dizer que Tris é uma Divergente.
 

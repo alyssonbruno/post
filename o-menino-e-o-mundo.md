@@ -6,7 +6,6 @@ date: "2016-02-23"
 tags: [ "draft", "movies" ]
 title: "O Menino e o Mundo"
 stars: "3/5"
-desc: "O Menino e o Mundo. O Menino e o Mundo (Brazil, 2013). Dirigido por Alê Abreu. Escrito por Alê Abreu. Com Vinicius Garcia, Felipe Zilse, Alê Abreu, Lu Horta, Marco Aurélio Campos."
 ---
 O Menino e o Mundo é uma animação sobre os olhos de um menino enxergando o mundo. E de fato ele consegue isso, com maestria: o mundo que vemos é estático, simplista, ingênuo e dramatizado até a última gota de tinta.
 

@@ -6,7 +6,6 @@ date: "2015-12-27"
 tags: [ "draft", "movies" ]
 title: "Mr. Holmes"
 stars: "3/5"
-desc: "Mr. Holmes. Mr. Holmes (UK, 2015). Dirigido por Bill Condon. Escrito por Mitch Cullin, Jeffrey Hatcher, Arthur Conan Doyle. Com Ian McKellen, Laura Linney, Milo Parker, Hiroyuki Sanada, Hattie Morahan, Patrick Kennedy, Roger Allam, Philip Davis, Frances de la Tour."
 ---
 Ian McKellen protagoniza um Sherlock Holmes no fim de sua vida, se divertindo no processo com expressões de um velho quase senil, aposentado após um caso que se arrepende de seu desfecho, embora não se lembre mais qual foi. Tudo o que resta são pequenas pistas e flashes que surgem conflitando com a versão ficcional de seu amigo já falecido, Dr. Watson. Acompanhado de seu jovem amigo Roger (Milo Parker), filho da governanta (Laura Linney), tenta escrever a versão real da história que causou sua aposentadoria.
 

@@ -6,7 +6,6 @@ date: "2011-07-31"
 tags: [ "draft", "movies" ]
 title: "Meia-Noite em Paris"
 stars: "4/5"
-desc: "Meia-Noite em Paris. Midnight in Paris (Spain, 2011). Dirigido por Woody Allen. Escrito por Woody Allen. Com Owen Wilson, Rachel McAdams, Kurt Fuller, Mimi Kennedy, Michael Sheen, Nina Arianda, Carla Bruni, Maurice Sonnenberg, Thierry Hancisse."
 ---
 Quando sabemos estar admirando o último enquadramento de meia-noite em Paris, é de doer o coração. O longa de Allen não só empolga, e muito, no início, como mantém suspenso o interesse pelos personagens (que não são poucos). Acredito que, se fosse possível, assistiríamos mais duas, três, ou até quatro horas de filmagem nesse universo criado por Allen.
 

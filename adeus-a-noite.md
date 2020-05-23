@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-31"
 title: "Adeus à Noite"
-desc: '"L''adieu à la nuit" (França, Alemanha, 2019), escrito por Amer Alwan e Léa Mysius, dirigido por André Téchiné, com Catherine Deneuve, Kacey Mottet Klein e Oulaya Amamra. Escrito para o CinemAqui.'
 imdb: "8569390"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

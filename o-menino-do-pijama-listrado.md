@@ -6,7 +6,6 @@ date: "2012-10-21"
 tags: [ "draft", "movies" ]
 title: "O Menino do Pijama Listrado"
 stars: "4/5"
-desc: "O Menino do Pijama Listrado. The Boy in the Striped Pyjamas (UK, 2008). Dirigido por Mark Herman. Escrito por John Boyne, Mark Herman. Com Asa Butterfield, Zac Mattoon O'Brien, Domonkos Németh, Henry Kingsmill, Vera Farmiga, Cara Horgan, Zsuzsa Holl, Amber Beattie, László Áron."
 ---
 Há filmes que possuem uma catarse tão forte e fluida durante a narrativa que parece fácil produzir isso no espectador. No entanto, muitas vezes tudo isso é fruto da nossa imaginação, e há um trabalho grande do início ao fim para que esse efeito seja criado da maneira com que ocorre. Ora, como explicar que um amontoado de bonecas consiga ser tão impactante para os nossos olhos?
 

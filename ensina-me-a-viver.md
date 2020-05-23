@@ -6,7 +6,6 @@ date: "2011-11-27"
 tags: [ "draft", "movies" ]
 title: "Ensina-me a Viver"
 stars: "4/5"
-desc: "Ensina-me a Viver. Harold and Maude (USA, 1971). Dirigido por Hal Ashby. Escrito por Colin Higgins. Com Ruth Gordon, Bud Cort, Vivian Pickles, Cyril Cusack, Charles Tyner, Ellen Geer, Eric Christmas, G. Wood, Judy Engles."
 ---
 Harold é um garoto problemático para sua idade. Obcecado em fingir suicídios e sentindo prazer em frequentar enterros, não possui outra pretensão na vida. Introspecto e de poucas palavras, o uso de músicas existencialistas em torno dos seus atos aprofunda ainda mais seus sentimentos.
 

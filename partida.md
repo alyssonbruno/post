@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-23"
 title: "Partida"
-desc: '"Partida" (Brasil, 2018), dirigido por Caco Ciocler, com Georgette Fadel, Léo Steinbruch, Paula Cesari, Sarah Lessa, Vasco Pimentel. Escrito para o CinemAqui na cobertura da #mostrasp.'
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

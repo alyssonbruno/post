@@ -6,7 +6,6 @@ date: "2015-09-19"
 tags: [ "draft", "series" ]
 title: "Terror in Resonance"
 stars: "3/5"
-desc: "Terror in Resonance. Zankyo no Terror (Japan, 2014). Dirigido por Shinichirô Watanabe, Kazuto Nakazawa. Com Kaito Ishikawa, Soma Saito, Shunsuke Sakuya, Atsumi Tanezaki, Megumi Han."
 ---
 Esse aparentemente é um seriado de uma temporada apenas, com cada um de seus onze episódios com cerca de 20 minutos ou menos, dando no final das contas um filme de pouco mais de três horas com os famigerados cortes e padrões de mídia japonesa.
 

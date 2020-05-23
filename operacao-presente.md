@@ -6,7 +6,6 @@ date: "2011-07-12"
 tags: [ "draft", "movies" ]
 title: "Operação Presente"
 stars: "4/5"
-desc: "Operação Presente. Arthur Christmas (UK, 2011). Dirigido por Sarah Smith, Barry Cook. Escrito por Peter Baynham, Sarah Smith. Com James McAvoy, Hugh Laurie, Bill Nighy, Jim Broadbent, Imelda Staunton, Ashley Jensen, Marc Wootton, Laura Linney, Eva Longoria."
 ---
 A nova animação da Sony parte para o óbvio gênero de filmes natalinos dessa época, mas faz bonito: Operação Presente subverte nossos conceitos do que é atualmente o natal, parte do ponto de vista do Papai Noel e seus elfos e acusa de maneira inteligente o modo superficial pelo qual muitos de nós enxergamos essa data que um dia foi muito especial.
 

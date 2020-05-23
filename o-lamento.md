@@ -7,7 +7,6 @@ date: "2016-12-15"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Lamento"
 stars: "3/5"
-desc: "O Lamento. Goksung (South Korea, 2016). Dirigido por Hong-jin Na. Escrito por Hong-jin Na. Com Do Won Kwak (Jong-Goo), Woo-hee Chun (The Woman of No-name), Jung-min Hwang (Il-Gwang), So-yeon Jang, Han-Cheol Jo, Hwan-hee Kim (Hyo-jin), Jun Kunimura (The Stranger)."
 ---
 O Lamento é um terror coreano, e só essa descrição seria o suficiente para chamar a atenção de qualquer fã de terror que se preze. Afinal de contas, terrores asiáticos já são de praxe as melhores fontes de medo humano, e geralmente vem acompanhados de lendas sempre um pouco pesadas demais, como se pode comprovar através de "O Chamado", "Espíritos - A Morte Está ao Seu Lado", "Medo", e "O Hospedeiro" (que é muito mais um drama).
 

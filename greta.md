@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-30"
 title: "Greta"
-desc: '"Greta" (Brasil, 2019), escrito por Armando Praça, dirigido por Armando Praça, com Marco Nanini, Denise Weinberg e Demick Lopes. Escrito para o CinemAqui.'
 imdb: "9477532"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

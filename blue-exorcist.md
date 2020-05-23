@@ -6,7 +6,6 @@ date: "2014-08-31"
 tags: [ "draft", "series", "animes" ]
 title: "Blue Exorcist"
 stars: "3/5"
-desc: "Blue Exorcist. Ao no ekusoshisuto (Japan, 2011). Dirigido por Tensai Okamura, Alex Von David. Escrito por Alex Von David, Ryôta Yamaguchi, Shinsuke Ônishi, Ikuko Takahashi, Natsuko Takahashi, Kazue Katô. Com Nobuhiko Okamoto, Johnny Yong Bosch, Tobias Diakow, Bryce Papenbrook, Jun Fukuyama, Hiroshi Kamiya, Kôji Yusa, Sam Riegel, Kana Hanazawa."
 ---
 Blue Exorcist em seu primeiro episódio é um exercício de estilo e composição de personagem que passa tão rápido que cumpre com louvor seu papel de fisgar o espectador. Porém, para qualquer um que tenha visto meia-dúzia de filmes/séries/animações, fica claro que logo o personagem melhor trabalhado (leia-se: mais fodástico-ever) terá que morrer para dar lugar a um drama que -- claro! -- só se resolverá no último episódio de uma longa série que mistura humor animê quase sempre mal trabalhado com raros, mas ótimos, momentos de tensão e drama embutidos em uma atmosfera fascinante a respeito da divisão do mundo em carnal e espiritual.
 

@@ -1,7 +1,6 @@
 ---
 date: "2020-04-26"
 title: "Cinammon"
-desc: "Minha primeira tentativa de fazer roll de canela."
 categories: [ "blog" ]
 tags: [ "draft", "food", "recipes" ]
 ---

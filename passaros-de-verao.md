@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-07"
 title: "Pássaros de Verão"
-desc: '"Pájaros de Verano (aka Birds of Passage)" (Colômbia, 2018), escrito por Maria Camila Arias, Jacques Toulemonde Vidal e Cristina Gallego, dirigido por Cristina Gallego e Ciro Guerra, com Carmiña Martínez, José Acosta e Natalia Reyes. Texto escrito originalmente para o CinemAqui.'
 imdb: "6386748"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

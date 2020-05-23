@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-09-15T20:24:09-03:00
 title: "Final Space"
-desc: "Criado por Olan Rogers e David Sacks."
 imdb: "6317068"
 
 tags: [ "draft", "series" ]

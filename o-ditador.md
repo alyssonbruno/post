@@ -6,7 +6,6 @@ date: "2012-09-06"
 tags: [ "draft", "movies" ]
 title: "O Ditador"
 stars: "4/5"
-desc: "O Ditador. The Dictator (USA, 2012). Dirigido por Larry Charles. Escrito por Sacha Baron Cohen, Alec Berg, David Mandel, Jeff Schaffer. Com Sacha Baron Cohen, Sayed Badreya, Rocky Citron, Liam Campora, Aasif Mandvi, Rizwan Manji, Rick Chambers, Elsayed Mohamed, Adeel Akhtar."
 ---
 Sacha Baron Cohen possui o melhor de duas comédias que particularmente gosto muito: a com estilo pastelão e a com piadas ácidas, de um humor negro que só é permitido pelas cenas absurdas que sugerem que devemos suprimir nosso sistema moral por cerca de uma hora e meia.
 

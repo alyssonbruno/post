@@ -6,7 +6,6 @@ date: 2018-12-30
 tags: [ "draft", "series" ]
 title: "Westworld S02 Season Finale"
 stars: "5/5"
-desc: "Westworld (USA, 2016). Dirigido por Jonathan Nolan, Fred Toye. Escrito por Lisa Joy, Jonathan Nolan, Michael Crichton, Halley Wegryn Gross, Dan Dietz, Charles Yu. Com Evan Rachel Wood (Dolores Abernathy), Thandie Newton (Maeve Millay), James Marsden (Teddy Flood), Jeffrey Wright (Bernard Lowe), Ed Harris (Man in Black), Anthony Hopkins (Dr. Robert Ford)."
 ---
 Foi uma longa jornada desde o começo da temporada, mas nossos neurônios mereciam um pouco mais de respeito. Eu sei que seres humanos não fazem escolha e tudo mais, mas a filosofia de boteco de Ford pós-morte é de matar. Se fosse possível escolher seria fácil: reescreve esses últimos dois episódios, o 9 e o 10, que tá fácil de consertar. Anda. Eu fico esperando.
 

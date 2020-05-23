@@ -6,7 +6,6 @@ date: "2012-04-30"
 tags: [ "draft", "movies" ]
 title: "Coisas Belas E Sujas"
 stars: "4/5"
-desc: "Coisas Belas E Sujas. Dirty Pretty Things (UK, 2002). Dirigido por Stephen Frears. Escrito por Steven Knight. Com Chiwetel Ejiofor, Audrey Tautou, Sergi López, Sophie Okonedo, Benedict Wong, Zlatko Buric, Kriss Dosanjh, Israel Oyelumade, Yemi Ajibade."
 ---
 No começo, assistimos à rotina de Okwe (Chiwetel Ejiofor) em seus inúmeros empregos, incluindo taxista clandestino no aeroporto e recepcionista de um sombrio hotel nos subúrbios de Londres. O clima opressivo e pessimista apenas aumenta conforme a história se desenrola, e a única esperança de paz parece residir nas gavetas do IML, junto do único amigo de Okwe. Vemos tudo sob o ponto de vista de Okwe, o que não é necessariamente uma coisa boa.
 

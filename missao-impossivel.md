@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-17T11:35:16-03:00
 title: "Missão: Impossível"
-desc: "Mission: Impossible. EUA, 1996. Dirigido por Brian De Palma, escrito por David Koepp a partir da série de TV de Bruce Geller. Com Tom Cruise, Jon Voight e Emmanuelle Béart. Ving Rhames está desde o começo na pele de Luther."
 imdb: "0117060"
 
 tags: [ "draft", "movies" ]

@@ -6,7 +6,6 @@ date: "2016-01-14"
 tags: [ "draft", "movies" ]
 title: "Veludo Azul"
 stars: "5/5"
-desc: "Veludo Azul. Blue Velvet (USA, 1986). Dirigido por David Lynch. Escrito por David Lynch. Com Isabella Rossellini, Kyle MacLachlan, Dennis Hopper, Laura Dern, Hope Lange, Dean Stockwell, George Dickerson, Priscilla Pointer, Frances Bay."
 ---
 Esse filme nos deixa a dúvida se ele é doentio ou se ele apenas reflete a doença no mundo. Não é de hoje que se acredita que violência é um sintoma da necessidade de controle de um indivíduo sobre outro. Muitas vezes isso assume o caráter sexual. E se adicionarmos uma moral nesse ingredientes, religiosa ou não, é óbvio que ela julgará como uma coisa mau e perversa.
 

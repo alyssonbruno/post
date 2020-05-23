@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-23T19:20:31-03:00
 title: "Amor e Revoluçao"
-desc: "Colonia. Alemanha, França, Luxemburgo, Reino Unido, EUA, 2015. Dirigido por Florian Gallenberger, escrito por Torsten Wenzel e Gallenberger. Com Emma Watson, Daniel Brühl, Michael Nyqvist."
 imdb: "4005402"
 
 tags: [ "draft", "movies" ]

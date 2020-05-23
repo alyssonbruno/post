@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-16"
 title: "Açúcar"
-desc: '"Açúcar" (Brasil, 2017), escrito por Sergio Oliveira e Renata Pinheiro, dirigido por Sergio Oliveira e Renata Pinheiro, com Maeve Jinkings, Dandara de Morais e Magali Biff. Escrito para o CinemAqui.'
 imdb: "7613748"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

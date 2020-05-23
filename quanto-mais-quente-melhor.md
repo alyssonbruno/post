@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-18"
 title: "Quanto Mais Quente Melhor"
 tags: [ "draft", "movies" ]
-desc: '"Some Like It Hot" (United States, 1959), escrito por Billy Wilder, I.A.L. Diamond e Robert Thoeren, dirigido por Billy Wilder, com Marilyn Monroe, Tony Curtis e Jack Lemmon.'
 imdb: "0053291"
 stars: "3/5"
 ---

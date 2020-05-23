@@ -6,7 +6,6 @@ date: "2013-07-14"
 tags: [ "draft", "movies" ]
 title: "Ninguém é Perfeito"
 stars: "3/5"
-desc: "Ninguém é Perfeito. Flawless (USA, 1999). Dirigido por Joel Schumacher. Escrito por Joel Schumacher. Com Robert De Niro, Philip Seymour Hoffman, Barry Miller, Chris Bauer, Skipp Sudduth, Wilson Jermaine Heredia, Nashom Benjamin, Scott Allen Cooper, Rory Cochrane."
 ---
 Robert de Niro é Walt Koontz, um policial aposentado como herói. Philip Seymour Hoffman é Rusty, uma drag queen que canta em uma boate gay em seu próprio show. Ambos vivem em um prédio decadente dos subúrbios, e Walt odeia a ideia de conviver com esses seres bizarros, até que um roubo entre criminosos faz ambos se encontrarem e terem que conviver com suas diferenças.
 

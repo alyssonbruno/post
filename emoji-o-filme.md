@@ -6,7 +6,6 @@ date: 2017-11-23T01:21:08
 tags: [ "draft", "movies" ]
 title: "Emoji: O Filme"
 stars: "1/5"
-desc: "Emoji: O Filme. The Emoji Movie (USA, 2017). Dirigido por Tony Leondis. Escrito por Tony Leondis, Eric Siegel, Mike White, John Hoffman. Com T.J. Miller (Gene), James Corden (Hi-5), Anna Faris (Jailbreak), Maya Rudolph (Smiler), Steven Wright (Mel Meh), Jennifer Coolidge (Mary Meh), Patrick Stewart (Poop), Christina Aguilera (Akiko Glitter), Sofía Vergara (Flamenca)."
 ---
 Não é sintomático que um filme chamado Emoji tenha tão poucas emoções? Talvez não. Afinal de contas, os emojis basicamente são a simplificação de nossa linguagem e dos nossos sentimentos. Onde um email com uma poesia é colocado na lixeira porque "usar textos é tão retrô" e onde no lugar de um emoji com uma única emoção enlatada surge um emoji com várias!
 

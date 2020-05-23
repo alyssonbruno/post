@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-30"
 title: "Meus Vizinhos, Os Yamadas"
-desc: '"My Neighbors the Yamadas" (Japan, 1999), escrito por Hisaichi Ishii, Isao Takahata e Leo Chu, dirigido por Isao Takahata, com Yukiji Asaoka, Tôru Masuoka e Masako Araki.'
 tags: [ "draft", "movies" ]
 imdb: "0206013"
 stars: "3/5"

@@ -6,7 +6,6 @@ date: "2012-07-03"
 tags: [ "draft", "movies" ]
 title: "Para Roma com Amor"
 stars: "4/5"
-desc: "Para Roma com Amor. To Rome with Love (USA, 2012). Dirigido por Woody Allen. Escrito por Woody Allen. Com Judy Davis, Flavio Parenti, Roberto Benigni, Alison Pill, Alessandro Tiberi, Alessandra Mastronardi, Alec Baldwin, Carol Alt, David Pasquesi."
 ---
 Quais diretores você conhece que conseguem fazer o velho clichê da "pessoa engasgando com o copo na mão ao ver cena inusitada" funcionar novamente? Eu conheço um: Woody Allen.
 

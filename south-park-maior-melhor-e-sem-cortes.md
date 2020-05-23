@@ -6,7 +6,6 @@ date: "2013-11-02"
 tags: [ "draft", "movies" ]
 title: "South Park Maior Melhor e Sem Cortes"
 stars: "4/5"
-desc: "South Park Maior Melhor e Sem Cortes. South Park: Bigger Longer & Uncut (USA, 1999). Dirigido por Trey Parker. Escrito por Trey Parker, Matt Stone, Trey Parker, Matt Stone, Pam Brady. Com Trey Parker, Matt Stone, Mary Kay Bergman, Isaac Hayes, Jesse Brant Howell, Anthony Cross-Thomas, Franchesca Clifford, Bruce Howell, Deb Adair."
 ---
 Não é nenhuma novidade que South Park preza pelo irreverente e polêmico em prol da comédia e, principalmente, na análise da estupidez humana (espectadores inclusos). No seu longa-metragem, portanto, nada muda. O diferencial é um frescor de piadas sobre os últimos acontecimentos no mundo que seriam feitas na versão televisiva de uma forma ou outra.
 

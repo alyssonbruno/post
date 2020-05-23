@@ -6,7 +6,6 @@ date: "2014-04-16"
 tags: [ "draft", "series", "animes" ]
 title: "Sword Art Online - Segunda Temporada"
 stars: "3/5"
-desc: "Sword Art Online - Segunda Temporada. Sword Art Online (Japan, 2012). Dirigido por Tomohiko Ito, Alex Von David, Pyeon-Gang Ho, Yoshiyuki Fujiwara, Yasuyuki Fuse, Makoto Hoshino, Shigetaka Ikeda, Takahiro Shikama, Tatsumi Fujii. Escrito por Reki Kawahara, Alex Von David, Yukito Kizawa, Yukie Sugawara, Yoshikazu Mukai, Munemasa Nakamoto, Shûji Iriyama, Naoki Shôji. Com Yoshitsugu Matsuoka, Bryce Papenbrook, Cherami Leigh, Haruka Tomatsu, Kanae Itô, Ayana Taketatsu."
 ---
 A série japonesa de animação SAO (Sword Art Online) possui uma estrutura bem confusa. Essa segunda temporada é formada por duas histórias, assim como a primeira, mas diferente da primeira as histórias quase não têm relação.
 

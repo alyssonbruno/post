@@ -6,7 +6,6 @@ date: "2013-03-04"
 tags: [ "draft", "movies" ]
 title: "VIPs"
 stars: "5/5"
-desc: "VIPs. VIPs (Brazil, 2010). Dirigido por Toniko Melo. Escrito por Mariana Caltabiano, Thiago Dottori, Bráulio Mantovani. Com Wagner Moura, Gisele Fróes, Emiliano Ruschel, Marcela Falci, Heitor Goldflus, Cecília Homem de Mello, Roger Gobeth, Amaury Jr., João Francisco Tottene."
 ---
 Quando vemos Wagner Moura descendo de helicóptero em uma festa de bacanas e logo em seguida em uma sala de aula imitando seu colega de classe temos em pouquíssimos minutos a exposição de todo o arco dramático de seu personagem. Essa economia ao contar a história de Marcelo permite que o espectador preste atenção a outros detalhes de sua vida, como sua relação com o "pai" ou sua busca por se tornar alguém diferente.
 

@@ -6,7 +6,6 @@ date: 2017-10-24T02:12:31
 tags: [ "draft", "movies" ]
 title: "Otherlife"
 stars: "3/5"
-desc: "Otherlife. OtherLife (Australia, 2017). Dirigido por Ben C. Lucas. Escrito por Kelley Eskridge, Ben C. Lucas, Gregory Widen. Com Jessica De Gouw (Ren Amari), Shalom Brune-Franklin (Coder #2), Thomas Cocquerel (Danny), T.J. Power (Sam), Liam Graham (Jared Amari), Clarence John Ryan (Byron Finbar), Sarah Anjuli (Start-up Programmer), Hoa Xuande (Coder #1), Adam T Perkins (Security Guard)."
 ---
 A protagonista de Otherlife parece bem bonitinha. Tem olhos claros. Ela coloca um líquido negro nos olhos das pessoas, e muito mais nela mesma. É um composto de nanotecnologia que apresenta um programa que te leva aos sonhos mais malucos. Por que malucos? Porque tem bugs, seu bobinho!
 

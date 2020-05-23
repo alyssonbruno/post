@@ -6,7 +6,6 @@ date: "2012-12-31"
 tags: [ "draft", "movies" ]
 title: "A Estrada"
 stars: "4/5"
-desc: "A Estrada. The Road (USA, 2009). Dirigido por John Hillcoat. Escrito por Cormac McCarthy, Joe Penhall. Com Viggo Mortensen, Kodi Smit-McPhee, Robert Duvall, Guy Pearce, Molly Parker, Michael Kenneth Williams, Garret Dillahunt, Charlize Theron, Bob Jennings."
 ---
 A jornada do menino e seu pai por um mundo pós-apocalítico logo assume por repetição das situações que são obrigados a viver -- fome, frio, perigo -- um caráter muito mais moral do que uma simples história de sobrevivência. Só assim A Estrada consegue fazer sentido por completo, desde a mãe desconsolada até as pessoas que os dois encontram pelo caminho.
 

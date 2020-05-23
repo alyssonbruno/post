@@ -6,7 +6,6 @@ date: "2013-01-23"
 tags: [ "draft", "movies" ]
 title: "Amor à Primeira Vista"
 stars: "4/5"
-desc: "Amor à Primeira Vista. Falling in Love (USA, 1984). Dirigido por Ulu Grosbard. Escrito por Michael Cristofer. Com Robert De Niro, Meryl Streep, Harvey Keitel, Jane Kaczmarek, George Martin, David Clennon, Dianne Wiest, Victor Argo, Wiley Earl."
 ---
 Ulu Grosbard, falecido recentemente (2012), não fez muitos filmes. Este é um "drama romântico" "a la anos 80" com Meryl Streep e Robert de Niro nos papéis principais e que lida com um tema ainda muito tabu, como podemos notar em trabalho semelhante (mas menos ousado) que Streep fará com Jack Nicholson, A Difícil Arte de Amar. Este Amor à Primeira Vista flerta o tempo todo com sua posição a respeito de relacionamentos extra-conjugais, e essa indecisão vista hoje em dia pode tanto significar uma época de transição quanto a transição dos seus próprios personagens, aos poucos aprendendo o valor da liberdade. Como fio narrativo, a indecisão de ambos funciona maravilhosamente bem como gerador de tensão.
 

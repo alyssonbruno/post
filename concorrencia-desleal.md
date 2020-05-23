@@ -6,7 +6,6 @@ date: "2010-12-20"
 tags: [ "draft", "movies" ]
 title: "Concorrência Desleal"
 stars: "3/5"
-desc: "Concorrência Desleal. Concorrenza sleale (Italy, 2001). Dirigido por Ettore Scola. Escrito por Furio Scarpelli, Ettore Scola, Furio Scarpelli, Silvia Scola, Giacomo Scarpelli. Com Diego Abatantuono, Sergio Castellitto, Gérard Depardieu, Antonella Attili, Claudio Bigagli, Sandra Collodel, Augusto Fornari, Elio Germano, Sabrina Impacciatore."
 ---
 Mais um filme político de Scola. Dessa vez o foco da história é a concorrência entre um alfaiate e um lojista, que dividem a fachada de suas lojas e suas casas, a amizade de seus filhos menores e um romance entre seu filho e sua filha maiores. Possuem muitas coisas em comum, menos uma: uma família é de judeus; a outra, não.
 

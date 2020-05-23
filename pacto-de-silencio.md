@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-13"
 title: "Pacto de Silêncio"
-desc: '"Le pacte du silence" (França, 2003), escrito por Marcelle Bernstein e Rose Bosch, dirigido por Graham Guit, com Gérard Depardieu, Élodie Bouchez e Carmen Maura.'
 imdb: "0325948"
 tags: [ "draft", "movies" ]
 stars: "2/5"

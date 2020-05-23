@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-09"
 title: "Bacurau"
-desc: '"Bacurau" (Brasil, França, 2019), escrito por Kleber Mendonça Filho e Juliano Dornelles, dirigido por Juliano Dornelles e Kleber Mendonça Filho, com Barbara Colen, Thomas Aquino e Silvero Pereira. Vi no Itaú da Augusta; a Sônia Braga agora tá bem velha e Mendonça com a faca entre os dentes.'
 imdb: "2762506"
 tags: [ "draft", "movies" ]
 stars: "3/5"

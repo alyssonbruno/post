@@ -6,7 +6,6 @@ date: "2016-10-25"
 tags: [ "draft", "movies" ]
 title: "Ascent"
 stars: "4/5"
-desc: "Ascent. Ascent (Japan, 2016). Dirigido por Fiona Tan. Escrito por Fiona Tan. Com Hiroki Hasegawa (Hiroshi)."
 ---
 Aviso: este filme é na verdade um foto-film experimental. Ou seja, ele é constituído de uma série de fotografias, e tem uma narração em off. Alguns filmes na história do Cinema se saíram fabulosamente bem com esse estilo (como A Pista/La Jetée, curta que inspirou o longa de sci-fi Os 12 Macacos, de Terry Giliam).
 

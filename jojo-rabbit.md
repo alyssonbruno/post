@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-27"
 title: "Jojo Rabbit"
-desc: '"Jojo Rabbit" (Nova Zelândia, República Tcheca e EUA, 2019), escrito por Taika Waititi e Christine Leunens, dirigido por Taika Waititi, com Roman Griffin Davis, Thomasin McKenzie e Scarlett Johansson. Que sessãozinha, hein?'
 imdb: "2584384"
 tags: [ "draft", "movies" ]
 stars: "2/5"

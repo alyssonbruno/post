@@ -6,7 +6,6 @@ date: "2010-08-06"
 tags: [ "draft", "movies" ]
 title: "400 contra 1 A História do Comando Vermelho"
 stars: "1/5"
-desc: "400 contra 1 A História do Comando Vermelho. 400 Contra 1 - Uma História do Crime Organizado (Brazil, 2010). Dirigido por Caco Souza. Escrito por William Lima da Silva, Julio Ludemir, Júlio Ludemir, Victor Navas. Com Daniel de Oliveira, Fabrício Boliveira, Daniela Escobar, Branca Messina, Negra Li, Lui Mendes, Felipe Kannenberg, Rodrigo Brassoloto, Jonathan Azevedo."
 ---
 Essa é a história do nascimento do Comando Vermelho, uma das quadrilhas de assalto a bancos mais organizada do Brasil. O filme oscila espasmodicamente entre os anos 70 e 80, respectivamente os anos em que os membros fundadores estavam presos, desenvolvendo os conceitos que unem o banco, e soltos, época em que o número de assaltos a bancos multiplicou-se consideravelmente, e coincidentemente a última década do regime ditatorial.
 

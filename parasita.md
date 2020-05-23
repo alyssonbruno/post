@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-21"
 title: "Parasita"
-desc: '"Gisaengchung (aka Parasite)" (Coreia do Sul, 2019), escrito por Bong Joon Ho, dirigido por Bong Joon Ho, com Kang-ho Song, Sun-kyun Lee e Yeo-jeong Jo. Consegui ver esse ainda no cinema.'
 imdb: "6751668"
 tags: [ "draft", "movies" ]
 stars: "3/5"

@@ -6,7 +6,6 @@ date: "2014-04-19"
 tags: [ "draft", "movies" ]
 title: "Uma Manhã Gloriosa"
 stars: "4/5"
-desc: "Uma Manhã Gloriosa. Morning Glory (USA, 2010). Dirigido por Roger Michell. Escrito por Aline Brosh McKenna. Com Rachel McAdams, Noah Bean, Jack Davidson, Vanessa Aspillaga, Jeff Hiller, Linda Powell, Mike Hydeck, Joseph J. Vargas, Mario Frieson."
 ---
 Uma Manhã Gloriosa é o tipo de filme que tem tudo para ser mais uma comédia romântica clichê com um final feliz e uma boa lição de moral. No entanto, a direção sempre presente de Roger Michell consegue, assim como em Um Lugar Chamado Notting Hill, transformar um roteiro trivial em uma empolgante experiência pelo mundo da mídia televisiva.
 

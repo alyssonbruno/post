@@ -6,7 +6,6 @@ date: "2016-10-21"
 tags: [ "draft", "movies" ]
 title: "Tempestade de Areia"
 stars: "4/5"
-desc: "Tempestade de Areia. Sufat Chol (Israel, 2016). Dirigido por Elite Zexer. Escrito por Elite Zexer. Com Lamis Ammar (Layla), Ruba Blal (Jalila), Hitham Omari (Suliman), Khadija Al Akel (Tasnim), Jalal Masrwa (Anwar)."
 ---
 A filmografia por trás da cultura do Oriente Médio vira e mexe acaba girando em torno dos costumes antigos de uma cultura predominantemente "machista e opressora". Em Tempestade de Areia, isso não é diferente. Contudo, encarando como toda a questão desenvolvida pelo filme consegue ser aplicada a qualquer sociedade e qualquer costume, vemos que muitas das nossas próprias ações, nós, do "mundo civilizado do Ocidente", que acreditamos ser atribuída à nossa liberdade de escolha, são apenas reflexos de uma cultura que já existia antes de nós existirmos. Onde está o seu livre-arbítrio agora?
 

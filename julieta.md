@@ -6,7 +6,6 @@ date: "2016-07-31"
 tags: [ "draft", "movies" ]
 title: "Julieta"
 stars: "3/5"
-desc: "Julieta. Julieta (Spain, 2016). Dirigido por Pedro Almodóvar. Escrito por Pedro Almodóvar, Alice Munro. Com Adriana Ugarte, Rossy de Palma, Inma Cuesta, Michelle Jenner, Emma Suárez, Daniel Grao, Darío Grandinetti, Nathalie Poza, Agustín Almodóvar."
 ---
 Como sempre, sabemos desde o começo que este é um filme de Pedro Almodóvar, no estilo melodramático dele (e das cores do figurino, da direção de arte de muito bom gosto, etc). A trama mais uma vez envolve o passado misterioso de uma mulher -- a Julieta do título -- e mais uma vez as mulheres são as personagens fortes. E, para não deixar em branco, há uma tragédia grega senso usada como pano de fundo. Almodóvar nunca muda seus trejeitos, mas sua inventividade reciclada não gera os melhores frutos.
 

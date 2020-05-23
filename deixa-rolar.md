@@ -7,7 +7,6 @@ date: "2015-02-11"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Deixa Rolar"
 stars: "3/5"
-desc: "Deixa Rolar. Playing It Cool (USA, 2014). Dirigido por Justin Reardon. Escrito por Chris Shafer, Paul Vicknair. Com Chris Evans, Michelle Monaghan, Aubrey Plaza, Ioan Gruffudd, Topher Grace, Ashley Tisdale, Patrick Warburton, Martin Starr, Luke Wilson."
 ---
 Ah, os clichês! Ruim com eles, pior sem eles. Para não funcionar alguém precisa usá-los de forma preguiçosa, relapsa. Afinal de contas, eles já fizeram sucesso milhares de vezes antes de se solidificarem em um lugar-comum. E no caso de Deixa Rolar não se pode dizer se eles são bons ou maus, já que sua própria estrutura depende da análise do que há de mais banal nesses filmes. Vejamos o plot:
 

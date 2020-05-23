@@ -3,7 +3,6 @@ categories: [ "blog" ]
 date: 2018-12-11T15:46:03-02:00
 title: "A Maneira Errada de Começar um Projeto é com Visual Studio"
 tags: [ "draft", "visualstudio" ]
-desc: "Como o encoding dos arquivos do template do Visual Studio cagam o próprio controle de fonte que a Microsoft recomenda."
 ---
 Estava eu trabalhando com um sample e resolvi colocar controle de fonte para analisar as mudanças. E a mudança mais inesperada que eu vi quando digitei git diff foi que ele achou que meus arquivos de código-fonte estivessem em binário. Whaaat?
 

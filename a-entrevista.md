@@ -6,7 +6,6 @@ date: "2015-01-18"
 tags: [ "draft", "movies" ]
 title: "A Entrevista"
 stars: "2/5"
-desc: "A Entrevista. The Interview (USA, 2014). Dirigido por Evan Goldberg, Seth Rogen. Escrito por Dan Sterling, Seth Rogen, Evan Goldberg, Dan Sterling. Com James Franco, Seth Rogen, Lizzy Caplan, Randall Park, Diana Bang, Timothy Simons, Reese Alexander, James Yi, Paul Bae."
 ---
 A Entrevista é daqueles filmes que se aproveitam de um momento histórico atual para tentar chamar atenção para si mesmo, quando na verdade não passa de uma comédia medíocre construída sob uma estrutura falha que, assim como Zohan: O Agente Bom de Corte, tenta resolver um problema complexo de maneira simplória jogando ao público o que ele quer ver.
 

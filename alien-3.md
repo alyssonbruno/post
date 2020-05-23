@@ -6,7 +6,6 @@ date: "2011-12-10"
 tags: [ "draft", "movies" ]
 title: "Aliens 3"
 stars: "3/5"
-desc: "Aliens 3. Alien³ (USA, 1992). Dirigido por David Fincher. Escrito por Dan O'Bannon, Ronald Shusett, Vincent Ward, David Giler, Walter Hill, Larry Ferguson. Com Sigourney Weaver, Charles S. Dutton, Charles Dance, Paul McGann, Brian Glover, Ralph Brown, Danny Webb, Christopher John Fields, Holt McCallany."
 ---
 Oito anos após "Aliens, o Retorno" (James Cameron), continuação do original "Alien, o Oitavo Passageiro" (Ridley Scott), o Cinema mais uma vez revisita esse universo, dessa vez pela visão do ainda inexperiente David Fincher (Seven, Clube da Luta, A Rede Social), que não conseguiu enriquecê-lo à altura de seus antecessores, mas cria um drama que no mínimo aumenta um pouco nossa percepção a respeito da criatura.
 

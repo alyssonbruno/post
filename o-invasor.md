@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-25"
 title: "O Invasor"
-desc: '"The Trespasser" (Brasil, 2001), escrito por Marçal Aquino e Beto Brant, dirigido por Beto Brant, com Marco Ricca, Alexandre Borges e Paulo Miklos. Da leva de DVDs daqui de casa.'
 imdb: "0303408"
 tags: [ "draft", "movies" ]
 stars: "3/5"

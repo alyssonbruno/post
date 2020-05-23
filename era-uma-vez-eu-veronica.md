@@ -6,7 +6,6 @@ date: "2013-01-10"
 tags: [ "draft", "movies" ]
 title: "Era Uma Vez Eu Verônica"
 stars: "3/5"
-desc: "Era Uma Vez Eu Verônica. Era Uma Vez Eu, Verônica (Brazil, 2012). Dirigido por Marcelo Gomes. Escrito por Marcelo Gomes. Com Hermila Guedes, Júlio Rocha, João Miguel, Maeve Jinkings, Anthero Montenegro, W.J. Solha, Dandara Pagu, Karina Buhr, Madalena Accioly."
 ---
 Cinema, Aspirinas e Urubus se tornava mais interessante à medida que prestávamos menos atenção à história e mais em seus personagens. Aqui, o diretor Marcelo Gomes repete a fórmula de maneira mais introspectiva ainda, acompanhando a vida de Verônica através quase apenas de seu gravador e seus pensamentos.
 

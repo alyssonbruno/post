@@ -6,7 +6,6 @@ date: "2012-09-05"
 tags: [ "draft", "movies" ]
 title: "O Vingador do Futuro"
 stars: "3/5"
-desc: "O Vingador do Futuro. Total Recall (USA, 2012). Dirigido por Len Wiseman. Escrito por Kurt Wimmer, Mark Bomback, Ronald Shusett, Dan O'Bannon, Jon Povill, Kurt Wimmer, Ronald Shusett, Dan O'Bannon, Gary Goldman. Com Colin Farrell, Kate Beckinsale, Jessica Biel, Bryan Cranston, Bokeem Woodbine, Bill Nighy, John Cho, Will Yun Lee, Milton Barnes."
 ---
 Chega a ser impressionante a capacidade do diretor Len Wiseman (da "saga" Anjos da Noite/Underworld) em empregar sequências de ação descerebradas mas completamente extasiantes. Durante as quase duas horas de projeção somos jogados em uma realidade sci-fi não apenas verossímil, mas igualmente surreal. A direção de arte de Patrick Banister (Sucker Punch, Mandando Bala, Blade: Trinity) recria o mundo do original com Arnold Schwarzenegger no mesmo clima arrebatador que os efeitos visuais da época causaram.
 

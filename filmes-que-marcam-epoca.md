@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-02"
 title: "Filmes Que Marcam Época"
-desc: '"The Movies That Made Us" (EUA, 2019), escrito por Benjamin J. Frost e Brian Volk-Weiss, com Ivan Reitman. Netflix.'
 imdb: "10681222"
 tags: [ "draft", "series" ]
 stars: "3/5"

@@ -6,7 +6,6 @@ date: "2016-03-19"
 tags: [ "draft", "movies" ]
 title: "Heróis de Ressaca"
 stars: "3/5"
-desc: "Heróis de Ressaca. The World's End (UK, 2013). Dirigido por Edgar Wright. Escrito por Simon Pegg, Edgar Wright. Com Thomas Law, Zachary Bailess, Jasper Levine, James Tarpey, Luke Bromley, Sophie Evans, Samantha White, Rose Reynolds, Richard Hadfield."
 ---
 Uma comédia britânica que não se resume a boas risadas. Aliás, talvez você nem encontre boas risadas, dependendo do seu senso de humor. A questão é que há muita falta de timing cômico na maioria das cenas, tornando a atuação exagerada de Simon Pegg simplesmente exagerada.
 

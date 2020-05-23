@@ -2,7 +2,6 @@
 categories: [ "code" ]
 date: 2017-07-27T09:39:22-03:00
 title: "Forma Mais Simples De Depurar Processos Antes Do Logon"
-desc: "Usando msvcmon ou msvsmon com NSSM (ou não) para depurar serviços que rodam antes de logar no Windows. Esse exemplo usa uma DLL escrita em C++. Atualizado em 2020-01-16."
 tags: [ "draft",  ]
 ---
 No post anterior sobre debug eu havia me focado mais na depuração de processos remotos no Visual Studio 2003 de maneira convencional. Aqui eu vou abordar o assunto de uma maneira menos convencional: usando o Visual Studio 2017 mais novo e depurando uma DLL (C++) que é carregada por um serviço antes do logon no Windows 7.

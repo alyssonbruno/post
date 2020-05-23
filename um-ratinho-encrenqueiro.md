@@ -6,7 +6,6 @@ date: "2012-06-18"
 tags: [ "draft", "movies" ]
 title: "Um Ratinho Encrenqueiro"
 stars: "4/5"
-desc: "Um Ratinho Encrenqueiro. Mousehunt (USA, 1997). Dirigido por Gore Verbinski. Escrito por Adam Rifkin. Com Nathan Lane, Lee Evans, Vicki Lewis, Maury Chaykin, Eric Christmas, Michael Jeter, Debra Christofferson, Camilla Søeberg, Ian Abercrombie."
 ---
 Com uma história típica da sessão da tarde, talvez fosse impossível tentar realizar algo acima de medíocre. Porém, quando o roteiro abraça o absurdo das situações com competente propriedade, nunca nos permitindo questionar se alguma coisa é verossímil ou não, pois é a história que dita isso, aí temos um ótimo exemplo de que, independente da história, é possível criar Cinema através de quase nada.
 

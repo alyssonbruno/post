@@ -6,7 +6,6 @@ date: "2016-02-08"
 tags: [ "draft", "movies" ]
 title: "No Calor da Noite"
 stars: "4/5"
-desc: "No Calor da Noite. In the Heat of the Night (USA, 1967). Dirigido por Norman Jewison. Escrito por Stirling Silliphant, John Ball. Com Sidney Poitier, Rod Steiger, Warren Oates, Lee Grant, Larry Gates, James Patterson, William Schallert, Beah Richards, Peter Whitney."
 ---
 Esse é um filme que expõe o racismo como nenhum outro. O personagem de Sidney Poitier aguarda o trem na estação da pequena cidade de Sparta para visitar sua mãe. Naquela mesma noite um figurão da cidade é assassinado. Um policial, um dos caipiras da cidade, encontra Portier sentado em um banco, e para ele o crime já está resolvido: único negro encontrado aquela noite, só ele poderia ser o culpado de um crime tão brutal.
 

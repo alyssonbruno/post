@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-15"
 title: "Bellingcat: A Verdade Em Um Mundo Pós-Verdade"
-desc: '"Bellingcat: Truth in a Post-Truth World" (Holanda, 2018), escrito por Hans Pool, dirigido por Hans Pool, com Moritz Rakuszitzky, Jay Rosen, Hadi Al-Khatib, Aidan White, Alexa Koenig e Veli-Pekka Kivimäki. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7844518"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

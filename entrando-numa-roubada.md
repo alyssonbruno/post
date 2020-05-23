@@ -7,7 +7,6 @@ date: "2015-08-23"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Entrando Numa Roubada"
 stars: "3/5"
-desc: "Entrando Numa Roubada. Entrando Numa Roubada (Brazil, 2015). Dirigido por André Moraes. Escrito por André Moraes, André Moraes. Com Deborah Secco, Lúcio Mauro Filho, Júlio Andrade, Bruno Torres, Ana Carolina Machado, Marcos Veras, Tadeu Mello, Tonico Pereira, Thogun."
 ---
 Uma comédia mista, cuja criatividade consegue protagonizar pelo menos um momento icônico (no deserto), está cheio de galhofas pretensiosas envolvendo filmes de faroeste Sergio Leoleano espalhadas em uma história que diverte pelo seu elenco, mas falha lamentavelmente no drama que procura mesclar e substituir o humor.
 

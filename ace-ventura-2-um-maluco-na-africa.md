@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-17T18:18:34-02:00
 title: "Ace Ventura 2: Um Maluco Na África"
-desc: "Ace Ventura: When Nature Calls. EUA, 1995. Escrito e dirigido por Steve Oedekerk baseado nos personagens de Jack Bernstein (pra quê). Com Jim Carrey, Ian McNeice, Simon Callow. Comédia pastelão com traços televisivos."
 imdb: "0112281"
 
 tags: [ "draft", "movies" ]

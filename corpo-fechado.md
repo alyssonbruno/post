@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-24"
 title: "Corpo Fechado"
-desc: "Unbreakable. United States, 2000. Dirigido por M. Night Shyamalan, escrito por M. Night Shyamalan. Com Bruce Willis, Samuel L. Jackson, Robin Wright."
 imdb: "0217869"
 tags: [ "draft", "movies" ]
 stars: "4/5"

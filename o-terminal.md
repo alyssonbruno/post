@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-22T18:51:32-03:00
 title: "O Terminal"
-desc: "The Temrminal. EUA, 2004. Dirigido por Steven Spielberg e escrito por Sacha Gervasi e Jeff Nathanson a partir de uma história criada entre Sacha e Andrew Niccol. Com Tom Hanks, Catherine Zeta-Jones, Stanley Tucci, Chi McBride, Diego Luna, Barry Shabaka Henley e Zoe Saldana."
 imdb: "0362227"
 
 tags: [ "draft", "movies" ]

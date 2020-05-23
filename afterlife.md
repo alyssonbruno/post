@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-04"
 title: "Afterlife"
-desc: '"Hiernamaals" (Holanda, 2019), escrito por Willem Bosch, dirigido por Willem Bosch, com Sanaa Giwa, Romana Vrede, Ria Eimers, Jan-Paul Buijs e Gijs Scholten van Aschat. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9310544"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

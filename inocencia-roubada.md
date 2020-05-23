@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2019-07-01T19:01:49-03:00
 title: "Inocência Roubada"
 imdb: "7502234"
-desc: "Little Tickles. France, 2018. Dirigido por Andréa Bescond, Eric Métayer, escrito por Andréa Bescond, Andréa Bescond, Andréa Bescond. Com Andréa Bescond, Karin Viard, Clovis Cornillac."
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

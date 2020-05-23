@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-26"
 title: "O Que Arde"
-desc: '"O que arde" (Espanha, França e Luxemburgo, 2019), escrito por Santiago Fillol e Oliver Laxe, dirigido por Oliver Laxe, com Benedicta Sánchez, Amador Arias e Elena Mar Fernández. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "8212958"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

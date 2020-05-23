@@ -6,7 +6,6 @@ date: "2017-04-05"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Além das Palavras"
 stars: "4/5"
-desc: "Além das Palavras. A Quiet Passion (UK, 2016). Dirigido por Terence Davies. Escrito por Terence Davies. Com Cynthia Nixon (Emily Dickinson), Jennifer Ehle (Vinnie Dickinson), Duncan Duff (Austin Dickinson), Keith Carradine (Father), Jodhi May (Susan Gilbert), Joanna Bacon (Mother), Catherine Bailey (Vryling Buffam), Emma Bell (Young Emily Dickinson), Benjamin Wainwright (Young Austin Dickinson)."
 ---
 Além das Palavras, biografia da poetisa norte-americana Emily Dickinson, é um trabalho que já estabelece desde sua primeira cena a posição que a mulher tem na sociedade em que ela viveu. O filme começa em uma escola apenas para mulheres, onde chega a hora em que elas devem escolher que caminho seguirão: a salvação garantida de Deus ou se viver como pecadoras, esposas de seus maridos, na esperança do perdão final. Não há terceira opção.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-02
 title: "O Quebra Nozes E Os Quatro Reinos"
-desc: " The Nutcracker and the Four Realms (EUA, 2018), escrito por Ashleigh Powell sugerido pelo balé de Marius Petipa e inspirado pelo conto de E.T.A. Hoffmann, dirigido por Lasse Hallström e Joe Johnston, com Mackenzie Foy, Keira Knightley, Morgan Freeman, Helen Mirren. Fantasia, computação, design de arte."
 imdb: "5523010"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

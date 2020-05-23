@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-26T12:10:09-02:00
 title: "Colette"
-desc: "Colette. Escrito por Richard Glatzer, Wash Westmoreland, Rebecca Lenkiewicz baseados em uma estória por Glatzer. Dirigido por Wash Westmoreland. Com Keira Knightley como Colette, Dominic West como seu marido Willy."
 imdb: "5437928"
 
 tags: [ "draft", "movies" ]

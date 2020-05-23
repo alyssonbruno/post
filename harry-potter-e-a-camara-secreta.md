@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-27"
 title: "Harry Potter e a Câmara Secreta"
-desc: '"Harry Potter and the Chamber of Secrets" (Reino Unido, EUA e Alemanha, 2002), escrito por Steve Kloves adaptando o livro de J.K. Rowling, dirigido por Chris Columbus, com Daniel Radcliffe, Rupert Grint e Emma Watson. Revisitando a série em BDB.'
 imdb: "0295297"
 tags: [ "draft", "movies" ]
 stars: "3/5"

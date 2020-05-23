@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: 2018-07-01T18:51:00-03:00
 title: "Argentina vs França e o Fim da Geração dos Autistas"
-desc: "Copa do Mundo Fifa 2018 na Rússia, Oitavas de Final: França vs Argentina e Uruguai vs Portugal."
 tags: [ "draft", "essays" ]
 ---
 A tecnologia e o profissionalismo chegaram na copa em um nível nunca antes visto. Se compararmos com o que o atacante que fez o primeiro gol na primeira copa, o francês Lucien Laurent, notamos o abismo entre o ontem e o hoje do Planeta Futebol:

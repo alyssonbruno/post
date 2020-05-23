@@ -6,7 +6,6 @@ date: "2010-10-08"
 tags: [ "draft", "movies" ]
 title: "Tropa de Elite 2 O Inimigo Agora É Outro"
 stars: "5/5"
-desc: "Tropa de Elite 2 O Inimigo Agora É Outro. Tropa de Elite 2: O Inimigo Agora é Outro (Brazil, 2010). Dirigido por José Padilha. Escrito por Bráulio Mantovani, Bráulio Mantovani, José Padilha, José Padilha, Rodrigo Pimentel. Com Wagner Moura, Irandhir Santos, André Ramiro, Milhem Cortaz, Maria Ribeiro, Seu Jorge, Sandro Rocha, Tainá Müller, André Mattos."
 ---
 Os trailers da continuação da história do morro do ponto de vista do Cap. Nascimento deixam bem visível, inclusive no seu subtítulo, que iremos acompanhar uma nova guinada na explicação do sistema, algo um pouco mais acima da hierarquia: vai entrar no mundo da política. Isso pode dar a impressão que a história ficaria mais monótona e com pouca ação. Talvez dê até a impressão que não será possível fazer os belos quadros que vimos no primeiro, que junta todos os pontos da narrativa de maneira tão eficaz. Ledo engano: essa continuação fica ainda mais densa e com uma história ainda mais perversa e criativa, nos dando a oportunidade de ir mais além na história do morro, imaginando como seria se o BOPE realmente detonasse os traficantes.
 

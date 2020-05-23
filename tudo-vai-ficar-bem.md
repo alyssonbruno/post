@@ -7,7 +7,6 @@ date: "2016-03-01"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Tudo Vai Ficar Bem"
 stars: "4/5"
-desc: "Tudo Vai Ficar Bem. Every Thing Will Be Fine (Germany, 2015). Dirigido por Wim Wenders. Escrito por Bjørn Olaf Johannessen. Com Rachel McAdams, James Franco, Peter Stormare, Charlotte Gainsbourg, Julia Sarah Stone, Marie-Josée"
 ---
 O diretor Win Wenders (Pina) faz em "Tudo Vai Ficar Bem" um trabalho intimista e sutil em um ritmo que não deve agradar a muitos. Porém, é algo necessário para abordar essa espécie de thriller que evita cair no lugar-comum, pois está mais interessado em explorar seus personagens pela suas psiques do que pelas suas ações.
 

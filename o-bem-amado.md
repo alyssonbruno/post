@@ -6,7 +6,6 @@ date: "2010-07-24"
 tags: [ "draft", "movies" ]
 title: "O Bem Amado"
 stars: "4/5"
-desc: "O Bem Amado. O Bem Amado (Brazil, 2010). Dirigido por Guel Arraes. Escrito por Guel Arraes, Cláudio Paiva. Com Edmilson Barros, Andrea Beltrão, Caio Blat, Maria Flor, Bruno Garcia, Drica Moraes, Matheus Nachtergaele, Marco Nanini, Tonico Pereira."
 ---
 O bom das produções brasileiras baseadas na literatura é que geralmente não se perde a essência da história em adaptações e temos um arsenal de ótimos atores para representar mais um exemplo de brasilidade cultural, comportamental e social.
 

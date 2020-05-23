@@ -6,7 +6,6 @@ date: "2016-11-17"
 tags: [ "draft", "movies" ]
 title: "Doutor Estranho"
 stars: "3/5"
-desc: "Doutor Estranho. Doctor Strange (USA, 2016). Dirigido por Scott Derrickson. Escrito por Jon Spaihts, Scott Derrickson, C. Robert Cargill, Steve Ditko. Com Benedict Cumberbatch (Dr. Stephen Strange), Chiwetel Ejiofor (Mordo), Rachel McAdams (Christine Palmer), Benedict Wong (Wong), Mads Mikkelsen (Kaecilius), Tilda Swinton (The Ancient One), Michael Stuhlbarg (Dr. Nicodemus West), Benjamin Bratt (Jonathan Pangborn), Scott Adkins (Lucian / Strong Zealot)."
 ---
 Algo vem me incomodando nos filmes da Marvel. Algo que normalmente passa batido em outros filmes menores: não há personagem nenhum nas histórias, exceto seu herói protagonista. Às vezes um vilão. Aqui há apenas um inicial anti-herói, cercado de pessoas que estão aí para falar o resto dos diálogos. São coadjuvantes. Normalmente possuem funções mais elaboradas do que descrever o universo onde se passa a história ou como o personagem é desagradável com as pessoas. Mas aqui fazem apenas isso. Mais um trampolim para mais um herói em uma grande cidade sitiada de supers. Dessa vez com magia.
 

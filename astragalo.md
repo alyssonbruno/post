@@ -7,7 +7,6 @@ date: "2016-03-07"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Astrágalo"
 stars: "3/5"
-desc: "Astrágalo. L'astragale (France, 2015). Dirigido por Brigitte Sy. Escrito por Serge Le Péron, Albertine Sarrazin, Brigitte Sy. Com Leïla Bekhti, Reda Kateb, Esther Garrel, Jocelyne Desverchère, India Hair, Jean-Charles Dumay, Jean-Benoît Ugeux, Delphine Chuillot, Zimsky."
 ---
 Biografias tendem a ser chatas quando seguem muito à risca a visão literária do autor. Quando se trata de uma autobiografia, esse risco dobra. Portanto, por mais que Astrágalo seja burocrático e arrastado na maioria do tempo, de certa forma é um alívio notar a beleza de suas composições em preto e branco, além de sua estética vazia, embora evocativa de uma época charmosa, ou de uma época quando bandidos se davam ao luxo de serem charmosos.
 

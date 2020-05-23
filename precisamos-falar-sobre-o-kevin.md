@@ -6,7 +6,6 @@ date: "2012-12-30"
 tags: [ "draft", "movies" ]
 title: "Precisamos Falar Sobre o Kevin"
 stars: "5/5"
-desc: "Precisamos Falar Sobre o Kevin. We Need to Talk About Kevin (UK, 2011). Dirigido por Lynne Ramsay. Escrito por Lynne Ramsay, Rory Stewart Kinnear, Lionel Shriver. Com Tilda Swinton, John C. Reilly, Ezra Miller, Jasper Newell, Rock Duer, Ashley Gerasimovich, Siobhan Fallon, Alex Manette, Kenneth Franklin."
 ---
 Precisamos Falar Sobre o Kevin aborda de maneira surpreendente e inovadora o ponto de vista não de Kevin, um menino problemático que se tornará na sua adolescência autor de uma tragédia, mas o drama de sua mãe, chamada Eva de maneira significativa  a que deu à luz Caim, o primeiro assassino do mundo bíblico  e interpretada por Tilda Swinton de maneira brilhante e sem qualquer reservas.
 

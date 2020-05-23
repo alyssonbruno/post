@@ -3,7 +3,6 @@ categories: [ "code" ]
 date: "2007-06-29"
 title: A inteligência do if - parte 2
 tags: [ "draft",  ]
-desc: "Artigo dividido em duas partes. Atualizado em 2019-07-18 para inclusão no Livro do Caloni."
 ---
 Vimos na primeira parte desse artigo como o if revolucionou o mundo da computação trazendo um salto que depende de condições anteriores e, portanto, depende do estado do programa. A ele chamamos de salto condicional. Agora veremos como implementar uma condição baseando-se no fato de que o computador pode apenas realizar operações matemáticas.
 

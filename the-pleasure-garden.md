@@ -6,7 +6,6 @@ date: "2016-12-09"
 tags: [ "draft", "movies" ]
 title: "The Pleasure Garden"
 stars: "4/5"
-desc: "The Pleasure Garden. The Pleasure Garden (UK, 1925). Dirigido por Alfred Hitchcock. Escrito por Oliver Sandys, Eliot Stannard. Com Virginia Valli (Patsy Brand), Carmelita Geraghty (Jill Cheyne), Miles Mander (Levett), John Stuart (Hugh Fielding), Ferdinand Martini (Mr. Sidey), Florence Helminger (Mrs. Sidey), Georg H. Schnell (Oscar Hamilton), Karl Falkenberg (Prince Ivan), Louis Brody (Plantation Manager)."
 ---
 Alfred Hitchcock começou sua carreira no cinema como desenhista de intertítulos, os letreiros de falas que aparecem quando um personagem diz algo importante nos filmes mudos. Este é seu primeiro filme longo na direção depois que as pessoas o notaram em seu curta-metragem Always Tell Your Wife. E para surpresa dos que dizem que este é o século das adaptações, a história do filme foi baseado em um romance.
 

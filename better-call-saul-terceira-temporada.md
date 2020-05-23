@@ -6,7 +6,6 @@ date: "2017-07-03"
 tags: [ "draft", "series" ]
 title: "Better Call Saul - Terceira Temporada"
 stars: "4/5"
-desc: "Better Call Saul - Terceira Temporada. Better Call Saul (USA, 2015). Dirigido por Vince Gilligan, Thomas Schnauz, Adam Bernstein, Peter Gould, Colin Bucksey, Larysa Kondracki, Terry McDonough, John Shiban. Escrito por Vince Gilligan, Peter Gould, Gordon Smith, Ann Cherkis, Gennifer Hutchison, Thomas Schnauz, Jonathan Glatzer, Heather Marion. Com Bob Odenkirk (Jimmy McGill), Jonathan Banks (Mike Ehrmantraut), Rhea Seehorn (Kim Wexler), Patrick Fabian (Howard Hamlin), Michael Mando (Nacho Varga), Michael McKean (Chuck McGill)."
 ---
 O espírito de Better Call Saul é o mesmo de Breaking Bad. A moral de seus personagens frequentemente oscila entre o aceitável e o criminoso. Porém, enquanto em Breaking Bad as ações de Walter White paulatinamente caminhariam em direção a atos que, sem sombra de dúvida, o deveria colocar por detrás das grades, este spin-off com o advogado da série original como protagonista nunca chega nesse nível, preferindo trabalhar a ambiguidade e a forma torta da justiça na vida real, onde às vezes -- ou quase sempre? -- as decisões dependem mais da narrativa e menos dos fatos.
 

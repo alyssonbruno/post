@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-16T13:57:13-02:00
 title: "Derren Brown: Apocalypse"
-desc: "Derren Brown: Apocalypse. Reino Unido, 2012. Com Derren Brown, Steven Brosnan, Gilbert Martin."
 imdb: "2513228"
 
 tags: [ "draft", "series" ]

@@ -6,7 +6,6 @@ date: "2016-02-09"
 tags: [ "draft", "movies" ]
 title: "O Bom Dinossauro"
 stars: "4/5"
-desc: "O Bom Dinossauro. The Good Dinosaur (USA, 2015). Dirigido por Peter Sohn. Escrito por Bob Peterson, Peter Sohn, Erik Benson, Meg LeFauve, Kelsey Mann, Bob Peterson, Meg LeFauve. Com Jeffrey Wright, Frances McDormand, Maleah Nipay-Padilla, Ryan Teeple, Jack McGraw, Marcus Scribner, Raymond Ochoa, Jack Bright, Peter Sohn."
 ---
 É uma satisfação ver que a Pixar continua com sua vontade de arriscar de vez em quando, e possivelmente possui os desenhistas mais ambiciosos do mercado. O Bom Dinossauro é um trabalho estético e artístico admirável, que causa estranheza em alguns momentos, mas em outros faz valer totalmente a pena.
 

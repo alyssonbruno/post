@@ -6,7 +6,6 @@ date: "2010-12-30"
 tags: [ "draft", "movies" ]
 title: "Elsa e Fred"
 stars: "4/5"
-desc: "Elsa e Fred. Elsa y Fred (Argentina, 2005). Dirigido por Marcos Carnevale. Escrito por Marcos Carnevale, Marcela Guerty, Lily Ann Martin. Com Manuel Alexandre, China Zorrilla, Blanca Portillo, José Ángel Egido, Omar Muñoz, Roberto Carnaghi, Carlos Álvarez-Nóvoa, Gonzalo Urtizberéa, Fanny Gautier."
 ---
 A noção de felicidade na sociedade atual acaba a tornando inalcançável. Quanto mais busca-se o mundo ideal, mais perde-se a satisfação do real. Sendo assim, é difícil não se emocionar com a praticidade de Elsa, uma mulher em torno dos seus 80 anos bem vividos que só tem um desejo em mente e que o coloca em prática o mais rápido possível: viver mais, não importando os defeitos e os obstáculos que o mundo real lhe apresenta.
 

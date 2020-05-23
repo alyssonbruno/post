@@ -6,7 +6,6 @@ date: "2016-11-02"
 tags: [ "draft", "movies" ]
 title: "Um Homem Insignificante"
 stars: "4/5"
-desc: "Um Homem Insignificante. An Insignificant Man (India, 2016). Dirigido por Khushboo Ranka, Vinay Shukla. Escrito por Khushboo Ranka, Vinay Shukla. Com Arvind Kejriwal (Arvind Kejriwal), Santosh Koli (Santosh Koli), Manish Sisodia (Manish Sisodia), Yogendra Yadav (Yogendra Yadav)."
 ---
 Fui convidado a assistir este documentário por um de seus diretores, Vinay Shukla, na 40a. Mostra de São Paulo. Fiquei imensamente lisonjeado pelo Cine Tênis Verde ser reconhecido como uma fonte de conhecimento a respeito da sétima arte. Temos feito o possível para incluir nesse festival o máximo de textos. Como já havia agenda (e recursos) para tal, selecionei-o na sua última sessão, dia 1. Curiosamente quase não consegui assisti-lo graças à bagunça que foi a cabine de Snowden, de Oliver Stone, na manhã do mesmo dia. Felizmente consegui chegar a tempo de ver o que os diretores estreantes haviam bolado a respeito dos últimos acontecimentos políticos em um país muito próximo culturalmente ao Brasil. E fiquei mais feliz ainda ao ter gostado, e muito, do filme, o que evita que eu seja obrigado, por integridade, a tecer críticas pesadas aos idealizadores do longa. Não foi dessa vez ;)
 

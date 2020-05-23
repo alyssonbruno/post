@@ -6,7 +6,6 @@ date: "2010-09-10"
 tags: [ "draft", "movies" ]
 title: "Amor à Distância"
 stars: "3/5"
-desc: "Amor à Distância. Going the Distance (USA, 2010). Dirigido por Nanette Burstein. Escrito por Geoff LaTulippe. Com Drew Barrymore, Justin Long, Charlie Day, Jason Sudeikis, Christina Applegate, Ron Livingston, Oliver Jackson-Cohen, Jim Gaffigan, Natalie Morales."
 ---
 Os personagens desse filme vivem citando filmes, como na cena em que o protagonista imita Morgan Freeman em "Um Sonho de Liberdade". Com essa cena podemos dizer que o filme não é nada original, e usa referências à toa.
 

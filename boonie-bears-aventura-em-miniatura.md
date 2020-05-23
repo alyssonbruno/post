@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-26"
 title: "Boonie Bears: Aventura em Miniatura"
-desc: '"Xiong chu mei zhi bian xing ji (aka Boonie Bears 5)" (China, 2018), escrito por Lin Jiang, Qin Wan e Rachel Xu, dirigido por Leon Ding e Huida Lin, com Joseph S. Lambert, Xiao Tan e Zhang Wei. Escrito para o CinemAqui.'
 imdb: "8028526"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "1/5"

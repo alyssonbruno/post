@@ -6,7 +6,6 @@ date: "2017-02-15"
 tags: [ "draft", "movies" ]
 title: "Até o Último Homem"
 stars: "5/5"
-desc: "Até o Último Homem. Hacksaw Ridge (Australia, 2016). Dirigido por Mel Gibson. Escrito por Robert Schenkkan, Andrew Knight. Com Andrew Garfield (Desmond Doss), Richard Pyros (Teach), Jacob Warner (James Pinnick), Milo Gibson (Lucky Ford), Darcy Bryce (Young Desmond), Roman Guerriero (Young 'Hal' Doss), James Lugton (Hiker), Kasia Stelmach (Hiker's Friend), Hugo Weaving (Tom Doss)."
 ---
 Este é um filme que presta uma homenagem mais do que merecida a um homem que salvou diversas vidas durante uma batalha sem atirar uma bala. Mel Gibson, porém, pega o roteiro de Robert Schenkkan e Andrew Knight e transforma em algo muito, muito maior. Este é um filme de guerra que realiza uma ode à não-guerra. Ele usa levemente a simbologia cristã, mas seu foco são os princípios morais que regem a carnificina legalizada que é um campo de batalha, e com isso humaniza a condição dos soldados massacrados, mostrando o que tiver que mostrar para passar sua mensagem. É um pouco ufanista? Talvez. Mas quem irá culpá-lo, já que o fanatismo do Japão medieval tornava os soldados inimigos verdadeiros mensageiros do demônio.
 

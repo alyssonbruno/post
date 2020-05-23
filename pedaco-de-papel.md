@@ -5,7 +5,6 @@ date: "2011-11-03"
 tags: [ "draft", "shorts" ]
 title: "Pedaço de Papel"
 stars: "3/5"
-desc: "Pedaço de Papel. Pedaço de Papel (Brazil, 2010). Dirigido por Cesar Raphael. Escrito por Cesar Raphael. Com Jeferson Alves, Maria Mourão, Cesar Raphael, Carlos Magno Ribeiro, Paulo Udi, Harley Winter."
 ---
 Esse curta de 18 minutos fez sua publicidade internacional com o uso inteligente da narração fluida (quase um plano-sequência completo, encoberto por cortes de cenário), ausência de diálogos (para evitar legendas) e, o mais importante, a ausência de identidade. Não é possível afirmar ou até mesmo sugerir onde a história do filme é passada. Sabemos que tudo o que acontece na narrativa existe no Brasil, e sabemos do triste círculo vicioso da violência através de trabalhos mais cerebrais como Tropa de Elite.
 

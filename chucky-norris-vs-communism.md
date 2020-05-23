@@ -6,7 +6,6 @@ date: "2017-03-26"
 tags: [ "draft", "movies" ]
 title: "Chuck Norris vs. Communism"
 stars: "4/5"
-desc: "Chuck Norris vs. Communism. Chuck Norris vs. Communism (UK, 2015). Dirigido por Ilinca Calugareanu. Escrito por Ilinca Calugareanu. Com Irina Margareta Nistor (Herself), Ana Maria Moldovan (Irina Margareta Nistor), Dan Chiorean (Teodor Zamfir), Valentin Oncu (Mircea), Cristian Stanca (Orzan), Petre Bacioiu (Petrulea), Elena Ivanca (Mrs. Cristea), Florin Mircea (Mihaies), Ileana Negru (Mrs. Urse)."
 ---
 Não é nenhum segredo que para existir o comunismo em um mundo capitalista todas as barreiras precisam ser fechadas. Isso evita que a população faminta por recursos e ideias seja seduzida pelo caminho da liberdade e mantém o ditador da vez em posição mais confortável para espalhar suas mentiras. No caso da Romênia, no entanto, havia uma falha que foi se alastrando pelas duas décadas de regime totalitarista. Uma falha que apenas uma figura equivalente ao americano Chuck Norris em sua versão romena poderia explorar: o Cinema norte-americano.
 

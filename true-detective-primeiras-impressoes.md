@@ -6,7 +6,6 @@ date: 2017-10-29T18:28:42
 tags: [ "draft", "series" ]
 title: "True Detective: Primeiras Impressões do Piloto"
 stars: "5/5"
-desc: "True Detective: Primeiras Impressões do Piloto. True Detective (USA, 2014). Dirigido por Cary Fukunaga, John Crowley, Justin Lin. Escrito por Nic Pizzolatto, Scott Lasser. Com Matthew McConaughey (Detective Rust Cohle), Colin Farrell (Detective Ray Velcoro), Woody Harrelson (Detective Marty Hart), Rachel McAdams (Detective Ani Bezzerides), Michelle Monaghan (Maggie Hart), Taylor Kitsch (Officer Paul Woodrugh), Michael Potts (Detective Maynard Gilbough), Kelly Reilly (Jordan Semyon), Tory Kittles (Detective Thomas Papania)."
 ---
 True Detective, em sua primeira temporada, é uma série que apresenta Matthew McConaughey e Woody Harrelson em papéis principais em uma narração dupla baseada em depoimentos e flashbacks. Ao final do piloto percebemos que o assunto em que ambos estavam sendo investigados continua à tona, o que gera um dos ganchos mais impressionantes em uma série. Ambientado em Lousiana com locações em lugares pobres e isolados, esta é uma série que por estas pistas já deveria chamar a atenção de quem está procurando por algo acima da média. Mas deixe-me explicar como se chega a essa conclusão assistindo apenas ao primeiro episódio.
 

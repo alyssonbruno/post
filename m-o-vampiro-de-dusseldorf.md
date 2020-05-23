@@ -6,7 +6,6 @@ date: "2016-01-21"
 tags: [ "draft", "movies" ]
 title: "M, O Vampiro de Dusseldorf"
 stars: "5/5"
-desc: "M, O Vampiro de Dusseldorf. M (Germany, 1931). Dirigido por Fritz Lang. Escrito por Thea von Harbou, Fritz Lang, Egon Jacobson. Com Peter Lorre, Ellen Widmann, Inge Landgut, Otto Wernicke, Theodor Loos, Gustaf Gründgens, Friedrich Gnaß, Fritz Odemar, Paul Kemp."
 ---
 Esse é um filme que explora a moral de um assassino de uma maneira tão absurda e dúbia quanto seus momentos cômicos. O expressionismo de Fritz Lang (e o alemão) colaboram para um filme hoje engraçado em alguns momentos, quando uma pessoa segura um fósforo aceso na mão à espera de uma resposta, mas hipertensos em outros, quando os argumentos de um inesperado advogado de defesa revelam uma relativização perigosa da ação e liberdade humanas, e uma discussão sobre direitos igualmente fascinante.
 

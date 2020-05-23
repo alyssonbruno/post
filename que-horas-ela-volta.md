@@ -6,7 +6,6 @@ date: "2015-09-15"
 tags: [ "draft", "movies" ]
 title: "Que Horas Ela Volta?"
 stars: "5/5"
-desc: "Que Horas Ela Volta?. Que Horas Ela Volta? (Brazil, 2015). Dirigido por Anna Muylaert. Escrito por Anna Muylaert. Com Regina Casé, Michel Joelsas, Camila Márdila, Karine Teles, Lourenço Mutarelli, Helena Albergaria, Bete Dorgam, Luis Miranda, Theo Werneck."
 ---
 "Que Horas Ela Volta" tem a virtude de conseguir se tornar um filme essencial para a discussão contemporânea e ao mesmo tempo se entregar a uma cartilha retrógrada que é usada a cada momento como combustível para uma esquerda brasileira (igualmente retrógrada) com sede de vingança e miopia de caráter.
 

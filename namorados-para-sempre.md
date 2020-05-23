@@ -6,7 +6,6 @@ date: "2012-06-09"
 tags: [ "draft", "movies" ]
 title: "Namorados Para Sempre"
 stars: "5/5"
-desc: "Namorados Para Sempre. Blue Valentine (USA, 2010). Dirigido por Derek Cianfrance. Escrito por Derek Cianfrance, Joey Curtis, Cami Delavigne. Com Ryan Gosling, Michelle Williams, Faith Wladyka, John Doman, Mike Vogel, Marshall Johnson, Jen Jones, Maryann Plunkett, James Benatti."
 ---
 O relacionamento entre Dean e Cindy mostrado pelas lentes de Derek Cianfrance oscila entre o peso da rotina do dia-a-dia e a leveza de quando se conheceram, tudo mais ou menos se equilibrando em um retrato intimista e não-romantizado de como é a relação de qualquer casal na vida real.
 

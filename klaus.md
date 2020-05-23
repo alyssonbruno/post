@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-08"
 title: "Klaus"
-desc: '"Klaus" (Espanha e Reino Unido, 2019), escrito por Zach Lewis, Jim Mahoney e Sergio Pablos, dirigido por Sergio Pablos e Carlos Martínez López, com Jason Schwartzman, Rashida Jones e Joan Cusack. Uma surpresa de Natal na Netflix.'
 imdb: "4729430"
 tags: [ "draft", "movies" ]
 stars: "4/5"

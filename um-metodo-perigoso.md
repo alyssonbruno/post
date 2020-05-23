@@ -6,7 +6,6 @@ date: "2015-10-02"
 tags: [ "draft", "movies" ]
 title: "Um Método Perigoso"
 stars: "3/5"
-desc: "Um Método Perigoso. A Dangerous Method (UK, 2011). Dirigido por David Cronenberg. Escrito por Christopher Hampton, Christopher Hampton, John Kerr. Com Keira Knightley, Viggo Mortensen, Michael Fassbender, Vincent Cassel, Sarah Gadon, André Hennicke, Arndt Schwering-Sohnrey, Mignon Remé, Mareike Carrière."
 ---
 Cronenberg, um diretor geralmente fascinante (Terapia de Risco), por algum motivo, dirigiu um filme burocrático que conta a história de amizade entre Sigmund Freud (Viggo Mortensen) e Carl Jung (Michael Fassbender) como um documentário da BBC. No meio envolve a russa judia Sabina Spielrein (Keira Knightley), de paciente para amante e posteriormente médica.
 

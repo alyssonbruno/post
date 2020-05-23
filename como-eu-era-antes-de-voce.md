@@ -6,7 +6,6 @@ date: "2016-06-26"
 tags: [ "draft", "movies" ]
 title: "Como Eu Era Antes de Você"
 stars: "3/5"
-desc: "Como Eu Era Antes de Você. Me Before You (UK, 2016). Dirigido por Thea Sharrock. Escrito por Jojo Moyes, Jojo Moyes. Com Sam Claflin, Emilia Clarke, Vanessa Kirby, Eileen Dunwoodie, Pablo Raybould, Gabrielle Downey, Henri Charles, Samantha Spiro, Brendan Coyle."
 ---
 Bonitinho, britânico, meh. Emilia Clarke com certeza já esteve melhor. Uma das protagonistas da série Game of Thrones e a Sarah Connor do último Exterminador do Futuro, o uso sintomático de suas sobrancelhas fornece simpatia nessa comédia romântica que lida com um interesse amoroso tetraplégico.
 

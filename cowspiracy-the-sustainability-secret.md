@@ -6,7 +6,6 @@ date: "2015-12-17"
 tags: [ "draft", "movies" ]
 title: "Cowspiracy: The Sustainability Secret"
 stars: "3/5"
-desc: "Cowspiracy: The Sustainability Secret. Cowspiracy: The Sustainability Secret (USA, 2014). Dirigido por Kip Andersen, Keegan Kuhn. Escrito por Kip Andersen, Keegan Kuhn. Com Lisa Agabian, Manucher Alemi, Lindsey Allen, Kip Andersen, Will Anderson, Deniz Bolbol, Heather Cooley, Kamyar Guivetchi, Bruce Hamilton."
 ---
 Se você pensou "esse é mais um daqueles documentários sobre conspirações em torno de algo polêmico como deixar de comer carne", parabéns. Você está 50% certo. Porém, se você também pensou que esse pode ser um filme que faz pensar em pelo menos alguma coisa a respeito de sustentabilidade, você já acertou mais da metade do filme.
 

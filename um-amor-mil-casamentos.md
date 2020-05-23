@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-20"
 title: "Um Amor, Mil Casamentos"
 tags: [ "draft", "movies" ]
-desc: '"Love Wedding Repeat" (Italy e United Kingdom, 2020), escrito por Dean Craig, Francis Nief e Christelle Raynal, dirigido por Dean Craig, com Sam Claflin, Olivia Munn e Freida Pinto.'
 imdb: "5096470"
 stars: "2/5"
 ---

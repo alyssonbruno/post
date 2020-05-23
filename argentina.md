@@ -6,7 +6,6 @@ date: "2017-03-31"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Argentina"
 stars: "5/5"
-desc: "Argentina. Zonda: folclore argentino (Argentina, 2015). Dirigido por Carlos Saura. Escrito por Carlos Saura. Com Pedro Aznar, Juan Falú, Marian Farías Gómez, Gabo Ferro, Liliana Herrero, Jairo, Luciana Jury, Horacio Lavandera, Luis Salinas."
 ---
 Até para quem não ouve muita música, ou tem um estilo diferente do retratado em Argentina, último longa documental musical de Carlos Saura, há de se emocionar. Pelo menos em seus primeiros quinze minutos, onde um grupo de cantores evoca através de suas potentes vozes cânticos que traduzem a história de uma cultura que se formou através da união de diferentes regiões, que, separadas naturalmente por desertos e montanhas, não parece conhecer limites para a poesia do homem e da mulher simples, batalhadores de todo dia, sofredores como eternos oprimidos, trovadores do sol e da lua.
 

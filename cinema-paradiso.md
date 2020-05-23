@@ -1,7 +1,6 @@
 ---
 date: "2020-05-10"
 title: "Cinema Paradiso"
-desc: '"Nuovo Cinema Paradiso" (Italy e France, 1988), escrito por Giuseppe Tornatore e Vanna Paoli, dirigido por Giuseppe Tornatore, com Antonella Attili, Enzo Cannavale Isa Danieli e Salvatore Cascio.'
 imdb: "0095765"
 stars: "5/5"
 categories: [ "cinema" ]

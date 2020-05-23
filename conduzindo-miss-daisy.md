@@ -6,7 +6,6 @@ date: "2013-07-11"
 tags: [ "draft", "movies" ]
 title: "Conduzindo Miss Daisy"
 stars: "4/5"
-desc: "Conduzindo Miss Daisy. Driving Miss Daisy (USA, 1989). Dirigido por Bruce Beresford. Escrito por Alfred Uhry, Alfred Uhry. Com Morgan Freeman, Jessica Tandy, Dan Aykroyd, Patti LuPone, Esther Rolle, Joann Havrilla, William Hall Jr., Alvin M. Sugarman, Clarice F. Geigerman."
 ---
 Um filme que envelheceu bem, mas que continua enigmático em alguns sentidos (ele é, de fato, racista?). Em outros, se reforça ainda mais, como é o caso da belíssima trilha sonora, composta pelo rival de temas de John Williams, Hans Zimmer, e das interpretações de Morgam Freeman e Jessica Tandy.
 

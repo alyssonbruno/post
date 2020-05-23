@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-12"
 title: "Em Segredo"
 tags: [ "draft", "movies" ]
-desc: '"In Secret" (Sérvia, Hungria e EUA, 2013), escrito por Émile Zola, Neal Bell e Charlie Stratton, dirigido por Charlie Stratton, com Elizabeth Olsen, Oscar Isaac e Tom Felton.'
 imdb: "0409379"
 stars: "4/5"
 ---

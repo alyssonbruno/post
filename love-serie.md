@@ -6,7 +6,6 @@ date: "2016-03-01"
 tags: [ "draft", "series" ]
 title: "Love - Primeira Temporada"
 stars: "3/5"
-desc: "Love - Primeira Temporada. Love (USA, 2016). Dirigido por Dean Holland, John Slattery. Escrito por Judd Apatow, Lesley Arfin, Paul Rust, Brent Forrester. Com Gillian Jacobs, Paul Rust, Claudia O'Doherty, Jordan Rock, Tracie Thoms, Mike Mitchell."
 ---
 O que significa se relacionar? Por que para algumas pessoas isso funciona tão bem, enquanto para outras é como dirigir um trator esmagando todos os corações pelo caminho?
 

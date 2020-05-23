@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2015-05-22"
 title: "Mad Max: Estrada da Fúria"
-desc: "Mad Max: Estrada da Fúria. Mad Max: Fury Road (Australia, 2015). Dirigido por George Miller. Escrito por George Miller, Brendan McCarthy, Nick Lathouris. Com Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Josh Helman, Nathan Jones, Zoë Kravitz, Rosie Huntington-Whiteley, Riley Keough."
 imdb: "1392190"
 tags: [ "draft", "movies" ]
 stars: "5/5"

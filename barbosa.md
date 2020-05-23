@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-04-11"
 title: "Barbosa"
-desc: '"Barbosa" (Brazil, 1988), escrito por Giba Assis Brasil, Ana Luiza Azevedo e Jorge Furtado, dirigido por Ana Luiza Azevedo e Jorge Furtado, com Antônio Fagundes, Pedro Santos e José Vitor Castiel.'
 tags: [ "draft", "shorts" ]
 imdb: "0125671"
 stars: "4/5"

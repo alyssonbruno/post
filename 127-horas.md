@@ -6,7 +6,6 @@ date: "2011-02-23"
 tags: [ "draft", "movies" ]
 title: "127 Horas"
 stars: "3/5"
-desc: "127 Horas. 127 Hours (USA, 2010). Dirigido por Danny Boyle. Escrito por Danny Boyle, Simon Beaufoy, Aron Ralston. Com James Franco, Kate Mara, Amber Tamblyn, Sean Bott, Koleman Stinger, Treat Williams, John Lawrence, Kate Burton, Bailee Michelle Johnson."
 ---
 Com uma introdução em tela cortada em três partes, mostrando diversos cenários que evocam o dia-a-dia das pessoas e, principalmente, a correria dessas pessoas para quem o tempo é um bem cada vez mais escasso, o novo longa de Danny Boyle (Quem Quer Ser Um Milionário?) nos apresenta Aaron, sem muita distinção do resto da multidão. Na verdade, ele não é muito diferente de nenhum de nós.
 

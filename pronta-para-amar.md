@@ -6,7 +6,6 @@ date: "2011-09-21"
 tags: [ "draft", "movies" ]
 title: "Pronta Para Amar"
 stars: "3/5"
-desc: "Pronta Para Amar. A Little Bit of Heaven (USA, 2011). Dirigido por Nicole Kassell. Escrito por Gren Wells. Com Kate Hudson, Gael García Bernal, Kathy Bates, Lucy Punch, Romany Malco, Rosemarie DeWitt, Whoopi Goldberg, Treat Williams, Steven Weber."
 ---
 Nessa simpática comédia romântica que tenta fugir de vários clichês (não só do seu gênero), Kate Hudson encarna Marley, uma garota que teme relacionamentos mais que a morte (embora seja adepta do sexo casual), mas ao ser confrontada com esta ao descobrir ter um câncer incurável, resolve mudar radicalmente sua forma de viver, aproximando seus entes queridos, evitando encarar sua doença com seriedade e, quem sabe, conseguir um relacionamento com seu próprio médico.
 

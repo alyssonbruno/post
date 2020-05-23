@@ -6,7 +6,6 @@ date: "2016-08-09"
 tags: [ "draft", "movies" ]
 title: "Brazil: O Filme"
 stars: "5/5"
-desc: "Brazil: O Filme. Brazil (UK, 1985). Dirigido por Terry Gilliam. Escrito por Terry Gilliam, Tom Stoppard, Charles McKeown. Com Jonathan Pryce, Robert De Niro, Katherine Helmond, Ian Holm, Bob Hoskins, Michael Palin, Ian Richardson, Peter Vaughan, Kim Greist."
 ---
 Terry Gilliam nos apresenta esse futuro distópico onde "Aquarela do Brasil", de Ary Barroso, é o tema musical perfeito para esse clima fabuloso, que transforma um drama grandioso em uma comédia séria, que trata de governos totalitários e o seu maior perigo: a enxurrada de papéis de uma burocracia sem fim, que pode engolir pessoas vivas. Nós sabemos vagamente que toda a ineficiência do governo acaba matando indiretamente milhares de pessoas todos os dias pelos erros de alocação de recursos. Porém, em "Brazil", basta um erro de tipografia e sua vida foi extinta, literalmente. Ainda bem que erros estatais nunca acontecem. Não é mesmo?
 

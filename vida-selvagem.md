@@ -7,7 +7,6 @@ date: "2016-06-09"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Vida Selvagem"
 stars: "4/5"
-desc: "Vida Selvagem. Vie sauvage (Belgium, 2014). Dirigido por Cédric Kahn. Escrito por Okwari Fortin, Shahi'Yena Fortin, Xavier Fortin, Cédric Kahn, Nathalie Najem, Laurence Vidal. Com Mathieu Kassovitz, Céline Sallette, David Gastou, Sofiane Neveu, Romain Depret, Jules Ritmanic, Jenna Thiam, Tara-Jay Bangalter, Amandine Dugas."
 ---
 Vida Selvagem conta a história verídica de um pai (Mathieu Kassovitz) que sequestrou seus filhos (David Gastou, Sofiane Neveu) para viverem no mato. Os fatos são descritos de uma maneira que não deixa muitas brechas para interpretação. As cenas fazem parte de uma narrativa apressada, intimista e, de certa forma poética.
 

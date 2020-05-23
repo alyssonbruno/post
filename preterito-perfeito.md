@@ -1,7 +1,6 @@
 ---
 date: "2020-05-13"
 title: "Pretérito Perfeito"
-desc: '"Pretérito Perfeito" (Brazil, 2006), escrito por Gustavo Pizzi, dirigido por Gustavo Pizzi, com Ivanilda Santos Lima, Roberto Amaral e Constantino de Franco.'
 imdb: "1578707"
 stars: "1/5"
 categories: [ "cinema" ]

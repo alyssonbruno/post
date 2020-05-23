@@ -6,7 +6,6 @@ date: "2016-10-21"
 tags: [ "draft", "movies" ]
 title: "Aloys"
 stars: "5/5"
-desc: "Aloys. Aloys (Switzerland, 2016). Dirigido por Tobias Nölle. Escrito por Tobias Nölle. Com Georg Friedrich (Aloys Adorn), Tilde von Overbeck (Vera), Kamil Krejcí (Herr Schoch), Yufei Li (Yen Lee), Koi Lee (Herr Lee), Sebastian Krähenbühl (Hauswart), Karl Friedrich (Vater Aloys), Peter Zumstein (Bestatter), Agnes Lampkin (Julie Kramer)."
 ---
 Aloys é uma viagem fascinante pelo mundo dos efeitos sonoros que criam a realidade em torno dos dois personagens principais. Para esse feito, é necessário uma edição e montagem impecáveis, além de um design de som que prima pela redundância. Redundância essa necessária para que o espectador consiga penetrar no mundo dividido entre todas as pessoas que vivem dentro do mundo interno de cada um de nós.
 

@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2019-07-09T23:55:08-03:00
 title: "Cidadão Kane"
 imdb: "0033467"
-desc: "Citizen Kane. United States, 1941. Dirigido por Orson Welles, escrito por Herman J. Mankiewicz, Orson Welles, John Houseman. Com Joseph Cotten, Dorothy Comingore, Agnes Moorehead."
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

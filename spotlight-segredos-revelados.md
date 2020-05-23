@@ -6,7 +6,6 @@ date: "2016-02-29"
 tags: [ "draft", "movies" ]
 title: "Spotlight: Segredos Revelados"
 stars: "4/5"
-desc: "Spotlight: Segredos Revelados. Spotlight (USA, 2015). Dirigido por Tom McCarthy. Escrito por Josh Singer, Tom McCarthy. Com Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber, John Slattery, Brian d'Arcy James, Stanley Tucci, Elena Wohl, Gene Amoroso."
 ---
 Esse é um filme que foca obcecadamente em seus fatos. A ponto de sacrificar seus personagens. E tudo bem. O material de Spotlight é bom o suficiente para funcionar sem qualquer personagem de destaque, muito embora Mark Ruffalo quase consiga algo interessante.
 

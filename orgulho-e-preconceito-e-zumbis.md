@@ -7,7 +7,6 @@ date: "2016-02-12"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Orgulho e Preconceito e Zumbis"
 stars: "3/5"
-desc: "Orgulho e Preconceito e Zumbis. Pride and Prejudice and Zombies (USA, 2016). Dirigido por Burr Steers. Escrito por Burr Steers, Jane Austen, Seth Grahame-Smith. Com Lily James, Sam Riley, Bella Heathcote, Ellie Bamber, Millie Brady, Suki Waterhouse, Douglas Booth, Sally Phillips, Charles Dance."
 ---
 Há muitos filmes que se agarram a um conteúdo original pela força dramática que estes fornecem (como o recente Dez Mandamentos brasileiro), mas se esquecem de adicionar algo realmente valioso. Pelo contrário: se escondem covardemente "por trás das saias" de uma obra de referência, ambiciosa e complexa, e de lá atiram com pistolas de água no espectador, indeciso se gosta do que vê por lembrar algo que já viu ou furioso por terem brincado com algo que nunca deveria ter sido "tirado da caixa".
 

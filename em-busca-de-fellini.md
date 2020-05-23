@@ -7,7 +7,6 @@ date: 2017-11-23T00:35:20
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Em Busca de Fellini"
 stars: "3/5"
-desc: "Em Busca de Fellini. In Search of Fellini (USA, 2017). Dirigido por Taron Lexton. Escrito por Nancy Cartwright, Peter Kjenaas. Com Maria Bello (Claire), Ksenia Solo (Lucy), Mary Lynn Rajskub (Kerri), Barbara Bouchet (Hostess), Beth Riesgraf (Sylvia), David O'Donnell (Robert), Nancy Cartwright (Cosima), Andrea Osvárt (Cabiria), Kim Evans (Catholic School Girl)."
 ---
 Em Busca de Fellini é desses filmes que homenageiam grandes diretores tentando extrair um pouco de seu estilo. É claro que o resultado geralmente nunca atinge o brilhantismo do autor original. E nem é pra isso. E como homenagem, o filme de Taron Lexton consegue explorar tantas nuances do diretor italiano que o ponto mais impressionante do projeto é que tanto tempo se passou após seu último filme, e mesmo assim, o sonho da humanidade ainda parece continuar.
 

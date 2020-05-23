@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-16"
 title: "Eu Posso Ouvir o Oceano"
-desc: '"Umi ga kikoeru" (Japão, 1993), escrito por Saeko Himuro e Keiko Niwa, dirigido por Tomomi Mochizuki, com Nobuo Tobita, Toshihiko Seki e Yoko Sakamoto. Da série dos Estúdios Ghibli que a Netflix liberou.'
 imdb: "0108432"
 tags: [ "draft", "movies" ]
 stars: "3/5"

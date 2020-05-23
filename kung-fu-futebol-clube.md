@@ -6,7 +6,6 @@ date: "2014-09-07"
 tags: [ "draft", "movies" ]
 title: "Kung-Fu Futebol Clube"
 stars: "4/5"
-desc: "Kung-Fu Futebol Clube. Siu lam juk kau (Hong Kong, 2001). Dirigido por Stephen Chow. Escrito por Stephen Chow, Kan-Cheung Tsang, Min Hun Fung, Chi Keung Fung, Marc Handler, Wei Lu. Com Stephen Chow, Wei Zhao, Man Tat Ng, Yin Tse, Cecilia Cheung, Karen Mok, Vincent Kok, Hui Li, Yat-Fei Wong."
 ---
 Shaolin Soccer é uma "versão beta" do hilário Kung-Fusão, mas é muito mais coerente em sua proposta de usar o Kung-Fu como uma forma de todas as pessoas melhorarem o que quer que façam no dia-a-dia através dessa arte milenar chinesa. Coerente, mas não menos confusa: apresentando personagens de maneira mais ou menos aleatória, e com o desafio de montar um time de futebol com personagens obviamente simplistas (o gordo, o fumante, o magro, etc), os únicos que parecem ter um pouco mais de polimento no roteiro são as versões original e nova da lenda conhecida como "Pé de Ouro": pernas dotadas de uma força descomunal que chutam bolas (e qualquer outra coisa) com força desproporcionalmente absurda. (Ah, sim, claro, e o interesse amoroso do herói.)
 

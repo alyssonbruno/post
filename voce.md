@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-09"
 title: "Você"
-desc: '"You" (EUA, 2018), escrito por Greg Berlanti, Sera Gamble e Caroline Kepnes, com Penn Badgley, Ambyr Childers e Elizabeth Lail.'
 imdb: "7335184"
 tags: [ "draft", "series" ]
 stars: "3/5"

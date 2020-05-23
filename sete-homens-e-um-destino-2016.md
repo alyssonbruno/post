@@ -6,7 +6,6 @@ date: "2016-10-12"
 tags: [ "draft", "movies" ]
 title: "Sete Homens e um Destino"
 stars: "3/5"
-desc: "Sete Homens e um Destino. The Magnificent Seven (USA, 2016). Dirigido por Antoine Fuqua. Escrito por Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni, Nic Pizzolatto, Richard Wenk. Com Denzel Washington (Chisolm), Chris Pratt (Josh Faraday), Ethan Hawke (Goodnight Robicheaux), Vincent D'Onofrio (Jack Horne), Byung-hun Lee (Billy Rocks), Manuel Garcia-Rulfo (Vasquez), Martin Sensmeier (Red Harvest), Haley Bennett (Emma Cullen), Peter Sarsgaard (Bartholomew Bogue)."
 ---
 Remake do clássico de Akira Kurosawa em 1960, série televisiva em 1998, e agora uma revisita muito bem-vinda à história da defesa dos fracos e oprimidos por matadores profissionais. Menos pela discussão da questão da honra dos sete homens do título; mais como lente de aumento das mudanças ocorridas nos EUA que o fizeram sair do título de país da liberdade para uma ditadura socialista em questão de décadas.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-07T23:41:09-03:00
 title: "Avatar"
-desc: "Avatar. Reino Unido, EUA, 2009. Escrito e dirigido por James Cameron. Com Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Michelle Rodriguez."
 imdb: "0499549"
 
 tags: [ "draft", "movies" ]

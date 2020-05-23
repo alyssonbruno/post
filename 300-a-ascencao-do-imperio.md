@@ -6,7 +6,6 @@ date: "2014-03-25"
 tags: [ "draft", "movies" ]
 title: "300 A Ascensão do Império"
 stars: "2/5"
-desc: "300 A Ascensão do Império. 300: Rise of an Empire (USA, 2014). Dirigido por Noam Murro. Escrito por Zack Snyder, Kurt Johnstad, Frank Miller. Com Sullivan Stapleton, Eva Green, Lena Headey, Hans Matheson, Callan Mulvey, David Wenham, Rodrigo Santoro, Jack O'Connell, Andrew Tiernan."
 ---
 Esse é um filme nitidamente encomendado para pegar carona no sucesso do original de Zack Snyder (que dirigiu o primeiro "300" e assina o roteiro deste novo) talvez principalmente baseado em seu público potencial, que aparentemente sente prazer em ver pessoas musculosas arrancando sangue de pessoas/bonecos genéricos em câmera lenta. Tudo de forma estilizada, é claro, mas, dessa vez, sem o preciosismo visual que tornava seu antecessor tão fascinante visualmente.
 

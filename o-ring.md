@@ -6,7 +6,6 @@ date: "2017-01-17"
 tags: [ "draft", "movies" ]
 title: "O Ring"
 stars: "2/5"
-desc: "O Ring. The Ring (UK, 1927). Dirigido por Alfred Hitchcock. Escrito por Alfred Hitchcock, Alma Reville, Eliot Stannard. Com Carl Brisson ('One-Round' Jack Sander), Lillian Hall-Davis (The Girl), Ian Hunter (Bob Corby), Forrester Harvey (The Promoter), Harry Terry (The Showman), Gordon Harker (Jack's Trainer), Eugene Corri (Himself - Referee), Charles Farrell (Second), Clare Greet (Fortune Teller)."
 ---
 Hitchcock gosta de criar cenas icônicas em seus filmes. Aqui temos uma mulher apaixonada ao lado do seu amor, quase nocauteado no ringue. Ele também gosta de comédia de situações, e esta é uma delas, onde até o título do filme é um trocadilho em inglês ("ring" pode ser anel ou o ringue de boxe). Este não é um dos seus filmes de crimes, mas um triângulo... um quadrado amoroso. E confuso. São personagens que dificilmente conseguimos lembrar por muito tempo. Parecidos entre si, não caem nos estereótipos e exageros do cinema mudo. O que torna tudo muito difícil de acompanhar.
 

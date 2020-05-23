@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-19"
 title: "Doce Entardecer na Toscana"
-desc: '"Dolce fine giornata" (Polônia, 2019), escrito por Jacek Borcuch, Marcin Cecko e Szczepan Twardoch, dirigido por Jacek Borcuch, com Krystyna Janda, Kasia Smutniak e Antonio Catania.'
 imdb: "9358106"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "4/5"

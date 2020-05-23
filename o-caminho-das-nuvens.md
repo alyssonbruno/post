@@ -1,7 +1,6 @@
 ---
 date: "2020-04-28"
 title: "O Caminho Das Nuvens"
-desc: '"The Middle of the World" (Brazil, 2003), escrito por David França Mendes, dirigido por Vicente Amorim, com Cláudia Abreu, Wagner Moura e Ravi Ramos Lacerda.'
 imdb: "0379199"
 stars: "3/5"
 categories: [ "cinema" ]

@@ -7,7 +7,6 @@ date: "2016-11-30"
 tags: [ "draft", "movies" ]
 title: "Saneamento Básico, O Filme"
 stars: "4/5"
-desc: "Saneamento Básico, O Filme. Saneamento Básico, O Filme (Brazil, 2007). Dirigido por Jorge Furtado. Escrito por Jorge Furtado. Com Fernanda Torres (Marina), Wagner Moura (Joaquim), Camila Pitanga (Silene), Bruno Garcia (Fabrício), Janaína Kremer Motta (Marcela), Lázaro Ramos (Zico), Tonico Pereira (Antônio), Paulo José (Otaviano), Marcelo Aquino (Leonardo)."
 ---
 Dirigido e escrito por Jorge Furtado (O Homem Que Copiava, Meu Tio Matou um Cara), esta é praticamente uma obra didática a respeito da produção de um filme, desde a produção, argumento, roteiro inicial até a montagem, pós-produção, créditos finais. O esforço que o filme faz para que seu espectador perceba isso é tão irritante quanto tocante, já que cineasta brasileiro, muito provavelmente ele está acostumado a trabalhar com orçamento apertado, o que quase que justifica todos os maneirismos que sua direção (e seu elenco) aplicam ao roteiro, tornando este um trabalho digno de nota por conta da realidade que o cerca, mas também pela maneira original com que a metalinguagem aqui é utilizada.
 

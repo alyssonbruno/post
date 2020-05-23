@@ -6,7 +6,6 @@ date: "2012-10-28"
 tags: [ "draft", "movies" ]
 title: "Shun Li e o Poeta"
 stars: "3/5"
-desc: "Shun Li e o Poeta. Io sono Li (Italy, 2011). Dirigido por Andrea Segre. Escrito por Andrea Segre, Andrea Segre, Marco Pettenello. Com Tao Zhao, Rade Serbedzija, Marco Paolini, Roberto Citran, Giuseppe Battiston, Giordano Bacci, Spartaco Mainardi, Zhong Cheng, Wang Yuan."
 ---
 Shun Li e o Poeta assume que apenas o fato de inserir dois personagens de culturas e povos longínquos em uma terceira nação pudesse significar uma boa história. É possível apreciar a interação entre Shun Li, uma trabalhadora chinesa que assume o controle de um bar na beira do cais de uma cidadezinha litorânea na Itália, com "O Poeta", um pescador local que emigrou da Iugoslávia e que já aposentado começa a repensar sua vida de solteiro.
 

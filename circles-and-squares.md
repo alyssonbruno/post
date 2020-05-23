@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-17"
 title: "Circles and Squares"
-desc: "Trechos de um artigo do livro I Lost it At The Movies, por Pauline Kael."
 tags: [ "draft", "essays" ]
 ---
 Retirado do blog Keeping My Brain Alive.

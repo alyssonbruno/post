@@ -7,7 +7,6 @@ date: 2017-08-28T17:55:37
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Sequestro"
 stars: "4/5"
-desc: "O Sequestro. Kidnap (USA, 2017). Dirigido por Luis Prieto. Escrito por Knate Lee. Com Halle Berry (Karla Dyson), Sage Correa (Frankie), Chris McGinn (Margo), Lew Temple (Terry), Jason George (David), Christopher Berry (Bearded Man), Arron Shiver (Bill), Kurtis Bedford (Del), Carmella Riley (Stephanie)."
 ---
 O Sequestro consegue caminhar por todos os clichês dos filmes do gênero sem tropeçar em nenhum deles. Na verdade ele parece que pisca para o espectador em alguns momentos, de tão óbvia a situação. É como se antes de acontecer algo imaginássemos: "aqui sempre acontece tal coisa". E quando não acontece, eis a recompensa do filme.
 

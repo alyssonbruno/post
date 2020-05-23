@@ -6,7 +6,6 @@ date: "2016-05-03"
 tags: [ "draft", "movies" ]
 title: "Truman"
 stars: "3/5"
-desc: "Truman. Truman (Spain, 2015). Dirigido por Cesc Gay. Escrito por Tomàs Aragay, Cesc Gay. Com Ricardo Darín, Javier Cámara, Dolores Fonzi, Eduard Fernández, Troilo, Alex Brendemühl, Pedro Casablanc, José Luis Gómez, Javier Gutiérrez."
 ---
 Esse talvez seja um dos mais decepcionantes filmes com Ricardo Darín, mas não deixa de ser interessante em alguns momentos, como quando discute a diferença entre ser tratado como um ser humano ordinário e um ser humano moribundo.
 

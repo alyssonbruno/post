@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-06"
 title: "Coringa"
-desc: '"Joker" (EUA, Canadá, 2019), escrito por Todd Phillips e Scott Silver, dirigido por Todd Phillips, com Joaquin Phoenix, Robert De Niro e Zazie Beetz. Visto no IMAX, bem de pertinho.'
 imdb: "7286456"
 tags: [ "draft", "movies" ]
 stars: "5/5"

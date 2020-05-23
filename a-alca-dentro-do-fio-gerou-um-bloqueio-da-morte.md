@@ -3,7 +3,6 @@ categories: [ "code" ]
 date: "2008-10-21"
 title: A alça dentro do fio gerou um bloqueio da morte
 tags: [ "draft",  ]
-desc: "Exemplos de como não traduzir conteúdo técnico em inglês."
 ---
 Estava folheando um livro fenomenal que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções (o livro estava em português) no mínimo curiosas.
 

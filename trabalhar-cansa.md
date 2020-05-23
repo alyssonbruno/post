@@ -6,7 +6,6 @@ date: "2011-10-18"
 tags: [ "draft", "movies" ]
 title: "Trabalhar Cansa"
 stars: "5/5"
-desc: "Trabalhar Cansa. Trabalhar Cansa (Brazil, 2011). Dirigido por Marco Dutra, Juliana Rojas. Escrito por Marco Dutra, Juliana Rojas. Com Helena Albergaria, Marat Descartes, Naloana Lima, Gilda Nomacce, Marina Flores, Lilian Blanc, Thiago Carreira, Hugo Villavicenzio, Thais Almeida Prado."
 ---
 Esse drama-terror concebido e dirigido por Juliana Rojas e Marco Dutra (esse, um dos roteiristas do recente Meu País) busca evitar se posicionar claramente no sobrenatural, mas dá uma gélida impressão durante toda a trama que é exatamente com isso que estamos lidando, ainda que não seja dito ou declarado. E é esse o detalhe mais aterrorizante de todo o longa.
 

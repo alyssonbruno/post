@@ -6,7 +6,6 @@ date: "2016-01-04"
 tags: [ "draft", "movies" ]
 title: "S.O.S.: Mulheres ao Mar"
 stars: "2/5"
-desc: "S.O.S.: Mulheres ao Mar. S.O.S.: Mulheres ao Mar (Brazil, 2014). Dirigido por Cris D'Amato. Escrito por Sylvio Gonçalves, Rodrigo Nogueira, Marcelo Saback. Com Giovanna Antonelli, Reynaldo Gianecchini, Fabiula Nascimento, Thalita Carauta, Emanuelle Araújo, Marcello Airoldi, Theresa Amayo, Rodrigo Ferrarini, Sergio Múñiz."
 ---
 Este filme é um longo comercial de uma empresa de cruzeiros. A história poderia muito bem acontecer em uma cidade qualquer, já que não há nenhuma cena que justifique a presença dos personagens em um navio. Salvo, claro, as patéticas "homenagens" a Titanic, tornando-o, por comparação, como se Plano 9 do Espaço Sideral, considerado o pior filme de todos os tempos, homenageasse Cidadão Kane, considerado um dos melhores.
 

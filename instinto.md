@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-14"
 title: "Instinto"
-desc: '"Instinct" (Holanda, 2019), escrito por Esther Gerritsen e Halina Reijn, dirigido por Halina Reijn, com Carice van Houten, Marwan Kenzari e Marie-Mae van Zuilen. Escrito para o CinemAqui.'
 imdb: "8386898"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

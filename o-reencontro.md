@@ -7,7 +7,6 @@ date: 2017-07-21T13:44:32
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Reencontro"
 stars: "4/5"
-desc: "O Reencontro. Sage femme (France, 2017). Dirigido por Martin Provost. Escrito por Martin Provost. Com Catherine Deneuve (Béatrice Sobo dite Sobolevski), Catherine Frot (Claire Breton), Olivier Gourmet (Paul Baron), Quentin Dolmaire (Simon), Mylène Demongeot (Rolande), Pauline Etienne (Cécile Amado - une patiente), Pauline Parigot (Lucie), Marie Gili-Pierre (Evelyne), Audrey Dana (La chef de service hôpital moderne)."
 ---
 O Reencontro traz Catherine Deneuve em boa forma em um filme que, apesar de leve, consegue trazer à tona o tema de uma pessoa que sabe que vai morrer. Porém, é mais que isso, pois ele junta a persona fantástica de Deneuve e de Catherine Frot através dos problemas sociais da atualidade em uma história que lida com perdas e ganhos que se entrelaçam em uma bonita composição da arte que fala sobre a vida.
 

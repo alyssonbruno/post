@@ -6,7 +6,6 @@ date: "2012-03-13"
 tags: [ "draft", "movies" ]
 title: "Drive"
 stars: "4/5"
-desc: "Drive. Drive (USA, 2011). Dirigido por Nicolas Winding Refn. Escrito por Hossein Amini, James Sallis. Com Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks, Oscar Isaac, Christina Hendricks, Ron Perlman, Kaden Leos, Jeff Wolfe."
 ---
 A filmagem no estilo homenagem aos anos 80 cativa e ao mesmo tempo cria uma atmosfera que aceitamos exatamente pelas inúmeras referências da época, como os créditos estilosos ou as frequentes mas elegantes transições em que o personagem de Ryan Gosling (Tudo pelo Poder ) aparece em um plano detalhe e se "esfumaça" para outra cena.
 

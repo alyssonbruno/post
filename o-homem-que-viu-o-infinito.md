@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-21"
 title: "O Homem que viu o Infinito"
-desc: '"The Man Who Knew Infinity" (Reino Unido e EUA, 2015), escrito por Matt Brown e Robert Kanigel, dirigido por Matt Brown, com Jeremy Irons, Dev Patel e Malcolm Sinclair. Estava na minha lista da Netflix, mas me arrependi depois de quinze minutos.'
 imdb: "0787524"
 tags: [ "draft", "movies" ]
 stars: "2/5"

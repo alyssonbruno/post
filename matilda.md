@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-07T21:15:11-02:00
 title: "Matilda"
-desc: "Matilda. EUA, 1996. Escrito por Nicholas Kazan e Robin Swicord baseados no livro de Roald Dahl. Dirigido por Danny DeVito. Com Danny DeVito, Rhea Perlman, Mara Wilson. Nostalgia, Regra dos 15 Anos."
 imdb: "0117008"
 
 tags: [ "draft", "movies" ]

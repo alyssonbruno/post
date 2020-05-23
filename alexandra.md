@@ -6,7 +6,6 @@ date: "2013-05-23"
 tags: [ "draft", "movies" ]
 title: "Alexandra"
 stars: "3/5"
-desc: "Alexandra. Aleksandra (Russia, 2007). Dirigido por Aleksandr Sokurov. Escrito por Aleksandr Sokurov. Com Galina Vishnevskaya, Vasily Shevtsov, Raisa Gichaeva, Andrei Bogdanov, Aleksandr Kladko, Aleksei Neymyshev, Rustam Shakhgireev, Evgeniy Tkachuk."
 ---
 Sokurov parece sempre voltar às relações familiares, especialmente a entre mãe e filho, tão importante na Rússia. Aqui acompanhamos Alexandra, a mãe de um dos oficiais de um grupo de soldados que acampa próximo à fronteira com os eslavos. Não é um filme de guerra, mas sobre a guerra.
 

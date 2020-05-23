@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-21"
 title: "E Em Cada Lentilha Um Deus"
-desc: '"Y En Cada Lenteja Un Dios" (Espanha, 2018), escrito por Miguel Ángel Jiménez e Luis Moya, dirigido por Miguel Ángel Jiménez. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9100090"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

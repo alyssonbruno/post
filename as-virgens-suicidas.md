@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-31T18:11:22-03:00
 title: "As Virgens Suicidas"
-desc: "The Virgin Suicides. EUA, 1999. Dirigido por Sofia Coppola. Escrito por Sofia adaptado do livro de Jeffrey Eugenides. Com Kirsten Dunst, Josh Hartnett, James Woods."
 imdb: "0159097"
 
 tags: [ "draft", "movies" ]

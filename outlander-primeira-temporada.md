@@ -6,7 +6,6 @@ date: 2017-07-19T00:47:55
 tags: [ "draft", "series" ]
 title: "Outlander - Primeira Temporada"
 stars: "4/5"
-desc: "Outlander - Primeira Temporada. Outlander (USA, 2014). Dirigido por Metin HÃ¼seyin, Anna Foerster, Brian Kelly, Mike Barker, Philip John, Brendan Maher, John Dahl, Richard Clark, Douglas Mackinnon. Escrito por Ronald D. Moore, Diana Gabaldon, Ira Steven Behr, Toni Graphia, Anne Kenney, Matthew B. Roberts. Com Caitriona Balfe (Claire Randall), Sam Heughan (Jamie Fraser), Duncan Lacroix (Murtagh Fraser), Tobias Menzies (Jack Randall / ...), Grant O'Rourke (Rupert MacKenzie), Graham McTavish (Dougal MacKenzie), Stephen Walters (Angus Mhor)."
 ---
 Essa série parece uma cria da fórmula criada por Game of Thrones, onde sexo, violência e coadjuvantes de passagem são a lei. Porém, logo fica claro que a intenção nunca foi fugir muito do esquema noveleiro, onde torcemos por um casal principal. Ainda assim, a Escócia e os escoceses são retratados com tanto carinho nostálgico que é possível assistir à novela para se permitir viajar para aqueles tempos de outrora, onde costumes, valores, economia, política e sociedade parecem ligeiramente diferente do que vivemos hoje em dia.
 

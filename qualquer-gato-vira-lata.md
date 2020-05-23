@@ -6,7 +6,6 @@ date: "2012-05-10"
 tags: [ "draft", "movies" ]
 title: "Qualquer Gato Vira-Lata"
 stars: "2/5"
-desc: "Qualquer Gato Vira-Lata. Qualquer Gato Vira-Lata (Brazil, 2011). Dirigido por Tomas Portella, Daniela De Carlo. Escrito por Claudia Levay, Ricardo Tiezzi, Tati Bernardi, Júlia Spadaccini, Reginaldo Prandi, Leonardo Levis, Guilherme Serran, Aline Bittencourt, Patricia Corso. Com Cleo Pires, Malvino Salvador, Dudu Azevedo, Rita Guedes, Álamo Facó, Leticia Novaes, Gillray Coutinho, Jean Pierre Noher, Tatsu Carvalho."
 ---
 A influência norte-americana e suas comédias românticas de caráter duvidoso trouxeram uma produção com elenco brasileiro que não é apenas covarde em sua premissa, mas retrógrada e oportunista. Dirigido por Tomas Portella e Daniela de Carlo, ambos já envolvidos em produções hollywoodianas, o filme gira em torno do roteiro de uma peça de teatro (muito ruim, por sinal) em que a jovem e fisicamente atraente Tati (Cléo Pires) briga com seu namorado Marcelo (Dudu Azevedo) em seu aniversário por conta de suas aventuras fora do relacionamento; ao tentar procurar uma solução para seu relacionamento descobre através das teorias de um professor de biologia, Conrado (Malvino Salvador), que talvez estivesse usando a abordagem errada para seduzir homens.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-08T22:40:22-03:00
 title: "Lámen Shop"
-desc: "Ramen Teh. Singapura, Japão, França, 2018. Dirigido por Eric Khoo. Com Tsuyoshi Ihara, Takumi Saitoh, Seiko Matsuda."
 imdb: "6720618"
 
 tags: [ "draft", "movies" ]

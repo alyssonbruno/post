@@ -6,7 +6,6 @@ date: "2016-12-04"
 tags: [ "draft", "movies" ]
 title: "SOMM: Into the Bottle"
 stars: "3/5"
-desc: "SOMM: Into the Bottle. SOMM: Into the Bottle (USA, 2015). Dirigido por Jason Wise. Escrito por Christina Tucker, Jason Wise. Com Silvia Altare (Herself), Brian Carmody (Diner in Restaurant), Ian Cauble (Himself), Jean-Louis Chave (Himself), Fred Dame (Himself), Aubert De Villaine (Himself), Peter Gago (Himself), Jessica Goldapple (Diner in Restaurant), Geoff Kruth (Himself)."
 ---
 Para os que assistiram ao documentário "Somm", este será uma continuação natural. Para os que não o viram, não irão perder nada, pois ele não é necessário para acompanharmos mais uma viagem didática e comportada -- como deve ser -- ao mundo do vinho, desde as besteiras de pontuação, até rixas de família pela mudança da tradição, até a abertura emocionante (pelo menos para os aficionados) de garrafas enclausuradas por décadas, para constatarmos, com alegria nos olhos e nas papilas gusta/olfativas, que para alguns vinhos, envelhecer pode ser uma ótima ideia.
 

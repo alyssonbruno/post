@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-21T00:33:48-02:00
 title: "A Última Gargalhada"
-desc: "The Last Laught. EUA, 2019. Escrito e dirigido por Greg Pritikin. Com Chevy Chase, Richard Dreyfuss, Andie MacDowell."
 imdb: "7427356"
 
 tags: [ "draft", "movies" ]

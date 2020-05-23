@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-28T22:50:53-03:00
 title: "Powaqqatsi - A Vida em Transformação"
-desc: "Powaqqatsi. EUA, 1988. Dirigido por Godfrey Reggio, escrito por Godfrey Reggio e Ken Richards. Com música de Philip Glass. Com Christie Brinkley, David Brinkley, Pope John Paul II e outros."
 imdb: "0095895"
 
 tags: [ "draft", "movies" ]

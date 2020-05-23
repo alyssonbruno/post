@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2019-07-16"
 title: "O Rei Leão (2019)"
 imdb: "6105098"
-desc: "The Lion King. United States, 2019. Dirigido por Jon Favreau, escrito por Jeff Nathanson, Brenda Chapman, Irene Mecchi. Com Chiwetel Ejiofor, John Oliver, James Earl Jones. Texto escrito para o CinemAqui."
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

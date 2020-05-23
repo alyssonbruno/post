@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2018-12-07"
 title: "Harry Potter e a Pedra Filosofal"
-desc: "Harry Potter and the Sorcerer's Stone. Reino Unido, EUA, 2001. Escrito por Steve Kloves baseado no romance infanto-juvenil de J.K. Rowling. Com Daniel Radcliffe, Rupert Grint, Richard Harris. Nostalgia, efeitos antigos. Atualizado em 2019-12-27."
 imdb: "0241527"
 tags: [ "draft", "movies" ]
 stars: "3/5"

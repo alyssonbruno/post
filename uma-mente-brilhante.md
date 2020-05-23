@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-04-05"
 title: "Uma Mente Brilhante"
-desc: '"A Beautiful Mind" (United States, 2001), escrito por Akiva Goldsman e Sylvia Nasar, dirigido por Ron Howard, com Russell Crowe, Ed Harris e Jennifer Connelly.'
 tags: [ "draft", "movies" ]
 imdb: "0268978"
 stars: "5/5"

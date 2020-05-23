@@ -6,7 +6,6 @@ date: "2011-07-01"
 tags: [ "draft", "movies" ]
 title: "Entrando Numa Fria Maior Ainda com a Família"
 stars: "3/5"
-desc: "Entrando Numa Fria Maior Ainda com a Família. Little Fockers (USA, 2010). Dirigido por Paul Weitz. Escrito por John Hamburg, Larry Stuckey, Greg Glienna, Mary Ruth Clarke. Com Robert De Niro, Ben Stiller, Owen Wilson, Dustin Hoffman, Barbra Streisand, Blythe Danner, Teri Polo, Jessica Alba, Laura Dern."
 ---
 Filme um pouco mais recatado que os outros da série, traz piadas mais contidas, um senso mais família, com De Niro no automático e Ben Stiller pouco inspirado em suas caretas.
 

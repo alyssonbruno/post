@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-29"
 title: "Harry Potter e a Ordem da Fênix"
-desc: '"Harry Potter and the Order of the Phoenix" (Reino Unido e EUA, 2007), escrito por Michael Goldenberg baseado no livro de J.K. Rowling, dirigido por David Yates, com Daniel Radcliffe, Harry Melling e Jason Boyd. Maratona Harry Potter.'
 imdb: "0373889"
 tags: [ "draft", "movies" ]
 stars: "3/5"

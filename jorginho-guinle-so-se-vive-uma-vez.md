@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-18T20:38:00-03:00
 title: "Jorginho Guinle - $o se Vive Uma Vez"
-desc: "Jorginho Guinle - $o se Vive Uma Vez (Brasil, 2019), escrito por Otávio Escobar, Duda Ribeiro e Dostoiewski Champagnatte, dirigido por Escobar, com Saulo Segreto, Guilhermina Guinle, Letícia Spiller, Daniel Boaventura, Davi Goular e Jorge Guinle."
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 

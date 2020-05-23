@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-08T15:26:05-02:00
 title: "Minecraft Story Mode"
-desc: "Minecraft Story Mode. EUA, Suécia, 2015. Escrito por muita gente para listar, dirigido também. Com Patton Oswalt, Catherine Taber, Dee Bradley Baker. Interativo."
 imdb: "4291714"
 
 tags: [ "draft", "series" ]

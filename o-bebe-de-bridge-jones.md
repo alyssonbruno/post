@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2019-06-24T18:28:13-03:00
 title: "O Bebê de Bridge Jones"
 imdb: "1473832"
-desc: "Bridget Jones's Baby. United States, France, China, United Kingdom, 2016. Dirigido por Sharon Maguire, escrito por Helen Fielding, Dan Mazer, Emma Thompson. Com Renée Zellweger, Colin Firth, Patrick Dempsey e Emma Thompson."
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

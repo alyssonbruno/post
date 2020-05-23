@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: 2019-02-13T16:02:06-02:00
 title: "Como a geração de Sai de Baixo se encontra com a geração Não me Toque"
-desc: "Sai de Baixo: O Filme (Brasil, 2019), escrito por"
 tags: [ "draft", "cinemaqui" ]
 
 ---

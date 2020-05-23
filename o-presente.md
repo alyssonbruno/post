@@ -6,7 +6,6 @@ date: "2013-01-06"
 tags: [ "draft", "movies" ]
 title: "O Presente"
 stars: "2/5"
-desc: "O Presente. The Ultimate Gift (USA, 2006). Dirigido por Michael O. Sajbel. Escrito por Cheryl McKay, Jim Stovall. Com James Garner, Bill Cobbs, Lee Meriwether, George Lee, Brett Rice, D. David Morin, Abigail Breslin, Ali Hillis, Drew Fuller."
 ---
 O filme baseado no livro homônimo de Jim Stovall  escritor cego engajado em trabalhos para deficientes  claramente tenta passar uma mensagem de caridade para com os mais necessitados. Para isso, contudo, se esquece de estabelecer uma relação afetiva com seus personagens e acaba resumindo uma sequência de eventos simbólicos que forçam a emoção do espectador pela situação em si, sem qualquer outra
 

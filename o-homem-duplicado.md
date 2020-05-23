@@ -7,7 +7,6 @@ review: [ "2016" ]
 tags: [ "draft", "movies" ]
 title: "O Homem Duplicado"
 stars: "4/5"
-desc: "O Homem Duplicado. Enemy (Canada, 2013). Dirigido por Denis Villeneuve. Escrito por José Saramago, Javier Gullón. Com Jake Gyllenhaal, Mélanie Laurent, Sarah Gadon, Isabella Rossellini, Joshua Peace, Tim Post, Kedar Brown, Darryl Dinn, Misha Highstead."
 ---
 Quando ouvimos o professor de história repetir a mesma fala a respeito de ditaduras controlarem o povo através de poucas informação e isso se repetir ao longo da história de forma cíclica é uma pista do que o filme irá falar. Porém, o mais fascinante em O Homem Duplicado é que, assim como as ditaduras, o diretor Denis Villeneuve, do excelente Os Suspeitos (2013), não quer nos revelar todas as informações por trás dessa história.
 

@@ -6,7 +6,6 @@ date: "2014-06-21"
 tags: [ "draft", "movies" ]
 title: "Enders Game O Jogo do Exterminador"
 stars: "3/5"
-desc: "Enders Game O Jogo do Exterminador. Ender's Game (USA, 2013). Dirigido por Gavin Hood. Escrito por Gavin Hood, Orson Scott Card. Com Asa Butterfield, Harrison Ford, Hailee Steinfeld, Abigail Breslin, Ben Kingsley, Viola Davis, Aramis Knight, Suraj Partha, Moises Arias."
 ---
 Por que estão treinando crianças para guerrear contra um povo alienígena? Se já se passaram 50 anos, onde estão os jovens dessa geração? A função de Ender é explicada em mais da metade do filme, mas qual a função de todos os outros da equipe, e por que foram escolhidos? Todas essas perguntas podem permanecer sem resposta, pois "Ender's Game" é praticamente um folclore que tenta ensinar -- ou ao menos fazer pensar -- a respeito de nossa posição no mundo entre as diferentes espécies que ajudamos a ameaçar de extinção, o que gera uma última e fatal pergunta: onde está a ética que define a sobrevivência de qual espécie é a mais importante?
 

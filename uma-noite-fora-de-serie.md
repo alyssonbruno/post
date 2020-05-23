@@ -6,7 +6,6 @@ date: "2016-04-22"
 tags: [ "draft", "movies" ]
 title: "Uma Noite Fora de Série"
 stars: "3/5"
-desc: "Uma Noite Fora de Série. Date Night (USA, 2010). Dirigido por Shawn Levy. Escrito por Josh Klausner. Com Steve Carell, Tina Fey, Mark Wahlberg, Taraji P. Henson, Jimmi Simpson, Common, William Fichtner, Leighton Meester, J.B. Smoove."
 ---
 Esse filme é uma bagunça de dois gêneros. Ele começa como uma comédia romântica um tanto dramatizada a respeito de como o tempo -- e filhos, e rotina, e a velhice -- desgasta um relacionamento. Há piadas com certeza inspiradas na vida real de alguns dos participantes na criação do filme, pois ele se alimenta do lugar-comum e consegue trazer simpatia para esse lado.
 

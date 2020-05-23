@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-06"
 title: "Uma Juventude Como Nenhuma Outra"
-desc: '"Karov La Bayit (aka Close to Home)" (Israel, 2005), escrito por Vardit Bilu e Dalia Hager, dirigido por Vardit Bilu e Dalia Hager, com Smadar Sayar, Naama Schendar e Katia Zinbris.'
 imdb: "0478999"
 tags: [ "draft", "movies" ]
 stars: "2/5"

@@ -6,7 +6,6 @@ date: "2013-02-04"
 tags: [ "draft", "movies" ]
 title: "País do Desejo"
 stars: "2/5"
-desc: "País do Desejo. País do Desejo (Brazil, 2012). Dirigido por Paulo Caldas. Escrito por Paulo Caldas, Pedro Severien, Amin Stepple. Com Fábio Assunção, Gabriel Braga Nunes, Nicolau Breyner, Germano Haiut, Maria Padilha."
 ---
 Filmes como Febre do Rato e O Som ao Redor possuem narrativas pouco convencionais, mas seus temas são tão bem explorados e ensinados ao espectador que não conseguimos imaginar maneira melhor de contar uma história. Que é exatamente o que não existe em País do Desejo, que articula temas complexos e polêmicos como o aborto e a castidade dos padres sem a mínima intenção de explorá-los como mereceriam.
 

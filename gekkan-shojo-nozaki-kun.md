@@ -1,7 +1,6 @@
 ---
 date: "2020-05-16"
 title: "Gekkan Shojo Nozaki Kun"
-desc: '"Monthly Girls'' Nozaki-kun" (Japan, 2014), escrito por Katelyn Barr, Yoshiko Nakamura e Izumi Tsubaki, dirigido por Ryohei Takeshita, Mitsue Yamazaki e Geisei Morita, com Yûichi Nakamura, Ari Ozawa e Christina Marie Kelly.'
 imdb: "3615002"
 stars: "3/5"
 categories: [ "cinema" ]

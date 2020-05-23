@@ -6,7 +6,6 @@ date: "2013-02-20"
 tags: [ "draft", "movies" ]
 title: "O Mestre"
 stars: "4/5"
-desc: "O Mestre. The Master (USA, 2012). Dirigido por Paul Thomas Anderson. Escrito por Paul Thomas Anderson. Com Joaquin Phoenix, Price Carson, Mike Howard, Sarah Shoshana David, Bruce Goodchild, Matt Hering, Dan Anderson, Andrew Koponen, Jeffrey W. Jenkins."
 ---
 Desde o início Freddie Quell (Joaquin Phoenix) é um animal não domesticado, obediente aos seus instintos mais primitivos e dotado de traços animalescos e infantis (como se divertir com peidos). Constatamos isso ainda pelo seu ritual de beber um quase veneno preparado por ele e brigar como um animal raivoso e enxergar sexo em qualquer lugar.
 

@@ -1,7 +1,6 @@
 ---
 date: "2020-05-04"
 title: "O Fio da Inocência"
-desc: '"Felicia''s Journey" (Canada e United Kingdom, 1999), escrito por William Trevor e Atom Egoyan, dirigido por Atom Egoyan, com Bob Hoskins, Arsinée Khanjian e Elaine Cassidy.'
 imdb: "0165773"
 stars: "4/5"
 categories: [ "cinema" ]

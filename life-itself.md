@@ -6,7 +6,6 @@ date: "2015-03-22"
 tags: [ "draft", "movies" ]
 title: "Life Itself"
 stars: "4/5"
-desc: "Life Itself. Life Itself (USA, 2014). Dirigido por Steve James. Com Martin Scorsese, Werner Herzog, Ava DuVernay, Roger Ebert, Errol Morris, Stephen Stanton, Ramin Bahrani, Steve James, Chaz Ebert."
 ---
 Life Itself é uma experiência divertida e monótona ao mesmo tempo. Divertida porque acompanhamos a vida de Rober Ebert -- um dos críticos mais famosos e conceituados no mundo, falecido em 2013 -- desde quando começou a escrever. E o sujeito era um... como dizer isso sem soar xulo? Porra-loca. Estava sempre no bar, saía com mulheres não-convencionais na maioria das vezes, e virou um alcóolatra crônico. Ou seja: o estereótipo de um escritor bem-sucedido.
 

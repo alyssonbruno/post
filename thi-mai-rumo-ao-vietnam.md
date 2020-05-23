@@ -6,7 +6,6 @@ tags: [ "draft", "movies" ]
 imdb: "6126346"
 
 stars: "3/5"
-desc: "Thi Mai, rumbo a Vietnam. Espanha, 2018. Escrito por Marta Sánchez, dirigido por Patricia Ferreira. Com Carmen Machi, Adriana Ozores, Aitana Sánchez-Gijón."
 ---
 Este filme feministinha dirigido por Patricia Ferreira e escrito por Marta Sánchez (deu pra notar? ambas são mulheres!) irá trazer boas risadas. Sabe por quê? Porque este trio de mulheres (e um gay!) irão viver altas aventuras nesta terra inexplorada do Vietnã, onde comunistas vivem bem usando capitalismo para se curar de suas duas guerras. E de quebra um sistema de adoção de criancinhas que parece projeto (sem fins lucrativos) da família Pitt/Jolie. Foi muito machista da minha parte colocar o sobrenome do homem primeiro?
 

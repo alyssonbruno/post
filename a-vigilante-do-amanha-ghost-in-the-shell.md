@@ -6,7 +6,6 @@ date: 2017-08-25T22:52:16
 tags: [ "draft", "movies" ]
 title: "A Vigilante do Amanhã: Ghost In The Shell"
 stars: "3/5"
-desc: "A Vigilante do Amanhã: Ghost In The Shell. Ghost in the Shell (USA, 2017). Dirigido por Rupert Sanders. Escrito por Shirow Masamune, Jamie Moss, William Wheeler, Ehren Kruger. Com Scarlett Johansson (Major), Pilou Asbæk (Batou), Takeshi Kitano (Aramaki), Juliette Binoche (Dr. Ouelet), Michael Pitt (Kuze), Chin Han (Togusa), Danusia Samal (Ladriya), Lasarus Ratuere (Ishikawa), Yutaka Izumihara (Saito)."
 ---
 Scarlett Johansson possui uma beleza natural que encanta tanto pela beleza quanto pelo natural. E nem ela parece conseguir trazer algo de novo ao remake ocidental live-action de um dos trabalhos filosoficamente mais ambiciosos dos últimos tempos. E se nem ela consegue, não serão efeitos digitais nem diálogos em inglês que o farão.
 

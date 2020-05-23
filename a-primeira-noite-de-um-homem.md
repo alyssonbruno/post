@@ -6,7 +6,6 @@ date: "2015-06-16"
 tags: [ "draft", "movies" ]
 title: "A Primeira Noite de um Homem"
 stars: "5/5"
-desc: "A Primeira Noite de um Homem. The Graduate (USA, 1967). Dirigido por Mike Nichols. Escrito por Calder Willingham, Buck Henry, Charles Webb. Com Anne Bancroft, Dustin Hoffman, Katharine Ross, William Daniels, Murray Hamilton, Elizabeth Wilson, Buck Henry, Brian Avery, Walter Brooke."
 ---
 Esse é um filme que possui a alma dos anos 60. Quebra de convenções por todos os lados, e um cuidado especial na condução de uma... quem diria, comédia romântica, em tons sortidos; pelo menos o suficiente para que não encaremos os detalhes inseridos na trama apenas como engraçados, mas também dramáticos; e fiquemos apreensivos pelo destino de um dos heróis mais icônicos e irônicos do Cinema: Ben Braddock.
 

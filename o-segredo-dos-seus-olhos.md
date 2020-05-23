@@ -6,7 +6,6 @@ date: "2011-06-26"
 tags: [ "draft", "movies" ]
 title: "O Segredo dos Seus Olhos"
 stars: "5/5"
-desc: "O Segredo dos Seus Olhos. El secreto de sus ojos (Argentina, 2009). Dirigido por Juan José Campanella. Escrito por Eduardo Sacheri, Juan José Campanella, Eduardo Sacheri. Com Soledad Villamil, Ricardo Darín, Carla Quevedo, Pablo Rago, Javier Godino, Bárbara Palladino, Rudy Romano, Alejandro Abelenda, Mario Alarcón."
 ---
 Juan José Campanella (O Filho da Noiva, Clube da Lua) mostra como um roteiro bem escrito e uma direção impecável conseguem apresentar duas tramas entrecortadas de uma maneira tão fluida e transparente que, no fundo, parece que estamos assistindo a uma única história. Como se fosse pouco, a narrativa se desenvolve alternando um presente e um passado separados por mais de 25 anos. Em uma obra com tantas virtudes, acompanhar a evolução do personagem de Ricardo Darín (Un Cuento Chino) através desses dois momentos em sua vida é mais um bônus nesse filme que merece ser assistido por muitas e muitas vezes.
 

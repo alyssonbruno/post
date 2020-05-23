@@ -7,7 +7,6 @@ date: 2017-10-14T16:42:43
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Uma Razao Para Recomecar"
 stars: "3/5"
-desc: "Uma Razao Para Recomecar. New Life (USA, 2016). Dirigido por Drew Waters. Escrito por Erin Bethea, Candice Irion, Josh Spake, Drew Waters. Com James Marsters (William Morton), Barry Corbin (Oscar), Terry O'Quinn (Dr. Sumrall), Bill Cobbs (Mr. Charles), Erin Bethea (Ava Kennedy), Kris Lemche (Michael), Jonathan Patrick Moore (Ben Morton), Irma P. Hall (Margaret), Drew Waters (New York Client)."
 ---
 Uma Razão Para Recomeçar, se você ainda não sabe, vou te poupar um tempo ou te dar uma dica: ele tem aquele formato que te faz chorar em alguns momentos e que te dá esperança no final. Agora, dependendo de você, a esperança pode ser uma mensagem otimista sobre a vida ou a esperança que o filme acabe. No meu caso foi para que o filme acabasse. E, adivinha só? Minhas preces foram atendidas!
 

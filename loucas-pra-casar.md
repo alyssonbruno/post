@@ -6,7 +6,6 @@ date: "2016-01-04"
 tags: [ "draft", "movies" ]
 title: "Loucas pra Casar"
 stars: "1/5"
-desc: "Loucas pra Casar. Loucas pra Casar (Brazil, 2015). Dirigido por Roberto Santucci. Escrito por Marcelo Saback, Júlia Spadaccini. Com Ingrid Guimarães, Marcio Garcia, Tatá Werneck, Suzana Pires, Camila Amado, Billy Blanco Jr., Alice Borges, Aline Fanju, Edmilson Filho."
 ---
 Dirigido e escrito como uma telenovela, Loucas Pra Casar tem uma boa ideia para uma peça de teatro (talvez até seja) e tenta esticá-la em um filme inteiro usando uma estrutura baseada em episódios descartáveis e bobos, tornando toda a experiência um exercício de futilidade com nenhuma tensão e zero carisma.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-08"
 title: "Terremoto"
-desc: '"Skjelvet" (Noruega, 2018), escrito por John Kåre Raake e Harald Rosenløw-Eeg, dirigido por John Andreas Andersen, com Kristoffer Joner, Ane Dahl Torp e Edith Haagenrud-Sande.'
 imdb: "6523720"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"

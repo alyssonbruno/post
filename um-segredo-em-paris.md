@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-17T17:45:38-02:00
 title: "Um Segredo em Paris"
-desc: "Drôles d'oiseaux. França, 2017. Escrito por Élise Girard com ajuda de Anne-Louise Trividic. Dirigido por Girard. Com Lolita Chammah, Jean Sorel, Virginie Ledoyen. Drama, mistério, direção curiosa, bem francês."
 imdb: "5895782"
 
 tags: [ "draft", "movies" ]

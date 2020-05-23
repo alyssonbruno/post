@@ -6,7 +6,6 @@ date: "2013-12-29"
 tags: [ "draft", "movies" ]
 title: "Contato"
 stars: "5/5"
-desc: "Contato. Contact (USA, 1997). Dirigido por Robert Zemeckis. Escrito por Carl Sagan, Carl Sagan, Ann Druyan, James V. Hart, Michael Goldenberg. Com Jena Malone, David Morse, Jodie Foster, Geoffrey Blake, William Fichtner, Sami Chester, Timothy McNeil, Laura Elena Surillo, Matthew McConaughey."
 ---
 Adoro o livro que Carl Sagan escreveu imaginando como seria, em um mundo realista e atual, nossa primeira comunicação com uma civilização extraterrestre. Ele não apenas fez isso como abriu um pouco mais nosso leque filosófico ao ensaiar uma explicação que unisse ciência e religião, matemática e sentimentos.
 

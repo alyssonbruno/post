@@ -6,7 +6,6 @@ date: "2011-08-29"
 tags: [ "draft", "movies" ]
 title: "Lanterna Verde"
 stars: "3/5"
-desc: "Lanterna Verde. Green Lantern (USA, 2011). Dirigido por Martin Campbell. Escrito por Greg Berlanti, Michael Green, Marc Guggenheim, Michael Goldenberg, Greg Berlanti, Michael Green, Marc Guggenheim. Com Ryan Reynolds, Blake Lively, Peter Sarsgaard, Mark Strong, Tim Robbins, Jay O. Sanders, Taika Waititi, Angela Bassett, Mike Doyle."
 ---
 Cada vez mais começo a acreditar que o uso de muitos roteiristas (nesse temos incríveis 7 pessoas colaborando!) acaba por nivelar por baixo uma história até com um certo potencial. Nesse novo filme de super-herói, a impressão geral que fica é que, ao tentar explicar tudo detalhadamente, para não restar dúvidas aos espectadores, foi feito um filme cuja chatice é inversamente proporcional ao número de efeitos visuais.
 

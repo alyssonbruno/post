@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-09"
 title: "Ninja Xadrez"
-desc: '"Checkered Ninja" (Dinamarca, 2018), escrito por Anders Matthesen, dirigido por Thorbjørn Christoffersen e Anders Matthesen, com Anders Matthesen, Emma Sehested Høeg e Alfred Bjerre Larsen. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7367960"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

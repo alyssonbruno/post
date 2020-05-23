@@ -6,7 +6,6 @@ date: "2016-05-15"
 tags: [ "draft", "movies" ]
 title: "Meu Amigo Totoro"
 stars: "5/5"
-desc: "Meu Amigo Totoro. Tonari no Totoro (Japan, 1988). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki. Com Chika Sakamoto, Hitoshi Takagi, Noriko Hidaka, Shigesato Itoi, Tanie Kitabayashi, Toshiyuki Amagasa, Naoki Tatsuta, Frank Welker, Lea Salonga."
 ---
 Uma animação imortal e irretocável. Meu Amigo Totoro é um dos primeiros filmes dos Estúdios Ghibli, de Hayao Miyazaki, e foi feito no auge dos anos 80. Ele apresenta uma história simples e ao mesmo tempo fascinante, sobre duas meninas que se mudam para um vilarejo no interior com o pai e a mãe, internada em um hospital. A região é conhecida pelas plantações de arroz, e pela imponente floresta. Totoro e seus amigos, espíritos protetores da região, se encontram com a doce e enérgica Mei e a mais velha, mas ainda criança, Satsuki.
 

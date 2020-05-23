@@ -6,7 +6,6 @@ date: 2017-08-04T02:31:04
 tags: [ "draft", "movies" ]
 title: "Tickle Head, O Melhor Lugar Da Terra"
 stars: "3/5"
-desc: "Tickle Head, O Melhor Lugar Da Terra. The Grand Seduction (Canada, 2013). Dirigido por Don McKellar. Escrito por Ken Scott, Michael Dowse. Com Percy Hynes White (Young Murray), Sean Panting (Ernest French), Crystal Dawn Parsons (Alice French), Brendan Gleeson (Murray French), Cathy Jones (Barbara French), Liane Balaban (Kathleen), Mark Critch (Henry Tilley), Gordon Pinsent (Simon), Lawrence Barry (Mayor Tom Fitzpatrick)."
 ---
 Este filme canadense de cidadezinha à beira-mar possui o seu charme e o seu humor. Um humor simples, mas que não soa maniqueísta, apesar de ser um pouco. Conta uma história implausível, mas que nos minutos finais toca o coração. Se trata de uma farsa, que não quer dar o braço a torcer que a luta é inútil. Uma metáfora sobre progresso que ignora a realidade para sonhar um pouco. E dar boas risadas.
 

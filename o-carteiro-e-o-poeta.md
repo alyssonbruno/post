@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-19"
 title: "O Carteiro E O Poeta"
-desc: '"Il Postino" (Itália, França e Bélgica, 1994), escrito por Antonio Skármeta, Furio Scarpelli e Giacomo Scarpelli, dirigido por Michael Radford e Massimo Troisi, com Philippe Noiret, Massimo Troisi e Maria Grazia Cucinotta. Mais um DVD anos 90 para Oscar.'
 imdb: "0110877"
 tags: [ "draft", "movies" ]
 stars: "3/5"

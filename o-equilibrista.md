@@ -6,7 +6,6 @@ date: "2014-03-02"
 tags: [ "draft", "movies" ]
 title: "O Equilibrista"
 stars: "5/5"
-desc: "O Equilibrista. Man on Wire (UK, 2008). Dirigido por James Marsh. Escrito por Philippe Petit. Com Philippe Petit, Jean François Heckel, Jean-Louis Blondeau, Annie Allix, David Forman, Alan Welner, Mark Lewis, Barry Greenhouse, Jim Moore."
 ---
 O Equilibrista é um trabalho fascinante de documentário porque explora de diversas maneiras o uso da câmera, montagem e roteiro para conseguir trazer a atenção do espectador no seu máximo em torno de um projeto que poderia muito bem virar uma reportagem sem graça de cinco minutos em um telejornal qualquer.
 

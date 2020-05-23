@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-06-05T16:06:45-03:00
 title: "Artista do Desastre"
-desc: "The Disaster Artist. EUA, 2017. Escrito por Scott Neustadter e Michael H. Weber baseado no romance autobiográfico de Greg Sestero e Tom Bissell. Dirigido por James Franco. Com James e Dave Franco, Seth Rogen, Ari Graynor, Alison Brie, Jacki Weaver, Paul Scheer."
 imdb: "3521126"
 
 tags: [ "draft", "movies" ]

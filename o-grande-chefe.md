@@ -6,7 +6,6 @@ date: "2015-09-30"
 tags: [ "draft", "movies" ]
 title: "O Grande Chefe"
 stars: "5/5"
-desc: "O Grande Chefe. Direktøren for det hele (Denmark, 2006). Dirigido por Lars von Trier. Escrito por Lars von Trier. Com Jens Albinus, Peter Gantzler, Friðrik Þór Friðriksson, Benedikt Erlingsson, Iben Hjejle, Henrik Prip, Mia Lyhne, Casper Christensen, Louise Mieritz."
 ---
 Uma comédia pautada no absurdo, mas que ancora suas situações em neuroses realistas nos colegas de uma empresa. No entanto, tais neuroses nunca seriam expostas por pessoas reais, e a beleza de O Grande Chefe é justamente deixar fluir o comportamento humano até suas últimas consequências, enquanto ironicamente o comportamento de um ator medíocre é analisado sob a ótica da incompetência.
 

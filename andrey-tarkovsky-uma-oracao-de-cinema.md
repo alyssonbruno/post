@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-26"
 title: "Andrey Tarkovsky: Uma Oração de Cinema"
-desc: '"Andrey Tarkovsky. A Cinema Prayer" (Itália, Rússia e Suécia, 2019), escrito por Andrey A. Tarkovskiy, dirigido por Andrey A. Tarkovskiy. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "10850518"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

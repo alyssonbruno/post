@@ -6,7 +6,6 @@ date: "2012-05-24"
 tags: [ "draft", "movies" ]
 title: "O Corvo"
 stars: "3/5"
-desc: "O Corvo. The Raven (USA, 2012). Dirigido por James McTeigue. Escrito por Hannah Shakespeare, Ben Livingston. Com John Cusack, Luke Evans, Alice Eve, Brendan Gleeson, Kevin McNally, Oliver Jackson-Cohen, Jimmy Yuill, Sam Hazeldine, Pam Ferris."
 ---
 Edgar Allan Poe é considerado um dos precursores da literatura norte-americana, e com Júlio Verne, dos gêneros de ficção-científica e fantástica. Suas histórias geralmente giram em torno de crimes e mortes bizarras, o que revela não apenas a genialidade na arte de escrever como também sua criatividade mórbida, fruto do mais novo filme sobre ele, O Corvo, estrelando John Cusack na pele do escritor de contos.
 

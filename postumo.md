@@ -6,7 +6,6 @@ date: 2017-11-20T01:12:07
 tags: [ "draft", "movies" ]
 title: "Póstumo"
 stars: "2/5"
-desc: "Póstumo. Posthumous (USA, 2014). Dirigido por Lulu Wang. Escrito por Lulu Wang. Com Jack Huston (Liam Price), Brit Marling (McKenzie Grain), Tom Schilling (Ben), Lambert Wilson (Daniel S. Volpe), Alexander Fehling (Erik Alder), Nikolai Kinski (Kaleb Moo), Martin Stange (Detective), Oleg Tikhomirov (Waiter), Joost Siedhoff (Landlord)."
 ---
 A diretora/roteirista Lulu Wang parece se achar tão esperta... nesse seu primeiro longa ela explora uma história comum o suficiente para não despertar muita surpresa e rasa o suficiente para não despertar interesse em um ou outro diálogo de fato interessante. Porém, próximo da direção, o roteiro se torna muito bom. Planos confusos e ângulos sobrepostos em uma bagunça de temas parece tentar mostrar como a arte deste homem é tão boa se comparada ao que é feito nesse filme.
 

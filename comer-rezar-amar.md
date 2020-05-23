@@ -6,7 +6,6 @@ date: "2010-10-01"
 tags: [ "draft", "movies" ]
 title: "Comer Rezar Amar"
 stars: "3/5"
-desc: "Comer Rezar Amar. Eat Pray Love (USA, 2010). Dirigido por Ryan Murphy. Escrito por Ryan Murphy, Jennifer Salt, Elizabeth Gilbert. Com Julia Roberts, I. Gusti Ayu Puspawati, Hadi Subiyanto, Billy Crudup, Viola Davis, A. Jay Radcliff, Mike O'Malley, Ashlie Atkinson, James Franco."
 ---
 Julia Roberts é Liz Gilbert, uma mulher desiludida com o casamento em que vive e que busca em uma viagem pelo mundo (na verdade, Itália e Índia) se "reconectar" ao mundo. É através desse "objetivo" que vemos a personagem vivenciar momentos de puro êxtase turístico, em um filme que claramente apresenta as locações com esse propósito.
 

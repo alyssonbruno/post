@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-19T17:14:38-03:00
 title: "Toy Story 4"
-desc: "Toy Story 4 (EUA, 2019), escrito por Andrew Stanton e Stephany Folsom, dirigido por Josh Cooley, com Tom Hanks, Tim Allen, Annie Potts, Christina Hendricks."
 imdb: "1979376"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

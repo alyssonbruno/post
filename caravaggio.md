@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-08"
 title: "Caravaggio"
-desc: '"Caravaggio" (Reino Unido, 1986), escrito por Derek Jarman, Nicholas Ward Jackson e Suso Cecchi D''Amico, dirigido por Derek Jarman, com Nigel Terry, Sean Bean e Garry Cooper. Esperava ver algo em italiano da lista de DVDs, e nos enganamos com este, pois possuía opção de áudio em italiano.'
 imdb: "0090798"
 tags: [ "draft", "movies" ]
 stars: "1/5"

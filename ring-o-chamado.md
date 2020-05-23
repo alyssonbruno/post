@@ -6,7 +6,6 @@ date: "2016-09-15"
 tags: [ "draft", "movies" ]
 title: "Ring: O Chamado"
 stars: "4/5"
-desc: "Ring: O Chamado. Ringu (Japan, 1998). Dirigido por Hideo Nakata. Escrito por Hiroshi Takahashi, Kôji Suzuki. Com Nanako Matsushima, Miki Nakatani, Yûko Takeuchi, Hitomi Satô, Yôichi Numata, Yutaka Matsushige, Katsumi Muramatsu, Rikiya Ôtaka, Masako."
 ---
 Essa é a versão japonesa, que estreou dois anos antes do remake americano. Diferente de toda a pomposidade de sua cópia, e os efeitos sonoros enlatados de terrores hollywoodianos, este tem a rapidez de um thriller e a semi-profundidade de um drama. Possui um ritmo visual econômico e ágil, e uma conclusão factoide, o que o torna um exemplo de sua própria lenda.
 

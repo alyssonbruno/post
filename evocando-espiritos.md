@@ -6,7 +6,6 @@ date: "2014-06-12"
 tags: [ "draft", "movies" ]
 title: "Evocando Espíritos"
 stars: "3/5"
-desc: "Evocando Espíritos. The Haunting in Connecticut (USA, 2009). Dirigido por Peter Cornwell. Escrito por Adam Simon, Tim Metcalfe. Com Virginia Madsen, Kyle Gallner, Elias Koteas, Amanda Crew, Martin Donovan, Sophi Knight, Ty Wood, Erik J. Berg, John Bluethner."
 ---
 Evocando espíritos é uma história de terror que consegue unir espiritismo com câncer, além de no processo conseguir boas sequências que unem a história de um garoto sensitivo nos tempos atuais com um garoto ainda mais sensitivo que participou de um experimento além-vida que causou muita dor e sofrimento represada na casa que a família acabou de se mudar.
 

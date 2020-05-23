@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-11"
 title: "Dont Fuck With Cats Hunting an Internet Killer"
-desc: '"Don''t F**k with Cats: Hunting an Internet Killer" (Reino Unido e EUA, 2019), escrito por Mark Lewis, dirigido por Mark Lewis, com Deanna Thompson, John Green e Claudette Hamlin.'
 imdb: "11318602"
 tags: [ "draft", "series" ]
 stars: "3/5"

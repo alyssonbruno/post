@@ -6,7 +6,6 @@ date: "2013-05-17"
 tags: [ "draft", "movies" ]
 title: "O Que Se Move"
 stars: "4/5"
-desc: "O Que Se Move. O Que Se Move (Brazil, 2013). Dirigido por Caetano Gotardo. Escrito por Caetano Gotardo. Com Cida Moreira, Andréa Marquee, Fernanda Vianna, Rômulo Braga, Wandré Gouveia, Henrique Schafer, Gabriel Dos Reis, Dagoberto Feliz, Adriana Mendonça."
 ---
 Montador de Trabalhar Cansa (2011, Marco Dutra e Juliana Rojas), uma das mais agradáveis surpresas daquele ano no Cinema Nacional, Caetano Gotardo estreia na direção desse filme quase experimental. Quase, pois as nuanças inseridas em suas três historietas trágicas e casuais criam uma dimensão emotiva que não pode ser ignorada. O detalhe mais marcante são as canções entoadas pelos seus próprios atores (não se preocupe quem não gosta de musicais, pois existem apenas três momentos). Nesse sentido, talvez o tempo de experiência na montagem tenha feito uma diferença notável em sua percepção da realidade (aqui a montagem é assinada por outra pessoa  não achei seu nome depois , mas a direção, montagem e até a composição das canções principais são de sua autoria).
 

@@ -6,7 +6,6 @@ date: "2011-05-23"
 tags: [ "draft", "movies" ]
 title: "Wall Street Poder e Cobiça"
 stars: "5/5"
-desc: "Wall Street Poder e Cobiça. Wall Street (USA, 1987). Dirigido por Oliver Stone. Escrito por Stanley Weiser, Oliver Stone. Com Charlie Sheen, Tamara Tunie, Franklin Cover, Chuck Pfeiffer, John C. McGinley, Hal Holbrook, James Karen, Leslie Lyles, Michael Douglas."
 ---
 Após ganhar o oscar por Platoon, Oliver Stone decide focar suas lentes para sua terra natal e abordar temas em torno do que faz mudar, nós e um país inteiro, a maneira de se enxergar: o dinheiro.
 

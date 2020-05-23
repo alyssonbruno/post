@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-18T20:36:35-03:00
 title: "O Retorno de Sweetback"
-desc: "How to Get the Man's Foot Outta Your Ass (aka Baadasssss). EUA, 2003. Dirigido por Mario Van Peebles com próprio roteiro adaptado do livro de seu pai, Melvin Van Peebles, e Dennis Haggerty. Com Mario Van Peebles como Melvin"
 imdb: "0367790"
 
 tags: [ "draft", "movies" ]

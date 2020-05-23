@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-26"
 title: "El Camino: A Breaking Bad Film"
-desc: '"El Camino: A Breaking Bad Movie" (EUA, 2019), escrito por Vince Gilligan, dirigido por Vince Gilligan, com Aaron Paul, Jonathan Banks, Matt Jones, Charles Baker, Todd Terry, Julie Pearl, Gregory Steven Soliz, Larry Hankin, Jesse Plemons e Tom Bower. Assisti na Netflix, mas um dia espero assistir toda a série nos cinemas.'
 imdb: "9243946"
 tags: [ "draft", "movies" ]
 stars: "4/5"

@@ -6,7 +6,6 @@ date: "2013-02-14"
 tags: [ "draft", "movies" ]
 title: "Meu Namorado é um Zumbi"
 stars: "4/5"
-desc: "Meu Namorado é um Zumbi. Warm Bodies (USA, 2013). Dirigido por Jonathan Levine. Escrito por Jonathan Levine, Isaac Marion. Com Nicholas Hoult, Teresa Palmer, Analeigh Tipton, Rob Corddry, Dave Franco, John Malkovich, Cory Hardrict, Daniel Rindress-Kay, Vincent Leclerc."
 ---
 R (Nicholas Hoult) é um zumbi, mas isso não evita que ele pense e avalie suas ações. Comer cérebros, por exemplo, é quase uma necessidade, pois R não pode dormir e sonhar, mas através dos cérebros dos humanos ele consegue visualizar as memórias da vida que acabou de matar e, assim, se sentir vivo novamente por alguns momentos.
 

@@ -7,7 +7,6 @@ date: 2017-11-11T00:04:06
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Histórias de Amor Que Não Pertencem a Este Mundo"
 stars: "3/5"
-desc: "Histórias de Amor Que Não Pertencem a Este Mundo. Amori che non sanno stare al mondo (Italy, 2017). Dirigido por Francesca Comencini. Escrito por Francesca Comencini, Francesca Manieri, Laura Paolucci. Com Lucia Mascino (Claudia), Thomas Trabacchi (Flavio), Valentina Bellè (Nina), Iaia Forte (Mara Semeraro), Carlotta Natoli (Diana)."
 ---
 Você já conviveu intimamente com alguém que possui muito medo do desconhecido, uma ansiedade angustiante e que não consegue deixar de falar sobre todas as terríveis possibilidades (para essas pessoas é uma certeza) que o futuro nos espera? Se sim, talvez "Histórias de Amor Que Não Pertencem a Este Mundo" o ajude a entender melhor essa pessoa, e a entender que, apesar de tanto fatalismo, há por trás um ser humano que deseja ser feliz à sua maneira.
 

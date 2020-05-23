@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-26"
 title: "Seguindo o Coração"
-desc: '"Lovefucked" (Índia, 2019), dirigido por Aadish Keluskar, com Himanshu Kohli, Rohit Kokate e Khushboo Upadhyay. Assisti na Netflix.'
 imdb: "8998738"
 tags: [ "draft", "movies" ]
 stars: "4/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-17"
 title: "Filhos da Dinamarca"
-desc: '"Danmarks Sønner" (Dinamarca, 2019), escrito por Ulaa Salim, dirigido por Ulaa Salim, com Zaki Youssef, Mohammed Ismail Mohammed e Imad Abul-Foul. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9514970"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

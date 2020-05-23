@@ -6,7 +6,6 @@ date: "2016-04-03"
 tags: [ "draft", "movies" ]
 title: "Tropas Estelares"
 stars: "4/5"
-desc: "Tropas Estelares. Starship Troopers (USA, 1997). Dirigido por Paul Verhoeven. Escrito por Edward Neumeier, Robert A. Heinlein. Com Casper Van Dien, Dina Meyer, Denise Richards, Jake Busey, Neil Patrick Harris, Clancy Brown, Seth Gilliam, Patrick Muldoon, Michael Ironside."
 ---
 Star Wars, se Star Wars fosse filme de guerra. Mas não é. Starship Troopers é sobre as tropas de um mundo futurístico, é sobre a curva de responsabilidade dos jovens, é sobre a violência gore disponível aos montes, graças ao diretor Paul Verhoeven ("Robocop O Policial do Futuro"), e, por último, mas não menos importante, sobre a insanidade da guerra, e como ela se repete indefinidamente, de ambos os lados. Mesmo que o outro lado sejam insetos gigantes do outro lado da galáxia.
 

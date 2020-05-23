@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-10"
 title: "Brinquedo Assassino"
-desc: '"Child''s Play" (Canadá, EUA, 2019), escrito por Tyler Burton Smith e Don Mancini, dirigido por Lars Klevberg, com Aubrey Plaza, Mark Hamill e Tim Matheson. Texto escrito para o CinemAqui.'
 imdb: "8663516"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

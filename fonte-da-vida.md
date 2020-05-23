@@ -6,7 +6,6 @@ date: "2017-03-21"
 tags: [ "draft", "movies" ]
 title: "Fonte da Vida"
 stars: "5/5"
-desc: "Fonte da Vida. The Fountain (USA, 2006). Dirigido por Darren Aronofsky. Escrito por Darren Aronofsky, Ari Handel. Com Hugh Jackman (Tomas / Tommy / Tom Creo), Rachel Weisz (Isabel Creo), Ellen Burstyn (Dr. Lillian Guzetti), Mark Margolis (Father Avila), Stephen McHattie (Grand Inquisitor Silecio), Fernando Hernandez (Lord of Xibalba), Cliff Curtis (Captain Ariel), Sean Patrick Thomas (Antonio), Donna Murphy (Betty)."
 ---
 Darren Aronofsky em Noé nos apresenta uma visão gnóstica da Bíblia e das crenças antigas, mas esse é apenas um pedaço da ambição desproporcional vista em Fonte da Vida, um filme que tenta sem sucesso (felizmente) unir ciência e misticismo em uma busca por conhecimento que ultrapassa limites da realidade, seja através da ficção de um romance espanhol ou pela abstração de nossa própria vida na Terra através de um sábio solitário tentando descobrir a combinação que nos trará vida eterna.
 

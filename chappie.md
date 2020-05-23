@@ -6,7 +6,6 @@ date: "2015-05-26"
 tags: [ "draft", "movies" ]
 title: "Chappie"
 stars: "3/5"
-desc: "Chappie. Chappie (USA, 2015). Dirigido por Neill Blomkamp. Escrito por Neill Blomkamp, Terri Tatchell. Com Sharlto Copley, Dev Patel, Ninja, Yo-Landi Visser, Jose Pablo Cantillo, Hugh Jackman, Sigourney Weaver, Brandon Auret, Johnny Selema."
 ---
 Chappie, novo filme de Neill Blomkamp (Distrito 9), é bonitinho, todo cool, e tenta trazer a África do Sul, país-natal do diretor, sob os holofotes de mais uma ficção científica. E mais uma vez, inevitavelmente vem a questão social, pobreza, violência. Nesse sentido, há muito o que se comparar com Robocop, e Blomkamp sabe disso e nem tenta disfarçar que um de seus robôs é uma homenagem/cópia do robô do final do primeiro filme.
 

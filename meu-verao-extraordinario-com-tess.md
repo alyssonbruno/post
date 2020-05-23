@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-17"
 title: "Meu Verão Extraordinário Com Tess"
-desc: '"Mijn Bijzonder Rare Week Met Tess" (Holanda e Alemanha, 2019), escrito por Laura van Dijk baseada no livro de Anna Woltz, dirigido por Steven Wouterlood, com Sonny Coops Van Utteren, Josephine Arendsen e Tjebbo Gerritsma. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "6851430"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

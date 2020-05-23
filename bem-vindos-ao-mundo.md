@@ -6,7 +6,6 @@ date: 2017-10-22T21:49:27
 tags: [ "draft", "movies" ]
 title: "Bem Vindos Ao Mundo"
 stars: "3/5"
-desc: "Bem Vindos Ao Mundo. Welcome to Me (USA, 2014). Dirigido por Shira Piven. Escrito por Eliot Laurence. Com Kristen Wiig (Alice Klieg), Wes Bentley (Gabe Ruskin), Linda Cardellini (Gina Selway), Joan Cusack (Dawn Hurley), Loretta Devine (Barb Vaughn), Jennifer Jason Leigh (Deb Moseley), Thomas Mann (Rainer Ybarra), James Marsden (Rich Ruskin), Tim Robbins (Dr. Daryl Moffet)."
 ---
 Kristen Wiig é uma mestre da comédia física. Aqui ela faz uma protagonista bipolar que ganha na loteria e escala rapidamente seu distorcido mundo em uma versão com muito dinheiro. É possível dar boas risadas de sua performance, que consegue não apenas convencer, mas deixar uma pulga atrás da orelha: esta é uma comédia ou um drama?
 

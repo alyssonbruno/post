@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-16"
 title: "Sensual Demais"
-desc: '"Too Much Flesh" (França, 2000), escrito por Pascal Arnold e Jean-Marc Barr, dirigido por Pascal Arnold e Jean-Marc Barr, com Rosanna Arquette, Élodie Bouchez e Jean-Marc Barr. Da série de DVDs que pegamos sem querer, pela duração.'
 imdb: "0226540"
 tags: [ "draft", "movies" ]
 stars: "4/5"

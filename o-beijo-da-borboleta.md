@@ -6,7 +6,6 @@ date: "2015-03-25"
 tags: [ "draft", "movies" ]
 title: "O Beijo da Borboleta"
 stars: "5/5"
-desc: "O Beijo da Borboleta. Butterfly Kiss (UK, 1995). Dirigido por Michael Winterbottom. Escrito por Frank Cottrell Boyce, Frank Cottrell Boyce, Michael Winterbottom. Com Amanda Plummer, Kathy Jamieson, Saskia Reeves, Des McAleer, Lisa Riley, Freda Dowie, Paula Tilbrook, Fine Time Fontayne, Elizabeth McGrath."
 ---
 O Beijo da Borboleta é um filme com ares de independente, e o que comprova isso é sua trilha sonora. Nenhuma produção usaria músicas tão manjadas, tão fáceis e tão perfeitas para cada momento da história que se abre em torno de duas garotas. As músicas constroem momentos de videoclipe para duas personagens reais. O resultado só pode ser traduzido, talvez, como tenso.
 

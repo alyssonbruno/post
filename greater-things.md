@@ -6,7 +6,6 @@ date: "2016-10-20"
 tags: [ "draft", "movies" ]
 title: "Greater Things"
 stars: "4/5"
-desc: "Greater Things. Greater Things (UK, 2015). Dirigido por Vahid Hakimzadeh. Escrito por Vahid Hakimzadeh. Com Kaori Momoi, Toshinori Kondo, Marius Zaromskis, Nezam Ardalan, Ken Maeda, Kumud Pant (Supporting artist), Jozef Aoki (Referee), Shaun Lucas (Spectacor)."
 ---
 Este é um filme que possui poucos diálogos, o que o torna o mais cinematográfico possível. Isso quer dizer que o que vemos e o que ouvimos consegue passar a mensagem. E muitas vezes a mensagem é formada pelo que não vemos e não ouvimos.
 

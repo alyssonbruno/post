@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-06"
 title: "O Diario De Uma Camareira"
-desc: '"Le journal d''une femme de chambre" (França e Itália, 1964), escrito por Octave Mirbeau, Luis Buñuel e Jean-Claude Carrière, dirigido por Luis Buñuel, com Jeanne Moreau, Georges Géret e Daniel Ivernel. Um DVD daqueles de arte.'
 imdb: "0058249"
 tags: [ "draft", "movies" ]
 stars: "3/5"

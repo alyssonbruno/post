@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-29"
 title: "Lemebel"
-desc: '"Lemebel" (Chile e Colômbia, 2019), escrito por Joanna Reposi Garibaldi e Manuel Maira, dirigido por Joanna Reposi Garibaldi, com Pedro Lemebel. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9654050"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "1/5"

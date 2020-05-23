@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-21"
 title: "Querência"
-desc: '"Querência" (Brasil, 2019), escrito por Helvécio Marins Jr., dirigido por Helvécio Marins Jr., com Marcelo Di Souza, Kaic Lima e Carlos Dalmir. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9657946"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

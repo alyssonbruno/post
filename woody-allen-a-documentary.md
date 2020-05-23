@@ -6,7 +6,6 @@ date: "2015-03-23"
 tags: [ "draft", "movies" ]
 title: "Woody Allen: A Documentary"
 stars: "3/5"
-desc: "Woody Allen: A Documentary. Woody Allen: A Documentary (USA, 2012). Dirigido por Robert B. Weide. Escrito por Robert B. Weide. Com Woody Allen, Letty Aronson, Marshall Brickman, Josh Brolin, Dick Cavett, Penélope Cruz, John Cusack, Larry David, F.X. Feeney."
 ---
 Espero que esse não seja o primeiro, muito menos o último dos documentários a respeito do cineasta/comediante/músico de jazz Woody Allen. A direção e o roteiro de Robert B. Weide é tão óbvia e caminha por tantos lugares-comuns que fica a dúvida se ele realmente tem alguma conexão com Allen ou foi apenas um projeto encomendado pela BBC.
 

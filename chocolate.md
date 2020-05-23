@@ -7,7 +7,6 @@ date: "2016-06-03"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Chocolat"
 stars: "4/5"
-desc: "Chocolat. Chocolat (France, 2015). Dirigido por Roschdy Zem. Escrito por Cyril Gely, Olivier Gorce, Gérard Noiriel, Roschdy Zem. Com Omar Sy, James Thierrée, Clotilde Hesme, Olivier Gourmet, Frédéric Pierrot, Noémie Lvovsky, Alice de Lencquesaing, Alex Descas, Olivier Rabourdin."
 ---
 Chocolate é o mais novo trabalho de Osmar Sy e possui não apenas a simpatia que estamos acostumados a ver em seus filmes (Intocáveis, Samba), mas também um lado dramático do tipo que tornou filmes como Conduzindo Miss Daisy e 12 Anos de Escravidão tão fascinante.
 

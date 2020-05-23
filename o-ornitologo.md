@@ -6,7 +6,6 @@ date: "2017-03-22"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Ornitólogo"
 stars: "3/5"
-desc: "O Ornitólogo. O Ornitólogo (Portugal, 2016). Dirigido por João Pedro Rodrigues. Escrito por João Pedro Rodrigues. Com Paul Hamy (Fernando / António), Xelo Cagiao (Jesus / Tomé), João Pedro Rodrigues, Han Wen (Fei), Chan Suan (Ling), Juliane Elting (Caçadora Loira), Flora Bulcao (Caçadora 1), Isabelle Puntel (Caçadora 2), Alexandre Alverca."
 ---
 Cada diretor tem seu Holy Motors (Leos Carax, 2012) que merece. No caso do diretor português João Pedro Rodrigues, O Ornitólogo é uma história com uma estrutura igualmente coesa mas um final hermético e inacessível, tal qual não a arte cinematográfica, mas a mente religiosa.
 

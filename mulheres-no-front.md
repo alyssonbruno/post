@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-11"
 title: "Mulheres no Front"
-desc: '"Le soldatesse" (Itália, França, Alemanha Ocidental e Iugoslávia, 1965), escrito por Leonardo Benvenuti, Piero De Bernardi e Ugo Pirro, dirigido por Valerio Zurlini, com Mario Adorf, Anna Karina e Marie Laforêt.'
 imdb: "0059732"
 tags: [ "draft", "movies" ]
 stars: "4/5"

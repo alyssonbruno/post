@@ -6,7 +6,6 @@ date: "2014-04-20"
 tags: [ "draft", "movies" ]
 title: "Actores S.A."
 stars: "2/5"
-desc: "Actores S.A.. Actores S.A. (Mexico, 2013). Dirigido por Carlos Sariñana. Escrito por Carolina Rivera, Carlos Sariñana. Com Raúl Méndez, Iliana Fox, Fernando Becerril, Eugenio Bartilotti, Sophie Alexander-Katz, Eduardo Arroyuelo, Erick Elias, Zaide Silvia Gutiérrez, Susana Alexander."
 ---
 Uma comédia argentina com um roteiro até que interessante visto de fora, mas de dentro é uma bagunça. Possui uma história que gira em torno do salvamento de um teatro ao mesmo tempo que constrói a relação do casal protagonista, ambos se relacionando através de coincidências absurdas. A ideia dos atores para conseguir dinheiro é aceitar qualquer trabalho, mesmo fora dos palcos. Porém, não é isso o que atores já fazem? Ainda mais os decadentes? Qual seria a grande ideia para este filme?
 

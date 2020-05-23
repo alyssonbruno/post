@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-04"
 title: "Okja"
-desc: '"Okja" (Coreia do Sul e EUA, 2017), escrito por Bong Joon Ho e Jon Ronson, dirigido por Bong Joon Ho, com Tilda Swinton, Sheena Kamal e Michael Mitton. Vi na Netflix.'
 imdb: "3967856"
 tags: [ "draft", "movies" ]
 stars: "3/5"

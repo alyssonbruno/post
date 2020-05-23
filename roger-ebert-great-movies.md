@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-22"
 title: "Roger Ebert Great Movies"
-desc: "Lista dos Grandes Filmes do Grande Crítico de cinema Roger Ebert com meus comentários (se eu já assisti)."
 tags: [ "draft", "lists" ]
 ---
  - 12 Angry Men 1957

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-10"
 title: "Exterminadores do Além Contra a Loira Do Banheiro"
-desc: 'aka "Ghost Killers vs. Bloody Mary" (Brasil, 2018), escrito por Fabrício Bittar, Andre Catarinacho e Danilo Gentili, dirigido por Fabrício Bittar, com Dani Calabresa, Léo Lins e Danilo Gentili.'
 imdb: "8753660"
 tags: [ "draft", "movies" ]
 stars: "3/5"

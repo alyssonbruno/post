@@ -6,7 +6,6 @@ date: "2015-05-11"
 tags: [ "draft", "movies" ]
 title: "Caminhos da Floresta"
 stars: "2/5"
-desc: "Caminhos da Floresta. Into the Woods (USA, 2014). Dirigido por Rob Marshall. Escrito por James Lapine, James Lapine, Stephen Sondheim. Com Anna Kendrick, Daniel Huttlestone, James Corden, Emily Blunt, Christine Baranski, Tammy Blanchard, Lucy Punch, Tracey Ullman, Lilla Crawford."
 ---
 Eu não gostava de musicais, mas aprendi a gostar através de trabalhos fabulosos do gênero, como Noviça Rebelde e Moulin Rouge. Também posso dizer que gosto de trabalhos menos fabulosos como Chicago. Agora, do mesmo diretor, Rob Marshall, esse Into the Woods mostra claramente quando um musical deixa de ser um filme aceitável: quando se torna insuportável a ideia de mais algum ator cantando.
 

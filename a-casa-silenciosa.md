@@ -6,7 +6,6 @@ date: "2014-01-13"
 tags: [ "draft", "movies" ]
 title: "A Casa Silenciosa"
 stars: "4/5"
-desc: "A Casa Silenciosa. Silent House (USA, 2011). Dirigido por Chris Kentis, Laura Lau. Escrito por Gustavo Hernández, Laura Lau. Com Elizabeth Olsen, Adam Trese, Eric Sheffer Stevens, Julia Taylor Ross, Adam Barnett, Haley Murphy."
 ---
 Quando eu digo que os falsos documentários já atingiram seu nível de saturação e o ultrapassaram, como o recente Atividade Paranormal conseguiu provar pela falta de justificativas para o uso de câmera em tantas situações diferentes, eis que surge o remake franco-americano de 2011 (de uma produção uruguaia de 2010) filmado inteiramente em uma sequência sem cortes de arrebentar os nervos.
 

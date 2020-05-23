@@ -6,7 +6,6 @@ date: "2014-11-09"
 tags: [ "draft", "series" ]
 title: "Dexter - Sétima Temporada"
 stars: "3/5"
-desc: "Dexter - Sétima Temporada. Dexter (USA, 2006). Dirigido por John Dahl, Steve Shill, Keith Gordon, Marcos Siega, Ernest R. Dickerson, Romeo Tirone, Michael Cuesta, Tony Goldwyn, S.J. Clarkson. Escrito por Jeff Lindsay, James Manos Jr., Scott Buck, Tim Schlattmann, Lauren Gussis, Karen Campbell, Jennifer Yale, Melissa Rosenberg, Scott Reynolds. Com Michael C. Hall, Jennifer Carpenter, David Zayas, James Remar, C.S. Lee, Bruce Holman, Lauren Vélez, Desmond Harrington, Julie Benz."
 ---
 Dexter Morgan é um ser humano buscando seu lugar no mundo. O fato dele ser um sociopata e um serial killer é o que torna sua história mais... profunda. No entanto, fora isso, somos como ele, procurando se encaixar em um mundo que muitas vezes não faz sentido.
 

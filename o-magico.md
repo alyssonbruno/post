@@ -6,7 +6,6 @@ date: "2010-10-27"
 tags: [ "draft", "movies" ]
 title: "O Mágico"
 stars: "3/5"
-desc: "O Mágico. L'illusionniste (France, 2010). Dirigido por Sylvain Chomet. Escrito por Sylvain Chomet, Jacques Tati. Com Jean-Claude Donda, Eilidh Rankin, Duncan MacNeil, Raymond Mearns, James T. Muir, Tom Urie, Paul Bandey."
 ---
 Esse é o novo longa de Sylvain Chomet, o mesmo diretor de "As Biciletas de Belleville". Foi baseado em um roteiro de Jacques Tati (Meu Tio). Ou seja, temos aqui um roteiro de algo belo em sua pureza sendo dirigido por alguém com o controle nato do surreal. Não bom.
 

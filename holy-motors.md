@@ -6,7 +6,6 @@ date: "2014-05-15"
 tags: [ "draft", "movies" ]
 title: "Holy Motors"
 stars: "5/5"
-desc: "Holy Motors. Holy Motors (France, 2012). Dirigido por Leos Carax. Escrito por Leos Carax. Com Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue, Elise Lhomeau, Jeanne Disson, Michel Piccoli, Leos Carax, Nastya Golubeva Carax."
 ---
 Holy Motors é o refresco que todo cinéfilo pede de vez em quando. Com uma abordagem surrealista, ele permite fazer uma crítica e uma homenagem à nossa sensação de estarmos na realidade enquanto assistimos filmes. Mais do que isso: ele brinca com essa percepção aproveitando o pouco de pé que fincamos nessa realidade no início do filme. A partir daí, ele nos puxa cada vez mais para o inusitado. Porém, não é gratuito. Parece que tudo que está ali é necessário e poderia ter sido contado da maneira convencional, mas seria um resultado aquém do que precisamos. Sim, precisamos de um Holy Motors no Cinema de vez em quando.
 

@@ -7,7 +7,6 @@ date: 2017-09-15T19:03:03
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mãe!"
 stars: "5/5"
-desc: "Mãe!. Mother! (USA, 2017). Dirigido por Darren Aronofsky. Escrito por Darren Aronofsky. Com Jennifer Lawrence (Mother), Javier Bardem (Him), Ed Harris (Man), Michelle Pfeiffer (Woman), Brian Gleeson (Younger Brother), Domhnall Gleeson (Oldest Son), Jovan Adepo (Cupbearer), Amanda Chiu (Damsel), Patricia Summersett (Consoler)."
 ---
 Para quem já conhece o diretor perfeccionista e gnóstico Darren Aronofsky não será nenhuma surpresa constatar que seu novo trabalho, "Mãe!", além de tecnicamente impecável é denso, tenso e emocionalmente visceral. E embora nenhuma dessas palavras consiga sequer arranhar toda a expressividade e simbolismos do criador de Cisne Negro, O Lutador e Noé, esta continuação temática de Fonte da Vida não precisa de muitas apresentações aos fãs, mas ao mesmo tempo se torna uma viagem sensorial que é universal, e que apenas a experiência audiovisual do Cinema consegue oferecer em tantas camadas.
 

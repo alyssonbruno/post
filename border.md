@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-29T17:23:54-03:00
 title: "Border"
-desc: "Gräns (Suécia, Dinamarca, 2018), escrito por Ali Abbasi, Isabella Eklöf e John Ajvide Lindqvist baseado em sua história, dirigido por Abbasi, com Eva Melander, Eero Milonoff, Jörgen Thorsson."
 imdb: "5501104"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

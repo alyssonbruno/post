@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-07"
 title: "Cega Obsessão"
-desc: '"Môjû (aka Blind Beast)" (Japão, 1969), escrito por Rampo Edogawa e Yoshio Shirasaka, dirigido por Yasuzô Masumura, com Eiji Funakoshi, Mako Midori e Noriko Sengoku.'
 imdb: "0140384"
 tags: [ "draft", "movies" ]
 stars: "4/5"

@@ -6,7 +6,6 @@ date: "2015-12-02"
 tags: [ "draft", "movies" ]
 title: "Eleição"
 stars: "5/5"
-desc: "Eleição. Election (USA, 1999). Dirigido por Alexander Payne. Escrito por Tom Perrotta, Alexander Payne, Jim Taylor. Com Matthew Broderick, Reese Witherspoon, Chris Klein, Jessica Campbell, Mark Harelik, Phil Reeves, Molly Hagan, Delaney Driscoll, Colleen Camp."
 ---
 Esse filme de Alexander Payne (Sideways, Os Descendentes) pode ter passado despercebido na época em que foi lançado, mas uma vez que você o assiste, seus detalhes políticos sórdidos irão infestar sua mente como nunca.
 

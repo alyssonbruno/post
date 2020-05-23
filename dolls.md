@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-26T16:58:56-03:00
 title: "Dolls"
-desc: "Dolls. Japão, 2002. Dirigido e escrito por Takeshi Kitano. Com Miho Kanno, Hidetoshi Nishijima, Tatsuya Mihashi, Chieko Matsubara, Kyoko Fukada, Tsutomu Takeshige."
 imdb: "0330229"
 
 tags: [ "draft", "movies" ]

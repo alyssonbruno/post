@@ -7,7 +7,6 @@ date: "2015-01-15"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Antes de Dormir"
 stars: "3/5"
-desc: "Antes de Dormir. Before I Go to Sleep (USA, 2014). Dirigido por Rowan Joffe. Escrito por Rowan Joffe, S.J. Watson. Com Nicole Kidman, Colin Firth, Mark Strong, Ben"
 ---
 "Como se Fosse a Primeira Vez versão thriller". Pelo menos essa era a ideia inicial. Acordamos pela primeira vez junto da assustada Christine (Nicole Kidman) abraçada com alguém desconhecido em um quarto estranho. Ela ouve do seu marido Ben (Colin Firth) que sofre de um tipo de amnésia que a faz esquecer o dia anterior. Essa rotina acontece há tanto tempo que sua mente jovem estranha seu rosto envelhecido no espelho. Já conhecendo essa história me surpreende como essas pessoas nunca tentaram passar uma noite em claro para ver o que acontece.
 

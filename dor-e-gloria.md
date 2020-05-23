@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-04"
 title: "Dor e Glória"
-desc: '"Dolor y gloria (aka Pain and Glory)" (Espanha, 2019), escrito por Pedro Almodóvar, dirigido por Pedro Almodóvar, com Antonio Banderas, Asier Etxeandia e Leonardo Sbaraglia. No cinema da Augusta, com pessoas estranhas em volta, como nos velhos tempos.'
 imdb: "8291806"
 tags: [ "draft", "movies" ]
 stars: "3/5"

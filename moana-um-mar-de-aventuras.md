@@ -6,7 +6,6 @@ date: "2017-01-07"
 tags: [ "draft", "movies" ]
 title: "Moana: Um Mar de Aventuras"
 stars: "5/5"
-desc: "Moana: Um Mar de Aventuras. Moana (USA, 2016). Dirigido por Ron Clements, Don Hall, John Musker, Chris Williams. Escrito por Jared Bush, Ron Clements, John Musker, Chris Williams, Don Hall, Pamela Ribon, Aaron Kandell, Jordan Kandell. Com Auli'i Cravalho (Moana), Dwayne Johnson (Maui), Rachel House (Gramma Tala), Temuera Morrison (Chief Tui), Jemaine Clement (Tamatoa), Nicole Scherzinger (Sina), Alan Tudyk (Heihei / Villager #3), Oscar Kightley (Fisherman), Troy Polamalu (Villager #1)."
 ---
 É fascinante constatar como os trabalhos anteriores da equipe de criação da Disney servem de pavimento para criações cada vez mais ambiciosas. E aqui o ponto alto de Frozen, quando Elsa se transforma no que sempre foi, vira um simples rascunho da força da música de Maoma, onde ela não apenas identifica (e assume) quem realmente é, mas quem seu povo deve ser. Em ambos é a força do indivíduo que prevalece, mas só na segunda essa força ganha um panorama dentro de uma comunidade, da sua história e tradição e, principalmente, de sua própria sobrevivência.
 

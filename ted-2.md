@@ -6,7 +6,6 @@ date: "2015-12-31"
 tags: [ "draft", "movies" ]
 title: "Ted 2"
 stars: "2/5"
-desc: "Ted 2. Ted 2 (USA, 2015). Dirigido por Seth MacFarlane. Escrito por Seth MacFarlane, Alec Sulkin, Wellesley Wild. Com Mark Wahlberg, Seth MacFarlane, Amanda Seyfried, Jessica Barth, Giovanni Ribisi, Morgan Freeman, Sam J. Jones, Patrick Warburton, Michael Dorn."
 ---
 Personagens tão carismáticos em um filme tão disposto a comprar a ideia de um urso de pelúcia com vida adulta não poderia gerar uma continuação mais chata, mecânica e automática das comédias pastelonas.
 

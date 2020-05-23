@@ -6,7 +6,6 @@ date: "2010-05-14"
 tags: [ "draft", "movies" ]
 title: "Mademoiselle Chambon"
 stars: "4/5"
-desc: "Mademoiselle Chambon. Mademoiselle Chambon (France, 2009). Dirigido por Stéphane Brizé. Escrito por Stéphane Brizé, Florence Vignon, Eric Holder. Com Vincent Lindon, Sandrine Kiberlain, Aure Atika, Jean-Marc Thibault, Arthur Le Houérou, Bruno Lochet, Abdellah Moundy, Michelle Goddet, Anne Houdy."
 ---
 Mademoiselle Chambon é daqueles filmes um tanto naturalistas, em que você precisa prestar atenção, mas não muita, para perceber a relação sutil entre os personagens, e os acontecimentos poderiam ter sido narrados de eventos da vida real e não soariam fantásticos. A bem da verdade, o núcleo narrativo do filme de Stéphane Brizé com certeza já deve ter acontecido na realidade uma série de vezes. A virtude do filme é conseguir representar isso sem escandalizar em demasiado, se focando nos personagens.
 

@@ -6,7 +6,6 @@ date: "2015-03-13"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Golpe Duplo"
 stars: "4/5"
-desc: "Golpe Duplo. Focus (USA, 2015). Dirigido por Glenn Ficarra, John Requa. Escrito por Glenn Ficarra, John Requa. Com Will Smith, Margot Robbie, Adrian Martinez, Gerald McRaney, Rodrigo Santoro, BD Wong, Brennan Brown, Robert Taylor, Dotan Bonen."
 ---
 Os diretores/roteiristas Glenn Ficarra e John Requa têm um histórico interessante em O Golpista do Ano: um filme que envolve não apenas uma trama de reviravoltas, mas também interpretações e interações certeiras de seu elenco. Sendo assim, é compreensível que Golpe Duplo, apesar de construir uma trama cheia de virtudes, tenha que se render às fracas performances de Will Smith e Margot Robbie (O Lobo de Wall Street) e inserir muletas narrativas que enfraquecem o projeto. Felizmente, a qualidade no roteiro compensa os artifícios usados para tornar o resultado final mais palatável ao grande público (e, claro, aos fãs de Will Smith).
 

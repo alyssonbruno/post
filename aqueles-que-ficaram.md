@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-12"
 title: "Aqueles Que Ficaram"
-desc: '"Akik maradtak" (Hungria, 2019), escrito por Klára Muhi e Barnabás Tóth baseados no livro de Zsuzsa F. Várkonyi, dirigido por Barnabás Tóth, com Károly Hajduk, Abigél Szõke e Mari Nagy. Escrito para o CinemAqui.'
 imdb: "9081558"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

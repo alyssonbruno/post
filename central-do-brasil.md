@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-04-05"
 title: "Central do Brasil"
-desc: '"Central Station" (Brazil e France, 1998), escrito por Marcos Bernstein, João Emanuel Carneiro e Walter Salles, dirigido por Walter Salles, com Fernanda Montenegro, Marília Pêra e Vinícius de Oliveira.'
 tags: [ "draft", "movies" ]
 imdb: "0140888"
 stars: "3/5"

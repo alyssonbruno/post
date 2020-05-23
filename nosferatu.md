@@ -6,7 +6,6 @@ date: "2012-11-02"
 tags: [ "draft", "movies" ]
 title: "Nosferatu"
 stars: "4/5"
-desc: "Nosferatu. Nosferatu, eine Symphonie des Grauens (Germany, 1922). Dirigido por F.W. Murnau. Escrito por Henrik Galeen, Bram Stoker. Com Max Schreck, Gustav von Wangenheim, Greta Schröder, Georg H. Schnell, Ruth Landshoff, Gustav Botz, Alexander Granach, John Gottowt, Max Nemetz."
 ---
 Mesmo 90 anos depois, Nosferatu consegue impressionar em suas pontuais cenas clássicas. O resto, resquícios do expressionismo alemão, mas de onde até hoje se emprestam algumas técnicas (como o jogo de sombras), pode ser engraçado pela bizarrice, mas define muito bem a loucura e a doença em torno do desconhecido, do sobrenatural.
 

@@ -6,7 +6,6 @@ date: "2012-11-02"
 tags: [ "draft", "movies" ]
 title: "Hot Hot Hot"
 stars: "4/5"
-desc: "Hot Hot Hot. Hot Hot Hot (Luxembourg, 2011). Dirigido por Beryl Koltz. Escrito por Beryl Koltz. Com Rob Stanley, Joanna Scanlan, Gary Cady, Amber Doyle, Angela Bain, Wendy Kweh, Jane Goddard, Bentley Kalu, Leila Schaus."
 ---
 A maior virtude criativa de Hot Hot Hot ? primeiro longa do cineasta Beryl Koltz ? é abordar o arco dramático de Ferdinand (Rob Stanley) do ponto de vista de um pequeno peixe e o seu processo migratório das águas frias de um aquário solitário para o ambiente quente - no sentido sexual e térmico - de uma sauna e a sua tão peculiar fauna.
 

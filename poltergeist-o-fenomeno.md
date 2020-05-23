@@ -6,7 +6,6 @@ date: "2014-03-06"
 tags: [ "draft", "movies" ]
 title: "Poltergeist O Fenômeno"
 stars: "4/5"
-desc: "Poltergeist O Fenômeno. Poltergeist (USA, 1982). Dirigido por Tobe Hooper. Escrito por Steven Spielberg, Michael Grais, Mark Victor, Steven Spielberg. Com Craig T. Nelson, JoBeth Williams, Beatrice Straight, Dominique Dunne, Oliver Robins, Heather O'Rourke, Michael McManus, Virginia Kiser, Martin Casella."
 ---
 Um terror produzido e roteirizado em parte por Steven Spielberg não poderia ser lá muito assustador. Chega a ser até um pouco engraçado, como na cena inicial com dois controles remotos que controlam a mesma televisão. Porém, diferente de metade dos terrores produzidos antigamente e hoje em dia, pelo menos é coeso e tenta puxar um pouco mais o espectador.
 

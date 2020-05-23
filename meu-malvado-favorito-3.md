@@ -6,7 +6,6 @@ date: 2017-11-23T01:13:13
 tags: [ "draft", "movies" ]
 title: "Meu Malvado Favorito 3"
 stars: "3/5"
-desc: "Meu Malvado Favorito 3. Despicable Me 3 (USA, 2017). Dirigido por Kyle Balda, Pierre Coffin, Eric Guillon. Escrito por Cinco Paul, Ken Daurio. Com Steve Carell (Gru / Dru), Kristen Wiig (Lucy), Trey Parker (Balthazar Bratt), Miranda Cosgrove (Margo), Dana Gaier (Edith), Nev Scharrel (Agnes), Pierre Coffin (Minions / Museum Director / Additional Voice), Steve Coogan (Fritz / Silas Ramsbottom), Julie Andrews (Gru's Mom)."
 ---
 Esta é uma continuação nos mesmos moldes do primeiro e do segundo filme. O mesmo estilo de piada nos acompanha, seja de Gru, de Agnes, das outras meninas, da sua agora namorada, e agora do seu irmão gêmeo e um vilão que, ao contrário do primeiro moderninho Vetor, agora é um bandido ao estilo anos 80. E também descobrimos que o pai de Gru era um vilão estilo anos 60, digno dos filmes de James Bond. Ou Austin Powers.
 

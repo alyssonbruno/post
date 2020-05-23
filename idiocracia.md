@@ -6,7 +6,6 @@ date: "2013-06-07"
 tags: [ "draft", "movies" ]
 title: "Idiocracia"
 stars: "4/5"
-desc: "Idiocracia. Idiocracy (USA, 2006). Dirigido por Mike Judge. Escrito por Mike Judge, Mike Judge, Etan Cohen. Com Luke Wilson, Maya Rudolph, Dax Shepard, Terry Crews, Anthony 'Citric' Campos, David Herman, Sonny Castillo, Kevin McAfee, Robert Musgrave."
 ---
 Desde o começo Idiocracia estabelece o seu tom de comédia explicando uma teoria muito louca  mas com um sentido simplesmente hilário  de por que o futuro da humanidade é se tornar cada vez mais idiota. Melhor: acompanha um experimento do exército para "estocagem de humanos" em caixões monitorado por um militar que consegue uma prostituta voluntária negociando diretamente com o seu cafetão. Essa parte, ambientada nos tempos atuais, já preocupa pela linha tênue com que o diretor Mike Judge (Como Enlouquecer seu Chefe) separa um discurso feito de palavras formais de ações idiotas executadas pela mesma pessoa que profere o discurso.
 

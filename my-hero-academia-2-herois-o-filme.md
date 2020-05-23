@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-01"
 title: "My Hero Academia: 2 Heróis - O Filme"
-desc: "My Hero Academia: Two Heroes. Japan, 2018. Dirigido por Kenji Nagasaki, escrito por Kôhei Horikoshi, Yôsuke Kuroda, Kôhei Horikoshi. Com Justin Briner, Christopher Sabat, Ray Chase. Escrito originalmente para o CinemAqui."
 imdb: "7745068"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

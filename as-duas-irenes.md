@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-21T22:58:25-03:00
 title: "As Duas Irenes"
-desc: "As Duas Irenes (aka Two Irenes) (Brasil, 2017), escrito e dirigido por Fabio Meira, com Priscila Bittencourt, Isabela Torres, Marco Ricca."
 imdb: "6289724"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

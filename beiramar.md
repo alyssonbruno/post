@@ -7,7 +7,6 @@ date: "2015-10-02"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Beira-Mar"
 stars: "5/5"
-desc: "Beira-Mar. Beira-Mar (Brazil, 2015). Dirigido por Filipe Matzembacher, Marcio Reolon. Escrito por Filipe Matzembacher, Marcio Reolon. Com Mateus Almada, Ariel Artur, Maurício Barcellos, Irene Brietzke, Elisa Brittes, Maitê Felistoffa, Francisco Gick, Fernando Hart, Danuta Zaguetto."
 ---
 Beira-Mar é aquele lugar onde terra e mar são confundidos, e onde geralmente há uma praia. Categorizar o trabalho que leva esse nome como "filme-gay" é de uma miopia sem tamanho. Seria o mesmo que chamar beira-mar (o local) de 100% terra firme ou de 100% alto mar. Havendo infinitos graus de atração sexual que uma pessoa pode ter, e que costumamos polarizar como gay e hétero, os protagonistas da história flertam com todos eles, como se andassem despreocupadamente pela praia em um passeio matinal.
 

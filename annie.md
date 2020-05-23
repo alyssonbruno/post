@@ -6,7 +6,6 @@ date: "2015-02-22"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Annie"
 stars: "2/5"
-desc: "Annie. Annie (USA, 2014). Dirigido por Will Gluck. Escrito por Will Gluck, Aline Brosh McKenna, Thomas Meehan, Harold Gray. Com Jamie Foxx, Quvenzhané Wallis, Rose Byrne, Bobby Cannavale, Adewale Akinnuoye-Agbaje, David Zayas, Cameron Diaz, Zoe Margaret Colletti, Nicolette Pierini."
 ---
 Talvez o remake de Annie sofra daquele conhecido problema de hoje em dia: alguns filmes com um teor mais ingênuo simplesmente não conseguem superar a barreira do cinismo contemporâneo. Pelo menos nesse caso não é apenas esse o diagnóstico, pois o diretor Will Gluck (do péssimo A Mentira) não faz o menor esforço para tirar do automático uma representação teatral com uma alma um tanto defeituosa.
 

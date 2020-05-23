@@ -1,7 +1,6 @@
 ---
 date: "2020-05-11"
 title: "30 GB De Emails Para Finalmente..."
-desc: "Uma pequena pesquisa com grep por todos os emails que recebi e enviei nas últimas duas décadas."
 categories: [ "blog" ]
 tags: [ "draft", "fun" ]
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-06"
 title: "2 Perdidos Numa Noite Suja"
-desc: '"aka Two Lost in a Dirty Night" (Brasil, 2002), escrito por Paulo Halm baseado na peça de Plínio Marcos, dirigido por José Joffily, com Roberto Bomtempo e Débora Falabella. Da leva de DVDs.'
 imdb: "0335054"
 tags: [ "draft", "movies" ]
 stars: "3/5"

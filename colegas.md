@@ -6,7 +6,6 @@ date: "2016-07-28"
 tags: [ "draft", "movies" ]
 title: "Colegas"
 stars: "1/5"
-desc: "Colegas. Colegas (Brazil, 2012). Dirigido por Marcelo Galvão. Escrito por Marcelo Galvão. Com Ariel Goldenberg, Rita Pokk, Breno Viola, Lima Duarte, Marco Luque, Daniel Torres, Monaliza Marchi, Amélia Bittencourt, Giulia Merigo de Souza."
 ---
 Vocês percebem o potencial dramático e narrativo de um filme que usa atores com Síndrome de Down para interpretar personagens com Síndrome de Down? Percebem? Porque talvez os idealizadores de Colegas não tenham tido essa mesma visão. Aliás, o lado comercial da empreitada pode ser a principal responsável por um amontoado de caos envolvido em uma história menos que clichê: simplesmente sem sentido.
 

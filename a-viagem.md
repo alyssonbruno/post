@@ -6,7 +6,6 @@ date: "2013-02-18"
 tags: [ "draft", "movies" ]
 title: "A Viagem"
 stars: "5/5"
-desc: "A Viagem. Cloud Atlas (Germany, 2012). Dirigido por Tom Tykwer, Andy Wachowski, Lana Wachowski. Escrito por David Mitchell, Lana Wachowski, Tom Tykwer, Andy Wachowski. Com Tom Hanks, Halle Berry, Jim Broadbent, Hugo Weaving, Jim Sturgess, Doona Bae, Ben Whishaw, Keith David, James D'Arcy."
 ---
 Há uma belíssima transição em A Viagem quando duas pessoas fogem de sua escravidão e procuram provar o seu valor enquanto ainda se acostumam com o recente status adquirido. A diferença poética dessa mudança de cena é que ela ocorre em espaço e tempo completamente díspars, mas compartilham dos mesmos sentimentos e ideais humanos: a luta pela liberdade.
 

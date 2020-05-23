@@ -6,7 +6,6 @@ date: "2011-05-01"
 tags: [ "draft", "movies" ]
 title: "Bebês"
 stars: "4/5"
-desc: "Bebês. Bébé(s) (France, 2010). Dirigido por Thomas Balmès. Escrito por Alain Chabat, Thomas Balmès. Com Bayar, Hattie, Mari, Ponijao."
 ---
 O filme mostra a história de quatro bebês espalhados em quatro lugares do planeta bem diferentes entre si. O que mais impressiona é o fato de que, apesar das culturas serem tão diferentes, o filme enfoca justamente o que é comum a todo bebê: mamar, chorar, a curiosidade, as primeiras engatinhadas...
 

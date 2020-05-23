@@ -7,7 +7,6 @@ date: 2017-12-03T23:22:57
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mulheres Divinas"
 stars: "4/5"
-desc: "Mulheres Divinas. Die göttliche Ordnung (Switzerland, 2017). Dirigido por Petra Biondina Volpe. Escrito por Petra Biondina Volpe. Com Marie Leuenberger (Nora), Maximilian Simonischek (Hans), Rachel Braunschweig (Theresa), Sibylle Brunner (Vroni), Marta Zoffoli (Graziella), Bettina Stucky (Magda), Noe Krejcí (Max), Finn Sutter (Luki), Peter Freiburghaus (Gottfried)."
 ---
 Mulheres nas ruas com placas de protesto dizendo "não somos animais de estimação". Queima de sutiãs em praça pública. Amor livre sob o efeito de drogas. Calças boca de sino. Para quem não conhece muito bem os detalhes por trás do movimento feminista dos anos 70 pode achar tudo um grande exagero. E Mulheres Divinas vem aí atualizar a cartilha das pessoas e até das atuais feministas, demonstrando todo o mecanismo por trás de por que, afinal de contas, as mulheres reclamavam tanto para lavar louça.
 

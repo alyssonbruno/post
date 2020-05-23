@@ -6,7 +6,6 @@ date: "2014-06-10"
 tags: [ "draft", "movies" ]
 title: "No Limite do Amanhã"
 stars: "4/5"
-desc: "No Limite do Amanhã. Edge of Tomorrow (USA, 2014). Dirigido por Doug Liman. Escrito por Christopher McQuarrie, Jez Butterworth, John-Henry Butterworth, Hiroshi Sakurazaka. Com Tom Cruise, Emily Blunt, Brendan Gleeson, Bill Paxton, Jonas Armstrong, Tony Way, Kick Gurry, Franz Drameh, Dragomir Mrsic."
 ---
 Filme futurista que faz uma homenagem a Feitiço do Tempo (de Harold Ramis com Bill Murray), mas não aproveita suas idas e vindas pelo mesmo caminho percorrido pelo protagonista, que precisa morrer várias vezes, mas acaba morrendo praticamente da mesma maneira (isso lembra um pouco nossa geração vídeogame, não?). O ponto mais negativo obviamente fica para o final, pois este é um filme onde Tom Cruise (Oblivion) é o herói, e heróis como ele e Will Smith muitas vezes se dão ao luxo de não trocar suas personas midiáticas por personagens mais reais. Ou podemos dizer que essa é uma crítica pontual ao espírito vídeo-game dessa geração, acostumado com desafios fáceis e pouco desafiadores.
 

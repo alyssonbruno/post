@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-15"
 title: "Terrace House"
 tags: [ "draft", "series", "essays" ]
-desc: '"Terrace House: Tokyo 2019-2020" (Japan, 2019).'
 imdb: "10686814"
 stars: "3/5"
 ---

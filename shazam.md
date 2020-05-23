@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-12T18:09:00-03:00
 title: "Shazam!"
-desc: "Shazam! EUA, 2019. Dirigido por David F. Sandberg, escrito por uma galera, com Zachary Levi, Mark Strong, Asher Angel e uma pivetada."
 imdb: "0448115"
 
 tags: [ "draft", "movies" ]

@@ -6,7 +6,6 @@ date: "2016-07-18"
 tags: [ "draft", "movies" ]
 title: "A Ponte do Rio Kwai"
 stars: "5/5"
-desc: "A Ponte do Rio Kwai. The Bridge on the River Kwai (UK, 1957). Dirigido por David Lean. Escrito por Pierre Boulle, Carl Foreman, Michael Wilson. Com William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa, James Donald, Geoffrey Horne, André Morell, Peter Williams, John Boxer."
 ---
 É um daqueles trabalhos épicos dos anos 50 com a trilha sonora pomposa (Malcolm Arnold), cerimoniosa, em torno de um grande feito orquestrado por um grande homem. O coronel Nicholson (Alec Guinness) tem seu batalhão prisioneiro dos japoneses na Segunda Guerra em uma floresta tão densa e tão isolada do mundo que o Coronel Saito (Sessue Hayakawa) dispensa controle de fugitivos. A guerra continua e eles precisam construir uma ponte naquele fim de mundo em um prazo curto. Todos os países da língua inglesa parecem se unir e sabotar os planos orientais. Há ao mesmo tempo uma disputa de ego, discursos sobre honra e princípios e uma alegoria muito clara sobre o que é a guerra.
 

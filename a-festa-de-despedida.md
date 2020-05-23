@@ -7,7 +7,6 @@ date: "2015-08-31"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Festa de Despedida"
 stars: "4/5"
-desc: "A Festa de Despedida. Mita Tova (Israel, 2014). Dirigido por Tal Granit, Sharon Maymon. Escrito por Tal Granit, Sharon Maymon. Com Ze'ev Revach, Levana Finkelstein, Aliza Rosen, Ilan Dar, Raffi Tavor, Yosef Carmon, Hilla Sarjon, Assaf Ben-Shimon, Ilanit Dado."
 ---
 A eutanásia, acreditem ou não, ainda é um tema bastante controverso. Apesar de já legalizado em alguns países pelo mundo -- assim como o suicídio assistido -- a perda voluntária de uma vida humana é um assunto que divide opiniões. Afinal, de quem seria a decisão final: da família que nutre uma esperança sobrenatural em uma possível cura, ou do indivíduo, disposto a terminar com sua própria dor e sofrimento?
 

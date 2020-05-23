@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-29T12:18:20-03:00
 title: "Livrando a Cara"
-desc: "Saving Face. EUA, 2004. Por Alice Wu, com Joan Chen, Michelle Krusiec, Lynn Chen."
 imdb: "0384504"
 
 tags: [ "draft", "movies" ]

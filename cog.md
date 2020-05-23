@@ -6,7 +6,6 @@ date: "2015-09-27"
 tags: [ "draft", "movies" ]
 title: "C.O.G."
 stars: "3/5"
-desc: "C.O.G.. C.O.G. (USA, 2013). Dirigido por Kyle Patrick Alvarez. Escrito por Kyle Patrick Alvarez, David Sedaris. Com Jonathan Groff, Tyra Richards, Beth Furumasu, Keiko Green, Kamyar Jahan, Danny Belrose, Zachary Vitale, Marvella McPartland, Tim Patteron."
 ---
 Uma experiência religiosa ou uma auto-descoberta sexual? Uma visão romântica de nossas diferenças de princípios ou um drama que tenta soar engraçado? Se sentindo com múltiplas personalidades, C.O.G. pode muito bem se apresentar como uma visão religiosa do mundo, pois usa a maçã como uma espécie de símbolo do pecado (e da tentação) e mantém em sua história uma estrutura esquizofrênica tão conhecida dos religiosos mais fanáticos.
 

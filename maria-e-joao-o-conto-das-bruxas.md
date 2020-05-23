@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-07"
 title: "Maria e João - O Conto das Bruxas"
-desc: '"Gretel & Hansel" (Canadá, Irlanda, EUA e África do Sul, 2020), escrito por Rob Hayes, dirigido por Oz Perkins, com Sophia Lillis, Charles Babalola e Alice Krige.'
 imdb: "9086228"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"

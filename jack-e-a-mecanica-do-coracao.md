@@ -6,7 +6,6 @@ date: "2016-11-17"
 tags: [ "draft", "movies" ]
 title: "Jack e a Mecânica do Coração"
 stars: "4/5"
-desc: "Jack e a Mecânica do Coração. Jack et la mécanique du coeur (France, 2013). Dirigido por Stéphane Berla, Mathias Malzieu. Escrito por Mathias Malzieu. Com Mathias Malzieu (Jack), Olivia Ruiz (Miss Acacia), Grand Corps Malade (Joe), Jean Rochefort (Méliès), Rossy de Palma (Luna), Babet (Anna), Marie Vincent (Madeleine #1), Emily Loizeau (Madeleine #2), Arthur H. (Arthur)."
 ---
 Esta animação é a conquista emo e gótica ao mesmo tempo. Feito com um apuro artístico incomum para produções de baixo orçamento, a história possui um clima pessimista, romântico e inalcançável que crianças não irão gostar, e muito menos adultos não muito afeitos a água com açúcar.
 

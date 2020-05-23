@@ -6,7 +6,6 @@ date: "2010-12-14"
 tags: [ "draft", "movies" ]
 title: "A Sétima Alma"
 stars: "3/5"
-desc: "A Sétima Alma. My Soul to Take (USA, 2010). Dirigido por Wes Craven. Escrito por Wes Craven. Com Max Thieriot, John Magaro, Denzel Whitaker, Zena Grey, Nick Lashaway, Paulina Olszynski, Jeremy Chu, Emily Meade, Raúl Esparza."
 ---
 Aquela velha maldição que atordoa as pessoas de um vilarejo.
 

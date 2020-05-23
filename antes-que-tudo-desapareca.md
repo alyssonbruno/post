@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "5999530"
 
 stars: "2/5"
-desc: "Sanpo suru shinryakusha (Japão, 2017), escrito por Kiyoshi Kurosawa e Sachiko Tanaka (baseados na peça de Tomohiro Maekawa), dirigido por Kiyoshi Kurosawa, com Masami Nagasawa, Ryûhei Matsuda, Hiroki Hasegawa."
 
 ---
 "Antes que Tudo Desapareça" encontra o pior do trash dos anos 70 e mistura com algumas referências nada amistosas do Cinema mundial. No entanto, tenho um problema em odiar este filme. Mesmo sendo um pedaço imprestável de história esses malditos japoneses conseguem tornar tudo mais palatável. É um povo tão educado! Até seus piores filmes não inspiram o que há de pior no ser humano. Sendo assim, eu nunca diria diretamente ao diretor Kiyoshi Kurosawa "mas que lixo de filme, hein?". No lugar, faria uma reverência respeitosa e agradeceria pelo espetáculo. Talvez até decorasse algumas falas em japonês e as recitaria, se ainda me lembrasse após as duas horas e nove minutos da projeção.

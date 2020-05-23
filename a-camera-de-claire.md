@@ -6,7 +6,6 @@ tags: [ "draft", "movies" , "cinemaqui" ]
 imdb: "5989220"
 
 stars: "3/5"
-desc: "La caméra de Claire (França, Coreia do Sul, 2017), escrito e dirigido por Sang-soo Hong, com Isabelle Huppert, Min-hee Kim, Mi-hee Chang."
 
 ---
 O que é uma foto senão um único snapshot da vida real? E se é apenas um snapshot no tempo, o seu movimento para frente é o que torna as pessoas diferentes. Só alguém muito sensível para perceber isso, e apesar de não estar inserida na história principal, A Câmera de Claire é essa "pessoa".

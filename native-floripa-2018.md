@@ -3,7 +3,6 @@ categories: [ "blog" ]
 date: 2018-09-28T19:43:04-03:00
 title: "Native Floripa 2018"
 tags: [ "draft", "events" ]
-desc: "Evento de programação 'baixo nível' realizado em Florianópolis - Segunda Edição."
 ---
 O Native Floripa desse ano foi um evento de nerds que adoro e também uma viagem e encontro de nerds (que também adoro). Isso quer dizer que este é um post duplo, onde analiso tanto a viagem quanto o evento.
 

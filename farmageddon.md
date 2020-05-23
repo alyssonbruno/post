@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-23"
 title: "Shaun o Carneiro – O Filme – A Fazenda contra-ataca"
-desc: '"A Shaun the Sheep Movie: Farmageddon" (United Kingdom, France e United States, 2019), escrito por Jon Brown, Mark Burton e Nick Park, dirigido por Will Becher e Richard Phelan, com Justin Fletcher, John Sparkes e Chris Morrell.'
 tags: [ "draft", "movies" ]
 imdb: "6193408"
 stars: "3/5"

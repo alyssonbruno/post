@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-31"
 title: "Contra Todos"
-desc: '"Contra Todos" (Brasil, 2004), escrito por Roberto Moreira, dirigido por Roberto Moreira, com Leona Cavalli, Sílvia Lourenço, Ailton Graça, Giulio Lopes e Martha Meola. Da coleção de DVDs.'
 imdb: "0395978"
 tags: [ "draft", "movies" ]
 stars: "4/5"

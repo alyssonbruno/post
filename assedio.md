@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-08"
 title: "Assédio"
-desc: '"L''assedio" (Itália, Reino Unido, 1998), escrito por Clare Peploe, Bernardo Bertolucci e James Lasdun, dirigido por Bernardo Bertolucci, com Thandie Newton e David Thewlis. Da leva de DVDs.'
 imdb: "0149723"
 tags: [ "draft", "movies" ]
 stars: "5/5"

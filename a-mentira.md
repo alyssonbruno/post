@@ -6,7 +6,6 @@ date: "2014-03-14"
 tags: [ "draft", "movies" ]
 title: "A Mentira"
 stars: "1/5"
-desc: "A Mentira. Easy A (USA, 2010). Dirigido por Will Gluck. Escrito por Bert V. Royal. Com Emma Stone, Penn Badgley, Amanda Bynes, Dan Byrd, Thomas Haden Church, Patricia Clarkson, Cam Gigandet, Lisa Kudrow, Malcolm McDowell."
 ---
 Temas como em "Easy A" existe aos montes na cinematografia adolescente estado-unidense. Em um país cada vez mais puritano o fato de você ser uma adolescente que teve momentos íntimos com um cara já é sinal de má conduta; ter momentos íntimos com dois caras ou mais que isso já é certificado de prostituta. No caso desse filme dirigido por Will Gluck (Amizade Colorida) e escrita por Bert V. Royal (?) essa nada original história é vagamente explorada em torno de personagens que se misturam e nunca conseguem convencer como pessoas de carne e osso, e confesso que em alguns momentos sequer me lembrava dos coadjuvantes mais próximos de Olive, a protagonista (Ah, Emma Stone...).
 

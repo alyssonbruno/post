@@ -6,7 +6,6 @@ date: "2015-11-01"
 tags: [ "draft", "movies" ]
 title: "Que Mal Eu Fiz a Deus?"
 stars: "3/5"
-desc: "Que Mal Eu Fiz a Deus?. Qu'est-ce qu'on a fait au Bon Dieu? (France, 2014). Dirigido por Philippe de Chauveron. Escrito por Philippe de Chauveron, Guy Laurent. Com Christian Clavier, Chantal Lauby, Ary Abittan, Medi Sadoun, Frédéric Chau, Noom Diawara, Frédérique Bel, Julia Piaton, Emilie Caen."
 ---
 Essa comédia francesa explora os estereótipos e o racismo de maneira quase inofensiva. No processo, joga algumas piadas de caráter duvidoso, mas em sua maioria oferece uma reflexão boba e superficial a respeito das rixas que as pessoas têm com as outras que tiverem outra origem e cultura.
 

@@ -6,7 +6,6 @@ date: "2017-02-12"
 tags: [ "draft", "movies" ]
 title: "LEGO Batman: O Filme"
 stars: "4/5"
-desc: "LEGO Batman: O Filme. The LEGO Batman Movie (Denmark, 2017). Dirigido por Chris McKay. Escrito por Seth Grahame-Smith, Chris McKenna, Erik Sommers, Jared Stern, John Whittington, Bob Kane, Bill Finger, Jerry Siegel, Joe Shuster. Com Will Arnett (Batman / Bruce Wayne), Michael Cera (Robin / Dick Grayson), Rosario Dawson (Batgirl / Barbara Gordon), Ralph Fiennes (Alfred Pennyworth), Siri ('Puter), Zach Galifianakis (Joker), Jenny Slate (Harley Quinn), Jason Mantzoukas (Scarecrow), Conan O'Brien (The Riddler)."
 ---
 Dos mesmos "mestres construtores" de Uma Aventura LEGO, este Lego Batman vem para iniciar uma franquia já sugerida no original. E vira um dos melhores filmes de Batman sobre filmes de Batman já idealizados por uma criança!
 

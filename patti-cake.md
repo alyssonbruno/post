@@ -7,7 +7,6 @@ date: 2017-11-18T20:59:14
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Patti Cake$"
 stars: "5/5"
-desc: "Patti Cake$. Patti Cake$ (USA, 2017). Dirigido por Geremy Jasper. Escrito por Geremy Jasper. Com Danielle Macdonald (Patti), Bridget Everett (Barb), Siddharth Dhananjay (Jheri), Mamoudou Athie (Basterd), Cathy Moriarty (Nana), McCaul Lombardi (Danny), Patrick Brana (Slaz), Dylan Blue (Drewsky / Master of Ceremonies), Warren Bub (Mr. Bagadella)."
 ---
 Patti Cake$ poderia ser facilmente resumido como uma mistura entre "Preciosa: Uma História de Esperança" (Lee Daniels, 2009) e "8 Mile: Rua das Ilusões" (Curtis Hanson, 2002), e qualquer um que tenha assistido a esses dois longas irá se identificar com o drama dos jovens artistas anônimos nas periferias das cidades grandes, rejeitados automaticamente pelas autoridades locais como vagabundos perdidos na sociedade.
 

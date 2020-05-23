@@ -6,7 +6,6 @@ date: "2011-08-07"
 tags: [ "draft", "movies" ]
 title: "Melancolia"
 stars: "5/5"
-desc: "Melancolia. Melancholia (Denmark, 2011). Dirigido por Lars von Trier. Escrito por Lars von Trier. Com Kirsten Dunst, Charlotte Gainsbourg, Alexander Skarsgård, Brady Corbet, Cameron Spurr, Charlotte Rampling, Jesper Christensen, John Hurt, Stellan Skarsgård."
 ---
 (Spoilers liberados. Portanto, sugiro ler depois de assistir ao filme.)
 

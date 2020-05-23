@@ -6,7 +6,6 @@ date: "2015-06-24"
 tags: [ "draft", "movies" ]
 title: "Jurassic World: O Mundo dos Dinossauros"
 stars: "4/5"
-desc: "Jurassic World: O Mundo dos Dinossauros. Jurassic World (USA, 2015). Dirigido por Colin Trevorrow. Escrito por Rick Jaffa, Amanda Silver, Colin Trevorrow, Derek Connolly, Rick Jaffa, Amanda Silver, Michael Crichton. Com Chris Pratt, Bryce Dallas Howard, Vincent D'Onofrio, Ty Simpkins, Irrfan Khan, Nick Robinson, Jake Johnson, Omar Sy, BD Wong."
 ---
 A trilha sonora de John Williams é bem aproveitada nessa continuação de emoções de Jurassic Park, mais de 20 anos depois de ser produzido, para um público mais aficionado por efeitos, 3D e a computação gráfica no seu limite. Por isso mesmo não se pode negar que no quesito entretenimento ele se sai maravilhosamente bem, impressionando quase da mesma forma com que o filme de Steven Spielberg nos impressionou. E quase já é algo muito bom para uma franquia já desgastada tentando se reerguer com ideias "novas".
 

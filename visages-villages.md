@@ -7,7 +7,6 @@ date: 2017-11-27T19:05:55
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Visages, Villages"
 stars: "3/5"
-desc: "Visages, Villages. Visages, villages (France, 2017). Dirigido por JR, Agnès Varda. Escrito por JR, Agnès Varda. Com Jean-Paul Beaujon (Himself), Amaury Bossy (Himself), Yves Boulen (Himself), Jeannine Carpentier (Herself), Marie Douvet (Herself), Claude Ferchal (Himself), Claude Flaert (Himself), Vincent Gils (Himself), Jean-Luc Godard (Himself)."
 ---
 Visages, Villages é um filme fácil de assistir. Se trata de um documentário road-movie com um artista jovem cuidando do projeto de uma artista experiente. Ambos se respeitam e estão juntos pelo mesmo objetivo: viver.
 

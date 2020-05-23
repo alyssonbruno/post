@@ -6,7 +6,6 @@ date: "2012-06-10"
 tags: [ "draft", "movies" ]
 title: "A Saga Crepúsculo: Lua Nova"
 stars: "1/5"
-desc: "A Saga Crepúsculo: Lua Nova. The Twilight Saga: New Moon (USA, 2009). Dirigido por Chris Weitz. Escrito por Melissa Rosenberg, Stephenie Meyer. Com Kristen Stewart, Christina Jastrzembska, Robert Pattinson, Billy Burke, Anna Kendrick, Michael Welch, Justin Chon, Christian Serratos, Taylor Lautner."
 ---
 O filme inicial da "saga Crepúsculo" merecia o benefício da dúvida, pois pelas condições com que a história foi desenvolvida ficava muito difícil encaixar o filme no grupo de filmes sérios ou nas paródias. No entanto, com Lua Nova essa dúvida se dissipa completamente, graças aos torturantes 130 minutos que insistem em colocar a protagonista Bella Swan (Kristen Stewart) em diversas situações que nada alteram seu conflito inicial: devo conseguir obrigar meu namorado vampiro Edward Cullen (Robert Pattinson) a me transformar em um ser imortal ou devo morrer tentando?
 

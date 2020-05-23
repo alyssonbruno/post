@@ -6,7 +6,6 @@ date: "2016-09-11"
 tags: [ "draft", "movies" ]
 title: "Boneco do Mal"
 stars: "4/5"
-desc: "Boneco do Mal. The Boy (Canada, 2016). Dirigido por William Brent Bell. Escrito por Stacey Menear. Com Lauren Cohan, Rupert Evans, James Russell, Jim Norton, Diana Hardcastle, Ben Robson, Jett Klyne, Lily Pater, Matthew Walker."
 ---
 Um terror que entende a problemática do medo do limite entre o real e a fantasia, Boneco do Mal busca em seu formato aproximar o espectador da loucura que o cerca, para apenas depois subverter essa ordem de volta para o real. Um trabalho digno de nota em comparação com tantos filmes do gênero que se passa em uma casa isolada com um passado macabro.
 

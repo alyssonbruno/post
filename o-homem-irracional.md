@@ -6,7 +6,6 @@ date: "2016-07-29"
 tags: [ "draft", "movies" ]
 title: "O Homem Irracional"
 stars: "3/5"
-desc: "O Homem Irracional. Irrational Man (USA, 2015). Dirigido por Woody Allen. Escrito por Woody Allen. Com Joaquin Phoenix, Emma Stone, Joe Stapleton, Nancy Carroll, Allison Gallerani, Brigette Lundy-Paine, Katelyn Semer, Betsy Aidem, Ethan Phillips."
 ---
 O ritmo atual de Woody Allen em escrever e dirigir um filme por ano simplifica seus trabalhos, mas exatamente por isso permite-nos enxergar de maneira mais específica os assuntos que ele sempre deseja tratar. E no caso de O Homem Irracional, onde o protagonista é um professor de filosofia, o que tinha tudo para ser um tratado mais espesso e complexo sobre a natureza humana se transforma em um exercício leve e simples de entender.
 

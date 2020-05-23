@@ -6,7 +6,6 @@ date: "2017-03-05"
 tags: [ "draft", "movies" ]
 title: "Logan"
 stars: "4/5"
-desc: "Logan. Logan (USA, 2017). Dirigido por James Mangold. Escrito por James Mangold, Scott Frank, Michael Green, Craig Kyle, John Romita Sr, Roy Thomas, Herb Trimpe, Len Wein, Christopher Yost. Com Hugh Jackman (Logan), Patrick Stewart (Charles), Dafne Keen (Laura), Boyd Holbrook (Pierce), Stephen Merchant (Caliban), Elizabeth Rodriguez (Gabriela), Richard E. Grant (Dr. Rice), Eriq La Salle (Will Munson), Elise Neal (Kathryn Munson)."
 ---
 O diretor e roteirista James Mangold apresenta um fechamento de personagem que soa estranho aos fãs da Marvel mais coloridos e menos afoitos com a dura realidade da vida: pessoas morrem nesses filmes.
 

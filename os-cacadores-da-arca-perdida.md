@@ -6,7 +6,6 @@ date: "2016-10-16"
 tags: [ "draft", "movies" ]
 title: "Os Caçadores da Arca Perdida"
 stars: "5/5"
-desc: "Os Caçadores da Arca Perdida. Raiders of the Lost Ark (USA, 1981). Dirigido por Steven Spielberg. Escrito por Lawrence Kasdan, George Lucas, Philip Kaufman. Com Harrison Ford (Indy), Karen Allen (Marion Ravenwood), Paul Freeman (Dr. René Belloq), Ronald Lacey (Major Arnold Toht), John Rhys-Davies (Sallah), Denholm Elliott (Dr. Marcus Brody), Alfred Molina (Satipo), Wolf Kahler (Colonel Dietrich), Anthony Higgins (Gobler)."
 ---
 Este é um filme clássico de aventuras. Ele transforma o personagem James Bond em um arqueólogo e que continua sendo, nos moldes tradicionais, um homem de verdade. Ele mata quando preciso, e as mortes acontecem de verdade -- com sangue e tiros, e não como na nossa geração leite-com-pera atual, se estiver se perguntando. Indiana Jones está disposto a arriscar a vida pelo que acredita. Ele é durão em um filme que ri dos clichês sérios. Ele contém um tema musical inesquecível e uma trilha sonora que se confunde com Star Wars, outro filme estelado por Harrison Ford na mesma época (e ambos compostos pelo músico John Williams).
 

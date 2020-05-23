@@ -6,7 +6,6 @@ date: "2016-10-12"
 tags: [ "draft", "movies" ]
 title: "Caça-Fantasmas"
 stars: "3/5"
-desc: "Caça-Fantasmas. Ghostbusters (USA, 2016). Dirigido por Paul Feig. Escrito por Katie Dippold, Paul Feig, Ivan Reitman, Dan Aykroyd, Harold Ramis. Com Zach Woods (Tour Guide), Kristen Wiig (Erin Gilbert), Ed Begley Jr. (Ed Mulgrave), Charles Dance (Harold Filmore), John Milhiser (Higgins Student), Ben Harris (Higgins Student), Melissa McCarthy (Abby Yates), Karan Soni (Bennie), Kate McKinnon (Jillian Holtzmann)."
 ---
 Os caça-fantasmas continua sendo uma ótima ideia em seu remake, protagonizado agora pelas meninas. Elas são espontâneas e fazem funcionar muitas das cenas do roteiro capenga escrita a várias mãos, com diálogos e piadas engraçadinhas. Os efeitos visuais atraem, mas não tanto quanto o conceito. E esse... continua tão novo como se tivesse sido lançado esse ano.
 

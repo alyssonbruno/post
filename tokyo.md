@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-11T23:22:06-03:00
 title: "Tokyo!"
-desc: "Tokyo! França, Japão, Coréia do Sul, Alemanha, 2008. Dirigido por Michel Gondry, Leos Carax e Joon-ho Bong. Escrito pelos três, com o primeiro episódio Interior Design inspirado na graphic novel de Gabrielle Bell. Com Ayako Fujitani, Ryo Kase, Denis Lavant, Jean-François Balmer, Renji Ishibashi, Yû Aoi, Teruyuki Kagawa, Naoto Takenaka."
 imdb: "0976060"
 tags: [ "draft", "movies" ]
 stars: "5/5"

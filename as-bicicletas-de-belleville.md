@@ -6,7 +6,6 @@ date: "2014-07-23"
 tags: [ "draft", "movies" ]
 title: "As Bicicletas de Belleville"
 stars: "5/5"
-desc: "As Bicicletas de Belleville. Les triplettes de Belleville (France, 2003). Dirigido por Sylvain Chomet. Escrito por Sylvain Chomet. Com Béatrice Bonifassi, Lina Boudreau, Michèle Caucheteux, Jean-Claude Donda, Mari-Lou Gauthier, Charles Linton, Michel Robin, Monica Viegas."
 ---
 Este não é um desenho convencional, nem pode-se dizer que é para crianças, pois possui momentos extremamente dramáticos e violentos. Porém, mesmo esses momentos conseguem ser nivelados ao surrealismo que permeia toda a película conduzida por Sylvain Chomet. Porém, não se sabe se esse nivelamento serve para eufemizar a triste realidade do cotidiano ou para celebrá-lo com todas as suas cores lúdicas de um tempo e de uma época eterna nas pinturas de arte.
 

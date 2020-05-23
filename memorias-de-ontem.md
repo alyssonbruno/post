@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-02"
 title: "Memórias de Ontem"
-desc: '"Omohide poro poro" (Japão, 1991), escrito por Hotaru Okamoto, Yuuko Tone e David Freedman, dirigido por Isao Takahata, com Miki Imai, Toshirô Yanagiba e Yoko Honna. Assistindo um dos filmes que estrearam na Netflix.'
 imdb: "0102587"
 tags: [ "draft", "movies" ]
 stars: "5/5"

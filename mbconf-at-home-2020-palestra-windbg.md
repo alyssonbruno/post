@@ -3,7 +3,6 @@ categories: [ "blog" ]
 date: "2020-04-18"
 title: "Minha palestra sobre Windbg"
 tags: [ "draft", "events", "windbg", "kernel", "reversing" ]
-desc: "Falei sobre windbg.exe, kd.exe, ntsd.exe, softice e debug da BIOS #sqn."
 ---
 A MBConf@Home2020 foi um sucesso. Parabéns aos organizadores, palestrantes e apoiadores. Eu nunca fui em um evento de tecnologia em que tudo funcionou do começo ao fim. Simplesmente fantástico o nível de qualidade da organização. Fora que trezentas pessoas ficaram em casa e participaram conosco dessa troca de conhecimento =).
 

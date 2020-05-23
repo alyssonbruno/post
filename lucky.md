@@ -7,7 +7,6 @@ date: 2017-12-07T00:17:31
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Lucky"
 stars: "5/5"
-desc: "Lucky. Lucky (USA, 2017). Dirigido por John Carroll Lynch. Escrito por Logan Sparks, Drago Sumonja. Com Harry Dean Stanton (Lucky), David Lynch (Howard), Ron Livingston (Bobby Lawrence), Ed Begley Jr. (Dr. Christian Kneedler), Tom Skerritt (Fred), Beth Grant (Elaine), James Darren (Paulie), Barry Shabaka Henley (Joe), Yvonne Huff (Loretta)."
 ---
 No princípio não havia nada. Havia uma tartaruga. Não. Um cágado. O cágado segue andando em seu ritmo. Havia também um velho. E o velho também segue andando. Lucky é seu nome, e consequentemente seu filme. Porém, este é um filme que palavras se cruzam. E significados. Dessa forma, "lucky" em inglês quer dizer sortudo, o que pode querer dizer que este pode ser o filme sobre o que é ser sortudo. E do ponto de vista de todos nós que vivemos, estar vivo é ser sortudo. Estar vivo e testemunhar o último filme de Harry Dean Stanton com a presença do diretor David Lynch atuando. E você sabe que a coisa é séria quando vemos Lynch dizer: "existem algumas coisas no mundo que são maiores que todos nós... e um cágado é uma delas!".
 

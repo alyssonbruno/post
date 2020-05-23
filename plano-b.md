@@ -6,7 +6,6 @@ date: "2010-06-11"
 tags: [ "draft", "movies" ]
 title: "Plano B"
 stars: "2/5"
-desc: "Plano B. The Back-up Plan (USA, 2010). Dirigido por Alan Poul. Escrito por Kate Angelo. Com Jennifer Lopez, Alex O'Loughlin, Michaela Watkins, Eric Christian Olsen, Anthony Anderson, Noureen DeWulf, Melissa McCarthy, Tom Bosley, Maribeth Monroe."
 ---
 O produtor e diretor de TV Alan Poul resolve fazer este seu único longa para o Cinema que se transforma em uma mesmice sem tamanho. E olha que em questão de comédias românticas, mesmice já é a regra.
 

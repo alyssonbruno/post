@@ -6,7 +6,6 @@ date: "2018-02-19"
 tags: [ "draft", "movies" ]
 title: "Rango"
 stars: "4/5"
-desc: "Rango. Rango (USA, 2011). Dirigido por Gore Verbinski. Escrito por John Logan, John Logan, Gore Verbinski, James Ward Byrkit. Com Johnny Depp, Isla Fisher, Abigail Breslin, Ned Beatty, Alfred Molina, Bill Nighy, Stephen Root, Harry Dean Stanton, Timothy Olyphant."
 ---
 (Du)Rango para crianças (Kid) já nasce clássico. Aliás, ele venera praticamente todo e qualquer clássico velho oeste que gastou mais de um milhão para ser produzido (ou até alguns meio baratinhos). Com uma direção de arte detalhista e uma direção geral fascinada pelo Cinema, este é um trabalho visualmente impecável e artisticamente inesquecível.
 

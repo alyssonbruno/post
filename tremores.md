@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-26"
 title: "Tremores"
-desc: '"Temblores" (Guatemala, França e Luxemburgo, 2019), escrito por Jayro Bustamante, dirigido por Jayro Bustamante, com Juan Pablo Olyslager, Diane Bathen e Mauricio Armas Zebadúa. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7128732"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

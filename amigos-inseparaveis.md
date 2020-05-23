@@ -6,7 +6,6 @@ date: "2013-03-12"
 tags: [ "draft", "movies" ]
 title: "Amigos Inseparáveis"
 stars: "4/5"
-desc: "Amigos Inseparáveis. Stand Up Guys (USA, 2012). Dirigido por Fisher Stevens. Escrito por Noah Haidle. Com Al Pacino, Christopher Walken, Alan Arkin, Julianna Margulies, Mark Margolis, Lucy Punch, Addison Timlin, Vanessa Ferlito, Katheryn Winnick."
 ---
 Enquanto brutamontes e velhos heróis caindo aos pedaços resolvem voltar à ativa como objetos aparentemente invulneráveis contra a ação do tempo (Bruce Willis em Duro de Matar, Schwarzenegger em Os Mercenários), Al Pacino, Alan Arkin e Christopher Walken vão no caminho oposto, exaltando as diferenças de um jeito antigo de fazer cinema jogando em nossa cara, mas ao mesmo tempo reinventando-se como metalinguagem, uma maneira nostálgica que ao mesmo tempo discute nossa geração: onde foi que começamos a ficar mais distantes da vida, cada vez mais vidrados em uma tela de celular? Quando foi que deixamos de fazer algo arriscado ou mesmo fora da "tirania da rotina", como faz o personagem de Al Pacino?
 

@@ -6,7 +6,6 @@ date: "2011-05-25"
 tags: [ "draft", "movies" ]
 title: "Velozes e Furiosos 5 Operação Rio"
 stars: "4/5"
-desc: "Velozes e Furiosos 5 Operação Rio. Fast Five (USA, 2011). Dirigido por Justin Lin. Escrito por Chris Morgan, Gary Scott Thompson. Com Vin Diesel, Paul Walker, Jordana Brewster, Tyrese Gibson, Ludacris, Matt Schulze, Sung Kang, Gal Gadot, Tego Calderon."
 ---
 O Rio de Janeiro está em alta no cinema mundial esse ano: palco de duas produções internacionais de prestígio, a uma vez chamada Cidade Maravilhosa começa a mostrar aos poucos sua nova cara para o mundo, mesmo que sob a ótica distorcida das produções de Hollywood.
 

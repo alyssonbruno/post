@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-20T14:27:48-02:00
 title: "O Operário"
-desc: "The Machinist. Espanha, França, Reino Unido, EUA, 2004. Escrito por Scott Kosar, dirigido por Brad Anderson. Com Christian Bale como Trevor Reznik, Jennifer Jason Leigh como Stevie, Aitana Sánchez-Gijón como Marie, John Sharian como Ivan."
 imdb: "0361862"
 
 tags: [ "draft", "movies" ]

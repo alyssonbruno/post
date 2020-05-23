@@ -6,7 +6,6 @@ date: "2016-08-12"
 tags: [ "draft", "movies" ]
 title: "Esquadrão Suicida"
 stars: "2/5"
-desc: "Esquadrão Suicida. Suicide Squad (USA, 2016). Dirigido por David Ayer. Escrito por David Ayer, John Ostrander. Com Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie, Christopher Dyson, Bambadjan Bamba, Viola Davis, Ted Whittall, David Harbour."
 ---
 As músicas deste filme faz com que o que ouvimos se torne infinitamente melhor do que o que vemos (e por "ver" eu quero dizer não só visualmente, mas as situações e os diálogos). Como prêmio de compensação, torna o pacote completo um pouquinho melhor.
 

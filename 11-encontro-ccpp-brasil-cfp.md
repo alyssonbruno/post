@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2015-02-03"
 title: "CCPP Brasil 11: Call For Papers"
-desc: "Chamada para palestras do encontro C++. Atualizado em 2020-01-16."
 tags: [ "draft", "ccppbr" ]
 ---
 Acho que já está na hora de nos reencontrarmos, né?

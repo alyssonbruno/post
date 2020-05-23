@@ -6,7 +6,6 @@ date: "2017-04-21"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Além da Ilusão"
 stars: "3/5"
-desc: "Além da Ilusão. Planetarium (France, 2016). Dirigido por Rebecca Zlotowski. Escrito por Rebecca Zlotowski, Robin Campillo. Com Natalie Portman (Laura Barlow), Lily-Rose Depp (Kate Barlow), Emmanuel Salinger (André Korben), Amira Casar (Eva Saïd), Pierre Salvadori (André Servier), Louis Garrel (Fernand Prouvé), David Bennent (Juncker), Damien Chapelle (Louis), Jerzy Rogulski (Professeur Ulé)."
 ---
 Além da Ilusão é uma viagem biográfica longa, inútil e de um lirismo que não se justifica ao longo da projeção. Se trata da burocracia dos filmes baseados em eventos reais que não estabelece uma trama, mas apenas descreve acontecimentos. Seus personagens não tão rasos e esquecíveis que nem a atuação competente do elenco nos salva do marasmo. E mesmo que fôssemos apreciar a obra pela sua "beleza inerente do cinema", ele comprova que para tudo há um limite.
 

@@ -6,7 +6,6 @@ date: "2017-01-01"
 tags: [ "draft", "movies" ]
 title: "O Que Será de Nozes?"
 stars: "1/5"
-desc: "O Que Será de Nozes?. The Nut Job (Canada, 2014). Dirigido por Peter Lepeniotis. Escrito por Lorne Cameron, Peter Lepeniotis, Robert Reece, Daniel Woo. Com Will Arnett (Surly), Brendan Fraser (Grayson), Liam Neeson (Raccoon), Katherine Heigl (Andie), Stephen Lang (King), Maya Rudolph (Precious), Jeff Dunham (Mole), Gabriel Iglesias (Jimmy), Sarah Gadon (Lana)."
 ---
 The Nub Job é uma animação com orçamento limitado, pequenos defeitos na caracterização de seus personagens (visualmente e direto do roteiro) e que usa uma moral deturpada que abraça o coletivismo em uma história rapidamente esquecível. Ele arrisca ainda em seu roteiro e montagem contar duas histórias ao mesmo tempo, mas é por demais amador e ainda no rascunho.
 

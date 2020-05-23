@@ -6,7 +6,6 @@ date: "2017-05-03"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Rastro"
 stars: "3/5"
-desc: "O Rastro. O Rastro (Brazil, 2017). Dirigido por J.C. Feyer. Escrito por Beatriz Manela, André Pereira. Com Leandra Leal (Leila), Rafael Cardoso (João), Cláudia Abreu (Olivia), Alice Wegmann (Alice), Jonas Bloch (Heitor), Felipe Camargo (Ricardo), Sura Berditchevsky (Enfermeira Clara), Júlia Lund (Reporter do Tempo), Kelzy Ecard (Enfermeira Bianca), Érico Brás (Marcio), Gustavo Novaes (Paulo cesar), Natália Maciel Guedes (Julia), Ricardo Ventura (Gerson), Alberto Flaksman (Dr. Fernando), Marcelo Olinto (Superintendente)."
 ---
 Não há melhor palco para um filme de terror do que as consequências da administração estatal. No caso de O Rastro, os resultados do sistema público de saúde são o palco perfeito para uma tortura psicológica que não tem saída fácil. Representada na figura de uma menina que lembra a personagem Samara do filme O Chamado, a dor que o herói deste filme sente é, em parte, a dor compartilhada por milhões de brasileiros quando olha o resultado de seu governo. E como os corredores escuros e sujos de um hospital interditado, é assim que o cidadão se sente ao observar os inúmeros traços na vida real de descaso e de corrupção de um sistema que já nasceu falido.
 

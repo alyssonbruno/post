@@ -5,7 +5,6 @@ title: "Standup de 98 de Seinfeld é melhor que último do Gervais (graças ao S
 tags: [ "draft", "series" ]
 imdb: "0500140"
 stars: "3/5"
-desc: "Jerry Seinfeld: 'I'm Telling You For The Last Time'"
 ---
 Comecei a assistir o último standup do Rick Gervais, Humanity, mas me cansei em menos de 10 minutos. Coloquei no último do Seinfeld e não consegui parar de ver. Ambos possuem quase a mesma duração de uma hora, mas Seinfeld possui ritmo, e Gervais, nervosismo. Por que isso?
 

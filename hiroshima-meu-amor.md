@@ -6,7 +6,6 @@ date: "2015-01-09"
 tags: [ "draft", "movies" ]
 title: "Hiroshima Meu Amor"
 stars: "3/5"
-desc: "Hiroshima Meu Amor. Hiroshima mon amour (France, 1959). Dirigido por Alain Resnais. Escrito por Marguerite Duras. Com Emmanuelle Riva, Eiji Okada, Stella Dassas, Pierre Barbaud, Bernard Fresson."
 ---
 Me desculpem os adoradores, mas esse é um filme supervalorizado. É a segunda vez que assisto a história dos dois amantes que se despedem por um longo dia em Hiroshima antes que ela se vá para Paris (a atriz de Amor, de Haneke). O impasse "vai ou não vai" se perpetua por longuíssimos 90 minutos, com diálogos que frequentemente também se repetem: o "não quero que se vá" vs "irei, sim" mais longo que os efeitos da bomba jogada sobre a cidade.
 

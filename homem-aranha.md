@@ -6,7 +6,6 @@ date: "2015-07-28"
 tags: [ "draft", "movies" ]
 title: "Homem-Aranha"
 stars: "4/5"
-desc: "Homem-Aranha. Spider-Man (USA, 2002). Dirigido por Sam Raimi. Escrito por Stan Lee, Steve Ditko, David Koepp. Com Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco, Cliff Robertson, Rosemary Harris, J.K. Simmons, Joe Manganiello, Gerry Becker."
 ---
 Construído como um clássico fortemente inspirado em Super-Homem de Richard Donner, o debut de Sam Raimi peca por imitação enquanto acerta em todo o resto. "Com grande poder vem grandes responsabilidades" diz menos sobre o garoto picado por uma aranha e mais sobre o homem que o dirige.
 

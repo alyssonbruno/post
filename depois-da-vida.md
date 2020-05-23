@@ -6,7 +6,6 @@ review: [ "2019" ]
 tags: [ "draft", "movies" ]
 title: "Depois da Vida"
 stars: "4/5"
-desc: "Wandâfuru raifu (Japan, 1998). Dirigido por Hirokazu Kore-eda. Escrito por Hirokazu Koreeda. Com Arata Iura, Erika Oda, Susumu Terajima, Takashi Naitô, Kyôko Kagawa, Kei Tani, Taketoshi Naitô, Tôru Yuri, Yûsuke Iseya. Atualizado em 2019-08-04."
 ---
 Pense rápido: se você morrer hoje escolha de toda sua vida apenas uma memória para guardar para toda a eternidade. No filme de Hirokazu Koreeda, o mundo pós-vida possui um sistema de acompanhamento das pessoas que recentemente faleceram e cujo objetivo é exatamente esse.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-04-22"
 title: "Sid e Nancy"
-desc: '"Sid and Nancy" (United Kingdom, 1986), escrito por Alex Cox e Abbe Wool, dirigido por Alex Cox, com Gary Oldman, Chloe Webb e David Hayman.'
 imdb: "0091954"
 stars: "5/5"
 tags: [ "draft", "movies" ]

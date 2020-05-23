@@ -6,7 +6,6 @@ date: "2010-12-20"
 tags: [ "draft", "movies" ]
 title: "Sobre Café e Cigarros"
 stars: "3/5"
-desc: "Sobre Café e Cigarros. Coffee and Cigarettes (USA, 2003). Dirigido por Jim Jarmusch. Escrito por Jim Jarmusch. Com Roberto Benigni, Steven Wright, Joie Lee, Cinqué Lee, Steve Buscemi, Iggy Pop, Tom Waits, Joseph Rigano, Vinny Vella."
 ---
 Esse é um filme extremamente deprimente, pelas características dos cenários, pela estática das cenas, pela conversinha dos personagens, pelo princípio que os personagens principais, de fato, são os nomes do título.
 

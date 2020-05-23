@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-04-05"
 title: "O Menino Que Descobriu O Vento"
-desc: '"The Boy Who Harnessed the Wind" (United Kingdom e Malawi, 2019), escrito por Chiwetel Ejiofor, William Kamkwamba e Bryan Mealer, dirigido por Chiwetel Ejiofor, com Chiwetel Ejiofor, Maxwell Simba e Felix Lemburo.'
 tags: [ "draft", "movies" ]
 imdb: "7533152"
 stars: "4/5"

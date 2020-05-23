@@ -6,7 +6,6 @@ date: "2010-12-19"
 tags: [ "draft", "movies" ]
 title: "Aparecida O Milagre"
 stars: "3/5"
-desc: "Aparecida O Milagre. Aparecida - O Milagre (Brazil, 2010). Dirigido por Tizuka Yamasaki. Escrito por Pedro Antônio, Carlos Gregório, Paulo Halm, Marco Schiavon. Com Leona Cavalli, Maria Fernanda Cândido, Jonatas Faro, Vinícius Franco, Dandara Mariana, Bete Mendes, Leopoldo Pacheco, Janaína Prado, Murilo Rosa."
 ---
 Tizuka Yamasaki está acostumada a realizar trabalhos "globais" como O Noviço Rebelde, Xuxa Requebra e... arght! Lua de Cristal. Seus quatro roteiristas, incluindo Paulo Halm e Carlos Gregório, desenvolvem histórias como Pequeno Dicionário Amoroso, Guerra de Canudos e arght! Se Eu Fosse Você (1 e 2!). Aparecida, A Revanche Católic... quer dizer, O Milagre, é um filme maniqueísta (como deve ser) e cafona (como esperado), mas inesperadamente bem conduzido, que tenta desviar ao máximo da narrativa vergonhosamente novelística e se focar na mensagem mais importante do projeto: milagres são possíveis e é por isso que nunca devemos desistir da vida.
 

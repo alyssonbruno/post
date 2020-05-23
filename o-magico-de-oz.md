@@ -6,7 +6,6 @@ date: "2015-01-11"
 tags: [ "draft", "movies" ]
 title: "O Mágico de Oz"
 stars: "4/5"
-desc: "O Mágico de Oz. The Wizard of Oz (USA, 1939). Dirigido por Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, King Vidor. Escrito por Noel Langley, Florence Ryerson, Edgar Allan Woolf, Noel Langley, L. Frank Baum, Irving Brecher, William H. Cannon, Herbert Fields, Arthur Freed. Com Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley, Billie Burke, Margaret Hamilton, Charley Grapewin, Pat Walshe."
 ---
 Não dá para assistir a O Mágico de Oz e automaticamente não relacionar com Alice no País das Maravilhas já que a estrutura e muito provavelmente a ideia veio justamente do romance de Lewis Carroll. No entanto, ao relacionarmos também com o momento histórico dos EUA temos uma visão muito mais interessante. Uma crise financeira devastou o país por uma década e o filme estreia semanas antes da Segunda Grande Guerra oficialmente começar. Virou o símbolo de uma geração (além de ter uma belíssima música). Quando as pessoas perdem a esperança, é função do Cinema fazê-las as distrair com histórias fantasiosas, super-heróis impossíveis e viagens no espaço.
 

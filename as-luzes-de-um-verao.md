@@ -1,7 +1,6 @@
 ---
 date: "2020-04-29"
 title: "As Luzes De Um Verao"
-desc: '"Mùa hè chieu thang dung (aka The Vertical Ray of the Sun)" (Vietnam, France e Germany, 2000), escrito por Anh Hung Tran, dirigido por Anh Hung Tran, com Nu Yên-Khê Tran, Nhu Quynh Nguyen e Khanh Le.'
 imdb: "0224578"
 stars: "3/5"
 categories: [ "cinema" ]

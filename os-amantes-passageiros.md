@@ -6,7 +6,6 @@ date: "2013-07-28"
 tags: [ "draft", "movies" ]
 title: "Os Amantes Passageiros"
 stars: "3/5"
-desc: "Os Amantes Passageiros. Los amantes pasajeros (Spain, 2013). Dirigido por Pedro Almodóvar. Escrito por Pedro Almodóvar. Com Antonio Banderas, Penélope Cruz, Coté Soler, Antonio de la Torre, Hugo Silva, Miguel Ángel Silvestre, Laya Martí, Javier Cámara, Carlos Areces."
 ---
 Almodóvar volta às suas origens das divertidas comédias dramáticas voltadas para personagens homossexuais, videntes e todo o tipo de intriga novelesca. Aliás, a diferença vital entre novelas televisivas e Almodóvar é que este conta uma história como ninguém (e geralmente assina o roteiro).
 

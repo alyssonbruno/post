@@ -7,7 +7,6 @@ date: "2015-06-27"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Pouco de Caos"
 stars: "3/5"
-desc: "Um Pouco de Caos. A Little Chaos (UK, 2014). Dirigido por Alan Rickman. Escrito por Jeremy Brock, Alison Deegan, Alan Rickman. Com Thomas Allam, Alan Rickman, Hope Hancock, Isabella Steinbarth, Hal Hewetson, Carolina Valdés, Eleanor Montgomery, Matthias Schoenaerts, Danny Webb."
 ---
 Um Pouco de Caos é um passeio tranquilo -- até demais -- no mundo da aristocracia francesa (embora todos falem inglês sem cerimônias) para fazer-nos apreciar a atmosfera dominante do blasé frente aos que ainda precisam lutar para serem aceitos na alta sociedade. Durante o processo, é tão óbvio que encontraremos um amor proibido que até isso se torna blasé.
 

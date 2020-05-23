@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-05-24T23:49:27-03:00
 title: "Pantera Negra"
-desc: '"Black Panther" (EUA, 2018), escrito por Ryan Coogler e Joe Robert Cole baseados nos quadrinhos de Stan Lee (que faz uma ponta) e Jack Kirby. Dirigido por Ryan Coogler (que é negro, e isso é importante), este filme conta com a participação de um monte de negros, entre eles Chadwick Boseman, Michael B. Jordan, Lupita Nyong''o. Editado em 2019-11-16.'
 imdb: "1825683"
 tags: [ "draft", "movies" ]
 stars: "3/5"

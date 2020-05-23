@@ -6,7 +6,6 @@ date: "2016-03-13"
 tags: [ "draft", "series" ]
 title: "House of Cards - Segunda Temporada"
 stars: "5/5"
-desc: "House of Cards - Segunda Temporada. House of Cards (USA, 2013). Dirigido por James Foley, John David Coles, Carl Franklin, Robin Wright, Allen Coulter, David Fincher, Charles McDougall, Joel Schumacher, John Dahl. Escrito por Andrew Davies, Michael Dobbs, Beau Willimon, Kate Barnow, Sam Forman, John Mankiewicz, Laura Eason, Rick Cleveland, Keith Huff. Com Kevin Spacey, Robin Wright, Michael Kelly, Nathan Darrow, Mahershala Ali, Justin Doescher, Michael Gill, Molly Parker, Derek Cecil."
 ---
 Já sabemos que Frank Underwood (Kevin Spacey) é capaz de literalmente tudo por mais poder. Se isso não fica claro no desfecho trágico do final da primeira temporada, com certeza o início da segunda não deixará a menor dúvida da mente doentia e obstinada do agora vice-presidente.
 

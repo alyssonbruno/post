@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-21T19:38:03-02:00
 title: "A Valsa de Waldheim"
-desc: "The Waldheim Waltz (Áustria, 2018), escrito e conceitualizado por Ruth Beckermann, com Kurt Waldheim. #mostrasp"
 imdb: "8055880"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

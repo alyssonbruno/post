@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-01"
 title: "Meu Amigo Enzo"
-desc: "The Art of Racing in the Rain. United States, 2019. Dirigido por Simon Curtis, escrito por Mark Bomback, Garth Stein. Com Kevin Costner, Amanda Seyfried, Milo Ventimiglia. Escrito originalmente para o CinemAqui."
 imdb: "1478839"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

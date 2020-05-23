@@ -6,7 +6,6 @@ date: "2011-11-18"
 tags: [ "draft", "movies" ]
 title: "A Pele que Habito"
 stars: "5/5"
-desc: "A Pele que Habito. La piel que habito (Spain, 2011). Dirigido por Pedro Almodóvar. Escrito por Agustín Almodóvar, Pedro Almodóvar, Thierry Jonquet. Com Antonio Banderas, Elena Anaya, Marisa Paredes, Jan Cornet, Roberto Álamo, Eduard Fernández, José Luis Gómez, Blanca Suárez, Susi Sánchez."
 ---
 É fascinante acompanhar a carreira de um diretor habilidoso como Almodóvar. Ele possui aquela flexibilidade rara que permite que entre em qualquer projeto mantendo a sua marca, mas ao mesmo tempo contribuindo positivamente para a narrativa, sem torná-la autoral. Ou pelo menos tenta.
 

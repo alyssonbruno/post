@@ -6,7 +6,6 @@ date: "2017-04-06"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Una"
 stars: "4/5"
-desc: "Una. Una (UK, 2016). Dirigido por Benedict Andrews. Escrito por David Harrower. Com Rooney Mara (Una), Riz Ahmed (Scott), Ben Mendelsohn (Ray), Tobias Menzies (Mark), Poppy Corby-Tuech (Poppy), Tara Fitzgerald (Andrea), Natasha Little (Yvonne), Isobelle Molloy (Holly), Ciarán McMenamin (John)."
 ---
 "Una" é a possibilidade de um diálogo entre dois adultos sobre o que fizeram quando um deles ainda era apenas uma criança. Baseado na peça "Blackbird", de David Harrower (que assina o roteiro), a direção do estreante Benedict Andrews cria um drama intimista que possibilita que o passado ecoe no presente e, em retrospecto, a vida dessas pessoas tente fazer algum sentido.
 

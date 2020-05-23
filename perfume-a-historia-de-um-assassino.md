@@ -6,7 +6,6 @@ date: "2011-01-31"
 tags: [ "draft", "movies" ]
 title: "Perfume A História de um Assassino"
 stars: "5/5"
-desc: "Perfume A História de um Assassino. Perfume: The Story of a Murderer (Germany, 2006). Dirigido por Tom Tykwer. Escrito por Andrew Birkin, Bernd Eichinger, Tom Tykwer, Patrick Süskind. Com Ben Whishaw, Francesc Albiol, Gonzalo Cunill, Roger Salvany, Andrés Herrera, Simon Chandler, David Calder, Richard Felix, Birgit Minichmayr."
 ---
 Jean-Baptiste Grenouille é um personagem atípico. Abandonado pela mãe logo após o parto, sua maior (única?) destreza são suas capacidades olfativas: capaz de sentir o cheiro até mesmo de elementos normalmente inodoros como vidro e cobre, e isso nos submete imediatamente ao conceito de fábula, ele segue seu destino tendo como única obsessão na vida criar o perfume perfeito.
 

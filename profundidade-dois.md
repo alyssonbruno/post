@@ -6,7 +6,6 @@ date: "2016-10-21"
 tags: [ "draft", "movies" ]
 title: "Profundidade Dois"
 stars: "3/5"
-desc: "Profundidade Dois. Dubina dva (Serbia, 2016). Dirigido por Ognjen Glavonic. Escrito por Ognjen Glavonic."
 ---
 Um documentário que é uma peça de museu. Fala sobre um massacre "de guerra" feito em civis perpetrado pelos capangas psicopatas de um presidente. Bom, o que há de novo? 100% dos massacres são assim.
 

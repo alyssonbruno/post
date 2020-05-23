@@ -6,7 +6,6 @@ date: "2015-01-18"
 tags: [ "draft", "movies" ]
 title: "Annabelle"
 stars: "3/5"
-desc: "Annabelle. Annabelle (USA, 2014). Dirigido por John R. Leonetti. Escrito por Gary Dauberman. Com Annabelle Wallis, Ward Horton, Tony Amendola, Alfre Woodard, Kerry O'Malley, Brian Howe, Eric Ladin, Ivar Brogger, Geoff Wehner."
 ---
 Annabelle é um spin-off de uma pequena personagem com um pequeno papel em Invocação do Mal, de James Wan (da série Jogos Mortais). O filme original retrata um casal de médiuns que coletam objetos relacionados com atos demoníacos, e a boneca homônima é um deles, pois foi protagonista em um evento dos anos 60. Esses detalhes são completamente irrelevantes para o resultado final, pois Annabelle tem outra direção (John R. Leonetti, do péssimo Efeito Borboleta 2), outro roteirista (o semi-estreante Gary Dauberman) e apenas a mão na produção de James Wan, que entrega um trabalho plasticamente interessante, mas sem alma.
 

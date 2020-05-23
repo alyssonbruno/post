@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-05T12:30:56-03:00
 title: "Uma Aventura Lego 2"
-desc: "The Lego Movie 2: The Second Part. Dinamarca, Noruega, Austrália, EUA, 2019. Dirigido por Mike Mitchell baseado em um roteiro escrito por um monte de gente. Dublado no original por Chris Pratt, Elizabeth Banks, Will Arnett, entre outros."
 imdb: "3513498"
 
 tags: [ "draft", "movies" ]

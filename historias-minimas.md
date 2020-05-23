@@ -6,7 +6,6 @@ date: "2015-11-01"
 tags: [ "draft", "movies" ]
 title: "Historias mínimas"
 stars: "4/5"
-desc: "Historias mínimas. Historias mínimas (Argentina, 2002). Dirigido por Carlos Sorin. Escrito por Pablo Solarz. Com Javier Lombardo, Antonio Benedicti, Javiera Bravo, Julia Solomonoff, Laura Vagnoni, Enrique Otranto, Mariela Díaz, María Rosa Cianferoni, María Jiménez del Carmen."
 ---
 Parece um road movie disfarçado, já que todas as cidadezinhas e pessoas envolvidas vivem à beira da estrada. Estamos no interior da Patagônia, Argentina, terra do vinho e da empanada. Um velho senhor nutre a esperança de poder reaver seu velho cão que fugiu diante de um comportamento condenável de seu dono. Uma jovem e humilde mãe é sorteada em um programa de televisão para concorrer a um multiprocessador de alimentos. Um vendedor detalhista e falastrão tenta entregar o bolo perfeito para o filho de seu interesse amoroso.
 

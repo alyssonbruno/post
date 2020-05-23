@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-13T19:24:11-03:00
 title: "Samantha!"
-desc: "Série criada por Felipe Braga. Com Emanuelle Araújo, Cauã Gonçalves, Sabrina Nonata e um monte de artista que você pensou que já tinha morrido."
 imdb: "6626676"
 
 tags: [ "draft", "series" ]

@@ -6,7 +6,6 @@ date: "2012-03-01"
 tags: [ "draft", "movies" ]
 title: "As Mulheres do Sexto Andar"
 stars: "4/5"
-desc: "As Mulheres do Sexto Andar. Les femmes du 6e étage (France, 2010). Dirigido por Philippe Le Guay. Escrito por Philippe Le Guay, Jérôme Tonnerre. Com Fabrice Luchini, Sandrine Kiberlain, Natalia Verbeke, Carmen Maura, Lola Dueñas, Berta Ojea, Nuria Solé, Concha Galán, Marie-Armelle Deguy."
 ---
 Filme flerta com um evento interessante ocorrido na França dos anos 60 e que curiosamente está ocorrendo nesse momento na esfera da "sofrida" classe média brasileira: o abandono cada vez maior das empregadas domésticas locais e a ascenção de alternativas, como imigrantes de países vizinhos, notadamente em situação econômica mais fragilizada. Pior: flerta, assim como o recente premiado Histórias Cruzadas, com a figura de um empresário que começa a se preocupar com a classe que o serve. Principalmente, é mérito dizer, com a beleza e eficiência da nova empregada, a espanhola María Gonzalez (Natalia Verbeke).
 

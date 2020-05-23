@@ -6,7 +6,6 @@ date: "2012-06-13"
 tags: [ "draft", "movies" ]
 title: "Valentin"
 stars: "3/5"
-desc: "Valentin. Valentín (Argentina, 2002). Dirigido por Alejandro Agresti. Escrito por Alejandro Agresti. Com Rodrigo Noya, Carmen Maura, Julieta Cardinali, Jean Pierre Noher, Mex Urtizberea, Lorenzo Quinteros, Alejandro Agresti, Carlos Roffé, Marina Glezer."
 ---
 Filme que tirou do ostracismo o diretor-ator-roteirista Alejandro Agresti (também que depois foi à Hollywood filmar A Casa do Lago), é muito fácil gostar da história de Valentin. Sempre transbordando otimismo, ainda que a realidade não fosse mais diferente do que suas expectativas, acompanhamos a história do garoto-título vivido por Rodrigo Noya e enxergamos o mundo através do seu filtro de realidade, formado principalmente pela ausência da mãe (ele mora com a avó, vivida por Carmem Maura) e pelas visitas irregulares do pai.
 

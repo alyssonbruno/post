@@ -6,7 +6,6 @@ date: "2016-07-29"
 tags: [ "draft", "movies" ]
 title: "Os Oito Odiados"
 stars: "3/5"
-desc: "Os Oito Odiados. The Hateful Eight (USA, 2015). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino. Com Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins, Demián Bichir, Tim Roth, Michael Madsen, Bruce Dern, James Parks."
 ---
 Se há um motivo para a existência de Os Oitos Odiados é dar o mais que merecido Oscar para o compositor Ennio Morricone. No entanto, esse prêmio negado ao músico de trilhas icônicas como Os Intocáveis, Era Uma Vez na América e Cinema Paradiso irá agora figurar como o mesmo Oscar negado a Martin Scorsese em toda sua carreira até Os Infiltrados: longe de ser o melhor trabalho; apenas um prêmio de consolação.
 

@@ -6,7 +6,6 @@ date: "2015-06-07"
 tags: [ "draft", "movies" ]
 title: "Amaldiçoado"
 stars: "3/5"
-desc: "Amaldiçoado. Horns (USA, 2013). Dirigido por Alexandre Aja. Escrito por Keith Bunin, Joe Hill. Com Daniel Radcliffe, Max Minghella, Joe Anderson, Juno Temple, Kelli Garner, James Remar, Kathleen Quinlan, Heather Graham, David Morse."
 ---
 Horns é uma fábula contada da forma mais banal possível: a investigação de um crime em uma cidadezinha. Passando por todos os clichês do gênero, a parte divertida é mais ou menos a metade do filme: observar a "maldade" inerente em todo e qualquer ser humano.
 

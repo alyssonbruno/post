@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-19T23:08:16-03:00
 title: "A Casa Caiu"
-desc: "Bringing Down the House. EUA, 2003. Dirigido por Adam Shankman, escrito por Jason Filardi, com Steve Martin, Queen Latifah, Eugene Levy."
 imdb: "0305669"
 
 tags: [ "draft", "movies" ]

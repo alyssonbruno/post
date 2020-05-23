@@ -6,7 +6,6 @@ date: "2011-02-17"
 tags: [ "draft", "movies" ]
 title: "Deixe-me Entrar"
 stars: "4/5"
-desc: "Deixe-me Entrar. Let Me In (UK, 2010). Dirigido por Matt Reeves. Escrito por Matt Reeves, John Ajvide Lindqvist, John Ajvide Lindqvist. Com Kodi Smit-McPhee, Chloë Grace Moretz, Richard Jenkins, Cara Buono, Elias Koteas, Sasha Barrese, Dylan Kenin, Chris Browning, Ritchie Coster."
 ---
 Apesar de ser um remake, e os diálogos, os cenários e muitos ângulos se assemelharem ao original sueco de 2008, o filme estabelece seu próprio estilo baseado principalmente na trilha sonora, na fotografia e na maneira peculiar do diretor Matt Reeves contar um romance-terror entre dois jovens. Eu diria mais: o filme, do ponto de vista estético, empolga em um nível suficiente para renovar o defasado gênero de terror.
 

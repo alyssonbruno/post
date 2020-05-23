@@ -6,7 +6,6 @@ date: "2010-08-10"
 tags: [ "draft", "movies" ]
 title: "Marcas do Passado"
 stars: "2/5"
-desc: "Marcas do Passado. First Snow (Germany, 2006). Dirigido por Mark Fergus. Escrito por Mark Fergus, Hawk Ostby. Com Guy Pearce, Steven Michael Quezada, J.K. Simmons, Nicholas Ballas, Piper Perabo, Rick Gonzalez, William Fichtner, David House, Julie Gawkowski."
 ---
 Basicamente temos a história de um vendedor (Guy Pearce) que, ao consultar um vidente em uma estrada longe de tudo põe à tona sua consciência sobre fatos do passado que levaram seu amigo a ser preso. Isso faz com que o sujeito reavalie sua própria ambição descontrolada.
 

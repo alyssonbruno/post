@@ -6,7 +6,6 @@ date: "2015-11-29"
 tags: [ "draft", "movies" ]
 title: "Desventuras em Série"
 stars: "4/5"
-desc: "Desventuras em Série. Lemony Snicket's A Series of Unfortunate Events (USA, 2004). Dirigido por Brad Silberling. Escrito por Robert Gordon, Daniel Handler. Com Jim Carrey, Liam Aiken, Emily Browning, Kara Hoffman, Shelby Hoffman, Jude Law, Timothy Spall, Catherine O'Hara, Billy Connolly."
 ---
 Ninguém escuta as crianças. Essa é a premissa básica que torna possível toda a série de situações mortais em que três jovens órfãos ficam à mercê de um cruel parente distante em busca da herança dos afortunados Baudelaire.
 

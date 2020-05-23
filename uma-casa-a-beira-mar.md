@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-11T15:02:20-03:00
 title: "Uma Casa à Beira Mar"
-desc: "La villa (França, 2017), escrito por Robert Guédiguian e Serge Valletti, dirigido por Guédiguian, com Ariane Ascaride, Jean-Pierre Darroussin, Gérard Meylan."
 imdb: "7219324"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

@@ -6,7 +6,6 @@ date: "2011-04-07"
 tags: [ "draft", "movies" ]
 title: "O Senhor das Armas"
 stars: "5/5"
-desc: "O Senhor das Armas. Lord of War (USA, 2005). Dirigido por Andrew Niccol. Escrito por Andrew Niccol. Com Nicolas Cage, Bridget Moynahan, Jared Leto, Shake Tukhmanyan, Jean-Pierre Nshanian, Jared Burke, Eric Uys, David Shumbris, Stewart Morgan."
 ---
 O roteirista-diretor Andrew Niccol, que esteve nessa função dupla nas produções Gattaca e S1mone, além de ter escrito O Show de Truman e O Terminal, dessa vez parte para uma imersão no real, tratando do submundo do comércio ilegal de armas.
 

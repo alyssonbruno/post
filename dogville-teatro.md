@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-18T18:11:07-03:00
 title: "Dogville Teatro"
-desc: "Dogville Teatro. Peça organizada pelo Teatro Porto Seguro a partir do texto de Lars Von Trier com direção de Zé Henrique de Paula. Com Mel Lisboa (Grace), Eric Lenate (Narrador), Fábio Assunção (Chuck), Rodrigo Caetano (Tom Edison)."
 tags: [ "draft", "play" ]
 stars: "4/5"
 ---

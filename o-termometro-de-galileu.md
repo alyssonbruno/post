@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-16T16:29:54-03:00
 title: "O Termômetro de Galileu"
-desc: "O Termómetro de Galileu (Portugal, 2018), escrito e dirigido por Teresa Villaverde, com Tonino De Bernardi, Mariella Navale. #mostrasp"
 imdb: "7871664"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

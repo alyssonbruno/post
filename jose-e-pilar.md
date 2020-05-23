@@ -7,7 +7,6 @@ tags: [ "draft", "movies" ]
 count: 2
 title: "José e Pilar"
 stars: "5/5"
-desc: "José e Pilar. José e Pilar (Portugal, 2010). Dirigido por Miguel Gonçalves Mendes. Com Joao Afonso, Àngels Barceló, Pilar del Río, Juan Echanove, Gael García Bernal, Gabriel García Márquez, Tarja Halonen, Paco Ibáñez, Tomás Eloy Martínez."
 ---
 Este é um documentário que conta, com imagens caseiras e inusitadas em eventos públicos, os últimos anos do escritor português ganhador do prêmio Nobel José Saramago e sua esposa, Pilar. Por meio de uma semi-intrusão na vida alheia do casal, acompanhamos as viagens que ambos fizeram pelo mundo afora após ele ter ganho o prêmio.
 

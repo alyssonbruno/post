@@ -6,7 +6,6 @@ date: "2015-01-04"
 tags: [ "draft", "movies" ]
 title: "O Congresso Futurista"
 stars: "3/5"
-desc: "O Congresso Futurista. The Congress (Israel, 2013). Dirigido por Ari Folman. Escrito por Stanislaw Lem, Ari Folman. Com Robin Wright, Harvey Keitel, Jon Hamm, Kodi Smit-McPhee, Danny Huston, Sami Gayle, Michael Stahl-David, Paul Giamatti, Ed Corbin."
 ---
 Essa é a minha visão sobre o futuro. Obviamente, no filme as coisas não saem como o esperado. Mas quem disse que na vida real é diferente? Quantas vezes idealizamos algo e esse algo se perde no meio do caminho para virar outra coisa que, não obstante, parece bater de frente com nossos objetivos iniciais?
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-12"
 title: "O Oficial e O Espião"
-desc: '"J''accuse" (França e Itália, 2019), escrito por Robert Harris e Roman Polanski, dirigido por Roman Polanski, com Jean Dujardin, Louis Garrel e Emmanuelle Seigner.'
 imdb: "2398149"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"

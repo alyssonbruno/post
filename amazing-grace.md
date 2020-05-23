@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-24"
 title: "Amazing Grace"
-desc: '"Amazing Grace" (EUA, 2018), dirigido por Alan Elliott e Sydney Pollack, com Aretha Franklin, James Cleveland e Southern California Community Choir. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "4935462"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

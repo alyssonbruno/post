@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-20"
 title: "O Hospedeiro"
-desc: '"The Host" (Coreia do Sul, 2006), escrito por Bong Joon Ho, Won-jun Ha e Chul-hyun Baek, dirigido por Bong Joon Ho, com Kang-ho Song como o pai, Ko Asung como a garota, Hee-Bong Byun como o avô, Hae-il Park como o irmão e Doona Bae como a irmã (aka Bae Doo-na). Assisti na Netflix enquanto está ainda disponível.'
 imdb: "0468492"
 tags: [ "draft", "movies" ]
 stars: "5/5"

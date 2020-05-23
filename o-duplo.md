@@ -6,7 +6,6 @@ date: "2017-03-26"
 tags: [ "draft", "movies" ]
 title: "O Duplo"
 stars: "5/5"
-desc: "O Duplo. The Double (UK, 2013). Dirigido por Richard Ayoade. Escrito por Fyodor Dostoevsky, Richard Ayoade, Avi Korine. Com Jesse Eisenberg (Simon / James), Mia Wasikowska (Hannah), Wallace Shawn (Mr Papadopoulos), Yasmin Paige (Melanie), Noah Taylor (Harris), James Fox (The Colonel), Cathy Moriarty (Kiki), Phyllis Somerville (Simon's Mother), Gabrielle Downey (Strange Woman)."
 ---
 O Duplo é uma viagem moderna, animesca, exagerada, utópica e livre de interpretações do livro homônimo de Fyodor Dostoevsky. Apresentando uma estética rica e impecável, o diretor Richard Ayoade adaptou o conteúdo do romance do autor russo com a ajuda de Avi Korine e entregaram um resultado além das expectativas de alguém poderia pensar de um filme protagonizado por Jesse Eisenberg como um herói tragicômico. Se trata de uma premissa simples: e se seu pior inimigo fosse você mesmo, mas em uma versão que todos reconheçam como um ser humano completo -- ainda que imoral -- e que você seja um mero espectador do sucesso que você poderia ser se pudesse, paradoxalmente, colocar seu próprio eu de lado, deixando de atrapalhar sua existência.
 

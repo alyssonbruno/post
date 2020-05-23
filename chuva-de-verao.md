@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2019-07-01T19:05:49-03:00
 title: "Chuva de Verão"
 imdb: "0287645"
-desc: "Rain. New Zealand, 2001. Dirigido por Christine Jeffs, escrito por Kirsty Gunn, Christine Jeffs. Com Alicia Fulford-Wierzbicki, Sarah Peirse, Marton Csokas."
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

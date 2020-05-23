@@ -6,7 +6,6 @@ date: "2015-06-21"
 tags: [ "draft", "movies" ]
 title: "Kumiko, a Caçadora de Tesouros"
 stars: "3/5"
-desc: "Kumiko, a Caçadora de Tesouros. Kumiko, the Treasure Hunter (USA, 2014). Dirigido por David Zellner. Escrito por David Zellner, Nathan Zellner. Com Rinko Kikuchi, Nobuyuki Katsube, Shirley Venard, David Zellner, Nathan Zellner, Kanako Higashi, Ichi Kyokaku, Ayaka Ohnishi, Mayuko Kawakita."
 ---
 Kumiko é uma fábula criada a partir de uma história real (ou pelo menos levemente inspirada em uma pessoa). Embalando uma história impossível em torno de um outro filme sobre uma história impossível (e, este também, baseado em uma história real), Kumiko é uma experiência entusiasmada, embora na maioria das vezes, não tenha lá seus motivos.
 

@@ -6,7 +6,6 @@ date: "2015-05-20"
 tags: [ "draft", "movies" ]
 title: "Kingsman: Serviço Secreto"
 stars: "5/5"
-desc: "Kingsman: Serviço Secreto. Kingsman: The Secret Service (UK, 2014). Dirigido por Matthew Vaughn. Escrito por Jane Goldman, Matthew Vaughn, Mark Millar, Dave Gibbons. Com Adrian Quinton, Colin Firth, Mark Strong, Jonno Davies, Taron Egerton, Jack Davenport, Alex Nikolov, Samantha Womack, Mark Hamill."
 ---
 Estou passando atualmente por uns mal bocados à noite por causa de um culto religioso organizado por retardados mentais em um galpão próximo daqui. Além da figura horrenda de um pastor cuspindo seu ódio em gritos ao microfone que "elevam" a raça humana à posição de escória do planeta, tal evento é realizado muito provavelmente em um local infetado de pessoas cujo passado eu temo saber, já que ele tem que ser terrível o suficiente para que alguém se sujeite a um ritual que denigre a dignidade humana a níveis que, caso um mendigo estivesse presente, sem tomar banho nos últimos meses, tossindo um catarro de cor e forma desconhecidos enquanto grunhe e coça seus órgãos genitais, por comparação ele se transformaria no cavalheiro mais refinado, educado e interessante de todo o recinto.
 

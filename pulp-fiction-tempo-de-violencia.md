@@ -6,7 +6,6 @@ date: "2012-12-23"
 tags: [ "draft", "movies" ]
 title: "Pulp Fiction Tempo de Violência"
 stars: "5/5"
-desc: "Pulp Fiction Tempo de Violência. Pulp Fiction (USA, 1994). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino, Roger Avary, Quentin Tarantino. Com Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta, Samuel L. Jackson, Phil LaMarr, Frank Whaley, Burr Steers, Bruce Willis."
 ---
 Segundo trabalho de Quentin Tarantino (Cães de Aluguel, Kill Bill), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia-a-dia.
 

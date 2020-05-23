@@ -6,7 +6,6 @@ date: "2011-12-12"
 tags: [ "draft", "movies" ]
 title: "Os Nomes do Amor"
 stars: "4/5"
-desc: "Os Nomes do Amor. Le nom des gens (France, 2010). Dirigido por Michel Leclerc. Escrito por Baya Kasmi, Michel Leclerc. Com Jacques Gamblin, Sara Forestier, Zinedine Soualem, Carole Franck, Jacques Boudet, Michèle Moretti, Zakariya Gouram, Julia Vaidis-Bogard, Adrien Stoclet."
 ---
 Ele, um esquerdista especialista em epidemias nos animais. Ela, uma libertária tão libertária que às vezes se esquece de colocar a roupa para sair de casa. Ambos, uma relação que mescla tanto as visões políticas quanto sexuais da França atual. Porém, mais importante, levanta a sensível questão da imigração, que vem engrossando caldo desde o movimento anti-terrorista liderado pelo governo Bush e evidenciado na crise europeia.
 

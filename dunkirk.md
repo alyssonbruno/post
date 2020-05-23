@@ -5,7 +5,6 @@ date: 2017-07-25T11:23:01
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Dunkirk"
 stars: "5/5"
-desc: "Dunkirk. Dunkirk (UK, 2017). Dirigido por Christopher Nolan. Escrito por Christopher Nolan. Com Fionn Whitehead (Tommy), Damien Bonnard (French Soldier), Aneurin Barnard (Gibson), Lee Armstrong (Grenadier), James Bloor (Irate Soldier), Barry Keoghan (George), Mark Rylance (Mr. Dawson), Tom Glynn-Carney (Peter), Tom Hardy (Farrier), Kenneth Branagh (Commander Bolton)."
 ---
 Dunkirk é um considerável esforço técnico. São tiros disparados, bombas explodindo e hélices se mexendo a todo vapor, conduzidos com um naturalismo impressionante e uma trilha sonora soberba, no sentido pretensioso da palavra. O resultado é uma imersão realista sobre um evento histórico que parece trazer muito mais euforia e catarse do que melancolia pelas misérias da guerra.
 

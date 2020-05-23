@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-21"
 title: "Eu Prometo Ser Sensato"
-desc: "'Je promets d'être sage' (França, 2019), escrito por Ronan Le Page, dirigido por Ronan Le Page, com Pio Marmaï, Léa Drucker e Mélodie Richard. Escrito para o CinemAqui na cobertura da #mostrasp."
 imdb: "9041234"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

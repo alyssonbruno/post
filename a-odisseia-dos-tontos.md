@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-26"
 title: "A Odisseia dos Tontos"
-desc: '"La odisea de los giles" (Argentina, Espanha, 2019), escrito por Sebastián Borensztein baseado no livro de Eduardo Sacheri, dirigido por Sebastián Borensztein, com Ricardo Darín, Luis Brandoni e Chino Darín. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "10384744"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

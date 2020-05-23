@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-01-09"
 title: "8 1/2 Mulheres"
 imdb: "0154443"
-desc: '"8 ½ Women" (Reino Unido, Nova Zelândia, Luxemburgo e Alemanha, 1999), escrito por Peter Greenaway, dirigido por Peter Greenaway, com John Standing, Matthew Delamere e Vivian Wu.'
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

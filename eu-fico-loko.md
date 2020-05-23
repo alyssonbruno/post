@@ -7,7 +7,6 @@ date: "2016-12-13"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Eu Fico Loko"
 stars: "3/5"
-desc: "Eu Fico Loko. Eu Fico Loko (Brazil, 2017). Dirigido por Bruno Garotti. Escrito por Christian Figueiredo, Bruno Garotti, Sylvio Gonçalves. Com Christian Figueiredo (Christian), Alessandra Negrini (Lilian Figueiredo), Filipe Bragança (Christian), Suely Franco (Tatiana Figueiredo), Marcello Airoldi (Wanderley de Caldas), José Victor Pires (Yan), Thomaz Costa (Rodrigo), Isabella Moreira (Alice), Giovanna Grigio (Gabriela Coelho)."
 ---
 Quando uma produção comercial (no sentido mais pleno da palavra) se torna um bom filme não pelo seu roteiro redondo ou arco dramático eficaz, mas pelo seu mensageiro de novidades surreais no mundo da internet, que cai na telona do Cinema tanto de para-quedas quanto em queda livre, é porque está acontecendo algo de muito estranho, mas ao mesmo tempo interessante, no Cinema/TV/YouTube. E no caso de Eu Fico Loko, o fato dos eventos terem sido parcialmente reais torna pelo menos a história viva, fugindo do lugar-comum dos filmes nacionais do gênero. Claro que a produção conspira contra isso, tentando trazer o filme para o clichê a todo momento. Mas, felizmente, a internet e a vida real estão (felizmente) cada vez mais distantes dos terríveis enlatados da TV e das globochanchadas.
 

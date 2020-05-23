@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-22T16:13:03-03:00
 title: "Necrópolis"
-desc: "Necrópolis. Brasil, 2019. Criado por Gabriel Faccini, Tomás Fleck, Tiago Rezende. Com Joana Kannenberg, Eduardo Mendonça, Rafael Pimenta."
 imdb: "9893572"
 
 tags: [ "draft", "series" ]

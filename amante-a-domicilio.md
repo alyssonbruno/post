@@ -6,7 +6,6 @@ date: "2014-05-08"
 tags: [ "draft", "movies" ]
 title: "Amante a Domicílio"
 stars: "3/5"
-desc: "Amante a Domicílio. Fading Gigolo (USA, 2013). Dirigido por John Turturro. Escrito por John Turturro. Com John Turturro, Woody Allen, Vanessa Paradis, Liev Schreiber, Sharon Stone, Sofía Vergara, Tonya Pinkins, Aubrey Joseph, Dante Hoagland."
 ---
 Woody Allen está de volta nas telonas, mas não como diretor. Aqui ele faz o papel de um cafetão que começa a agenciar seu ex-funcionário após o fechamento de sua loja de livros raros. Na verdade, depois de tantos anos, ele é mais do que ex-funcionário: é família. Isso aparentemente não interfere nos interesses comerciais do personagem de Allen, e aí está a primeira piada judia do filme.
 

@@ -6,7 +6,6 @@ date: 2017-10-29T17:52:19
 tags: [ "draft", "movies" ]
 title: "Meu Primeiro Amor"
 stars: "5/5"
-desc: "Meu Primeiro Amor. My Girl (USA, 1991). Dirigido por Howard Zieff. Escrito por Laurice Elehwany. Com Dan Aykroyd (Harry Sultenfuss), Jamie Lee Curtis (Shelly DeVoto), Macaulay Culkin (Thomas J. Sennett), Anna Chlumsky (Vada Sultenfuss), Richard Masur (Phil Sultenfuss), Griffin Dunne (Mr. Bixler), Ann Nelson (Gramoo Sultenfuss), Peter Michael Goetz (Dr. Welty), Jane Hallaren (Nurse Randall)."
 ---
 A morte pode ser um catalisador de emoções. Através dela passamos por uma transformação dentro de nós que ao mesmo tempo que nos enfraquece pela dor insuportável também nos fortalece pela nossa capacidade de sobreviver. E no fim de um processo de luto algo maravilhoso acontece: voltamos para a vida mais fortes. De vez em quando iremos mexer nessa ferida do passado, e certamente irá sangrar. Mas é através desse sangue que fazemos novos pactos com os que ainda estão vivos. Porque no fundo de todos nós não há muitas diferenças. Somos humanos; estamos condenados a viver sabendo que um dia iremos morrer. Ou pior: os que nos cercam também irão.
 

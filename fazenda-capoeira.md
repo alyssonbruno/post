@@ -1,7 +1,6 @@
 ---
 date: "2020-05-05"
 title: "Fazenda Capoeira"
-desc: "Café do Sul de Minas, 100% Arábica (Catucaí Amarelo) pelo processo de cereja descascado e torra média clara."
 categories: [ "blog" ]
 tags: [ "draft", "food", "coffee" ]
 ---

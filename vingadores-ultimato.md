@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-27"
 title: "Vingadores: Ultimato"
-desc: "'Avengers: Endgame' (EUA, 2019), escrito por Christopher Markus, Stephen McFeely e Stan Lee, dirigido por Anthony Russo e Joe Russo, com Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Benedict Cumberbatch, Chadwick Boseman, Brie Larson, Tom Holland, Karen Gillan, Zoe Saldana, Evangeline Lilly, Tessa Thompson, Rene Russo, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Tom Hiddleston, Danai Gurira, Benedict Wong, Pom Klementieff, Dave Bautista, Letitia Wright, John Slattery, Tilda Swinton, Jon Favreau, Hayley Atwell, Natalie Portman, Marisa Tomei, Taika Waititi, Angela Bassett, Michael Douglas, Michelle Pfeiffer, William Hurt, Cobie Smulders, Sean Gunn, Winston Duke, Linda Cardellini, Maximiliano Hernández, Frank Grillo, Hiroyuki Sanada, Tom Vaughan-Lawlor, James D'Arcy, Jacob Batalon, Vin Diesel, Bradley Cooper e Gwyneth Paltrow. Assisti na Baía do Pirata."
 imdb: "4154796"
 tags: [ "draft", "movies" ]
 stars: "3/5"

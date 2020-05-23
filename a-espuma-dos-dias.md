@@ -6,7 +6,6 @@ date: "2015-07-20"
 tags: [ "draft", "movies" ]
 title: "A Espuma dos Dias"
 stars: "5/5"
-desc: "A Espuma dos Dias. L'écume des jours (France, 2013). Dirigido por Michel Gondry. Escrito por Michel Gondry, Luc Bossi, Boris Vian. Com Romain Duris, Audrey Tautou, Gad Elmaleh, Omar Sy, Aïssa Maïga, Charlotte Le Bon, Sacha Bourdo, Vincent Rottiers, Philippe Torreton."
 ---
 Imagine que o mundo real foi invadido pela física (e a lógica) dos desenhos de animação no seu sentido mais bucólico. Onde a paixão é o suficiente para desenrolar qualquer novo relacionamento, e a dança é o suficiente para alterar as paredes de um quarto. Imagine, enfim, que estamos em um filme completamente tomado pelas loucuras inventivas de Michel Gondry.
 

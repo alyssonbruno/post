@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-23"
 title: "O Relatório"
-desc: '"The Report" (EUA, 2019), escrito por Scott Z. Burns, dirigido por Scott Z. Burns, com Adam Driver, Corey Stoll, Evander Duck Jr., Jon Hamm, Linda Powell e Annette Bening. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "8236336"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

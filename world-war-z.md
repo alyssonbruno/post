@@ -6,7 +6,6 @@ date: "2014-09-23"
 tags: [ "draft", "movies" ]
 title: "World War Z"
 stars: "4/5"
-desc: "World War Z. World War Z (USA, 2013). Dirigido por Marc Forster. Escrito por Matthew Michael Carnahan, Drew Goddard, Damon Lindelof, Matthew Michael Carnahan, J. Michael Straczynski, Max Brooks. Com Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale, Ludi Boeken, Matthew Fox, Fana Mokoena, David Morse, Elyes Gabel."
 ---
 Mais um filme de zumbi? Sim e não. World War Z está mais para o primeiro filme empolgante de fato sobre uma epidemia mundial. Estrelado por Brad Pitt, esse filme de catástrofe consegue chamar a atenção quase todo o momento, seja para seu lado bom ou ruim.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-28"
 title: "Das Tripas Coração"
-desc: '"Heart and Guts" (Brazil, 1982), escrito por Ana Carolina, dirigido por Ana Carolina, com Antônio Fagundes, Dina Sfat e Ney Latorraca.'
 tags: [ "draft", "movies" ]
 imdb: "0139961"
 stars: "3/5"

@@ -6,7 +6,6 @@ date: "2011-12-30"
 tags: [ "draft", "movies" ]
 title: "Tudo pelo Poder"
 stars: "5/5"
-desc: "Tudo pelo Poder. The Ides of March (USA, 2011). Dirigido por George Clooney. Escrito por George Clooney, Grant Heslov, Beau Willimon, Beau Willimon. Com Ryan Gosling, George Clooney, Philip Seymour Hoffman, Paul Giamatti, Evan Rachel Wood, Marisa Tomei, Jeffrey Wright, Max Minghella, Jennifer Ehle."
 ---
 Geralmente filmes que tentam revelar os bastidores da política soam pretenciosos e bobinhos em suas conjecturas infantis e roteiros confusos e incompletos. Esse não é o caso de Tudo Pelo Poder, que consegue, de maneira didática e assustadora, revelar muito mais sobre o pano de fundo de influências do que gostaríamos de saber ou de admitir.
 

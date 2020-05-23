@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-01-26T01:12:24
 review: [ "2019" ]
 title: "Corra!"
-desc: '"Get Out" (EUA e Japão, 2017), escrito por Jordan Peele, dirigido por Jordan Peele, com Daniel Kaluuya, Allison Williams e Catherine Keener.'
 imdb: "5052448"
 tags: [ "draft", "movies" ]
 stars: "4/5"

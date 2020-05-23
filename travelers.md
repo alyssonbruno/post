@@ -6,7 +6,6 @@ date: "2017-02-28"
 tags: [ "draft", "series" ]
 title: "Travelers"
 stars: "3/5"
-desc: "Travelers. Travelers (Canada, 2016). Dirigido por Andy Mikita, Helen Shaver, William Waring, Martin Wood, Nick Hurran. Escrito por Pat Smith, Jason Whiting, Brad Wright, Ashley Park, S.B. Edwards, Ken Kabatoff. Com Eric McCormack (Grant MacLaren), MacKenzie Porter (Marcy Warton), Nesta Cooper (Carly Shannon), Jared Abrahamson (Trevor Holden), Reilly Dolman (Philip Pearson), Patrick Gilmore (David Mailer), Leah Cairns (Kathryn MacLaren), Arnold Pinnock (Walt Forbes), J. Alex Brinson (Jeff Conniker)."
 ---
 Viagem no tempo, física quântica, mulheres bonitas e gostosas: uma fórmula que geralmente merece dar uma olhada, para diversos fãs, de diferentes conteúdos. No caso da primeira temporada de Travelers, da Netflix, a química entre esses elementos oscila de maneira irregular, quase sempre frustrando ideias mais ambiciosas e quase sempre se rendendo ao juvenil politicamente correto. Quer dizer, no futuro os animais são nossos amigos e as pessoas passam mal em ver bacon? Fala sério!
 

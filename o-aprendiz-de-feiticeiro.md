@@ -6,7 +6,6 @@ date: "2010-08-13"
 tags: [ "draft", "movies" ]
 title: "O Aprendiz de Feiticeiro"
 stars: "3/5"
-desc: "O Aprendiz de Feiticeiro. The Sorcerer's Apprentice (USA, 2010). Dirigido por Jon Turteltaub. Escrito por Lawrence Konner, Mark Rosenthal, Matt Lopez, Matt Lopez, Doug Miro, Carlo Bernard. Com Nicolas Cage, Jay Baruchel, Alfred Molina, Teresa Palmer, Toby Kebbell, Omar Benson Miller, Monica Bellucci, Alice Krige, Jake Cherry."
 ---
 E aqui vamos nós para mais um filme bonitinho, emocionante e formatado nos últimos padrões que a Disney recomenda para que tenhamos mais uma possível franquia seguindo os modelos razoavelmente bem sucedidos dos Piratas do Caribe e Crônicas de Nárnia, e também a futura promessa do Príncipe da Pérsia.
 

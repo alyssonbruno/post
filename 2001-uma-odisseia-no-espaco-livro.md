@@ -4,7 +4,6 @@ date: 2018-05-16T23:17:13-03:00
 title: "2001: Uma Odisseia no Espaço (livro)"
 tags: [ "draft", "books" ]
 stars: "5/5"
-desc: "2001: A Space Odyssey. Arthur C. Clarke, 1968."
 ---
 Comprei este livro na Black Friday do ano passado da Amazon. Ou ganhei porque o prefeito de São Paulo é um retardado e ficou intimando essa empresa? Pra ser sincero não lembro mais. E não importa. O fato é que não sou muito de ler ficção. Quando começo a ler já desisto. Antes desse tentei Grande Sertão: Veredas. Mas talvez esteja lendo as coisas erradas. Gosto muito de sci-fi, e 2001 é um dos meus filmes prediletos. Portanto, comecei a ler este. E em duas semanas, lendo esporadicamente, já cheguei na metade. É um livro que fala diretamente com quem é fascinado por viagens espaciais, mas, acima de tudo, os que são fascinados pela complexidade da consciência humana e do universo em si.
 

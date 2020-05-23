@@ -6,7 +6,6 @@ date: "2017-04-04"
 tags: [ "draft", "series" ]
 title: "Ultimate Beastmaster - Primeira Temporada"
 stars: "4/5"
-desc: "Ultimate Beastmaster - Primeira Temporada. Ultimate Beastmaster (USA, 2017). Escrito por David Broome, Sylvester Stallone. Com Rafinha Bastos (Brazil host), Anderson Silva (Brazil host), Terry Crews (Host - US Version), Charissa Thompson (Host - US Version)."
 ---
 Esta não é uma competição corpo a corpo, nem uma avaliação de força, nem de habilidades esportistas. É, acima de tudo, uma ode ao ser humano, como as olimpíadas deveriam ser antes. Uma ode à capacidade humana, de se sobressair, vencer desafios e, o principal: vencer a si mesmo.
 

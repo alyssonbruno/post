@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-28T15:44:08-02:00
 title: "Mens@gem Para Você"
-desc: "You've Got Mail. EUA, 1998. Escrito por Nora e Delia Ephron a partir de peça de Miklós László (a direção é de Nora). Com Tom Hanks como o empresário inescrupuloso Joe Fox, Meg Ryan como a adorável dona de uma livraria do bairro Kathleen Kelly, Greg Kinnear, Parker Posey, Jean Stepleton."
 imdb: "0128853"
 
 tags: [ "draft", "movies" ]

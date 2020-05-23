@@ -6,7 +6,6 @@ date: "2016-03-07"
 tags: [ "draft", "movies" ]
 title: "Embriagado de Amor"
 stars: "5/5"
-desc: "Embriagado de Amor. Punch-Drunk Love (USA, 2002). Dirigido por Paul Thomas Anderson. Escrito por Paul Thomas Anderson. Com Adam Sandler, Jason Andrews, Don McManus, Emily Watson, Luis Guzmán, David Schrempf, Seann Conway, Rico Bueno, Hazel Mailloux."
 ---
 Paul Thomas Anderson é um diretor peculiar, tanto quanto Sidney Lumet. Ambos fizeram trabalhos com temas variados, mas se entregaram a cada projeto como se cada um deles fosse sua obra-prima. Nenhum dos dois pode ser "acusado" de fazer Cinema autoral (aquele que pelo filme você já sabe quem é o diretor).
 

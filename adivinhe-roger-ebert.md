@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-05-07T13:40:32-03:00
 title: "Adivinhe: Roger Ebert"
 tags: [ "draft",  ]
-desc: "Do livro Roger Ebert's Four-Star Reviews 1967-2007."
 ---
 Acha que conhece de cinema? E que tal tentar adivinhar por um punhado de palavras de um crítico sobre qual filme estamos falando?
 

@@ -6,7 +6,6 @@ date: 2017-12-07T01:12:59
 tags: [ "draft", "series" ]
 title: "13 Reasons Why"
 stars: "1/5"
-desc: "13 Reasons Why. 13 Reasons Why (USA, 2017). Dirigido por Gregg Araki, Kyle Patrick Alvarez, Carl Franklin, Tom McCarthy, Helen Shaver, Jessica Yu. Escrito por Jay Asher, Brian Yorkey, Nic Sheff, Thomas Higgins, Elizabeth Benjamin, Diana Son. Com Jesus N Jimenez (Student / ...), Ke'Mari Moore (Jock), Michele Selene Ang (Courtney Crimsen), Joseph C. Phillips (Mr. Davis), Alexander Gomez (Student / ...), Jeff Redlick (Pedestrian / ...), Dylan Minnette (Clay Jensen), Katherine Langford (Hannah Baker), Christian Navarro (Tony Padilla)."
 ---
 Essa novelinha pré-adolescente consegue ser bem irritante às vezes. Não é uma produção barata nem tosca. Muito pelo contrário. Há muitas virtudes narrativas em um trabalho que parece descartar apenas uma virtude dentre as que escolheu: coerência. E é através dessa "pequena" falha que podemos concluir que, apesar de tecnicamente interessante e artisticamente bonito, "13 Reasons Why" é uma merda colossal que revela que esta geração tem pouquíssimas chances de sobreviver a eles mesmos.
 

@@ -2,7 +2,6 @@
 categories: [ "blog" ]
 date: "2019-09-29"
 title: "Restaurante Daiki Sushi"
-desc: "Ótimo atendimento, linha de saquês interessante, preço condizente com a qualidade e muito, muito sabor da culinária japonesa fria."
 tags: [ "draft", "food" ]
 stars: "5/5"
 ---

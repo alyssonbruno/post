@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-14"
 title: "O Exterminador do Futuro 2: O Julgamento Final"
-desc: '"Terminator 2: Judgment Day" (EUA, 1991), escrito por James Cameron e William Wisher, dirigido por James Cameron, com Arnold Schwarzenegger, Linda Hamilton e Edward Furlong. Assistido na Baia do Pirata (revisto, pois já revi um milhão de vezes). Passando o texto para o especial no CinemAqui.'
 imdb: "0103064"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"

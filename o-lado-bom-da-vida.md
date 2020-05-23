@@ -6,7 +6,6 @@ date: "2013-02-07"
 tags: [ "draft", "movies" ]
 title: "O Lado Bom da Vida"
 stars: "5/5"
-desc: "O Lado Bom da Vida. Silver Linings Playbook (USA, 2012). Dirigido por David O. Russell. Escrito por David O. Russell, Matthew Quick. Com Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker, Anupam Kher, John Ortiz, Shea Whigham, Julia Stiles."
 ---
 A partir do primeiro encontro entre Tiffany (Jennifer Lawrence, Inverno da Alma) e Patrick (Bradley Cooper, Se Beber Não Case), mais precisamente no momento em que ela esbofeteia a sua cara, sabemos de imediato que vale a pena seguir essas duas vidas "para ver no que dá".
 

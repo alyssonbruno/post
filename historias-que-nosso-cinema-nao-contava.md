@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-23T13:18:48-03:00
 title: "Histórias que Nosso Cinema (Não) Contava"
-desc: "Histórias que Nosso Cinema (Não) Contava (Brasil, 2017), dirigido por Fernanda Pessoa e montado por Luiz"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 

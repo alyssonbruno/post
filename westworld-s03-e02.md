@@ -2,7 +2,6 @@
 date: "2020-05-10"
 title: "Westworld S03 E02"
 categories: [ "cinema" ]
-desc: '"Westworld" (United States, 2016), escrito por Lisa Joy, Jonathan Nolan e Michael Crichton, com Thandie Newton, Evan Rachel Wood, Jeffrey Wright e Ed Harris.'
 imdb: "0475784"
 stars: "3/5"
 tags: [ "draft", "series" ]

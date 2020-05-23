@@ -6,7 +6,6 @@ date: "2011-12-25"
 tags: [ "draft", "movies" ]
 title: "Um Natal Muito Muito Louco"
 stars: "3/5"
-desc: "Um Natal Muito Muito Louco. Christmas with the Kranks (USA, 2004). Dirigido por Joe Roth. Escrito por John Grisham, Chris Columbus. Com Tim Allen, Jamie Lee Curtis, Dan Aykroyd, M. Emmet Walsh, Elizabeth Franz, Erik Per Sullivan, Cheech Marin, Jake Busey, Austin Pendleton."
 ---
 Tim Allen, de Meu Papai é Noel (1 e 2), em mais um filme de natal, dessa vez com Jamie Lee Curtis (True Lies) e roteiro de, quem diria, Chris Columbus! (Os Goonies, Gremlins, Nove Meses)
 

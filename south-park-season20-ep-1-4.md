@@ -6,7 +6,6 @@ date: "2016-10-15"
 tags: [ "draft", "series" ]
 title: "South Park - Vigésima Temporada, Episódios 1 a 4"
 stars: "4/5"
-desc: "South Park - Vigésima Temporada, Episódios 1 a 4. South Park (USA, 1997). Dirigido por Trey Parker, Eric Stough, Matt Stone. Escrito por Trey Parker, Matt Stone, Brian Graden, Kyle McCulloch, Vernon Chatman, David R. Goodman, Erica Rivinoja, Pam Brady, Nancy Pimental. Com Trey Parker (Stan Marsh / ...), Matt Stone (Kyle Broflovski / ...), Mona Marshall (Sheila Broflovski / ...), April Stewart (Sharon Marsh / ...), Isaac Hayes (Chef)."
 ---
 
 A vigésima temporada de South Park começa em um tom dramático que esconde o humor ainda mais dentro do absurdo de suas situações. Não deixa de ser poderosa sua mensagem, mas ele está se tornando, desde a temporada anterior, um longa-metragem anual de três horas e pouco. Isso é bom ou ruim? Talvez seja necessário esperar o fechamento do arco deste ano para termos certeza.

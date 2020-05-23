@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-10"
 title: "Malévola: Dona do Mal"
-desc: '"Maleficent: Mistress of Evil" (EUA, 2019), escrito por Micah Fitzerman-Blue, Noah Harpster e Linda Woolverton, dirigido por Joachim Rønning, com Angelina Jolie, Michelle Pfeiffer, Elle Fanning, Harris Dickinson e Juno Temple. Escrito para o CinemAqui.'
 imdb: "4777008"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

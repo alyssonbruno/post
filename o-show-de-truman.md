@@ -6,7 +6,6 @@ date: "2013-10-20"
 tags: [ "draft", "movies" ]
 title: "O Show de Truman"
 stars: "5/5"
-desc: "O Show de Truman. The Truman Show (USA, 1998). Dirigido por Peter Weir. Escrito por Andrew Niccol. Com Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone, Holland Taylor, Brian Delate, Blair Slater, Peter Krause, Heidi Schanz."
 ---
 Daria para escrever um livro sobre O Show de Truman, do sempre interessante roteirista Andrew Niccol (O Senhor das Armas, O Preço do Amanhã) e do simpático diretor Peter Weir (A Testemunha, Sociedade dos Poetas Mortos). Cheio de ideias que entrecruzam os dois mundos do entretenimento e dos espectadores, obviamente intercalando isso com nossa própria percepção do que é ser espectador (afinal, inevitável fazer o paralelo com o próprio Cinema), o filme é uma espécie de laboratório sobre o ato de assistir e ter o controle sobre nossas criações, sendo que o detalhe é quando essas criações fazem parte do mundo real.
 

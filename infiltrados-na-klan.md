@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-30T20:03:48-02:00
 title: "Infiltrados Na Klan"
-desc: "BlacKkKlansman. EUA, 2018. Escrito por Charlie Wachtel, David Rabinowitz, Kevin Willmott e Spike Lee baseados no livro de Ron Stallworth. Dirigido por Spike Lee. Com John David Washington, Adam Driver, Laura Harrier."
 imdb: "7349662"
 
 tags: [ "draft", "movies" ]

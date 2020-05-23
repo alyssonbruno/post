@@ -6,7 +6,6 @@ date: "2012-02-15"
 tags: [ "draft", "movies" ]
 title: "Alvin e os Esquilos 3"
 stars: "3/5"
-desc: "Alvin e os Esquilos 3. Alvin and the Chipmunks: Chipwrecked (USA, 2011). Dirigido por Mike Mitchell. Escrito por Jonathan Aibel, Glenn Berger, Ross Bagdasarian, Janice Karman. Com Jason Lee, David Cross, Jenny Slate, Justin Long, Matthew Gray Gubler, Jesse McCartney, Amy Poehler, Anna Faris, Christina Applegate."
 ---
 Tenho a nítida impressão que a série Alvin pode ser repetida à exaustão graças à empatia do público com números musicais de sucessos atuais realizados pelo sexteto de esquilinhos. E é necessário apontar: eles são engraçados e fofinhos quase todo o tempo.
 

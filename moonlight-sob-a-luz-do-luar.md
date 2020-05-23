@@ -7,7 +7,6 @@ date: "2017-01-12"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Moonlight: Sob a Luz do Luar"
 stars: "3/5"
-desc: "Moonlight: Sob a Luz do Luar. Moonlight (USA, 2016). Dirigido por Barry Jenkins. Escrito por Barry Jenkins, Tarell Alvin McCraney. Com Mahershala Ali (Juan), Shariff Earp (Terrence), Duan Sanderson (Azu), Alex R. Hibbert (Little), Janelle Monáe (Teresa), Naomie Harris (Paula), Jaden Piner (Kevin), Herman 'Caheei McGloun (Longshoreman), Kamal Ani-Bellow (Portable Boy 1)."
 ---
 Moonlight contém uma história simples demais depois que é desvendada. Porém, esse não é um filme que foca em sua história, mas sim em seus personagens. Ele usa toda técnica disponível para explorar o isolamento afetivo dessas pessoas, e por algum motivo, de dentro de suas sutilezas, acaba berrando seu estilo aos quatro ventos, como se o estilo por si só criasse um grande filme.
 

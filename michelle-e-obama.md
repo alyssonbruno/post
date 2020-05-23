@@ -7,7 +7,6 @@ date: "2016-10-19"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Michelle e Obama"
 stars: "4/5"
-desc: "Michelle e Obama. Southside with You (USA, 2016). Dirigido por Richard Tanne. Escrito por Richard Tanne. Com Tika Sumpter (Michelle Robinson), Parker Sawyers (Barack Obama), Vanessa Bell Calloway (Marian Robinson), Phillip Edward Van Lear (Fraser Robinson), Taylar Fondren (Janice), Deanna Reed-Foster (Bernadette), Jerod Haynes (Tommy), Gabrielle Lott-Rogers (Rafiqa), Preston Tate Jr. (Kyle)."
 ---
 
 Se Frank e Claire Underwood da série House of Cards seriam o exemplo de "casal perfeito" entre os políticos que anseiam o poder a qualquer preço, a impressão que fica após assistir "Michelle e Obama" é que eles seriam o exato contra-exemplo, pois tanto ela quanto ele irradiam a energia positiva e generosa de quem está honestamente disposto a ajudar o próximo. Isso, é claro, levando em conta que o filme está narrando os primeiros passos do casal em direção a uma união que passará por décadas de vida política, o que poderá mudá-los de forma que se aproximem do casal de "arquitetos do poder" da Netflix.

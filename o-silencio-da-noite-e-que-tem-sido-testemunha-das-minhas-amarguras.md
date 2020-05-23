@@ -4,7 +4,6 @@ date: "2016-10-25"
 tags: [ "draft", "movies" ]
 title: "O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras"
 stars: "4/5"
-desc: "O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras. O Silêncio da Noite É Que Tem Sido Testemunha das Minhas Amarguras (Brazil, 2016). Dirigido por Petrônio Lorena. Escrito por Narjara Medeiros, Petrônio Lorena."
 ---
 Esta é uma antologia necessária do sertão nordestino. Há muito que repentistas ficam às margens dos "verdadeiros poetas". Pois bem. Este documentário deve corrigir parte do desconhecimento geral de que a poesia de repente possui apenas rima e métrica. Esses são detalhes que reforçam a mensagem, mas é o espírito que importa. E neste filme há de monte. Começando pelo título, ele próprio um desafio ao repente.
 

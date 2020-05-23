@@ -6,7 +6,6 @@ date: "2011-10-22"
 tags: [ "draft", "movies" ]
 title: "Despedida em Las Vegas"
 stars: "5/5"
-desc: "Despedida em Las Vegas. Leaving Las Vegas (USA, 1995). Dirigido por Mike Figgis. Escrito por John O'Brien, Mike Figgis. Com Nicolas Cage, Elisabeth Shue, Julian Sands, Richard Lewis, Steven Weber, Kim Adams, Emily Procter, Stuart Regen, Valeria Golino."
 ---
 Talvez eu seja vítima da regra dos 15 anos -- a que reza que qualquer filme visto antes dos 15 anos continua em nossa memória como bom -- mas Ben e Sera foram dois dos personagens mais queridos da minha juventude de cinéfilo. Adorava a entrega completa de Nicholas Cage e de Elizabech Shue em seus papéis que ainda considero os melhores de ambos, em um filme deprimente do começo ao fim. Essa minha revisita continua a confirmar o fato de que, se Cage costuma ser criticado por overacting, aqui praticamente esquecemos que existe algum ator por trás do divertido, patético e trágico Ben Sanderson.
 

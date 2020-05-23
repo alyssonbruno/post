@@ -6,7 +6,6 @@ date: "2011-12-20"
 tags: [ "draft", "movies" ]
 title: "Os Pássaros"
 stars: "5/5"
-desc: "Os Pássaros. The Birds (USA, 1963). Dirigido por Alfred Hitchcock. Escrito por Daphne Du Maurier, Evan Hunter. Com Tippi Hedren, Suzanne Pleshette, Rod Taylor, Jessica Tandy, Veronica Cartwright, Ethel Griffies, Charles McGraw, Doreen Lang, Ruth McDevitt."
 ---
 A cena que mais evidencia a tensão presente na casa da família Brenner após um ataque-relâmpago de pássaros ensandecidos é quando vemos a câmera foca a matriarca da família olhando para o teto, assustada. Então a câmera se afasta, e, no mesmo quadro, é possível ver que os outros dois adultos estão fazendo a mesma coisa. Ao final desse quadro tão emblemático, sabemos que o diretor conseguiu o total controle sobre nossa atenção e sentidos, que, naquele momento, teimam em se comportar irracionalmente e exatamente como aquelas pessoas.
 

@@ -6,7 +6,6 @@ date: "2015-12-27"
 tags: [ "draft", "movies" ]
 title: "Rede de Intrigas"
 stars: "5/5"
-desc: "Rede de Intrigas. Network (USA, 1976). Dirigido por Sidney Lumet. Escrito por Paddy Chayefsky. Com Faye Dunaway, William Holden, Peter Finch, Robert Duvall, Wesley Addy, Ned Beatty, Arthur Burghardt, Bill Burrows, John Carpenter."
 ---
 Sidney Lumet é um gênio em pegar questões delicadas e profundas da nossa sociedade e inseri-las em histórias corriqueiras ou com uma roupagem 100% pessoal. É assim com os clássicos Um Dia de Cão e Serpico, e não seria diferente quando o tema agora é a TV como ferramenta de divulgação de notícias. Ou pelo menos essa era a ideia original.
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-04-07"
 title: "Dersu Uzala"
-desc: '"Dersu Uzala" (URSS e Japão, 1975), escrito por Akira Kurosawa, Yuriy Nagibin e Vladimir Arsenev, dirigido por Akira Kurosawa, com Yuriy Solomin, Maksim Munzuk e Mikhail Bychkov.'
 tags: [ "draft", "movies" ]
 imdb: "0071411"
 stars: "5/5"

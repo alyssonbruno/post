@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-02"
 title: "Osama"
-desc: '"Osama" (Afeganistão, Irlanda, Japão, Irã e Holanda, 2003), escrito por Siddiq Barmak, dirigido por Siddiq Barmak, com Marina Golbahari, Khwaja Nader e Mohammad Arif Herati. Da série de DVDs.'
 imdb: "0368913"
 tags: [ "draft", "movies" ]
 stars: "4/5"

@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2019-06-22T12:57:59-03:00
 title: "O Feitiço"
 imdb: "0168734"
-desc: "Un embrujo. Mexico, 1998. Dirigido por Carlos Carrera, escrito por Carlos Carrera, Martín Salinas, Marcel Sisniega. Com Blanca Guerra, Mario Zaragoza, Daniel Acuña."
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

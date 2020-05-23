@@ -6,7 +6,6 @@ date: "2016-07-22"
 tags: [ "draft", "movies" ]
 title: "Homem na Parede"
 stars: "4/5"
-desc: "Homem na Parede. The Man in the Wall (Israel, 2015). Dirigido por Evgeny Ruman. Escrito por Evgeny Ruman. Com Tamar Alkan, Tom Antopolsky, Shlomi Avraham, Amitay Yaish Benuosilio, Yoav Donat, Eli Gornstein, Gilad Kahana, Rodie Kozlovsky, Alit Kreiz."
 ---
 O filme é quase um conto narrado em diversas e longas sequência que mostram os acontecimentos em um apartamento enquanto uma esposa aguarda ansiosa pela volta do marido desaparecido. O filme inteiro se passa no apartamento, e os únicos cortes são justamente a passagem do tempo.
 

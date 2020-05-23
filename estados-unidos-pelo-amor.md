@@ -7,7 +7,6 @@ date: "2016-12-09"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Estados Unidos Pelo Amor"
 stars: "4/5"
-desc: "Estados Unidos Pelo Amor. Zjednoczone stany milosci (Poland, 2016). Dirigido por Tomasz Wasilewski. Escrito por Tomasz Wasilewski. Com Julia Kijowska (Agata), Magdalena Cielecka (Iza), Dorota Kolak (Renata), Marta Nieradkiewicz (Marzena), Tomasz Tyndyk (Adam), Andrzej Chyra (Karol), Lukasz Simlat (Jacek), Marcin Czarnik (Robert), Jedrzej Wielecki (Piotrek)."
 ---
 É curioso como em "Estados Unidos Pelo Amor" -- novo trabalho do diretor (e roteirista) Tomasz Wasilewski -- o destino de cada personagem termina necessariamente em um drama, mas que nunca é suficientemente trágico. Pelo menos não para as mulheres envolvidas em quatro histórias que se cruzam em um vilarejo na Polônia na época comunista. Este é acima de tudo um filme sobre um grito silencioso na imensidão do horizonte.
 

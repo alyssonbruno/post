@@ -6,7 +6,6 @@ date: "2014-03-02"
 tags: [ "draft", "movies" ]
 title: "El Santos VS la Tetona Mendoza"
 stars: "3/5"
-desc: "El Santos VS la Tetona Mendoza. El Santos VS la Tetona Mendoza (Mexico, 2012). Dirigido por Alejandro Lozano, Andrés Couturier, Álvaro Curiel. Escrito por Jose Ignacio Solorzano, Augusto Mendoza, Trino. Com Daniel Giménez Cacho, Héctor Jiménez, José María Yazpik, Regina Orozco, Joaquín Cosio, Cecilia Suárez, Irene Azuela, Jesús Ochoa, Cheech Marin."
 ---
 É realmente fascinante como existem similaridades entre a sociedade mexicana e a brasileira, como é possível ver nessa animação do diretor Alejandro Lozano e do roteirista Augusto Mendoza. Girando em torno do problema que os zumbis são para o país  e "zumbi" aqui é um simbolismo para as pessoas alienadas que não se mexem no trem para dar lugar para quem vai descer, os que pagam impostos demais e os que ouvem música de gosto duvidoso sem parar  e do problema que é gerado quando eles são eliminados  o que por sua vez consegue remeter a uma mensagem igualmente relevante sobre prostituição e poder feminino  o desenho tem diversos momentos satíricos que tentam homenagear o Cinema com resultados mais ou menos satisfatórios  minha sequência favorita é a de Lista de Schindler, onde uma lata de coca-cola toma a vez do vestido vermelho do original de Spielberg.
 

@@ -1,6 +1,5 @@
 ---
 title: "Vermelho Como o Céu"
-desc: '"Rosso come il cielo" (Italy, 2006), escrito por Cristiano Bortone, Paolo Sassanelli e Monica Zapelli, dirigido por Cristiano Bortone, com Francesco Campobasso, Luca Capriotti e Marco Cocci.'
 imdb: "0450121"
 stars: "3/5"
 date: "2020-05-10"

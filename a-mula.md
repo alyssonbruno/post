@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-26"
 title: "A Mula"
-desc: '"The Mule" (EUA, 2018), escrito por Nick Schenk baseado em artigo de jornal de Sam Dolnick, dirigido por Clint Eastwood, com Clint Eastwood, Patrick L. Reyes e Cesar De León. Na minha corrida para assistir os filmes do ano.'
 imdb: "7959026"
 tags: [ "draft", "movies" ]
 stars: "4/5"

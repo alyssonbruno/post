@@ -6,7 +6,6 @@ date: "2010-12-20"
 tags: [ "draft", "movies" ]
 title: "Um Dia Muito Especial"
 stars: "4/5"
-desc: "Um Dia Muito Especial. Una giornata particolare (Italy, 1977). Dirigido por Ettore Scola. Escrito por Maurizio Costanzo, Ruggero Maccari, Ettore Scola. Com Sophia Loren, Marcello Mastroianni, John Vernon, Françoise Berd, Patrizia Basso, Tiziano De Persio, Maurizio Di Paolantonio, Antonio Garibaldi, Vittorio Guerrieri."
 ---
 Um drama de um relacionamento de um dia entre uma dona-de-casa e seu vizinho homossexual que mostra de diversas formas como a Itália fascista estava se transformando. O dia em questão calha com a visita de Hitler à Roma. O filme conta com Sophia Loren e Marcelo Mastroiana nos papéis principais, e é dirigido por Ecolla.
 

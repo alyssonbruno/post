@@ -6,7 +6,6 @@ date: "2012-04-20"
 tags: [ "draft", "movies" ]
 title: "Molokh"
 stars: "4/5"
-desc: "Molokh. Molokh (Russia, 1999). Dirigido por Aleksandr Sokurov. Escrito por Yuriy Arabov, Marina Koreneva. Com Elena Rufanova, Leonid Mozgovoy, Irina Sokolova, Yelena Spiridonova, Vladimir Bogdanov, Anatoli Shvedersky, Franco Moscon, Natalya Nikulenko, Rosina Tsidulko."
 ---
 Aleksandr Sokurov tem um estilo próprio para contar histórias. Quase sempre apostando na imersão do espectador pelos longos quadros e movimentos exóticos de seus personagens, muitas vezes a situação é propícia e gera grandes trabalhos (como Mãe e Filho), e em outras, como este Moloch, fica aquém do impressionante, mas mesmo assim é uma imersão que vale a pena ser vivida.
 

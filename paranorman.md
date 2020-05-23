@@ -6,7 +6,6 @@ date: "2013-01-20"
 tags: [ "draft", "movies" ]
 title: "ParaNorman"
 stars: "3/5"
-desc: "ParaNorman. ParaNorman (USA, 2012). Dirigido por Chris Butler, Sam Fell. Escrito por Chris Butler. Com Kodi Smit-McPhee, Tucker Albrizzi, Anna Kendrick, Casey Affleck, Christopher Mintz-Plasse, Leslie Mann, Jeff Garlin, Elaine Stritch, Bernard Hill."
 ---
 A única proposta original em Paranorman é que o seu protagonista consegue ver e falar com os mortos. Aliado a isso, a proposta infantil de lidar com o além-vida envolvendo um mundo de zumbis e bruxas, embora interessante enquanto desenvolve esse conceito atrelado à visão primitiva e violenta que as pessoas tinham em relação ao desconhecido, está envolta em mais e mais clichês que vão enfraquecendo o núcleo da sua original ideia.
 

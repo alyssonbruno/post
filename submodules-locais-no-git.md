@@ -2,7 +2,6 @@
 categories: [ "code" ]
 date: "2017-05-28"
 title: "Como acessar submódulos no git inacessíveis?"
-desc: "O comando submodule do git pode não funcionar direito às vezes porque a url do repositório contém credenciais ou links inválidos. Veja como resolver isso."
 tags: [ "draft",  ]
 ---
 Quando projetos remotos usam submodules é possível que algum deles seja acessível apenas através de chaves criptográficas. Isso exige que os sub-projetos necessários para fazer funcionar seu projeto podem estar fora do seu alcance e acesso, o que irá gerar durante seus comandos pull recursivos erros de ssh (publickey access).

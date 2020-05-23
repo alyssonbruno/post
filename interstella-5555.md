@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-20T22:28:38-03:00
 title: "Interstella 5555"
-desc: "Interstella 5555. Japão, França, 2003. Dirigido por Daisuke Nishio, Hirotoshi Rissen, Kazuhisa Takenouchi, Leiji Matsumoto, escrito por Thomas Bangalter, Cédric Hervet, Guy-Manuel De Homem-Christo. Direção de arte por Hiroshi Kato, trilha sonora por Daft Punk."
 imdb: "0368667"
 
 tags: [ "draft", "movies" ]

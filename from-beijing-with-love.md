@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-12"
 title: "From Beijing with Love"
-desc: '"From Beijing with Love" (Hong Kong, 1994), escrito por Roman Cheung, Stephen Chow e Vincent Kok, dirigido por Stephen Chow e Lik-Chi Lee, com Stephen Chow, Anita Yuen e Kar-Ying Law.'
 imdb: "0109962"
 tags: [ "draft", "movies" ]
 stars: "2/5"

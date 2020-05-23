@@ -6,7 +6,6 @@ date: "2012-10-21"
 tags: [ "draft", "movies" ]
 title: "Solaris"
 stars: "5/5"
-desc: "Solaris. Solyaris (Soviet Union, 1972). Dirigido por Andrei Tarkovsky. Escrito por Stanislaw Lem, Fridrikh Gorenshteyn, Andrei Tarkovsky. Com Natalya Bondarchuk, Donatas Banionis, Jüri Järvet, Vladislav Dvorzhetskiy, Nikolay Grinko, Anatoliy Solonitsyn, Olga Barnet, Vitalik Kerdimun, Olga Kizilova."
 ---
 Solaris exige do espectador uma imersão surreal e ao mesmo tempo filosófica. Tudo bem que isso já é esperado de toda boa obra de ficção-científica, que nos coloca em uma realidade alternativa mas que continua debatendo temas da época em que foi feita.
 

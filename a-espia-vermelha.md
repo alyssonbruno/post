@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-08T14:55:01-03:00
 title: "A Espiã Vermelha"
-desc: "Red Joan (Reino Unido, 2018), escrito por Lindsay Shapero, dirigido por Trevor Nunn, com Judi Dench, Sophie Cookson, Stephen Campbell Moore, Tom Hughes, Tereza Srbova."
 imdb: "7615302"
 
 tags: [ "draft", "movies" , "cinemaqui" ]

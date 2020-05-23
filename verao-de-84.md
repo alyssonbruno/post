@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-17"
 title: "Verão De 84"
-desc: '"Summer of 84" (United States e Canada, 2018), escrito por Matt Leslie e Stephen J. Smith, dirigido por François Simard, Anouk Whissell e Yoann-Karl Whissell, com Graham Verchere, Judah Lewis, Rich Sommer e Caleb Emery. Mais um da lista de filmes para ver e elencar no top10.'
 imdb: "5774450"
 tags: [ "draft", "movies" ]
 stars: "4/5"

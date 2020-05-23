@@ -7,7 +7,6 @@ date: "2016-12-12"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Neruda"
 stars: "3/5"
-desc: "Neruda. Neruda (Chile, 2016). Dirigido por Pablo Larraín. Escrito por Guillermo Calderón. Com Gael García Bernal (Óscar Peluchonneau), Luis Gnecco (Pablo Neruda), Alfredo Castro (Gabriel González Videla), Pablo Derqui (Víctor Pey), Mercedes Morán (Delia del Carril), Emilio Gutiérrez Caba (Picasso), Alejandro Goic (Jorge Bellet), Marcelo Alonso (Pepe Rodríguez), Jaime Vadell (Arturo Alessandri)."
 ---
 "Neruda" é um drama poético com tons de comédia. Pois só a comédia para explicar uma história de perseguição onde nada acontece e onde seu protagonista vive para narrar o que não está acontecendo. Isso seria por si só uma péssima ideia para roteiro, um filme onde não acontece nada. Mas, estamos falando da vida de um poeta, que se define recusando qualquer definição minimamente coerente e que, por ser poeta, diz muitas coisas sobre coisa nenhuma.
 

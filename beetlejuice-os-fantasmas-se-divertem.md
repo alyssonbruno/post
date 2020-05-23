@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-06T20:28:49-03:00
 title: "Beetlejuice: Os Fantasmas Se Divertem"
-desc: "Beetlejuice. EUA, 1988. Dirigido por Tim Burton, escrito por Michael McDowell, Warren Skaaren e Larry Wilson. Com Alec Baldwin, Geena Davis, Michael Keaton, Winona Ryder."
 imdb: "0094721"
 
 tags: [ "draft", "movies" ]
