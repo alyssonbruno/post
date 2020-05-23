@@ -6,7 +6,7 @@ categories: [ "blog" ]
 tags: [ "draft", "essays" ]
 draft: "true"
 ---
-Mais de dois mil textos e quase quinze anos nessa vida de blogue e percebo que chegou a hora de atingir a maioridade. Escrever um rascunho e publicá-lo na internet não me torna melhor escritor que qualquer YouTuber que resolve na edição ou tuítes que simplificam o pensamento humano de tal forma que ele parece totalmente válido ou inválido. Perde-se as nuances.
+Quase três mil posts durante quinze anos nessa vida de blogue e percebo que chegou a hora de atingir a maioridade. Escrever um rascunho e publicá-lo na internet não me torna melhor escritor que qualquer YouTuber que resolve na edição ou tuítes que simplificam o pensamento humano de tal forma que ele parece totalmente válido ou inválido. Perde-se as nuances.
 
 Para me tornar um escritor profissional eu devo revisar. Revisar é o que irá extrair valor dos meus textos. Brutos como estão nem eu consigo mais enxergar a virtude de escrever. O conteúdo não é nada se não for seguido pela arte de escrever. E a arte só se conquista com o esforço de conseguir acabá-la com esmero e excelência.
 
