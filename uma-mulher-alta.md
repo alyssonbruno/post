@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-06"
 title: "Uma Mulher Alta"
-imdb: "10199640"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0926084"
 review: [ "2019" ]
 date: "2010-11-19"
 tags: [ "draft", "movies" ]

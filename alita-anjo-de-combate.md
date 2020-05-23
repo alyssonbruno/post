@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-05T17:47:30-02:00
 title: "Alita: Anjo de Combate"
-imdb: "0437086"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

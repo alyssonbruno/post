@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-30"
 title: "Greta"
-imdb: "9477532"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

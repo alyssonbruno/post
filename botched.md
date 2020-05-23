@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-04T13:52:08-03:00
 title: "Botched"
-imdb: "3781836"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

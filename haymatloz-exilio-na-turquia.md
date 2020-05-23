@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1121024"
 date: "2016-10-31"
 tags: [ "draft", "movies" ]
 title: "Haymatloz - Exílio na Turquia"

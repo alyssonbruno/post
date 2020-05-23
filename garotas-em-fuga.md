@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-16T16:15:28-03:00
 title: "Garotas em Fuga"
-imdb: "8633250"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

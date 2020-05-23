@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-02"
 title: "Osama"
-imdb: "0368913"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

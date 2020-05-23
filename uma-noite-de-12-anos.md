@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-02T20:52:19-03:00
 title: "Uma Noite de 12 Anos"
-imdb: "6792282"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

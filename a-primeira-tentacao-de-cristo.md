@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-09"
 title: "A Primeira Tentação de Cristo"
-imdb: "11310004"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

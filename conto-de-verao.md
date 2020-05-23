@@ -1,7 +1,6 @@
 ---
 date: "2020-05-16"
 title: "Conto de Verão"
-imdb: "0115940"
 stars: "3/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

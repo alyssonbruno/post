@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-13T16:24:19-03:00
 title: "Ilha dos Cachorros"
-imdb: "5104604"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

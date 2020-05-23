@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-23"
 title: "Era Uma Vez em... Hollywood"
-imdb: "7131622"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

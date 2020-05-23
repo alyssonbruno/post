@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-14"
 title: "Instinto"
-imdb: "8386898"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

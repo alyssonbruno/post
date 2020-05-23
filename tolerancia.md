@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-13"
 title: "Tolerância"
-imdb: "0207163"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-29T12:18:20-03:00
 title: "Livrando a Cara"
-imdb: "0384504"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

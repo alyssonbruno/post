@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-17T17:22:23-02:00
 title: "Rock em Cabul"
-imdb: "3164256"
 
 tags: [ "draft", "movies" ]
 stars: "2/5"

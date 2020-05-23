@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "2488496"
 
 date: "2019-05-15"
 review: [ "2019" ]

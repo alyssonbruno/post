@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-10"
 title: "Brinquedo Assassino"
-imdb: "8663516"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-27"
 title: "Harry Potter e a Câmara Secreta"
-imdb: "0295297"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

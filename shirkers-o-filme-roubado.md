@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-09T11:54:24-02:00
 title: "Shirkers: O Filme Roubado"
-imdb: "7472352"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

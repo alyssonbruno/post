@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-06-27T13:41:52-03:00
 title: "Homem-Formiga e a Vespa"
 tags: [ "draft", "movies" , "cinemaqui" ]
-imdb: "5095030"
 
 stars: "4/5"
 

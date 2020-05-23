@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-26T00:53:11-02:00
 title: "Better Call Saul S04"
-imdb: "3032476"
 
 tags: [ "draft", "series" ]
 stars: "4/5"

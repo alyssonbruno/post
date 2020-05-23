@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-19"
 title: "Devorar"
-imdb: "8372298"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-26"
 title: "Andrey Tarkovsky: Uma Oração de Cinema"
-imdb: "10850518"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

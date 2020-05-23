@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-28T16:52:06-03:00
 title: "Raiva"
-imdb: "5553810"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

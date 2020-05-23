@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-13"
 title: "Rambo: Até o Fim"
-imdb: "1206885"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-09T12:08:39-03:00
 title: "Amor, Morte & Robôs"
-imdb: "9561862"
 
 tags: [ "draft", "series" ]
 stars: "4/5"

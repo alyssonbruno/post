@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-07"
 title: "E Aí, Meu Irmão, Cadê Você?"
 tags: [ "draft", "movies" ]
-imdb: "0190590"
 stars: "3/5"
 ---
 Irmãos Coen e seu amor pelo folclore americano. E suas músicas. É época da Depressão e eles unem com a Odisseia de Ulisses e várias músicas de época.

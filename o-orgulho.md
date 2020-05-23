@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-05T17:54:13-03:00
 title: "O Orgulho"
-imdb: "6462462"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

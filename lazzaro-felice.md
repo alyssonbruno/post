@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-18T12:35:09-02:00
 title: "Lazzaro Felice"
-imdb: "6752992"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

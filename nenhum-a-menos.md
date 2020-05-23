@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-07-02T18:49:16-03:00
 title: "Nenhum a Menos"
-imdb: "0209189"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

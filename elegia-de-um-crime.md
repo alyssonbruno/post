@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-07T14:30:11-03:00
 title: "Elegia De Um Crime"
-imdb: "8389758"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

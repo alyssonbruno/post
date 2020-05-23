@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-02"
 title: "Contos de Terramar"
-imdb: "0495596"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

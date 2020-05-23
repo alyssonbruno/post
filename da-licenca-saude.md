@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-08T18:29:02-02:00
 title: "Dá Licença, Saúde"
-imdb: "5770788"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

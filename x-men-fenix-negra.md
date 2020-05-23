@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-05T03:00:00-03:00
 title: "X-Men: Fênix Negra"
-imdb: "6565702"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

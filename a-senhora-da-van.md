@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-19T23:17:48-03:00
 title: "A Senhora Da Van"
-imdb: "3722070"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

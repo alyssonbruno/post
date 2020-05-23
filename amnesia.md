@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-02T13:30:10-02:00
 title: "Amnésia"
-imdb: "0209144"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

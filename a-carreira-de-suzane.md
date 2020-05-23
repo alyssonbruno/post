@@ -1,7 +1,6 @@
 ---
 date: "2020-05-19"
 title: "A Carreira de Suzane"
-imdb: "0056910"
 stars: "3/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-06"
 title: "Martin Eden"
-imdb: "4516162"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "4/5"
 ---

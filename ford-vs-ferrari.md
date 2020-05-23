@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-06"
 title: "Ford Vs Ferrari"
-imdb: "1950186"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

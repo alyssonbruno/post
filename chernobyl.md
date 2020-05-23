@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-11"
 title: "Chernobyl"
-imdb: "7366338"
 tags: [ "draft", "series" ]
 stars: "4/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-28T15:44:08-02:00
 title: "Mens@gem Para Você"
-imdb: "0128853"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

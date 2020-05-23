@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 title: "Os Dez Mandamentos - O Filme"
-imdb: "5431016"
 
 stars: "3/5"
 date: "2016-02-05"

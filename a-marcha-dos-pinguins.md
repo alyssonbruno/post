@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-20T16:36:30-02:00
 title: "A Marcha dos Pinguins"
-imdb: "0428803"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

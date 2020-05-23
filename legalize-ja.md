@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-09-28T18:52:09-03:00
 title: "Legalize Já! Amizade Nunca Morre"
-imdb: "5818404"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

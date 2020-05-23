@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-09-30T22:13:19-03:00
 title: "Maniac"
-imdb: "5580146"
 
 tags: [ "draft", "series" ]
 stars: "4/5"

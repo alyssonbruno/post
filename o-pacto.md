@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-07-04T12:00:38-03:00
 title: "O Pacto"
-imdb: "0312843"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0118583"
 
 date: "2011-12-12"
 tags: [ "draft", "movies" ]

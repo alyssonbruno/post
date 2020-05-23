@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-17"
 title: "Crush à Altura"
-imdb: "9252508"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

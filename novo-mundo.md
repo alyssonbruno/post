@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-08"
 title: "Novo Mundo"
-imdb: "0465188"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

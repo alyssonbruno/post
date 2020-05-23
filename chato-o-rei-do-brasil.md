@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0337926"
 
 date: "2016-03-15"
 tags: [ "draft", "movies" , "cinemaqui" ]

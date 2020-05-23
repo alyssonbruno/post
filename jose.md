@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-15T15:25:30-03:00
 title: "José"
-imdb: "6933338"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-26T16:11:32-03:00
 title: "Special Primeira Temporada"
-imdb: "9381622"
 
 tags: [ "draft", "series" ]
 stars: "1/5"

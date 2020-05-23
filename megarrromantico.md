@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-10T23:45:35-03:00
 title: "Megarrromântico"
-imdb: "2452244"
 
 tags: [ "draft", "movies" ]
 stars: "2/5"

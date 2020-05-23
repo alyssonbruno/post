@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-02T21:26:40-03:00
 title: "Um Amor Inesperado"
-imdb: "8405810"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

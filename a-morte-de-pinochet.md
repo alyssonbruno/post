@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 title: "La muerte de Pinochet"
-imdb: "1817190"
 
 stars: "3/5"
 date: "2011-10-24"

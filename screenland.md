@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-06-29T15:49:42-03:00
 title: "Screenland"
-imdb: "6148128"
 
 tags: [ "draft", "series" ]
 stars: "2/5"

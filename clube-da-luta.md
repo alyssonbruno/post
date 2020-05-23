@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-15T22:34:40-02:00
 title: "Clube da Luta"
-imdb: "0137523"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

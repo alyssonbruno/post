@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-06T21:12:58-03:00
 title: "Edifício Master"
-imdb: "0333388"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

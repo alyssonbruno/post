@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-06"
 title: "Os Parças 2"
-imdb: "9207188"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "1/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-07T22:22:16-02:00
 title: "Dogman"
-imdb: "6768578"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

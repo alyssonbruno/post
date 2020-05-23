@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-08T22:37:00-03:00
 title: "Christopher Robin: Um Reencontro Inesquecível"
-imdb: "4575576"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

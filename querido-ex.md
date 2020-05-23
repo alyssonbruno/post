@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-29"
 title: "Querido Ex"
-imdb: "8443704"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

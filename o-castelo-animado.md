@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-20"
 title: "O Castelo Animado"
 tags: [ "draft", "movies" ]
-imdb: "0347149"
 stars: "4/5"
 ---
 É daquelas animações dos estúdios Ghibli que tira seu fôlego logo no começo. Magia e detalhes dos ambientes e paisagens que se misturam em momentos que se tornam mais realistas do que se estivéssemos assistindo a um filme live action, com atores de carne e osso, porque a carne e o osso dos humanos não é evocativo o suficiente para os traços desses desenhistas.

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-01"
 title: "Cade Você, Bernadete?"
-imdb: "2365580"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

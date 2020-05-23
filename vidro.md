@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-08T23:18:18-02:00
 title: "Vidro"
-imdb: "6823368"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

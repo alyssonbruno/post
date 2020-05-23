@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-09"
 title: "Mulan"
-imdb: "0120762"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

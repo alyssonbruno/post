@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-21T00:56:13-02:00
 title: "Don Verdean: o Que o Passado nos Reserva"
-imdb: "3534282"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

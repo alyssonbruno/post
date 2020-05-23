@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-02T22:51:20-02:00
 title: "Let Me Be Frank"
-imdb: "9495238"
 tags: [ "draft", "shorts" ]
 stars: "5/5"
 ---

@@ -1,7 +1,6 @@
 ---
 date: "2020-05-10"
 title: "Cinema Paradiso"
-imdb: "0095765"
 stars: "5/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-12"
 title: "O Oficial e O Espião"
-imdb: "2398149"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
 ---

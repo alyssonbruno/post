@@ -1,6 +1,5 @@
 ---
 title: "Vermelho Como o Céu"
-imdb: "0450121"
 stars: "3/5"
 date: "2020-05-10"
 categories: [ "cinema" ]

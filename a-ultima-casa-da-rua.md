@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-14T11:03:09-03:00
 title: "A Última Casa da Rua"
-imdb: "1582507"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

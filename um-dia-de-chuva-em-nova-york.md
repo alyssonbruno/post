@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-07"
 title: "Um Dia De Chuva Em Nova York"
-imdb: "7139936"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"
 ---

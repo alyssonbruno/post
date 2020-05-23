@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-03-29T15:19:01-03:00
 title: "Submersão"
 tags: [ "draft", "movies" , "cinemaqui" ]
-imdb: "3563262"
 
 stars: "4/5"
 

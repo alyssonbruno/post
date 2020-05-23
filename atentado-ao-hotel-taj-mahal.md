@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-24T16:30:30-03:00
 title: "Atentado ao Hotel Taj Mahal"
-imdb: "5461944"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"

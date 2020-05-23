@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-04-17T14:00:24-03:00
 title: "A Cidade do Futuro"
 tags: [ "draft", "movies" , "cinemaqui" ]
-imdb: "6182402"
 
 stars: "4/5"
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-22"
 title: "Ecos"
-imdb: "9296808"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

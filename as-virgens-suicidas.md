@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-31T18:11:22-03:00
 title: "As Virgens Suicidas"
-imdb: "0159097"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-17T18:34:54-02:00
 title: "Super Drags"
-imdb: "8912244"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-02"
 title: "Filmes Que Marcam Época"
-imdb: "10681222"
 tags: [ "draft", "series" ]
 stars: "3/5"
 ---

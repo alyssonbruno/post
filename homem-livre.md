@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-08T20:47:51-02:00
 title: "Homem Livre"
-imdb: "5842570"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

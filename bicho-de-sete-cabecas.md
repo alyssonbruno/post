@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-11T12:06:28-03:00
 title: "Bicho de Sete Cabeças"
-imdb: "0263124"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

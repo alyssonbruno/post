@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-09"
 title: "Bacurau"
-imdb: "2762506"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

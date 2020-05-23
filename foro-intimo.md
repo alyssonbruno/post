@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-18"
 title: "Foro Íntimo"
-imdb: "7064620"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

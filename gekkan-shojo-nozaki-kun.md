@@ -1,7 +1,6 @@
 ---
 date: "2020-05-16"
 title: "Gekkan Shojo Nozaki Kun"
-imdb: "3615002"
 stars: "3/5"
 categories: [ "cinema" ]
 tags: [ "draft", "series", "animes" ]

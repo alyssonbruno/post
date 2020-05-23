@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-08T18:23:33-02:00
 title: "O Método Kominsky"
-imdb: "7255502"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

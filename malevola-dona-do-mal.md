@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-10"
 title: "Malévola: Dona do Mal"
-imdb: "4777008"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

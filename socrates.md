@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-20"
 title: "Sócrates"
-imdb: "8026554"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

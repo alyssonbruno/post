@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-24T19:28:42-03:00
 title: "As Horas"
-imdb: "0274558"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

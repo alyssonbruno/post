@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-26T00:32:17-02:00
 title: "Com Todo Meu Hipotálamo"
-imdb: "8710234"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

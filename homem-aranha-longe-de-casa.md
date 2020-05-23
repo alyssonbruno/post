@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-17"
 title: "Homem Aranha: Longe De Casa"
-imdb: "6320628"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

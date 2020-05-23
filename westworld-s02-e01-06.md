@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0475784"
 
 date: 2018-12-30
 tags: [ "draft", "series" ]

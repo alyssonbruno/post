@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-13"
 title: "Amor a Tarde"
-imdb: "0068205"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

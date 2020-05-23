@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2015-10-16"
 title: "O Exterminador do Futuro: Gênesis"
-imdb: "1340138"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 review: [ "2019" ]

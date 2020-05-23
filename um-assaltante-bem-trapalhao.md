@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-28T16:04:16-02:00
 title: "Um Assaltante Bem Trapalhão"
-imdb: "0065063"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-02T23:28:48-02:00
 title: "Setembro"
-imdb: "0093940"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

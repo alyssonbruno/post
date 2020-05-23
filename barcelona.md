@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-18T21:37:16-03:00
 title: "Barcelona"
-imdb: "0109219"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

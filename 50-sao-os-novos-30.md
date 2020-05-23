@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-11T18:10:21-03:00
 title: "50 São os Novos 30"
-imdb: "6081632"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

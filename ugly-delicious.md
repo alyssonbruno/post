@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-17T18:29:31-02:00
 title: "Ugly Delicious"
-imdb: "7907916"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-01T15:53:24-03:00
 title: "Café"
-imdb: "4947672"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

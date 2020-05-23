@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-02"
 title: "Memórias de Ontem"
-imdb: "0102587"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 ---

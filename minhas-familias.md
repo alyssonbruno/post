@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-10T20:08:29-03:00
 title: "Minhas Famílias"
-imdb: "9097148"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

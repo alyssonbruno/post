@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1508304"
 date: "2012-04-02"
 tags: [ "draft", "shorts" ]
 title: "Le mystère du Snæfellsjökull"

@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1781866"
 
 date: "2010-11-20"
 tags: [ "draft", "movies" ]

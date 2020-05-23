@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-04"
 title: "The Cave"
-imdb: "7178226"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
 ---

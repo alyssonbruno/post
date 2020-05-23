@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-02T14:09:58-02:00
 title: "Um Pequeno Favor"
-imdb: "7040874"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

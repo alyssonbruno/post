@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-30T09:49:41-03:00
 title: "Maus Hábitos"
-imdb: "0085496"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

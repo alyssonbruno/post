@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 external: "true"
-imdb: "2873282"
 
 stars: "4/5"
 title: "Operação Red Sparrow"

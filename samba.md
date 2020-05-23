@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "3399024"
 
 date: "2015-09-08"
 tags: [ "draft", "movies" ]

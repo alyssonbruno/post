@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-05-29T16:28:08-03:00
 title: "Turma do Peito"
 tags: [ "draft", "series" ]
-imdb: "7320300"
 
 stars: "2/5"
 ---

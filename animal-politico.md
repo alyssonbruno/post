@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-26T20:36:45-03:00
 title: "Animal Político"
-imdb: "5531346"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

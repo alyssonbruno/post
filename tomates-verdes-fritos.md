@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-10T18:31:19-02:00
 title: "Tomates Verdes Fritos"
-imdb: "0101921"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

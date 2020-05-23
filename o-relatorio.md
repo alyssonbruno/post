@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-23"
 title: "O Relatório"
-imdb: "8236336"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

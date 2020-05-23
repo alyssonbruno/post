@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "4551318"
 
 date: "2017-01-20"
 tags: [ "draft", "movies" , "cinemaqui" ]

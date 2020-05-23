@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-21T19:41:00-02:00
 title: "O Ingrediente Secreto"
-imdb: "7610008"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

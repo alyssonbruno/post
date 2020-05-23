@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-22T16:26:46-03:00
 title: "Paris, Te Amo"
-imdb: "0401711"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

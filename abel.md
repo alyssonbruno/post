@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1479668"
 date: "2014-04-26"
 tags: [ "draft", "movies" ]
 title: "Abel"

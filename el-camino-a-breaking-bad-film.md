@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-26"
 title: "El Camino: A Breaking Bad Film"
-imdb: "9243946"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

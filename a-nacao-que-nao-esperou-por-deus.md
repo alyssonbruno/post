@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 
-imdb: "4659524"
 date: "2015-07-18"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Nação Que Não Esperou Por Deus"

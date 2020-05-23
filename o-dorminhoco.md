@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-20"
 title: "O Dorminhoco"
-imdb: "0070707"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

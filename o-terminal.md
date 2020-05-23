@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-22T18:51:32-03:00
 title: "O Terminal"
-imdb: "0362227"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

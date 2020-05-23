@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-12"
 title: "Aqueles Que Ficaram"
-imdb: "9081558"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

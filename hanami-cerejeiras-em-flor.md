@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0910559"
 
 date: "2011-10-29"
 review: [ "2014", "2019" ]

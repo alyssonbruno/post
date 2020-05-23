@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-17T16:01:39-03:00
 title: "O Pântano"
-imdb: "0240419"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 

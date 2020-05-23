@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-03"
 title: "Privacidade Hackeada"
-imdb: "9358204"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

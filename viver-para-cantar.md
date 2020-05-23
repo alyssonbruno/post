@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-05"
 title: "Viver Para Cantar"
-imdb: "10225288"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

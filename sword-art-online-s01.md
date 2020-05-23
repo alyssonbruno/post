@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "2250192"
 
 date: "2014-04-16"
 tags: [ "draft", "series", "animes" ]

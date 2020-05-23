@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-05-24T23:49:27-03:00
 title: "Pantera Negra"
-imdb: "1825683"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

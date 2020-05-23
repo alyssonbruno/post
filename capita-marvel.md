@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-12T15:15:59-03:00
 title: "Capitã Marvel"
-imdb: "4154664"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

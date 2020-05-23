@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-04"
 title: "Cats"
-imdb: "5697572"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "1/5"
 ---

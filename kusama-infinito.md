@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-26T00:46:36-02:00
 title: "Kusama - Infinito"
-imdb: "1893269"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

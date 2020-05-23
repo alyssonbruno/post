@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-29"
 title: "Harry Potter e o Cálice de Fogo"
-imdb: "0330373"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

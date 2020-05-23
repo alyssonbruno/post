@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-09-15T18:18:17-03:00
 title: "Limites"
-imdb: "5686062"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-17"
 title: "Verão De 84"
-imdb: "5774450"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

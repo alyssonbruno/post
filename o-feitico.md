@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-22T12:57:59-03:00
 title: "O Feitiço"
-imdb: "0168734"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

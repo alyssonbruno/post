@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-01T16:27:10-03:00
 title: "Predestinados"
-imdb: "4702826"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

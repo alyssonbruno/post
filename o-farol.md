@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-29"
 title: "O Farol"
-imdb: "7984734"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"
 ---

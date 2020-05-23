@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-14T20:22:23-03:00
 title: "Tolkien"
-imdb: "3361792"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

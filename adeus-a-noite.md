@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-31"
 title: "Adeus à Noite"
-imdb: "8569390"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

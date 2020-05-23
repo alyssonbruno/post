@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-22T22:49:02-02:00
 title: "O Anjo"
-imdb: "7204348"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

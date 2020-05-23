@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-01T15:55:18-03:00
 title: "Fugindo do Continente"
-imdb: "3641246"
 tags: [ "draft", "series" ]
 stars: "3/5"
 ---

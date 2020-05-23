@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-18"
 title: "A Cor do Paraíso"
-imdb: "0191043"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

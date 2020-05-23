@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-04"
 title: "Afterlife"
-imdb: "9310544"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

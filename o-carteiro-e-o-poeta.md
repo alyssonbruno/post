@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-19"
 title: "O Carteiro E O Poeta"
-imdb: "0110877"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

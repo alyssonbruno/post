@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-26"
 title: "Seguindo o Coração"
-imdb: "8998738"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

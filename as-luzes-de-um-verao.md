@@ -1,7 +1,6 @@
 ---
 date: "2020-04-29"
 title: "As Luzes De Um Verao"
-imdb: "0224578"
 stars: "3/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

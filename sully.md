@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "3263904"
 
 date: "2017-01-05"
 tags: [ "draft", "movies" ]

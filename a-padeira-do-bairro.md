@@ -1,7 +1,6 @@
 ---
 date: "2020-05-19"
 title: "A Padeira Do Bairro"
-imdb: "0056884"
 stars: "3/5"
 categories: [ "cinema" ]
 tags: [ "draft", "shorts" ]

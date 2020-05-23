@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-15"
 title: "Vivir Ilesos"
-imdb: "9682578"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

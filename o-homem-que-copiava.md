@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-20T20:54:59-03:00
 title: "O Homem Que Copiava"
-imdb: "0367859"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

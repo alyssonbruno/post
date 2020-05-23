@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-19"
 title: "System Crasher"
-imdb: "8535968"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

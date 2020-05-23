@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-04T11:54:49-03:00
 title: "Toda Arte é Perigosa (Velvet Buzzsaw)"
-imdb: "7043012"
 
 tags: [ "draft", "movies" ]
 stars: "2/5"

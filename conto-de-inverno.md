@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-04"
 title: "Conto De Inverno"
-imdb: "0104008"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

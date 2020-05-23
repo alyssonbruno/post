@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2015-12-27"
 title: "A Viagem de Chihiro"
-imdb: "0245429"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 review: [ "2020" ]

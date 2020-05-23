@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0087363"
 
 date: "2014-11-27"
 tags: [ "draft", "movies" ]

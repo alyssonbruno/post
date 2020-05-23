@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-18T22:29:59-03:00
 title: "Tragam a Maconha"
-imdb: "5069072"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-19"
 title: "Cria Corvos"
-imdb: "0074360"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

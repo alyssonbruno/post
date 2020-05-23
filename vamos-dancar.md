@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-28T15:58:03-02:00
 title: "Vamos Dançar?"
-imdb: "0029546"
 
 tags: [ "draft", "movies" ]
 stars: "2/5"

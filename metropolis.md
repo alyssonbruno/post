@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0017136"
 
 date: "2014-06-06"
 tags: [ "draft", "movies" ]

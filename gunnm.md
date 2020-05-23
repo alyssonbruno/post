@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-06T20:15:37-02:00
 title: "Gunnm (aka Alita)"
-imdb: "0107061"
 
 tags: [ "draft", "series", "animes" ]
 stars: "2/5"

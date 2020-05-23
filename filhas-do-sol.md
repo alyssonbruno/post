@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-13"
 title: "Filhas do Sol"
-imdb: "6704880"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

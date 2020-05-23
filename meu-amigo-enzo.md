@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-01"
 title: "Meu Amigo Enzo"
-imdb: "1478839"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

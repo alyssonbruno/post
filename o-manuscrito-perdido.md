@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 title: "O Manuscrito Perdido"
-imdb: "2166420"
 
 stars: "3/5"
 date: "2011-10-23"

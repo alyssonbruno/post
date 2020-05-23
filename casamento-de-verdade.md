@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 title: "Casamento de Verdade"
 
-imdb: "3289712"
 
 stars: "3/5"
 date: "2016-05-19"

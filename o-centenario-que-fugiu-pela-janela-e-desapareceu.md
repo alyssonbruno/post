@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-19T22:50:00-03:00
 title: "O Centenário Que Fugiu Pela Janela e Desapareceu"
-imdb: "2113681"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

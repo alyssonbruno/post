@@ -1,6 +1,5 @@
 ---
 date: "2020-04-26"
-imdb: "0056119"
 stars: "5/5"
 title: "A Pista (La Jetée)"
 categories: [ "cinema" ]

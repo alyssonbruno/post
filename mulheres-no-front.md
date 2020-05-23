@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-11"
 title: "Mulheres no Front"
-imdb: "0059732"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

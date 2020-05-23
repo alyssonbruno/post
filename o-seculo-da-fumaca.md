@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-17"
 title: "O Século da Fumaça"
-imdb: "9810932"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

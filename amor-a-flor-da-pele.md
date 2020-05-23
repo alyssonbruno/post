@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-24"
 title: "Amor à Flor da Pele"
-imdb: "0118694"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

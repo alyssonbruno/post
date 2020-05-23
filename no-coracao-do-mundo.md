@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-24"
 title: "No Coração do Mundo"
-imdb: "9646768"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-16"
 title: "O Rei Leão (2019)"
-imdb: "6105098"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

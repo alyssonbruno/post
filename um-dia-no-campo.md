@@ -1,7 +1,6 @@
 ---
 date: "2020-04-26"
 title: "Um Dia No Campo"
-imdb: "0028445"
 stars: "3/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

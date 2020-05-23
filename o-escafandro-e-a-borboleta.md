@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-12"
 title: "O Escafandro e a Borboleta"
-imdb: "0401383"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

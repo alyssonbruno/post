@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-26T00:37:16-02:00
 title: "Trinta Almas"
-imdb: "3886454"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

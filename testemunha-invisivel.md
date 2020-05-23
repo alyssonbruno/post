@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-24"
 title: "Testemunha Invisível"
-imdb: "7735502"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

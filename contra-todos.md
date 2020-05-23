@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-31"
 title: "Contra Todos"
-imdb: "0395978"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

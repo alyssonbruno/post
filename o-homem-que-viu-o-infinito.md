@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-21"
 title: "O Homem que viu o Infinito"
-imdb: "0787524"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

@@ -1,7 +1,6 @@
 ---
 date: "2020-05-04"
 title: "O Fio da Inocência"
-imdb: "0165773"
 stars: "4/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

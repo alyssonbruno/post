@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-10"
 title: "O Irlandês"
-imdb: "1302006"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 ---

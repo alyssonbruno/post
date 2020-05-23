@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1611224"
 date: "2012-12-24"
 tags: [ "draft", "movies" ]
 title: "Abraham Lincoln Caçador de Vampiros"

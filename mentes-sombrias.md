@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-06T15:48:41-03:00
 title: "Mentes Sombrias"
-imdb: "4073790"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

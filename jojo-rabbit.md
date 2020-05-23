@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-27"
 title: "Jojo Rabbit"
-imdb: "2584384"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

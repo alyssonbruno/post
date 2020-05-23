@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-15T23:59:50-03:00
 title: "Coisa Mais Linda"
-imdb: "8001788"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

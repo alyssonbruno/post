@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-13"
 title: "O Chão Sob Meus Pés"
-imdb: "7902124"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "4/5"
 ---

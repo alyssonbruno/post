@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-11"
 title: "Retrato de Uma Jovem em Chamas"
-imdb: "8613070"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-26T00:19:07-02:00
 title: "Túmulos Sem Nome"
-imdb: "8790662"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

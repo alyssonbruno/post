@@ -2,7 +2,6 @@
 date: "2020-04-26"
 title: "O Homem Que Virou Suco"
 categories: [ "cinema" ]
-imdb: "0178585"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 ---

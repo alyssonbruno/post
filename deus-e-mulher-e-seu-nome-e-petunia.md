@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-23"
 title: "Deus é Mulher e Seu Nome é Petúnia"
-imdb: "8054608"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

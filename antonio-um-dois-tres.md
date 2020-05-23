@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-25T18:15:36-03:00
 title: "António Um Dois Três"
-imdb: "6275840"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

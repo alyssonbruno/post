@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0433035"
 review: [ "2019" ]
 date: "2014-04-16"
 tags: [ "draft", "movies" ]

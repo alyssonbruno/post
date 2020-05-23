@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-13T22:35:19-03:00
 title: "Troca de Rainhas"
-imdb: "6350304"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

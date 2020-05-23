@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: 2018-03-13T18:42:29
-imdb: "5027774"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

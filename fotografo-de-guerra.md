@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-22"
 title: "Fotográfo De Guerra"
-imdb: "9016026"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

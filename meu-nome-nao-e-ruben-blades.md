@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-15T23:18:19-03:00
 title: "Meu Nome Não é Ruben Blades"
-imdb: "6789126"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

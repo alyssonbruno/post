@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-07"
 title: "Cega Obsessão"
-imdb: "0140384"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

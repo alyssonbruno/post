@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-29T10:49:00-03:00
 title: "Requiém Para Um Sonho"
-imdb: "0180093"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

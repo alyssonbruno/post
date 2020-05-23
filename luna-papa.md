@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-04T11:58:59-03:00
 title: "Luna Papa"
-imdb: "0170259"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

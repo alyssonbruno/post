@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-05"
 title: "Abigail e a Cidade Proibida"
-imdb: "7025388"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "1/5"
 ---

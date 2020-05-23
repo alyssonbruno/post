@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-24"
 title: "Os Olhos de Cabul"
-imdb: "7534102"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

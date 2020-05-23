@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-28T12:35:30-03:00
 title: "Albergue Espanhol"
-imdb: "0283900"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-17T11:25:34-02:00
 title: "Vice"
-imdb: "6266538"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

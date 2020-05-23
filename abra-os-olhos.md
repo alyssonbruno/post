@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0125659"
 date: "2014-01-29"
 tags: [ "draft", "movies" ]
 title: "Abra os Olhos"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-23T21:59:57-02:00
 title: "O Mau Exemplo de Cameron Post"
-imdb: "6257174"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

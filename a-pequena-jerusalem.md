@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-14"
 title: "A Pequena Jerusalém"
-imdb: "0428965"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

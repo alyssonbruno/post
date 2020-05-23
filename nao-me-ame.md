@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-24"
 title: "Não me Ame"
-imdb: "8445700"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

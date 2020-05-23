@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-25"
 title: "O Invasor"
-imdb: "0303408"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

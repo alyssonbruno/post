@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-09"
 title: "Você"
-imdb: "7335184"
 tags: [ "draft", "series" ]
 stars: "3/5"
 ---

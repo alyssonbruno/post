@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-05-16T18:18:48-03:00
 title: "Thi Mai: Rumo ao Vietnam"
 tags: [ "draft", "movies" ]
-imdb: "6126346"
 
 stars: "3/5"
 ---

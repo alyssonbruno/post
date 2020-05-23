@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0808399"
 
 date: "2019-03-17"
 tags: [ "draft", "movies" ]

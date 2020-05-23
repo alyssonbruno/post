@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-06"
 title: "A Camareira"
-imdb: "8331988"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

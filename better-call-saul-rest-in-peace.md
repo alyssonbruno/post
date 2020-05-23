@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-19"
 title: "Better Call Saul: Rest in Peace?"
-imdb: "3032476"
 tags: [ "draft", "series" ]
 stars: "2/5"
 ---

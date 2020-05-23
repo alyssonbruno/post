@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-02T12:57:26-02:00
 title: "Amor Ocasional"
-imdb: "9170638"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

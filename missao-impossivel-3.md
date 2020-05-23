@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-18T23:24:15-03:00
 title: "Missão Impossível: 3"
-imdb: "0317919"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

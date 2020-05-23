@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-15T22:20:45-02:00
 title: "Neblina e Sombras"
-imdb: "0105378"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

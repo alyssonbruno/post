@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-28T01:48:41-02:00
 title: "Volcano"
-imdb: "7186036"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

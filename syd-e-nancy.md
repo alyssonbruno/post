@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-04-22"
 title: "Sid e Nancy"
-imdb: "0091954"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 ---

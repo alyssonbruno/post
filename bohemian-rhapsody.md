@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-15T16:01:58-02:00
 title: "Bohemian Rhapsody"
-imdb: "1727824"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

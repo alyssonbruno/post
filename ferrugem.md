@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-27T16:41:25-03:00
 title: "Ferrugem"
-imdb: "7467324"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

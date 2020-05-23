@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-06T23:05:03-03:00
 title: "O Rei Leão 3 Hakuna Matata"
-imdb: "0318403"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

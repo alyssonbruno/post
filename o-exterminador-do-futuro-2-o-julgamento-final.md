@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-14"
 title: "O Exterminador do Futuro 2: O Julgamento Final"
-imdb: "0103064"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"
 ---

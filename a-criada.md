@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-26"
 title: "A Criada"
-imdb: "4016934"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

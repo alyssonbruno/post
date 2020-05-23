@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-06"
 title: "Coringa"
-imdb: "7286456"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 ---

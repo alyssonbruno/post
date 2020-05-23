@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-23"
 title: "O Paraíso Deve Ser Aqui"
-imdb: "8359842"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

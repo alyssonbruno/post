@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-13"
 title: "Pacto de Silêncio"
-imdb: "0325948"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

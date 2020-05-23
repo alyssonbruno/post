@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-02"
 title: "Queimando ao Vento"
-imdb: "0308071"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

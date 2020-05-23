@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-17T10:19:58-03:00
 title: "O Demônio das Onze Horas"
-imdb: "0059592"
 
 tags: [ "draft", "movies" ]
 stars: "2/5"

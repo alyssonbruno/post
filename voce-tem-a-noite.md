@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-12"
 title: "Você Tem a Noite"
-imdb: "8908514"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

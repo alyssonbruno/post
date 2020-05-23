@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-08"
 title: "Caravaggio"
-imdb: "0090798"
 tags: [ "draft", "movies" ]
 stars: "1/5"
 ---

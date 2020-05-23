@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-02"
 title: "O Voto é Secreto"
-imdb: "0290823"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

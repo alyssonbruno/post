@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "3472226"
 date: "2015-10-29"
 tags: [ "draft", "shorts" ]
 title: "Kung Fury"

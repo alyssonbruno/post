@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-21"
 title: "Parasita"
-imdb: "6751668"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

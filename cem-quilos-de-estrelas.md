@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-20"
 title: "Cem Quilos de Estrelas"
-imdb: "7501966"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
 ---

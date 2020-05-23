@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1201607"
 review: [ "2019" ]
 date: "2011-07-22"
 tags: [ "draft", "movies" ]

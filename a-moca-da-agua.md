@@ -1,7 +1,6 @@
 ---
 date: "2020-04-26"
 title: "A Moça da Água"
-imdb: "0014898"
 stars: "4/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

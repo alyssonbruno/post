@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0074102"
 
 date: "2019-06-03"
 review: [ "2019" ]

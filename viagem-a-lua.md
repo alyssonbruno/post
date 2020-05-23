@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0000417"
 date: "2011-09-01"
 tags: [ "draft", "shorts" ]
 title: "Viagem à Lua"

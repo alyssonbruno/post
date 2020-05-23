@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-01T00:21:53-03:00
 title: "Dançando No Escuro"
-imdb: "0168629"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

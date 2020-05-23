@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-17"
 title: "Pingue-Pongue da Mongólia"
-imdb: "0461804"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

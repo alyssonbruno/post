@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-03-28T19:14:05-03:00
 title: "Construindo Pontes"
 tags: [ "draft", "movies" , "cinemaqui" ]
-imdb: "7368464"
 
 stars: "3/5"
 

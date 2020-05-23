@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-24T21:22:25-03:00
 title: "Bonding"
-imdb: "7718088"
 
 tags: [ "draft", "series" ]
 stars: "4/5"

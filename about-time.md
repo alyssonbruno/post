@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "2194499"
 date: "2015-12-27"
 tags: [ "draft", "movies" ]
 title: "About Time"

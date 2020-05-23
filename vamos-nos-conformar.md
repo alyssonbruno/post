@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 title: "Vamos nos Conformar"
-imdb: "2186866"
 stars: "3/5"
 date: "2010-11-01"
 tags: [ "draft", "movies" ]

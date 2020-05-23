@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-24"
 title: "Corpo Fechado"
-imdb: "0217869"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

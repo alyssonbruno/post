@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-21"
 title: "Querência"
-imdb: "9657946"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
 ---

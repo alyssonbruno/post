@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-23T19:20:31-03:00
 title: "Amor e Revoluçao"
-imdb: "4005402"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

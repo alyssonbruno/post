@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-20T15:08:12-03:00
 title: "Quando Margot Encontra Margot"
-imdb: "6690176"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

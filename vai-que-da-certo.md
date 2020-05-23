@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 title: "Vai que dá Certo"
-imdb: "2220408"
 
 stars: "3/5"
 date: "2013-04-08"

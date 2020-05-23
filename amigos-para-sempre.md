@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-19T15:05:05-02:00
 title: "Amigos Para Sempre"
-imdb: "1987680"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

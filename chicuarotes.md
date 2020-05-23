@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-28"
 title: "Chicuarotes"
-imdb: "4523910"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

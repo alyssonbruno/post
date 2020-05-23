@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-11T11:26:07-03:00
 title: "Entre Vinho e Vinagre"
-imdb: "8169446"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

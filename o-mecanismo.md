@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-03-26T22:17:35-03:00
 title: "O Mecanismo"
 tags: [ "draft", "series" ]
-imdb: "6873658"
 
 stars: "2/5"
 ---

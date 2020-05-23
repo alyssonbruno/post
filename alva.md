@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-22"
 title: "Alva"
-imdb: "10153664"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

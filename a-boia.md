@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-09"
 title: "A Boia"
-imdb: "9568668"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

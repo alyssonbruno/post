@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-16T22:20:15-03:00
 title: "Takara: A Noite que Nadei"
-imdb: "7336012"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

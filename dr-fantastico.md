@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0057012"
 
 date: "2012-08-06"
 tags: [ "draft", "movies" ]

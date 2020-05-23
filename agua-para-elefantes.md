@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1067583"
 date: "2012-08-27"
 tags: [ "draft", "movies" ]
 title: "Água para Elefantes"

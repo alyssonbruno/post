@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-09T19:53:35-03:00
 title: "Juliet, Nua e Crua"
-imdb: "5607096"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

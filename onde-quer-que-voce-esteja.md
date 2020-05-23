@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-25"
 title: "Onde Quer Que Você Esteja"
-imdb: "7937758"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

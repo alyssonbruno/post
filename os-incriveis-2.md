@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-18T21:07:38-03:00
 title: "Os Incríveis 2"
-imdb: "3606756"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

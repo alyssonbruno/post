@@ -1,7 +1,6 @@
 ---
 date: "2020-05-04"
 title: "Jogo Duro"
-imdb: "0140296"
 stars: "3/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

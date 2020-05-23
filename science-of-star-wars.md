@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0458284"
 date: "2017-03-05"
 tags: [ "draft", "series" ]
 title: "Science of Star Wars - Primeira Temporada, Episódio 1"

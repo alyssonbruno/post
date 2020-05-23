@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-08"
 title: "As Coisas Simples da Vida"
-imdb: "0244316"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 ---

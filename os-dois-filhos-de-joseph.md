@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-01"
 title: "Os Dois Filhos de Joseph"
-imdb: "7543914"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

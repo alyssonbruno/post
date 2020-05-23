@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-24T17:34:05-03:00
 title: "Boas Intenções"
-imdb: "9016296"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

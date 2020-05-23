@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-04-03"
-imdb: "1228705"
 title: "Homem de Ferro 2"
 tags: [ "draft", "movies" ]
 stars: "3/5"

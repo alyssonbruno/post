@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-06T15:44:50-03:00
 title: "Dias Vazios"
-imdb: "8301540"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

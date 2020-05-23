@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-03-23"
 title: "Shaun o Carneiro – O Filme – A Fazenda contra-ataca"
 tags: [ "draft", "movies" ]
-imdb: "6193408"
 stars: "3/5"
 ---
 São tantos subtítulos neste filme da Aardman... ele é uma versão estendida de um episódio da série Shaun Carneiro. Não é o primeiro longa-metragem. O primeiro se chamava Shaun: O Carneiro e tinha a graça e a originalidade de contar uma história mais longa sem qualquer diálogo, muitas vezes referenciando as comédias no início do cinema.

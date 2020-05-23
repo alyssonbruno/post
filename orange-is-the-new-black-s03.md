@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "2372162"
 
 date: "2014-06-19"
 tags: [ "draft", "series" ]

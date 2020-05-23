@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-26T00:27:20-02:00
 title: "Fuga"
-imdb: "7051048"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

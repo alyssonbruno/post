@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2018-12-07"
 title: "Harry Potter e a Pedra Filosofal"
-imdb: "0241527"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 review: [ "2019" ]

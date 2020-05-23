@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-09"
 title: "Chuvas Suaves Virão"
-imdb: "9213792"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

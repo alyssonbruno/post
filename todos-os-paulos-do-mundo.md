@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-04-26T13:48:12-03:00
 title: "Todos os Paulos do Mundo"
 tags: [ "draft", "movies" , "cinemaqui" ]
-imdb: "7633052"
 
 stars: "2/5"
 

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-26"
 title: "Teasing Master: Takagi-san"
-imdb: "7808344"
 tags: [ "draft", "series", "animes" ]
 stars: "4/5"
 ---

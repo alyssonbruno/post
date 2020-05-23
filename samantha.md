@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-13T19:24:11-03:00
 title: "Samantha!"
-imdb: "6626676"
 
 tags: [ "draft", "series" ]
 stars: "1/5"

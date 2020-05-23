@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-11T23:55:47-03:00
 title: "Rosas Selvagens"
-imdb: "5774796"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

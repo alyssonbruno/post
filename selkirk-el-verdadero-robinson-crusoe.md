@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 title: "Selkirk el verdadero Robinson Crusoe"
-imdb: "2231505"
 
 stars: "3/5"
 date: "2012-02-15"

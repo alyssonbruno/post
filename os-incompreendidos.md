@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-22"
 title: "Os Incompreendidos"
 tags: [ "draft", "movies" ]
-imdb: "0053198"
 stars: "5/5"
 ---
 Primeiro filme do Truffaut, meio biográfico (o cineasta foi um delinquente juvenil), exemplo de Nouvelle Vague. Esse foi o começo da desconstrução da narrativa burguesa opressora.

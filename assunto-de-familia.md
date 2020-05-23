@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-09"
 title: "Assunto de Família"
-imdb: "8075192"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

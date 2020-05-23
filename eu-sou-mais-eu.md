@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-14T15:15:22-02:00
 title: "Eu Sou Mais Eu"
-imdb: "9214280"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

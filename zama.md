@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-03-26T22:05:17-03:00
 title: "Zama"
 tags: [ "draft", "movies" , "cinemaqui" ]
-imdb: "3409848"
 
 stars: "2/5"
 

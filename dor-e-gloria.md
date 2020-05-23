@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-04"
 title: "Dor e Glória"
-imdb: "8291806"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

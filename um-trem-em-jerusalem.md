@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-26T00:09:38-02:00
 title: "Um Trem Em Jerusalem"
-imdb: "8896640"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

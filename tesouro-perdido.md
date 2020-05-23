@@ -1,7 +1,6 @@
 ---
 date: "2020-05-04"
 title: "Tesouro Perdido"
-imdb: "0018478"
 stars: "1/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

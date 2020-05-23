@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-10"
 title: "Collective"
-imdb: "10706602"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "4/5"
 ---

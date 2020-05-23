@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-26T00:42:13-02:00
 title: "O Homem Que Matou Dom Quixote"
-imdb: "1318517"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

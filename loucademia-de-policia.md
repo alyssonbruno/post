@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-10"
 title: "Loucademia de Polícia"
-imdb: "0087928"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

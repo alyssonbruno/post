@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2010-04-16"
 title: "Mary e Max uma Amizade Diferente"
 tags: [ "draft", "movies" ]
-imdb: "0978762"
 stars: "5/5"
 review: [ "2018" ]
 ---

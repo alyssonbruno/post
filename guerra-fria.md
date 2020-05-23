@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-17T22:45:40-03:00
 title: "Guerra Fria"
-imdb: "6543652"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"

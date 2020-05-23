@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-16"
 title: "O Exterminador do Futuro 3: A Rebelião Das Máquinas"
-imdb: "0181852"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

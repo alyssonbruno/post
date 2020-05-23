@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-11T15:05:12-03:00
 title: "Cães de Aluguel"
-imdb: "0105236"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

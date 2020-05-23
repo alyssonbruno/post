@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-21"
 title: "Eu Prometo Ser Sensato"
-imdb: "9041234"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
 ---

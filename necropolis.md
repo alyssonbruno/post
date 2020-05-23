@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-22T16:13:03-03:00
 title: "Necrópolis"
-imdb: "9893572"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

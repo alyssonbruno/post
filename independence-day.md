@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-11"
 title: "Independence Day"
-imdb: "0116629"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-22T14:42:40-03:00
 title: "A Sombra do Pai"
-imdb: "6388464"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

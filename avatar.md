@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-07T23:41:09-03:00
 title: "Avatar"
-imdb: "0499549"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

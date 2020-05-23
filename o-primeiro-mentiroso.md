@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-20T18:47:25-03:00
 title: "O Primeiro Mentiroso"
-imdb: "1058017"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

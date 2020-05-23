@@ -1,7 +1,6 @@
 ---
 date: "2020-05-13"
 title: "Pretérito Perfeito"
-imdb: "1578707"
 stars: "1/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

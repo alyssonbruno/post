@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-09-28T19:04:03-03:00
 title: "De Volta ao Jogo"
-imdb: "2911666"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

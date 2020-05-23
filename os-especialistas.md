@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-29T13:20:20-02:00
 title: "Os Especialistas"
-imdb: "1448755"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

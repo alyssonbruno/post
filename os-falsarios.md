@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-12"
 title: "Os Falsários"
-imdb: "0813547"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

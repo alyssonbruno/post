@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-15T14:40:43-02:00
 title: "Normandia Nua"
-imdb: "6923840"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

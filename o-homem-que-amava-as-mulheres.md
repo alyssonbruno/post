@@ -1,7 +1,6 @@
 ---
 date: "2020-05-04"
 title: "O Homem Que Amava as Mulheres"
-imdb: "0076155"
 stars: "3/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

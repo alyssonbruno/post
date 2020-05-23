@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-18T22:32:47-03:00
 title: "Sofia"
-imdb: "8296592"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-13"
 title: "As Invisíveis"
-imdb: "8633950"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
 ---

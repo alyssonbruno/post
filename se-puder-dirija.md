@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 title: "Se Puder... Dirija!"
-imdb: "2211808"
 
 stars: "2/5"
 date: "2013-09-07"

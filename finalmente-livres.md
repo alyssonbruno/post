@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-28"
 title: "Finalmente Livres"
-imdb: "7534068"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

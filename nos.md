@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-12"
 title: "Nós"
-imdb: "6857112"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-16T00:08:53-03:00
 title: "Osmosis"
-imdb: "7043380"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

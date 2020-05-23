@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-08T15:26:05-02:00
 title: "Minecraft Story Mode"
-imdb: "4291714"
 
 tags: [ "draft", "series" ]
 stars: "2/5"

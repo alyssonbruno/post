@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-23T11:46:10-03:00
 title: "Traídos pelo Desejo"
-imdb: "0104036"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

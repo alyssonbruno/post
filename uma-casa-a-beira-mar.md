@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-11T15:02:20-03:00
 title: "Uma Casa à Beira Mar"
-imdb: "7219324"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

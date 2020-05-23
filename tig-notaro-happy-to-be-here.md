@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-01T15:53:00-03:00
 title: "Tig Notaro: Happy to Be Here"
-imdb: "8342946"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

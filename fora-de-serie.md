@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-09T12:19:04-03:00
 title: "Fora de Série"
-imdb: "1489887"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 

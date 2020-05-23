@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-24T19:20:21-03:00
 title: "Mad Max 3: Além da Cúpula do Trovão"
-imdb: "0089530"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-26"
 title: "Tremores"
-imdb: "7128732"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

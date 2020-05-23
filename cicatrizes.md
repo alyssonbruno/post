@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-12"
 title: "Cicatrizes"
-imdb: "7319312"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"
 ---

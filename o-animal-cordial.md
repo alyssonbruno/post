@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-01T16:22:57-03:00
 title: "O Animal Cordial"
-imdb: "5126274"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

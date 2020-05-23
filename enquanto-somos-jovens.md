@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1791682"
 
 date: "2015-07-03"
 review: [ "2017" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-11T12:35:30-02:00
 title: "Mary Poppins"
-imdb: "0058331"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

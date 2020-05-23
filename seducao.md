@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-16"
 title: "Sedução"
-imdb: "0103791"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

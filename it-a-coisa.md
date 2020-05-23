@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-07T21:45:43-02:00
 title: "It: A Coisa"
-imdb: "1396484"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

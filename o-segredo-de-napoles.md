@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-23T21:37:56-02:00
 title: "O Segredo de Nápoles"
-imdb: "6892206"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

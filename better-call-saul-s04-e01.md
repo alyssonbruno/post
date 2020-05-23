@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-08T22:47:49-03:00
 title: "Better Call Saul - Quarta Temporada, Episódio 1"
-imdb: "5554490"
 
 tags: [ "draft", "series" ]
 stars: "4/5"

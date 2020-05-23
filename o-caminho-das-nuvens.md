@@ -1,7 +1,6 @@
 ---
 date: "2020-04-28"
 title: "O Caminho Das Nuvens"
-imdb: "0379199"
 stars: "3/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

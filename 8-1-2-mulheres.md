@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-09"
 title: "8 1/2 Mulheres"
-imdb: "0154443"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

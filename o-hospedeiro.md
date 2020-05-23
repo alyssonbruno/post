@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-20"
 title: "O Hospedeiro"
-imdb: "0468492"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 ---

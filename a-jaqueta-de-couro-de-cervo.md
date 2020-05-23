@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-21"
 title: "A Jaqueta de Couro de Cervo"
-imdb: "8193790"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

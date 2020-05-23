@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-12T18:09:00-03:00
 title: "Shazam!"
-imdb: "0448115"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

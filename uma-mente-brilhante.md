@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-05"
 title: "Uma Mente Brilhante"
 tags: [ "draft", "movies" ]
-imdb: "0268978"
 stars: "5/5"
 ---
 Não lembrava como este filme era tão bom. Ou eu não era bom o suficiente para apreciar. Focado apenas na parte lógica da coisa, não percebi o quão maduro e humano é essa abordagem de um matemático brilhante, contemporâneo de todos nós. Ainda vivo. E ainda com seu drama pessoal o assombrando.

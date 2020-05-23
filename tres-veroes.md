@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-28"
 title: "Três Verões"
-imdb: "10785310"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

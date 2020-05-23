@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-19"
 title: "Doce Entardecer na Toscana"
-imdb: "9358106"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "4/5"
 ---

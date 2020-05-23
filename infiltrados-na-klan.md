@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-30T20:03:48-02:00
 title: "Infiltrados Na Klan"
-imdb: "7349662"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

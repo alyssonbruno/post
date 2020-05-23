@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-18T18:02:13-03:00
 title: "Mormaço"
-imdb: "8169178"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"

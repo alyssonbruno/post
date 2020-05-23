@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-12T11:39:00-02:00
 title: "Wifi Ralph: Quebrando a Internet"
-imdb: "5848272"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

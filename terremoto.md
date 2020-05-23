@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-08"
 title: "Terremoto"
-imdb: "6523720"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
 ---

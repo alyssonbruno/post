@@ -1,7 +1,6 @@
 ---
 date: "2020-05-04"
 title: "Sussurros do Coração"
-imdb: "0113824"
 stars: "3/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-07T14:58:41-03:00
 title: "O Que Fazemos nas Sombras"
-imdb: "3416742"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

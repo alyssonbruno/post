@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-10"
 title: "Exterminadores do Além Contra a Loira Do Banheiro"
-imdb: "8753660"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

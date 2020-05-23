@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-16"
 title: "Açúcar"
-imdb: "7613748"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

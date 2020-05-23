@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2014-02-05"
 title: "Malena"
-imdb: "0213847"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 review: [ "2019" ]

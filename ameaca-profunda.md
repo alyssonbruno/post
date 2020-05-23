@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-07"
 title: "Ameaça Profunda"
-imdb: "5774060"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
 ---

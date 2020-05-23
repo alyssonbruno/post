@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-07-09T23:46:45-03:00
 title: "Estou Me Guardando Para Quando O Carnaval Chegar"
-imdb: "10240438"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-27T14:00:27-03:00
 title: "Corra, Lola, Corra"
-imdb: "0130827"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

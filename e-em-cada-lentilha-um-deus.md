@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-21"
 title: "E Em Cada Lentilha Um Deus"
-imdb: "9100090"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

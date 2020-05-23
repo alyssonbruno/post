@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-17"
 title: "Filhos da Dinamarca"
-imdb: "9514970"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

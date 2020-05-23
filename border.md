@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-29T17:23:54-03:00
 title: "Border"
-imdb: "5501104"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

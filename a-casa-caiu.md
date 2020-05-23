@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-19T23:08:16-03:00
 title: "A Casa Caiu"
-imdb: "0305669"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

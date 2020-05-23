@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-16"
 title: "Sensual Demais"
-imdb: "0226540"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

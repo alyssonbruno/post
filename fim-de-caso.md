@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-23T17:23:39-03:00
 title: "Fim de Caso"
-imdb: "0172396"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

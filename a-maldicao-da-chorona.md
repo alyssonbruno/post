@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-21"
 title: "A Maldição da Chorona"
-imdb: "4913966"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

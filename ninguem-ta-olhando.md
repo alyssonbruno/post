@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-02"
 title: "Ninguém Tá Olhando"
-imdb: "11131980"
 tags: [ "draft", "series" ]
 stars: "1/5"
 ---

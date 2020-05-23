@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-07T15:12:49-02:00
 title: "Entrevista Com Deus"
-imdb: "5779372"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

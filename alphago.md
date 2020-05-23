@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-26"
 title: "AlphaGo"
-imdb: "6700846"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

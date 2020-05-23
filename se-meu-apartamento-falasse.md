@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0053604"
 date: "2016-07-19"
 tags: [ "draft", "movies" ]
 title: "Se Meu Apartamento Falasse"

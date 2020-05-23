@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-03-29"
 title: "Desde Que Otar Partiu"
 tags: [ "draft", "movies" ]
-imdb: "0336264"
 stars: "3/5"
 ---
 Este filme tem cara de Mostra Internacional de Cinema de São Paulo. É simpático, inofensivo até. Assistimos como quem não quer nada, imaginando os motivos pelos quais este filme foi produzido. É um encanto vera atriz Esther Gorintin. Ela é realmente idosa. Nascida na Polônia em 1913, logo se tornou Esther Gorinsztejn no recém-criado Império Russo. Na época das filmagens desse filme estava com seus oitenta anos. Faleceu aos 87, em 2010, quando este blog de cinema começou.

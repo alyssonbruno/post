@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-18T11:46:42-02:00
 title: "Como Treinar Seu Dragão 3"
-imdb: "2386490"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

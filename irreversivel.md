@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-07"
 title: "Irreversível"
-imdb: "0290673"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 ---

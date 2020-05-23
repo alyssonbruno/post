@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-08"
 title: "Azougue Nazaré"
-imdb: "8183418"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

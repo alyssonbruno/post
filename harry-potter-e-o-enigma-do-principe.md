@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-29"
 title: "Harry Potter e o Enigma do Príncipe"
-imdb: "0417741"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0043274"
 
 date: "2011-11-13"
 review: [ "2013" ]

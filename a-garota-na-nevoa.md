@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-06T16:27:11-02:00
 title: "A Garota Na Névoa"
-imdb: "6892400"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

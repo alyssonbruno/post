@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1522238"
 date: "2011-11-03"
 tags: [ "draft", "shorts" ]
 title: "Pedaço de Papel"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-22T22:51:46-02:00
 title: "A Terceira Esposa"
-imdb: "7692966"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-17T18:26:12-03:00
 title: "Missão: Impossível 2"
-imdb: "0120755"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

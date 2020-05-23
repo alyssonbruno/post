@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-29T13:13:02-02:00
 title: "A Era do Rádio"
-imdb: "0093818"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

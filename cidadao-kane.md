@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-07-09T23:55:08-03:00
 title: "Cidadão Kane"
-imdb: "0033467"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

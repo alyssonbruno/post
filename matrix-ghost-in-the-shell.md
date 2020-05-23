@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0242653"
 date: 2017-09-18T21:53:43
 tags: [ "draft", "essays" ]
 title: "Matrix: Ghost in The Shell"

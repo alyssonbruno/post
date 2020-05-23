@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: 2018-03-14T23:36:56
-imdb: "6285776"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

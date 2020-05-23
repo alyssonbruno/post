@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-09"
 title: "Ninja Xadrez"
-imdb: "7367960"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

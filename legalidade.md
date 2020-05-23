@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-31"
 title: "Legalidade"
-imdb: "6682820"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1799631"
 
 date: "2014-08-31"
 tags: [ "draft", "series", "animes" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-10T19:02:34-03:00
 title: "Compra Me Um Revólver"
-imdb: "7425520"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-18T11:47:52-02:00
 title: "Oito Mulheres e Um Segredo"
-imdb: "5164214"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

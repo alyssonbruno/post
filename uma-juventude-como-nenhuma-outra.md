@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-06"
 title: "Uma Juventude Como Nenhuma Outra"
-imdb: "0478999"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

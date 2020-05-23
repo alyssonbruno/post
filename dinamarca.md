@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-24"
 title: "Dinamarca"
-imdb: "7037712"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-29T18:39:26-03:00
 title: "A Luta do Século"
-imdb: "8201726"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

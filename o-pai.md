@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-24"
 title: "O Pai"
-imdb: "10409554"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

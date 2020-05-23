@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-03"
 title: "Rocketman"
-imdb: "2066051"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

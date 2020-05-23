@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-24T21:29:48-03:00
 title: "Special"
-imdb: "9381622"
 
 tags: [ "draft", "series" ]
 stars: "4/5"

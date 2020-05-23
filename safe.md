@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-05-29T16:19:06-03:00
 title: "Safe"
 tags: [ "draft", "series" ]
-imdb: "7902072"
 
 stars: "3/5"
 ---

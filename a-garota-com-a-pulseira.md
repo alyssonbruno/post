@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-17"
 title: "A Garota com a Pulseira"
-imdb: "7766886"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-12T12:24:10-02:00
 title: "Homem-Aranha no Aranhaverso"
-imdb: "4633694"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

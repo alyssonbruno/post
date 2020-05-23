@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-12T21:01:40-03:00
 title: "Shiki Oriori: O Sabor da Juventude"
-imdb: "8176578"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

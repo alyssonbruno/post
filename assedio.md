@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-08"
 title: "Assédio"
-imdb: "0149723"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-07T14:18:19-03:00
 title: "Djon Africa"
-imdb: "7862998"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

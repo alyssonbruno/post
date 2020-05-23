@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-17"
 title: "Irma la Dulce"
 tags: [ "draft", "movies" ]
-imdb: "0057187"
 stars: "3/5"
 ---
 Longo para ser uma comédia, mas é Billy Wilder que dirige e nenhum minuto parece desperdiçado. A dupla Jack Lemmon e Shirley MacLaine consegue mais uma parceria com química invejável. Ela é linda e cheia de si. E ele será a inspiração de Jim Carrey décadas depois.

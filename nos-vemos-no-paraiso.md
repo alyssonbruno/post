@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-06-29T15:43:23-03:00
 title: "Nos Vemos no Paraíso"
-imdb: "5258850"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

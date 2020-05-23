@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-20T22:28:38-03:00
 title: "Interstella 5555"
-imdb: "0368667"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

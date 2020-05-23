@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-09T22:46:12-02:00
 title: "A Casa Que Jack Construiu"
-imdb: "4003440"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

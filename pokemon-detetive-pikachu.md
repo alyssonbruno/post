@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-25T23:21:20-03:00
 title: "Pokemon: Detetive Pikachu"
-imdb: "5884052"
 
 tags: [ "draft", "movies" ]
 stars: "2/5"

@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-05-22T17:52:58-03:00
 title: "Desejo de Matar (1974)"
 tags: [ "draft", "movies" ]
-imdb: "0071402"
 
 stars: "4/5"
 ---

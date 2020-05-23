@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-19T13:22:51-03:00
 title: "A Era da Inocência"
-imdb: "0819953"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

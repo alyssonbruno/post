@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-27"
 title: "Vingadores: Ultimato"
-imdb: "4154796"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

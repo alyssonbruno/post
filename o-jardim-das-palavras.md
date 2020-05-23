@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "2591814"
 date: "2016-08-06"
 tags: [ "draft", "shorts" ]
 title: "O Jardim das Palavras"

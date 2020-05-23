@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-29"
 title: "Lemebel"
-imdb: "9654050"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "1/5"
 ---

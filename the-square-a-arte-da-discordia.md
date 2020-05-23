@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-08T14:01:49-02:00
 title: "The Square: A Arte da Discórdia"
-imdb: "4995790"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

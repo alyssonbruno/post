@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-26"
 title: "Frozen 2"
-imdb: "4520988"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
 ---

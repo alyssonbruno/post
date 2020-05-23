@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-03T14:01:13-03:00
 title: "Deslembro"
-imdb: "8900098"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

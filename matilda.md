@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-07T21:15:11-02:00
 title: "Matilda"
-imdb: "0117008"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

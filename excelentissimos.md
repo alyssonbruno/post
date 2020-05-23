@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-15T15:31:54-02:00
 title: "Excelentíssimos"
-imdb: "9046772"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

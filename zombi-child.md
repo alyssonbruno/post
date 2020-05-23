@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-04"
 title: "Zombi Child"
-imdb: "9056192"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
 ---

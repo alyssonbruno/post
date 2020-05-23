@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-08-17T15:41:02-03:00
 title: "Gauguin: Viagem ao Taiti"
-imdb: "6330052"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

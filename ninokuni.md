@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-03-10"
 title: "Ninokuni"
-imdb: "9760504"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

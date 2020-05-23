@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-11"
 title: "A Dark Song"
-imdb: "4805316"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

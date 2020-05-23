@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-09"
 title: "Cells at Work!"
-imdb: "8673610"
 tags: [ "draft", "series", "animes" ]
 stars: "4/5"
 ---

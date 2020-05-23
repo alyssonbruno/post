@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-21"
 title: "A Fera e a Festa"
-imdb: "7764804"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

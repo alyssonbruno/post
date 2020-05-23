@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-17T11:35:16-03:00
 title: "Missão: Impossível"
-imdb: "0117060"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-26T15:52:51-03:00
 title: "Mademoiselle Paradis"
-imdb: "5584756"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-07-28"
 title: "Romeu + Julieta"
-imdb: "0117509"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

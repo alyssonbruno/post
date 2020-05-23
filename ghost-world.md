@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-22T12:00:55-03:00
 title: "Ghost World: Aprendendo a Viver"
-imdb: "0162346"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 

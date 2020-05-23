@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-31T14:15:07-03:00
 title: "Elefante"
-imdb: "0363589"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

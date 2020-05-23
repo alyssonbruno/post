@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-26T18:50:13-03:00
 title: "Simplesmente Alice"
-imdb: "0099012"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

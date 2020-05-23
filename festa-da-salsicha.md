@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-06-02T13:33:00-03:00
 title: "Festa da Salsicha"
-imdb: "1700841"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

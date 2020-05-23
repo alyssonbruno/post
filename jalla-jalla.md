@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-27"
 title: "Jalla! Jalla!"
-imdb: "0269389"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

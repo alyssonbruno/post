@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-04-29T10:44:51-03:00
 title: "Família Rodante"
-imdb: "0359254"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

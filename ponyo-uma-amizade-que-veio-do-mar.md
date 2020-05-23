@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0876563"
 
 date: "2010-06-30"
 review: [ "2013" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-11T23:22:06-03:00
 title: "Tokyo!"
-imdb: "0976060"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 

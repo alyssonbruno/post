@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-06T12:23:04-02:00
 title: "Boneca Russa"
-imdb: "7520794"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-02T18:57:28-03:00
 title: "Jade"
-imdb: "0113451"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

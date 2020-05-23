@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-04"
 title: "Okja"
-imdb: "3967856"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-17"
 title: "O Desejo de Ana"
-imdb: "9010588"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

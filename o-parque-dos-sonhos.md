@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-14
 title: "O Parque dos Sonhos"
-imdb: "6428676"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

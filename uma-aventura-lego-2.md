@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-05T12:30:56-03:00
 title: "Uma Aventura Lego 2"
-imdb: "3513498"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-21T00:33:48-02:00
 title: "A Última Gargalhada"
-imdb: "7427356"
 
 tags: [ "draft", "movies" ]
 stars: "2/5"

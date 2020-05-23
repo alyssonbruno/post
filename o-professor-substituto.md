@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-07-11T18:39:40-03:00
 title: "O Professor Substituto"
-imdb: "7175992"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

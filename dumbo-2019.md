@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "3861390"
 
 date: "2019-03-22"
 tags: [ "draft", "movies" , "cinemaqui" ]

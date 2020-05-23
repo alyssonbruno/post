@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-10T22:19:09-03:00
 title: "Black Mirror S05 E01 Striking Vipers"
-imdb: "8503298"
 tags: [ "draft", "series" ]
 stars: "3/5"
 

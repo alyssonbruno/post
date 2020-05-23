@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-06T20:28:49-03:00
 title: "Beetlejuice: Os Fantasmas Se Divertem"
-imdb: "0094721"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

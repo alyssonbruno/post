@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-15T12:44:05-03:00
 title: "Black Mirror S05 E03 Rachel Jack and Ashley Too"
-imdb: "9053874"
 tags: [ "draft", "series" ]
 stars: "2/5"
 

@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-03-20T17:09:19-03:00
 title: "Amarra Seu Arado em Uma Estrela"
 tags: [ "draft", "movies" , "cinemaqui" ]
-imdb: "7697854"
 stars: "3/5"
 
 ---

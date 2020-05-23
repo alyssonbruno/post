@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-05-19T17:15:39-03:00
 title: "Deadpool 2"
 tags: [ "draft", "movies" ]
-imdb: "5463162"
 
 stars: "3/5"
 ---

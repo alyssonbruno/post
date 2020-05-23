@@ -1,6 +1,5 @@
 ---
 categories: [ "blog" ]
-imdb: "5109784"
 date: 2017-09-24T17:36:29
 title: "Entrevista com Darren Aronofsky"
 tags: [ "draft", "cinemaqui" ]

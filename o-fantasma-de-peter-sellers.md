@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-21"
 title: "O Fantasma de Peter Sellers"
-imdb: "4857058"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

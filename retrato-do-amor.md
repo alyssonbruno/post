@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-06"
 title: "Retrato do Amor"
-imdb: "7778680"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

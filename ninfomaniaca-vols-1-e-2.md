@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1937390"
 date: "2016-06-06"
 tags: [ "draft",  ]
 title: "Ninfomaníaca Vols 1 e 2"

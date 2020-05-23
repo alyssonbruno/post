@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-18T20:36:35-03:00
 title: "O Retorno de Sweetback"
-imdb: "0367790"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

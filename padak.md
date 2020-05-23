@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 title: "Pa-dak pa-dak"
-imdb: "2164058"
 
 stars: "2/5"
 date: "2012-10-23"

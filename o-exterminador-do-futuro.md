@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-12"
 title: "O Exterminador do Futuro"
-imdb: "0088247"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

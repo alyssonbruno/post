@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-04"
 title: "O Doce Amanhã"
-imdb: "0120255"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0085959"
 
 date: "2014-05-10"
 tags: [ "draft", "movies" ]

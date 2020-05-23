@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-26"
 title: "O Que Arde"
-imdb: "8212958"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

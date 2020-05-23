@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-31T16:31:17-03:00
 title: "Memórias da Dor"
-imdb: "6313378"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

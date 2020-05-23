@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2012-07-20"
 title: "Valente"
-imdb: "1217209"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

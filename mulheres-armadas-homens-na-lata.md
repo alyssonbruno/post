@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-05"
 title: "Mulheres Armadas, Homens na Lata"
-imdb: "8083606"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

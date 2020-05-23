@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-28T13:43:08-02:00
 title: "Irmão Sol, Irmã Lua"
-imdb: "0069824"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

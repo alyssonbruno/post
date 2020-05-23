@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-06-25T14:55:57-03:00
 title: "Jurassic World: Reino Ameaçado"
-imdb: "4881806"
 
 tags: [ "draft", "movies" ]
 stars: "2/5"

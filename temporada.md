@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-11T11:48:52-02:00
 title: "Temporada"
-imdb: "8731138"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

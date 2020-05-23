@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-19"
 title: "Identificação de Uma Mulher"
-imdb: "0084116"
 tags: [ "draft", "movies" ]
 stars: "3/5"
 ---

@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-05-24T22:41:19-03:00
 title: "The Room"
 tags: [ "draft", "movies" ]
-imdb: "0368226"
 review: [ "2020" ]
 stars: "1/5"
 ---

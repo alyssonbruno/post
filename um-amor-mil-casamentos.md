@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2020-04-20"
 title: "Um Amor, Mil Casamentos"
 tags: [ "draft", "movies" ]
-imdb: "5096470"
 stars: "2/5"
 ---
 Os problemas desse filme de streaming é serem meramente medíocres e, pior do que serem medíocres, não se importarem nem um pouco com isso. Esta é uma produção baixo orçamento encomendada pela Netflix. O filme é todo rodado em uma casa de eventos supostamente italiana (eles estão na Itália), então o custo de filmar é o mesmo de alugar o local para algumas festas de casamento. Mais o imposto de filmagens e o vôo de atores ingleses para este lugar.

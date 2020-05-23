@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: 2018-05-08T17:36:55-03:00
 title: "Desejo de Matar"
 tags: [ "draft", "movies" , "cinemaqui" ]
-imdb: "1137450"
 
 stars: "4/5"
 

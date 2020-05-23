@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-06-05T16:06:45-03:00
 title: "Artista do Desastre"
-imdb: "3521126"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

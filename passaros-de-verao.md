@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-07"
 title: "Pássaros de Verão"
-imdb: "6386748"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

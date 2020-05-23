@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-29T16:55:28-03:00
 title: "Mike Wallace Está Aqui"
-imdb: "9353436"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

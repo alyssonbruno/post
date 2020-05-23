@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-04T11:58:05-03:00
 title: "Ninguém Pode Saber"
-imdb: "0408664"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

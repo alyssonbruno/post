@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-17T13:01:59-03:00
 title: "O Doutor da Felicidade"
-imdb: "6515342"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

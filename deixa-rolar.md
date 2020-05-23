@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 
-imdb: "2139555"
 
 date: "2015-02-11"
 tags: [ "draft", "movies" , "cinemaqui" ]

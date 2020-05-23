@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-11"
 title: "Dont Fuck With Cats Hunting an Internet Killer"
-imdb: "11318602"
 tags: [ "draft", "series" ]
 stars: "3/5"
 ---

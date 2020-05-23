@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-17T23:15:46-03:00
 title: "A Rota Selvagem"
-imdb: "5340300"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

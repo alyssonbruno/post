@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-24T19:39:32-03:00
 title: "Alemanha, Ano Zero"
-imdb: "0039417"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

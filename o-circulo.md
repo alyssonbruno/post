@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-21T18:20:34-03:00
 title: "O Círculo"
-imdb: "0255094"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 

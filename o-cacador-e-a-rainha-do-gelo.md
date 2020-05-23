@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-01T18:29:57-03:00
 title: "O Caçador e a Rainha do Gelo"
-imdb: "2381991"
 
 tags: [ "draft", "movies" ]
 stars: "2/5"

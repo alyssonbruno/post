@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-29T18:18:05-03:00
 title: "Batman: O Cavaleiro Das Trevas"
-imdb: "0468569"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

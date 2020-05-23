@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-17"
 title: "Professor Marston e as Mulheres-Maravilhas"
-imdb: "6133130"
 tags: [ "draft", "movies" ]
 stars: "2/5"
 ---

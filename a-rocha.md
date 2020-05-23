@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-29"
 title: "A Rocha"
-imdb: "0117500"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

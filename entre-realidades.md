@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-02-14"
 title: "Entre Realidades"
-imdb: "11388406"
 tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
 ---

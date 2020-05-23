@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-03T10:23:38-02:00
 title: "A Pé Ele Não Vai Longe"
-imdb: "6288124"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-07-29T12:39:21-03:00
 title: "Cinquenta Tons de Liberdade"
-imdb: "4477536"
 
 tags: [ "draft", "movies" ]
 stars: "1/5"

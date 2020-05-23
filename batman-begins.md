@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-27T16:34:38-03:00
 title: "Batman Begins"
-imdb: "0372784"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

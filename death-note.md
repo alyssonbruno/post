@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0877057"
 
 date: 2017-09-18T21:47:41
 tags: [ "draft", "series", "animes" ]

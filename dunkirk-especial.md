@@ -1,6 +1,5 @@
 ---
 categories: [ "blog" ]
-imdb: "5013056"
 date: 2018-01-08
 tags: [ "draft", "cinemaqui" ]
 title: "Dunkirk"

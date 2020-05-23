@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-11T22:15:49-02:00
 title: "The Ballad of Buster Scruggs"
-imdb: "6412452"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

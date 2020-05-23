@@ -1,7 +1,6 @@
 ---
 date: "2020-05-19"
 title: "Conto de Outono"
-imdb: "0137439"
 stars: "4/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2013-03-19"
 title: "Pieta"
-imdb: "2299842"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 review: [ "2019" ]

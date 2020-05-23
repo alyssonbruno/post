@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-20T21:10:47-03:00
 title: "Aladdin"
-imdb: "0103639"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

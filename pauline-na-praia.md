@@ -1,7 +1,6 @@
 ---
 date: "2020-05-19"
 title: "Pauline na Praia"
-imdb: "0086087"
 stars: "5/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-17"
 title: "Meu Verão Extraordinário Com Tess"
-imdb: "6851430"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

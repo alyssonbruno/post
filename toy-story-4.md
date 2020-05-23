@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-06-19T17:14:38-03:00
 title: "Toy Story 4"
-imdb: "1979376"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 

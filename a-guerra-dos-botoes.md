@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-25T11:18:32-02:00
 title: "A Guerra dos Botões"
-imdb: "1861375"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

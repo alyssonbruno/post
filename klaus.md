@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-12-08"
 title: "Klaus"
-imdb: "4729430"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

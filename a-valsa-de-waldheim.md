@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-21T19:38:03-02:00
 title: "A Valsa de Waldheim"
-imdb: "8055880"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

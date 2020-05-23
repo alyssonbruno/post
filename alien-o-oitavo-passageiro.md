@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0078748"
 
 date: "2011-12-04"
 review: [ "2015" ]

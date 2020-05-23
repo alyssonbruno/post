@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-31T13:12:35-03:00
 title: "Dez"
-imdb: "0301978"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

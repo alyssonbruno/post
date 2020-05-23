@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-03-26T16:58:56-03:00
 title: "Dolls"
-imdb: "0330229"
 
 tags: [ "draft", "movies" ]
 stars: "5/5"

@@ -3,7 +3,6 @@ categories: [ "cinema" ]
 date: "2010-12-20"
 review: [ "2019" ]
 title: "Fôlego"
-imdb: "0901475"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

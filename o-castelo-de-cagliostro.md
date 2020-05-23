@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-25T14:53:23-03:00
 title: "O Castelo de Cagliostro"
-imdb: "0079833"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

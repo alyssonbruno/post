@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "1594460"
 date: "2010-10-23"
 tags: [ "draft", "movies" ]
 title: "Suécia Hoje"

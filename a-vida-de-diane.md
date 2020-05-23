@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-05-04T11:56:16-03:00
 title: "A Vida De Diane"
-imdb: "6705860"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

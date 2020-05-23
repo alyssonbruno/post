@@ -2,7 +2,6 @@
 date: "2020-04-28"
 title: "Westworld S03 E01"
 categories: [ "cinema" ]
-imdb: "0475784"
 stars: "3/5"
 tags: [ "draft", "series" ]
 ---

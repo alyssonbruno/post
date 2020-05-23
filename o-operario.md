@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-01-20T14:27:48-02:00
 title: "O Operário"
-imdb: "0361862"
 
 tags: [ "draft", "movies" ]
 stars: "4/5"

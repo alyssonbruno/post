@@ -1,7 +1,6 @@
 ---
 date: "2020-04-26"
 title: "Sem Sol"
-imdb: "0084628"
 stars: "1/5"
 categories: [ "cinema" ]
 tags: [ "draft", "movies" ]

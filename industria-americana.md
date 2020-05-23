@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-08-23"
 title: "Indústria Americana"
-imdb: "9351980"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

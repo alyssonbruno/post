@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2015-07-26"
 title: "O Conto da Princesa Kaguya"
-imdb: "2576852"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 review: [ "2020" ]

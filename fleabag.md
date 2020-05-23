@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-11-18"
 title: "Fleabag"
-imdb: "5687612"
 tags: [ "draft", "series" ]
 stars: "4/5"
 ---

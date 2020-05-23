@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-11-01T13:45:29-02:00
 title: "Domingo"
-imdb: "9025112"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

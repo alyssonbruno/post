@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-09-11"
 title: "100 Escovadas Antes De Dormir"
-imdb: "0443584"
 tags: [ "draft", "movies" ]
 stars: "4/5"
 ---

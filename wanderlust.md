@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-12-26T12:37:44-02:00
 title: "Wanderlust"
-imdb: "7608238"
 
 tags: [ "draft", "series" ]
 stars: "3/5"

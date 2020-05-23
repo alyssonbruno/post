@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2018-10-15T16:08:47-03:00
 title: "Poderia Me Perdoar?"
-imdb: "4595882"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"

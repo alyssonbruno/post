@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-01-05"
 title: "O Labirinto do Fauno"
-imdb: "0457430"
 tags: [ "draft", "movies" ]
 stars: "5/5"
 ---

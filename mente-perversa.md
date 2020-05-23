@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-12"
 title: "Mente Perversa"
-imdb: "10074454"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
 ---

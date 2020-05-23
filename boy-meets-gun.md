@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2019-10-22"
 title: "Boy Meets Gun"
-imdb: "11007198"
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
 ---

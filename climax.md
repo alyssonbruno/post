@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-06T23:27:11-02:00
 title: "Clímax"
-imdb: "8359848"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

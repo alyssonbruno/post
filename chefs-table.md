@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "4295140"
 
 date: "2016-12-04"
 tags: [ "draft", "series" ]

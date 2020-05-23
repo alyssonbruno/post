@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-15T22:24:53-02:00
 title: "Eu, Eu Mesmo e Irene"
-imdb: "0183505"
 
 tags: [ "draft", "movies" ]
 stars: "3/5"

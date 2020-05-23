@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: 2019-02-15T16:02:23-02:00
 title: "Primeiro Ano"
-imdb: "6690004"
 
 tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"

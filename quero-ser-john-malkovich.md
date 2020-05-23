@@ -1,6 +1,5 @@
 ---
 categories: [ "cinema" ]
-imdb: "0120601"
 date: "2019-06-17"
 tags: [ "draft", "movies" ]
 title: "Quero Ser John Malkovich"
