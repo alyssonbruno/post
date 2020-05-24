@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2019-04-19"
-tags: [ "draft", "ccppbr" ]
-title: "14o. Encontro CCPP42BR"
+tags: [ "ccppbr" ]
+title: "Décimo-Quarto Encontro CCPP42BR"
 ---
 Foi definido recentemente no nosso grupo de Telegram que nosso próximo
 encontro será realizado na cidade de São Paulo no dia 6 de julho de

@@ -1,7 +1,7 @@
 ---
 categories: [ "blog" ]
 date: "2020-05-11"
-tags: [ "draft", "fun" ]
+tags: [ "fun" ]
 title: "30 GB De Emails Para Finalmente..."
 ---
 Vinte anos de backup de emails devem servir para alguma coisa, certo? OK,

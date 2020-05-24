@@ -1,7 +1,7 @@
 ---
 categories: [ "blog" ]
 date: "2013-03-28"
-tags: [ "draft", "ccppbr" ]
+tags: [ "ccppbr" ]
 title: "Décimo Encontro de Programadores de C e C++"
 ---
 Ando tendo alguns problemas de postagem no meu blog, por isso o aviso
@@ -27,4 +27,4 @@ Correção: esse encontro foi o décimo, diferente do inicialmente
 proposto. Ou mudamos a base para 8 =P
 
 Atualização: o encontro rolou, pelos comentários foi bem legal e em
-breve teremos slides, vídeos, depoimentos e etc.
+breve teremos slides, vídeos, depoimentos, etc.
