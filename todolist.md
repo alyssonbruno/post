@@ -6,7 +6,6 @@ title: "ToDoList"
 ---
 Vou aproveitar que o recente blogue do meu amigo resolveu falar um pouco sobre administração de tempo e citar a ferramenta que venho utilizando há quase um ano para tentar organizar minhas idéias, minhas tarefas e minha vida. Assim como o Kabloc, eu estava em sérias dificuldades para tentar fazer e organizar todas as coisas que eu tinha em mente. Ainda continuo com dificuldades para fazer, mas o mais importante é que agora eu tenho um roadmap de para onde eu quero ir.
 
-
 Eu sempre ouvi falar nesse programa desde que freqüento o The Code Project, um sítio onde programadores publicam seus minicódigos para serem aproveitados (e avaliados) por toda a comunidade. Possuo algumas pequenas contribuições por lá.
 
 O fato é que por preguiça de testar e pelo seu screenshot inicial, me pareceu um programa demasiado complexo e pesado. Por isso passei vários anos sem sequer baixá-lo.
@@ -14,7 +13,6 @@ O fato é que por preguiça de testar e pelo seu screenshot inicial, me pareceu 
 No entanto, houve um momento em minha vida em que eu precisava definitivamente reunir e organizar todas as minhas idéias e atividades para conseguir concluí-las, tanto no trabalho quanto na vida pessoal. Houve então uma pequena pesquisa de minha parte de programas que fizessem o que eu precisava. Foi aí que eu baixei e testei o ToDoList, um programa pequeno, portátil (posso levar em meu PenDrive) e muito flexível. Eis abaixo o screenshot original do artigo do Code Project:
 
 Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas colunas podem ser configuradas da maneira que lhe aprouver. Abaixo um screenshot de como utilizo o ToDoList:
-
 
 Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
 
@@ -26,7 +24,6 @@ Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com el
   * O código-fonte é disponível e está sempre sendo atualizado.
   * Posso salvar minhas listas em XML (padrão) ou encriptado.
   * Pode ser estendido por meio de _plugins._
-
 
 Bem, ele sozinho não resolveu meus problemas. Assim como o Kabloc disse, é você, e unicamente você, o responsável por organizar a sua agenda. E eu tive que passar muito tempo junto da minha para conseguir encontrar a maneira ideal para eu trabalhar. Cada um tem a sua.
 

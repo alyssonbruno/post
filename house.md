@@ -27,7 +27,6 @@ Porém, o lado bom: podemos testar todas nossas hipóteses. Na vida real! Se, po
 
 Talvez isso faça a profissão tão realizadora e viciante: para resolver um problema, geralmente temos todas as cartas na mão, e se não temos, fazemos ter. Afinal de contas, somos nós que iremos ressuscitar o sistema perdido.
 
-
 	
   * A Ciência Médica de House 
 

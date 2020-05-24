@@ -36,7 +36,6 @@ O título desse artigo é uma técnica presente no paradigma da programação em
 
 Ignorei tratamento de erros e a dor de cabeça que é a discussão sobre inicializações dentro do construtor, matéria para um outro artigo. Fora os detalhes, o que temos é: 1. uma classe que se preocupa em alocar os recursos que necessita e no seu fim desalocá-los, 2. uma função que usa um objeto dessa classe, alegremente apenas preocupada em usar e abusar do objeto. A demonstração da técnica reside no fato que a função não se preocupa em desalocar os recursos alocados pelo objeto config. Algo óbvio, desejável e esperado.
 
-
 Para vislumbrarmos melhor a utilidade dessa técnica convém lidarmos com as famigeradas exceções. A possibilidade de nossa função ou alguma função chamada por essa lançar uma exceção enquanto nosso objeto está ainda construído - e com o recurso alocado - faz com que seja vital a classe do objeto ter sido bem construída a ponto de prever essa situação e liberar os recursos no destrutor. Daí o uso da técnica se torna necessário.
 
 Por outro lado, ao usarmos objetos, devemos ter plena confiança nas suas capacidades de gerenciar os recursos que foram por eles alocados. Só assim se tem liberdade o suficiente para nos concentrarmos no código da função e solenemente ignorarmos a implementação da classe que estamos utilizando. Afinal, temos que considerar que muitas vezes o código-fonte não está disponível. Veja a mesma função com uma chance de desvio incondicional (o lançamento de uma exceção):
@@ -100,7 +99,6 @@ Agora, e se a exceção de BlowUpFunction é lançada e a classe File não está
     
 
 Nesse caso o código de UseFile2 acaba deixando um recurso alocado por conta de uma exceção que ocorreu em uma função secundária chamada lá pelas tantas em um momento delicado demais para ocorrerem exceções. Note que o destrutor de File2 é chamado assim como o de File, só que este não libera os recursos do objeto. Ele não usa a técnica RAII (Resource Acquisition Is Initialization, ou o título do artigo em inglês).
-
 
 Nesse tipo de classe o convívio com exceções gera um dilema: onde está o erro? Como consertá-lo? Se o problema é encontrado numa hora apertada e temos cinco minutos para revolver isso, capturar a exceção causada por BlowUpFunction é uma boa idéia. Só que nem sempre as soluções de cinco minutos são as mais maduras. Podemos não saber muito bem o que fazer com esse tipo de exceção, por exemplo. Isso geraria um tratamento de erro ou redundante - se tratarmos ali mesmo o Scatadush, já tratado em um escopo mais externo - ou fragmentado - se apenas desalocarmos o recurso de File2 e relançarmos a exceção. Eu nem diria fragmentado, pois estamos tratando um erro inventado, se considerarmos que é função dos objetos desalocarem os recursos que foram por eles mesmos alocados.
 

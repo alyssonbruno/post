@@ -6,7 +6,6 @@ title: "Antidebugging during the process attach"
 ---
 Today was a great day for reverse engineering and protection analysis. I've found two great programs to to these things: a API call monitor and a COM call monitor. Besides that, in the first program site - from a enthusiastic of the good for all Win32 Assembly - I've found the source code for one more antidebugging technique, what bring us back to our series of antidebugging techniques.
 
-
 The purpose of this protection is to detect if some debugger tries to attach into our running process. The attach to process operation is pretty common in all known debugger, as WinDbg and Visual Studio. Different from the DebugPort protection, this solution avoids the attach action from the debuggee program. In this case the protection can make choices about what to do on the event of attach (terminate the process, send an e-mail, etc).
 
 The code I've found does nothing more than to make use of the attach process function that's always called: the ntdll!DbgUiRemoteBreakin. Being always called, we can just to put our code there, what is relatively easy to do:
@@ -89,7 +88,6 @@ After the program has been running, every try to attach will show a detection me
 
     
     <a href="/images/mdRqvjp.png" title="Detecção de attach"><img src="/images/mdRqvjp.png" alt="Detecção de attach"></img></a>
-
 
 Yes, I know. Sometimes we have to use "brute force codding" and make obscure codes, like this:
 

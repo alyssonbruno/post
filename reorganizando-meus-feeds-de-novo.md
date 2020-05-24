@@ -14,11 +14,9 @@ Porém, ainda utilizo o Google Reader por uma série de motivos:
   * Consigo anotar o que quiser em qualquer página que navegar;
   * Posso organizar os feeds por categorias.
 
-
 Minha organização de feeds, até semana passada, usava categorias específicas (programação, cinema, economia) e tinha duas categorias no topo que organizava por frequência (diário, semanal), seguindo uma dica de um leitor do Efetividade. Porém, meu maior problema sempre fora os feeds que cospem milhares de entradas por dia, e que sempre ficava para ler no meu fim-de-semana, consumindo às vezes o dia inteiro!
 
 Por isso, para evitar ser abarrotado de notícias, mantenho a seguinte organização de categorias:
-
 
 	
   1. Notícias: todos os feeds que cospem milhares de entradas. Organizo por "mágica" e leio apenas os que ficarem no topo. Ao final, clico no famigerado "Mark all as read" e fim de história.

@@ -17,12 +17,10 @@ De vez em quando gosto muito de um vídeo que estou assistindo. Gosto tanto que 
       __in_opt  HANDLE hTemplateFile
     );
 
-
     
     Value                        Meaning
     0                            Disables subsequent open operations on a file or device
     0x00000000                   to request any type of access to that file or device.
-
 
     
     Value                        Meaning
@@ -33,7 +31,6 @@ De vez em quando gosto muito de um vídeo que estou assistindo. Gosto tanto que 
 Muito bem. Isso quer dizer que é possível abrir um arquivo que mais ninguém pode abrir (nem para copiar para outro arquivo), e ao mesmo tempo garante que quando ele for fechado será apagado. Isso parece uma ótima proteção de cópia não-autorizada para a maioria das pessoas.
 
 Infelizmente, tudo isso roda sob limites muito restritos: um navegador, rodando em user mode, usando APIs bem definidas e facilmente depuráveis.
-
 
 Antes de iniciar a reprodução do vídeo, e conseqüentemente a criação do arquivo temporário, podemos atachar uma instância do nosso depurador do coração e colocar um breakpoint onde interessa:
 
@@ -77,7 +74,6 @@ Nesse momento podemos dar uma boa olhada nos parâmetros 4 e 6 da função para 
     0012f31c  00000000 00000002 14000000 00000000
 
 Como podemos ver, o modo de compartilhamento do arquivo é nenhum. Entre os flags definidos no sexto parâmetro, está o de apagar o arquivo ao fechar o handle, como pude constatar no header do SDK:
-
 
 Nesse caso, a solução mais óbvia e simples foi deixar esse bit desabilitado, não importando se o modo de compartilhamento está desativado. Tudo que temos que fazer é assistir o vídeo mais uma vez e fechar a aba do navegador. O arquivo será fechado, o compartilhamento aberto, e o arquivo, não apagado.
 

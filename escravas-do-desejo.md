@@ -9,4 +9,3 @@ Assisti por completo Escravas do Desejo, uma história de vampiras lésbicas com
 
 A história começa com dois jovens, recém-casados, que se hospedam em um hotel vazio de uma cidadezinha isolada. Porém, a vinda de uma condessa e sua acompanhante irá tornar as coisas um pouco tenebrosas.
 
-

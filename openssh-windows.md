@@ -30,5 +30,4 @@ Aí, sim. Reiniciar, o serviço e testar a conexão:
 
 Os programas ssh.exe (shell remoto) e scp.exe (cópia remota de arquivos) também estão disponíveis no pacote OpenSSH, mas a versão do Cygwin ou até do Git (que vem com um pacote de ferramentas básicas de Linux) funcionam.
 
-
 Se seu objetivo é realizar backups remotos silenciosos e para isso você instalar um serviço que irá executar o scp.exe de tempos em tempos é preciso tomar cuidado com as credenciais usadas e onde estarão as chaves de criptografia. O padrão usado pelo OpenSSH no Windows é na pasta C:\Users\Usuário\.ssh, mas para um processo na conta de sistema esse valor deve ser diferente. No caso de um terminal executando pelo psexec.exe ele ficou apontando para c:\windows\system32\.ssh, mas para serviços rodando como SYSTEM é capaz que seja outro valor. Enfim, é necessário testar e verificar os resultados dos testes.

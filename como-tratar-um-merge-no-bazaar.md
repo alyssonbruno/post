@@ -97,7 +97,6 @@ Em vermelho podemos notar as linhas alteradas. Uma mudança diferente foi feita 
 
 Agora só temos que juntar ambas as mudanças no branch principal.
 
-
 Com toda razão, pensa o programador que está corrigindo o bug da quebra de linha, olhando sorrateiramente a função do meio, intocada, DoAnotherJob.
 
 Então ele resolve fazer um pequeno fix "de brinde", desconhecendo que mais alguém andou alterando essas linhas:
@@ -165,7 +164,6 @@ Ops. Algo deu errado no segundo pull. O Bazaar nos diz que os branches estão di
     1 conflicts encountered.
 
 Usamos merge no lugar do pull e ganhamos agora um conflito no arquivo bzppilot.cpp, nosso único arquivo. Vamos ver a bagunça que fizemos?
-
 
 A última coisa que um controle de fonte quer fazer é confundir ou chatear o usuário. Por isso mesmo, a maioria dos conflitos que o Bazaar encontrar nos fontes serão resolvidos usando o algoritmo "se só um mexeu, então coloca a mudança". A tabela do guia do usuário ilustra esse algoritmo em possibilidades:
 

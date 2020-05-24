@@ -19,7 +19,6 @@ Desde o começo de meus estudos em C++ tenho admirado a linguagem com um certo d
 
 No caso de Rvalues, se antes existia uma discussão interminável sobre sua inclusão no novo padrão, agora existem discussões acerca do que tudo isso significa. Existe até um ótimo guia (thanks to pepperchico) sobre as principais mudanças de conceitos, feito para simplificar o entendimento. Mas ele mesmo é exageradamente complexo para o programador médio. É de forçar a barra, mesmo. É pedir demais.
 
-
 No próximo dia 28, sábado, nos reuniremos em mais um evento C++ organizado pelo Grupo C/C++ Brasil e pelos agora dois MVPs do Brasil, o veterano Fabio Galuppo e o novato Rodrigo Strauss (meu amigo, mas acima de tudo muito bem-vindo ao cargo). Estou na lista de palestrantes e conversarei com vocês sobre as otimizações que o famigerado RValue deve trazer à mesa. Espero conseguir entender um pouco mais sobre essa criatura fantástica até lá.
 
 Se o Cebolinha for um programador C++, deve estar se debatendo nesse momento.

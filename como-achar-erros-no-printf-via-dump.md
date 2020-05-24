@@ -28,7 +28,6 @@ Abrir um dump (dmp) pode ser feito pelo Visual Studio, Windbg ou sua ferramenta 
     module.dll!ThreadStart(...)
     kernel32!xxx
 
-
 Demos sorte e é possível ver o que tem na variável de format, a mais importante de uma função de log estilo printf, pois geralmente é ela a responsável pelas dores de cabeça infernais.
 
     windbg:

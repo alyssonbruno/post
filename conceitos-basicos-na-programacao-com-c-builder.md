@@ -24,7 +24,6 @@ No projeto que é criado quando iniciamos a IDE três arquivos-fonte são gerado
 
 Sim, existe um WinMain e ele não está escondido! Nele você pode fazer o que quiser. A IDE apenas auxilia você a gerenciar seus forms. Note que também existe a inclusão de um cabeçalho chamado vcl.h (obrigatório), o que nos leva diretamente para a base de toda a programação Delphi/Builder.
 
-
 A VCL é o framework usado tanto no Builder quanto no Delphi para a programação RAD nesses ambientes. Considere como a MFC geração C++ da Borland (antes era o OWL). Todos os controles que você vê na paleta da IDE - Button, Label, CheckBox, Timer - são criados e gerenciados através da VCL. Com os mesmos nomes acrescidos do prefixo T (TButton, TCheckBox...) você tem as classes que representam em código o que você vê no ambiente RAD. Através da VCL pode-se criar novos componentes extendidos dos originais, e eles serão gerenciados pela IDE, que aliás é feita usando VCL.
 
 Voltando ao código: o Application é um objeto visível em todo os módulos do processo e representa a aplicação em execução. Através dele você cria e destrói forms e inicia a execução da VCL. Ah, sim, é bom lembrar que todos os objetos VCL devem ser criados no heap (usando o operador new ou algum método de um objeto VCL já criado, como o CreateForm do Application). Essa e mais algumas restrições foram impostas na criação de classes VCL para que seu comportamento fosse similar/compatível com tecnologias como COM e CORBA (além das vantagens do polimorfismo e gerenciamento automático de objetos).
@@ -64,6 +63,5 @@ Esses membros são iniciados automaticamente pela VCL. Contudo, você ainda pode
     
 
 O Parent é o component que abriga a representação visual do objeto dentro de si. Parent e Owner são dois conceitos distintos. Pra frente veremos como as janelas são gerenciadas pela VCL e pela IDE.
-
 
 É claro! O Borlando C++ Builder é coisa do passado, assim como Delphi e VB como os conhecemos. A versão nova do C++ Buider chama-se Turbo C++ (até semana passada, pelo menos). Nele as coisas são iguais mas diferentes. Ou seja, os conceitos aqui apresentados ainda valem. Só estão com uma cara diferente.

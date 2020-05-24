@@ -12,16 +12,11 @@ Por isso mesmo aprendi em um livro uma técnica universal e independente de deco
 
 Atenção: esse artigo trata sobre xadrez admitindo que o leitor saiba as regras básicas do jogo, assim como um pouco de estratégia. Se você chegou até aqui e está viajando, sugiro que pare de ler e vá jogar uma partida.
 
-
 Vamos supor que a posição no tabuleiro em um dado momento seja a seguinte:
-
 
 Ora, é um mate inevitável, não é? Agora imagine por um momento que você não tenha percebido isso, e precise de uma ajudinha para saber onde cada peça pode ir ou atacar no próximo lance.
 
-
 Agora ficou muito mais fácil de perceber que a única saída do rei não possui nenhuma proteção, já que tanto o peão quanto o próprio rei não podem fazer muita coisa se a dama atacar a diagonal vulnerável. E ela pode fazer isso.
-
-
 
 Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de Influence Board, e criei um projeto em linha de comando para fazer as devidas considerações a respeito de uma posição determinada. Mas como ninguém hoje em dia gosta de usar o WinDbg pra jogar xadrez, transformei meu projeto em pseudo-plugin para o WinBoard, um famoso frontend de xadrez que costumo usar em minhas esporádicas partidas.
 
@@ -40,7 +35,5 @@ Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de
     G\winboard.rbj -out:WIN2000_DEBUG\winboard.exe
 
 Após compilado, basta copiar na pasta de instalação do programa, rodá-lo e habilitar a opção "Show Influence" do menu General. Voilà! É possível até jogar às cegas com esse brinquedinho (opção Blindfold).
-
-
 
 Bom divertimento!

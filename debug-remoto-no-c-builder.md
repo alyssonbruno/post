@@ -6,7 +6,6 @@ title: "Debug remoto no C++ Builder"
 ---
 Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.
 
-
 	
   1. No CD de instalação, existe uma pasta chamada RDEBUG.
 
@@ -36,7 +35,6 @@ Esse é um detalhe que pode passar despercebido da maioria da população Borlan
 
 	
   10. Bom proveito!
-
 
 Infelizmente essa opção não está disponível nas versões Standard do produto, assim como não está o debugging remoto no Visual Studio Express. Porém, a nova versão do Builder, renomeada para Borland Turbo C++, é gratuita a possui essa feature embutida. O único porém é que a instalação não é automatizada, e os arquivos devem ser copiados "na mão", seguindo um dos tópicos da ajuda. Melhor que nada.
 

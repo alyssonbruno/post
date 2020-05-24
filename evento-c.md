@@ -12,7 +12,6 @@ E, pelo jeito, futuramente irei aplicar essa mesma metodologia brainstorm em um 
 
 Mas enquanto isso não acontece vamos dar uma olhada no que tínhamos no pacote-surpresa.
 
-
     
     0:000> kv
     ChildEBP RetAddr  Args to Child
@@ -38,7 +37,6 @@ Mas enquanto isso não acontece vamos dar uma olhada no que tínhamos no pacote-
     ...
 
 Como foi visto na palestra, uma pilha nesse estado demonstra claramente alguma variável que estourou e corrompeu o resto da pilha de chamadas. Na hora de voltar para a função chamadora, o endereço usado foi o endereço reescrito por lixo, e daí temos o "crash-pattern" Stack Trash.
-
 
     
     0:000> kv
@@ -98,7 +96,6 @@ Como foi visto na palestra, uma pilha nesse estado demonstra claramente alguma v
 
 A thread ativa no momento do dump aguardava por outra thread. Listando todas as threads do processo temos a primeira e a segunda, que tenta entrar em um critical section. Quando vemos que aquele CS estava sendo bloqueado pela primeira thread vemos claramente se tratar de um dead lock.
 
-
     
     0:000> kv
     ChildEBP RetAddr  Args to Child
@@ -121,7 +118,6 @@ A thread ativa no momento do dump aguardava por outra thread. Listando todas as 
 
 O disassemble da instrução inválida tenta escrever claramente em cima do endereço zerado (edx + eax). Dessa forma fica fácil saber que esse tipo de escrita não é permitido, constituindo nosso famosíssimo AV.
 
-
     
     eax=00000000 ebx=00000111 ecx=7c91003d edx=00010000 esi=00330120 edi=7e374dfa
     eip=7c90120e esp=0012f9a0 ebp=00000001 iopl=0         nv up ei pl zr na pe nc
@@ -136,6 +132,5 @@ O disassemble da instrução inválida tenta escrever claramente em cima do ende
     0012fa58 7e37f991 01010054 00000043 01100076 user32!ClientFrame+0xe0
 
 Esse foi meio de brinde. Uma exceção de breakpoint (int 3, ntdll!DbgBreakPoint) lançada sem um depurador atachado implica em derrubamento do processo, pois é uma exceção como outra qualquer. O programador deve ter esquecido um DebugBreak ou algo que o valha no código de produção, que acabou sendo executado.
-
 
 Essa foi a DLL encontrada no cliente quando ocorreu o problema relatado na imagem, também em anexo. Isso foi demonstrado na palestra com a ajuda do meu script que carrega DLLs, além de um pouco de sorte. Podemos analisar esse caso com mais calma em outro artigo. Acho que já falei demais por aqui.

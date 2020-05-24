@@ -12,7 +12,6 @@ O importante no conceito de memória, computacionalmente falando, é saber que e
 
 Vamos exemplificar.
 
-
 Computadores trabalham muito bem com números. A própria memória só guarda valores numéricos. Porém, se é dessa forma, como conseguimos abrir o Bloco de Notas e digitar algum texto?
 
 Para entender essa "mágica" é necessário vir à tona o conceito de representação, um tema que ainda pode dar muito pano pra manga quando estudarmos base numérica. Por enquanto, basta saber que uma representação é um faz-de-conta em que todos concordam com o que for dito. Por exemplo: Faz de conta que a letra 'A' é o número 65. Dessa forma, sempre que for visto o número 65, de agora em diante, será vista a letra 'A' no lugar.
@@ -58,8 +57,6 @@ Como esse texto é guardado na memória de um computador, se ele só entende nú
 
 Através da nossa já conhecida tabela ASCII! Na verdade, números são armazenados na memória, mas por representarem as letras 'C', 'A', 'S' e 'A', são traduzidos de volta para o formato texto pelo Bloco de Notas, que conhece o que guardou na memória.
 
-
-
 A técnica de representação pode guardar qualquer coisa na memória como números que serão traduzidos por algum programa que consiga abrir aqueles dados. Dessa forma podemos não só armazenar texto, como imagens, vídeos, páginas web e até mesmo os próprios programas que os abrem!
 
 Na programação do dia-a-dia, as coisas funcionam da mesma forma. As tão faladas variáveis reservam um espaço de memória para guardar alguma coisa, mas só sabemos o que essa alguma coisa é através do tipo da variável:
@@ -79,9 +76,7 @@ Na programação do dia-a-dia, as coisas funcionam da mesma forma. As tão falad
 
 Esses elementos, na memória, são um bando de número que, sem os tipos, não possuem significado algum, como podemos ver na depuração do programa abaixo:
 
-
 Note que os números não estão aqui representados em decimal, onde se esperaria 35 e 42, pois a representação formal da memória geralmente está no formato hexadecimal, transformando esses números em 0x23 e 0x2a, respectivamente. Para entender essa diferença cabe estudar um pouco sobre base numérica, outro tema básico do programador sólido.
-
 
 Nada é bem aprendido se não for apreendido. Algumas tarefas programáticas que podem fixar o conceito de tipo estão listadas abaixo:
 
@@ -93,7 +88,6 @@ Nada é bem aprendido se não for apreendido. Algumas tarefas programáticas que
 
 	
   * Tentar copiar o conteúdo de uma variável para outra variável de tipo diferente. Sempre analise a memória para ver o resultado.
-
 
 	
   * Ordenação de extremidades): O problema Little Endian e Big Endian.

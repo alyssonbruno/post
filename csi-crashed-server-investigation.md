@@ -36,5 +36,4 @@ Para finalizar, uma frase do artigo original que resume tudo:
 
 "Ultimately that's what we do.  We are all detectives looking for the digital DNA of bugs in the wild affecting our customers.  We hunt them down using tools, expertise, and experience."
 
-
 Dmitry Vostokov imaginou siglas mais imaginativas e fiéis a todos os que depuram problemas em software, independente deste rodar em servidores ou máquinas de café. Além, é claro, de uma ótima dica de livro sobre análise forense. Thanks, Dmitry!

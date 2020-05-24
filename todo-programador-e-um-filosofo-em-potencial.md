@@ -18,10 +18,7 @@ E ser feliz é isso: achar significado para o que fazemos. É criar. Pura e simp
 
 Criar é pensar. Programadores pensam em coisas novas todos os dias e as executam. Quando encontram algo repetitivo, organizam o código para não terem que repetir mais a mesma baboseira e voltam a fazer coisas interessantes e originais. Se existe um processo enfadonho e chato, o programador inventa um jeito para o computador fazê-lo, e não ele. E a vida do programador sempre gira em torno desse ciclo: dispensa as coisas chatas mandando o computador fazer e se dedica a fazer coisas novas.
 
-
-
 A discussão não parou por aí, pois me levou a entender o vazio que eu sinto ao estudar coisas que não uso nunca. Porque aprender por aprender não vai me levar a lugar algum. Pode até ser perigoso ler coisas que não servem para nada. Me faz parecer inútil.
-
 
 E não livros longos, ricos em detalhes e que fazem perder o fio da meada ao terminá-lo.
 
@@ -30,7 +27,6 @@ Também me mostra que mais vale a pena aprender a pensar, ou pensar melhor, do q
 Ser programador é criar. Criar é bom. Criar nos faz felizes.
 
 E é por isso, realmente, que amo o que eu faço.
-
 
 	
   * Informação demais é anti-informação?

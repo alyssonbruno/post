@@ -29,7 +29,6 @@ Quando armazenamos valores monetários em doubles seus cálculos conseguem mante
 
 Isso ocorre porque sua representação dentro da variável double é diferente de 272.0 do outro double. Depurando vemos mais claramente:
 
-
 Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouquinho e escapa pela beirada:
 
     
@@ -41,8 +40,6 @@ Ou seja, quando fazemos a subtração de d2 em d1, nossa precisão raspa um pouq
     Esse é o valor "desejado".
 
 Na comparação com o valor redondo aparece a falha, mas note que isso não ocorre com os outros valores d1 e d2, já que o armazenamento adquire o mesmo formato:
-
-
 
 Há uma forma de arredondamento já disponível no C99 (mas não no Visual Studio 2010) que pode ser útil para esses casos. A única coisa que é preciso fazer é arredondar os valores antes do cálculo:
 

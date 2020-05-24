@@ -16,7 +16,6 @@ Os personagens e as situações, dessa forma, nunca cansam, mas apenas agregam m
 
 Com uma conclusão precipitada, mas que ainda condiz com a lógica interna do seu roteiro, Alice o seu mundo podem ser revisitados diversas vezes, e não soará por demais repetitivo ou até velho. Considerando que estamos falando de um filme da metade do século passado, isso é muito significativo para o Cinema.
 
-
 Depois de tantos atrasos e revisitas, o projeto de Disney de filmar o clássico de Lewis Carroll finalmente saiu do papel em grande estilo. Mesmo visto diversas vezes, sempre é possível aprender novas ideias e estabelecer novos conceitos sobre o que é Alice e o mundo onde ela foi parar. E, mesmo que não, só as cantorias, os movimentos, as cores e a forma de apresentar os seus personagens vale a revisita.
 
 Alice é o filme favorito de minha sobrinha, e um dos meus favoritos da cinegrafia Disney. Suas cores, seu humor, seu movimento e sua música formam um conjunto completo de experiências que conseguem sempre nos puxar mais e mais para dentro do seu mundo. Não é à toa que adultos e crianças concordem com isso.

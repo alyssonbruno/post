@@ -16,7 +16,6 @@ A parte do meio já comenta sobre aqueles trabalhos medíocres balanceando o que
 
 Já o final do livro deixa um gosto amargo na boca por tratar dos filmes que, segundo ele, possuem mais erros que acertos. E ele aponta no projeto porque eles não possuem a habilidade que um roteirista deveria ter em seu trabalho. Ele pega no pé particularmente de George Lucas e James Cameron, mas não faltam exemplos de trabalhos preguiçosos e que são criados pela inércia.
 
-
  - Onde o filme começa?
  - No presente?
  - No presente, pulando para o passado?

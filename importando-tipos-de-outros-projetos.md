@@ -36,9 +36,7 @@ A engenharia reversa das entranhas do kernel não tem limites se você sabe o qu
 
 O comando !peb traz inúmeras informações sobre essa estrutura. Mas talvez estivéssemos interessados em coisas não mostradas por esse comando, mas que existem na estrutura.
 
-
 Nesse caso, podemos criar um projeto vazio que contenha a definição da estrutura como acreditamos que esteja na versão do kernel que estamos depurando.
-
 
 Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição desse tipo. Tudo que precisamos fazer agora é carregar esse símbolo na sessão que estivermos depurando.
 

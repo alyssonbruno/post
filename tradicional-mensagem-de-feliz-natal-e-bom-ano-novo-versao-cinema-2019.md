@@ -6,7 +6,6 @@ title: "Tradicional Mensagem de Feliz Natal e Bom 2020 Versão Cinema"
 ---
 Tudo começou há mais ou menos... não me lembro. O que eu sei é que meu grande amigo Pikachu me colocou em um aviso anual sobre compilar uma mensagem de final de ano com referências a filmes que foram lançados esse ano no cinema (ou algum filme mais antigo de vez em quando, se surgir a oportunidade). Esta é a primeira vez que transformo essa mensagem em um post.
 
-
 O ano de 2019, imitando 2016, foi escrito e dirigido pelo Tarantino, onde até um Era Uma Vez... em Hollywood consegue virar umA Maldição da Chorona. Com ou sem um Parasita atazanando a vida.
 
 Houve os momentos bons, como testemunharmos finalmente o Ultimato dos Vingadores, apesar que todas essas aventuras em fundo verde serviram para nos cansar de tantos efeitos e perceber que toda essa correria das Marveletes foi uma verdadeira Odisseia dos Tontos. E assim como tontos, cambaleando para fora da sala do cinema depois de ter visto uma atrocidade como Os Parças 2, perdemos muito no meio de discussões que não levam a nada. Esquecemos até o idioma, e trocando português por espanhol perdemos até "El Camino".

@@ -10,7 +10,6 @@ A Win32 API está longe de ser perfeita, mas pelo menos está razoavelmente docu
 
 Vejamos alguns exemplos.
 
-
 O código abaixo parece bem razoável:
 
     #include <windows.h>
@@ -45,7 +44,6 @@ Sendo assim, o código acima deveria ser:
 
     
     if( hFile != INVALID_HANDLE_VALUE )
-
 
 Taí uma função que muitos erraram. Erraram tanto que eles fizeram uma nova versão menos complicada. Como está escrito no MSDN.aspx):
 
@@ -87,7 +85,6 @@ O código abaixo, muito usado por todos que suportam ainda o Windows mais velhin
      
     
 
-
 Nem sempre o handle que obtemos é fechado com CloseHandle. As funções abaixo retornam handles que devem ser desalocados com as funções à direita:
 
     
@@ -97,7 +94,6 @@ Nem sempre o handle que obtemos é fechado com CloseHandle. As funções abaixo 
     RegOpenKey                       RegCloseKey
     GetDC                            ReleaseDC
     BeginPaint                       EndPaint
-
 
 Sempre tem. Algumas dicas úteis para o dia-a-dia de um programador Win32 API são:
 

@@ -27,7 +27,6 @@ Continuando minhas aventuras em tentar ser mais rápido que o Hugo, fiz uma vers
 
 Lembrando o resultado do Hugo no post passado:
 
-
     C:\Users\caloni\Projects\caloni>hugo
     Building sites …
                        |  EN

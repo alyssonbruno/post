@@ -37,5 +37,4 @@ Mais uma vez sobre a diferença do uso do tempo, ou a decomposição do tempo/mo
 
 Próximo texto de André Bazin (tirado de O Que é Cinema?): A Evolução da Linguagem no Cinema.
 
-
 André Bazin (1918-1958) é um teórico instrumental para a compreensão da sétima arte, além de não ficar apenas na teoria: em 1947 ele cria o periódico La Revue du Cinéma e em 1951 o quebrador de paradigmas Cahiers du Cinéma, que virou referência por muitas décadas. É dele uma visão mais focada na composição do quadro em vez da montagem. Veremos como ele se sai nesse ensaio.

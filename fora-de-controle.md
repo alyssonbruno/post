@@ -13,4 +13,3 @@ Como as definições morais ficam em um dégradé que vai se formando a cada nov
 
 Mesmo assim, há um momento de "redenção" para o espectador em um novo reencontro. Infelizmente, esse passa tão rápido para o final clichê que mal temos tempo para saboreá-lo. Voltamos para o lugar-comum onde acidentes acontecem, mas cujo destino já está escrito em páginas não tão inspiradas.
 
-

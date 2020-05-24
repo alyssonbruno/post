@@ -19,7 +19,6 @@ O fato é que acabamos subindo a rua novamente sem saber que tal de geração Y 
 
 Parênteses. Descobri recentemente que os seguidores do outro lado agora inventaram um novo "termo": Windows-Live-procurada. Um de seus representantes, anteriormente um homem de respeito e opiniões fortes e imparciais, acredita este ser um termo de uso corrente no dia-a-dia. 
 
-
 Pelo que pudemos encontrar, a tal da geração Y somos nós mesmo. Que espanto! E eu pensei que estávamos falando de uma raça alienígena ou algo assim. Talvez até seja, mas temos todos os genes da espécie humana.
 
 Aparentemente existem estudos "sérios" nos EUA que dividem as gerações usando letras e encontrando as principais diferenças entre nós mesmos e nossos pais e avós. Como essa última geração recebeu elogios de diversas partes do estudo, a nominação de geração Y foi se estendendo ao resto do mundo, principalmente nos novos mercados de tecnologia.
@@ -31,7 +30,6 @@ Fim de passeio. Voltamos à empresa e falamos com um outro colega sobre o que ha
 E viva a geração Y!
 
 Adendum. A palestra que participamos foi a "Por que implementar a gestão financeira de TI? Uma abordagem baseada no ITIL, COBIT/VAL IT, e PMBOK", e queríamos ter visto a palestra "Desafio: Como Gerenciar a Geração Y", que como pudemos ver não é tarefa fácil, já que essa geração não consegue nem entrar na palestra certa. Veja a grade do evento para mais informações.
-
 
 Ah, sim, meu crachá de gerente. Pois então, achei superinteressante o fato de eu ter entrado em um evento de segurança portando um crachá que diz "gerente" no nome quando na verdade eu continuo sendo de fato um programador. Fui eu que disse que era gerente na entrada da feira, como um pequeno teste de acessibilidade.
 

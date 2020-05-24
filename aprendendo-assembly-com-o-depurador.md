@@ -8,7 +8,6 @@ Além de servir para corrigir alguns bugs escabrosos, o nosso bom e fiel amigo d
 
 Vamos ver alguns exemplos?
 
-
 Para quem está começando, recomendo usar um depurador simples, 16 bits e que existe em todo e qualquer Windows: o debug. Já usado para depurar a MBR no Caloni.com.br, poderá agora ser usado para ensinar alguns princípios da plataforma de uma maneira indolor. Basta iniciá-lo na linha de comando:
 
     
@@ -116,9 +115,7 @@ Como vemos, ao empilhar coisas na pilha, o valor do registrador sp diminui. E ao
     0:000> g
     ModLoad: 75f50000 7604d000   C:\WINDOWS\system32\BROWSEUI.dll
 
-
 Aposto que você sabe em qual dos três botões eu cliquei =)
-
 
 Depurar é um processo que exige dedicação (experiência) tanto ou mais do que o próprio desenvolvimento. Por isso, fazer um esforço para descobrir algum problema em algum software pode ser vantajoso no futuro, pois você terá mais capacidade de entender o que está acontecendo à sua volta.
 

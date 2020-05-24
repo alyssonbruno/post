@@ -13,4 +13,3 @@ A temática do "seja você mesmo" tão explorada nas animações ocidentais pare
 
 Ainda assim, como dizia, esse é um trabalho inacabado e toda a trama se desenvolve de forma bem superficial, como um conto que é esticado até se tornar um quase longa. Nesse quesito, a equipe ainda sai ganhando à frente de produções menos inspiradas como Carros 2 e seus derivados.
 
-

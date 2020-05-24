@@ -27,11 +27,9 @@ O resto da função funciona mais ou menos como o sprintf, cuspindo a mensagem-m
        __in_opt  va_list *Arguments
     );
 
-
 As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o que me lembra de outra figura bizarra: o realloc da biblioteca padrão.
 
 No caso do FormatMessage, a variável dwFlags se divide em dois para especificar dois grupos de opções distintos. A parte maior contém as opções armazenadas tradicionalmente como um mapa de bits, enquanto o byte menos significativo define como será tratada a saída final, com respeito às novas linhas e qual será a largura máxima de uma linha na saída.
-
 
 O parâmetro mais polêmico é o que possui vários significados. No caso de lpSource, existem dois significados possíveis:
 
@@ -43,22 +41,17 @@ O parâmetro mais polêmico é o que possui vários significados. No caso de lpS
 
 Isso explica por que essas duas flags são exclusivas: ou uma ou outra. Mesmo que a flag FORMATMESSAGEFROMSYSTEM seja usada, a função tentará achar a definição da mensagem no módulo especificado por lpSource primeiro, antes de ir buscar nas tabelas do sistema.
 
-
 Chamado de dwMessageId, esse é o argumento onde podemos passar um código de GetLastError ou nossos próprios códigos de erro. Se já tivermos uma string em lpSource, no entanto, não faz sentido existir um código de erro.
 
-
 Para definir o idioma é usado o mesmo sistema de resources: monta-se uma DWORD com MAKELANGID que contém informações do idioma primário e secundário. Se quisermos usar o idioma padrão do sistema (99% dos casos) basta passarmos o retorno de MAKELANGID(LANGNEUTRAL, SUBLANGNEUTRAL).
-
 
 Mais um argumento polêmico. Se a flag FORMATMESSAGEALLOCATEBUFFER, lpBuffer não é um buffer, mas um ponteiro que será preechido com um endereço de memória alocada usando a função API LocalAlloc. Isso quer dizer que, após usar a mensagem formatada, devemos desalocar essa memória com LocalFree.
 
 Por outro lado, se o buffer for nosso, então seu tamanho deve ser especificado no próximo argumento, nSize.
 
-
 Só que nem o parâmetro que especifica o tamanho do buffer é simples, assim. Se for especificado a flag FORMATMESSAGEALLOCATEBUFFER, em vez de não fazer sentido esse argumento, ele significa o número MÍNIMO de caracteres que devem ser alocados, independente do tamanho da mensagem.
 
 Obs.: Lembre-se que são caracteres, e não bytes. Se estivermos programando em UNICODE o número de bytes dobra.
-
 
 Essa seria uma lista simples de argumentos valist que, para quem já fez funções ao estilo printf sabe muito bem usar. A lógica da função determina que os valores "%1", "%2" e assim por diante dentro da definição de mensagem sejam trocados por estes argumentos.
 
@@ -68,11 +61,9 @@ Também é importante lembrar que, uma vez chamada a função, o conteúdo de va
 
 Agora, se todo esse negócio de vasbrubles é muito complicado pra você, é possível passar um array de DWORDPTRs com o uso da flag FORMATMESSAGEARGUMENTARRAY.
 
-
 Se tudo der certo e você passar todos os argumentos certinhos, o retorno é o número de caracteres armazenados no buffer de saída, independente dele ter sido alocado dinamicamente ou não. Ah, sim, excluindo o nulo terminador.
 
 Se der errado a função retorna zero. É possível obter o erro através de GetLastError, o que muito provavelmente será 87 nas primeiras vezes que você usar essa função.
-
 
 Pensou que acabaria por aqui? E qual o significado das sequências de escape dentro da mensagem-modelo? O formato básico para inserção de um argumento segue o padrão %n!format-string!.
 
@@ -84,9 +75,7 @@ Ainda existe um uso específico para "%0", que é evitar quebra de linha durante
 
 Ainda existe "de bônus" outras strings para preencher limitações que o próprio printf possui, como %%, %t, etc.
 
-
 Como os programadores habituados com ataques de stack overrun devem deduzir, uma mensagem-modelo mal intencionada pode conter sequências de inserção que não existem na formatação habitual, forçando o vazamento de bytes na string final, o que pode forçar ataques planejados. Como o próprio artigo diz, usar um código de erro arbitrário retornado por uma API qualquer e usar FormatMessage sem a flag FORMATMESSAGEIGNOREINSERTS pode levar a resultados desastrosos.
-
 
 Esse também é um bônus da MSDN, que te presenteia com exemplos de código tão fantasiosos quanto a própria função, veja o primeiro exemplo, por exemplo:
 
@@ -120,7 +109,6 @@ Esse também é um bônus da MSDN, que te presenteia com exemplos de código tã
     
 
 Depois ele chega a reimplementar o exemplo usando valist, o que é muito interessante, mas... bom, deixa pra lá. Vamos fazer nosso próprio teste.
-
 
 Esse é o uso clássico: precisamos de uma descrição de um código de erro para o usuário; um código Win32. A chamada para esse tipo de uso pode ser encapsulada em uma função mais simples:
 
@@ -175,6 +163,5 @@ Esse é o uso clássico: precisamos de uma descrição de um código de erro par
     }
      
     
-
 
 Existem milhares de forma de usar essa função, como você deve ter percebido pelos parâmetros. Não seja tímido: se você conhece algum truquezinho esperto e quer compartilhar com os usuários da FormatMessage, essa é a hora!

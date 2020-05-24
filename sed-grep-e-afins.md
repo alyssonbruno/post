@@ -10,7 +10,6 @@ Primeiramente, eu gostaria de expressar minha total surpresa ao não conseguir e
 
 Como esta é uma exceção em anos de "googadas", eu fico com a terceira opção.
 
-
 Existem algumas ferramentas que já salvaram minha vida uma dúzia de vezes e devo admitir que são tão poderosas e flexíveis quanto difíceis de usar:
 
   * Grep. Use esta se quiser fazer uma busca, qualquer busca, em um arquivo, um conjunto de arquivos ou uma enxurrada de caracteres do prompt de comando.
@@ -83,7 +82,6 @@ Como podemos ver e é óbvio de imaginar, muitas extensões irão se repetir. Pa
 
     
     programa | sed -e "s/^.*\\//" -e "s/.*\.\(.*\)/\1/" | sort -u
-
 
 	
   * Os caracteres .*[]^$\ dão problemas se usados sem escape no sed, pois fazem parte dos comandos para procurar expressões regulares. Use-os com o caractere de escape \.

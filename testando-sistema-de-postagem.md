@@ -23,7 +23,6 @@ O que muitas vezes tem funcionado, como minha série Básico do Básico:
 
 De qualquer forma, posso continuar utilizando o título do artigo como base para minha pesquisa.
 
-
 Postar no Twitter é algo relativamente fácil. O script abaixo faz isso com dois pés no joelho:
 
     def PublishToTwitter(postInfo):
@@ -40,7 +39,6 @@ Postar no Twitter é algo relativamente fácil. O script abaixo faz isso com doi
         if len(st) > 120: # giving space to image attachment
             st = stars + ' ' + postInfo['title'] + '\n\n' + '\n\n' + postInfo['shortlink'].encode('utf-8')
         t.statuses.update(status=st, media_ids=",".join([id_img1]))
-
 
 Já postar no Facebook é mais ou menos uma tortura. As chaves de acesso costumam expirar, e para conseguir uma que não expira este tutorial é femonenal, pois economiza muito, muito tempo de pesquisa.
 

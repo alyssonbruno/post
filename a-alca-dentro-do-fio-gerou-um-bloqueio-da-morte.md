@@ -12,11 +12,9 @@ Sabe-se lá por que, essa edição foi traduzida. É interessante notar que naqu
 
 Apesar de não ter nada contra traduzir termos do inglês para português (e vice-versa), algumas coisas incomodam em tradução de livros técnicos.
 
-
 Com essa informação, que pode ser usada apenas nos primeiros usos da palavra, agradaria gregos e troianos. Abaixo um exemplo.
 
 > "os ponteiros em C (pointers) são um recurso rico e necessário para a escrita de programas de baixo/médio nível".
-
 
 Por exemplo, ler um dado capítulo:
 
@@ -25,8 +23,6 @@ Por exemplo, ler um dado capítulo:
 E, depois de se acostumar com o termo, ler em outro capítulo:
 
 > "... sabe-se que a pior desgraça para um programador C são os famigerados apontadores selvagens."
-
-
 
 Um exemplo notável é o famoso livro de algoritmos em C da O'Reilly, que mesmo na nova edição com uma errata de 49 itens foi possível detectar mais erros. O exemplo abaixo consta no item 46 da edição de 2000 (Editora Ciência Moderna):
 
@@ -44,7 +40,6 @@ Um exemplo notável é o famoso livro de algoritmos em C da O'Reilly, que mesmo 
     }
 
 Obs.: importante notar que no original não consta esse erro.
-
 
 Isso é pior do que não colocar a versão em inglês, pois dá a impressão que não existe significado a ser explicado. Por exemplo, ver antes do capítulo sobre threads:
 

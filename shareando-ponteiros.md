@@ -8,11 +8,9 @@ Apesar de já ter palestrado algumas vezes sobre Boost e STL, acho que eu nunca 
 
 Que tal alocação de memória e ponteiros? Vamos matar dois coelhos com um template só?
 
-
 "Ah, mas tem que usar alguma biblioteca bizarra com milhões de dependências e que vai quebrar todo o fonte aqui da empresa. Sem contar que vai ter que passar de novo pelos unit tests, vai dar erro de compilação, a LIB XPTO não funciona sem dar três pulinhos virado para a cafeteira e..."
 
 Cada caso é um caso, existe o melhor dos mundos e o pior. Mas (quase) todos têm solução. Mesmo que tudo que você tenha disponível seja um bartante e um clipe, podemos tentar alguma mágica/gambiarra/adaptação técnica. Vamos ver os casos mais comuns:
-
 
 Um cenário perfeito para começar. A única coisa que você precisa fazer em seus novos projetos e refatorações é incluir um único cabeçalho:
 
@@ -90,7 +88,6 @@ E pronto: você nunca mais vai precisar se preocupar com quem deleta o ponteiro,
 
 O std::sharedptr funciona desde o SP1 do Visual Studio 2010. Sem Service Pack ou em versões mais antigas pode haver disponível no namespace tr1, resquício de quando esse novo padrão ainda estava em definição.
 
-
 Vou imaginar que você usa o Visual Studio 2003, um dos primeiros da safra ".NET", que, mais uma vez, NÃO TEM QUALQUER RELAÇÃO COM C++ .NET.
 
 Bem, nesse caso, "welcome... to the desert... of the double":
@@ -154,7 +151,6 @@ Porém, a correção é mais simples do que parece: baixar o boost e trocar o no
     
 
 ATENÇÃO! Nos meus testes a única versão funcionando com o VS2003 foi a 1.47. Mas já é alguma coisa
-
 
 Não existe situação difícil que não possa piorar. Porém, mesmo nesse caso ainda há algo a se fazer, já que smart pointer utilizam mecanismos existentes na linguagem C++ desde os primórdios (ou bem próximo disso). Tudo que você precisa para criar seu próprio sharedptr é do construtor padrão, do destrutor padrão, do construtor de cópia e dos operadores de atribuição e ponteiro. E, claro, não se esqueça de usar template se for permitido. Se não for, a coisa complica, mas não se torna impossível.
 

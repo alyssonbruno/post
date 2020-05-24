@@ -12,11 +12,9 @@ A boa notícia é que o salvamento é mais simples do que parece: coloque todas 
 
 Confuso? Se estiver, ainda bem. Isso quer dizer que estamos novamente em um daqueles artigos com "pseudo-parábolas", a maneira mais ilustrada de explicar as coisas.
 
-
 Os SOs modernos possuem inúmeras maneiras de controlar e monitorar o acesso a recursos do sistema. Neste breve artigo irei falar apenas de um: o critical section, ou, em tradução livre, "seção crítica". O "seção" desse nome diz respeito a uma seção do programa, ou seja, um pedaço de código mesmo. Um pedaço de código crítico.
 
 Resumidamente, um critical section é um recurso que apenas uma thread por vez pode obter. Para que outra thread tenha acesso ao mesmo critical section, a primeira thread que o obteve deve soltá-lo. Enquanto ela não solta, as outras threads ficam paradas, esperando pela chave, na sala trancada.
-
 
 Do ponto de vista do programador, o critical secton é apenas uma estrutura que é usada na chamada de quatro funções básicas: para inicializar o recurso, para entrar na seção crítica.aspx), para sair da seção crítica.aspx) e para liberar o recurso.aspx) (quando aquele critical section não mais será usado).
 
@@ -76,7 +74,6 @@ Falando assim, parece simples. Bom, na verdade é simples, mesmo. Tudo que você
     
      
     
-
 
 Para finalizar, algo para pensar: se uma thread só consegue um critical section depois que outra thread soltá-lo, o que acontece se essa outra thread estiver esperando por outro critical section que uma thread que aguarda estiver segurando?
 

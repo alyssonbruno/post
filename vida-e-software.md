@@ -16,6 +16,5 @@ Outra atitude igualmente deformada é achar que o mundo vai acabar se não exist
 
 De uma forma ou de outra, como toda atividade humana, escrever código nos define não apenas como bons programadores, mas como bons humanos, com seu conjunto de crenças e valores. O que, de certa forma, é um bom sinal, pois melhorando como seres humanos, melhoramos como programadores. E vice-versa.
 
-
  - Para quê filosofia?, por Marilena Chauí.
 

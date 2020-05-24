@@ -6,7 +6,6 @@ title: "Compartilhando variáveis com o mundo"
 ---
 Desde que comecei a programar, para compartilhar variáveis entre processo é meio que consenso usar-se a milenar técnica do crie uma seção compartilhada no seu executável/DLL. Isso funciona desde a época em que o Windows era em preto e branco. Mas, como tudo em programação, existem mil maneiras de assar o pato. Esse artigo explica uma delas, a não-tão-milenar técnica do use memória mapeada nomeada misturada com templates.
 
-
 Era comum (talvez ainda seja) fazer um código assim:
 
     // aqui definimos uma nova seção (note o 'shared' usado como atributo)
@@ -45,7 +44,6 @@ Algumas desvantagens dessa técnica são:
   * Não possui proteção, ou seja, se for uma DLL, qualquer executável que a carregar tem acesso à área de memória.
 
 Muitas vezes essa abordagem é suficiente, como em hooks globais, que precisam apenas de uma ou duas variáveis compartilhadas. Também pode ser útil como contador de instâncias, do mesmo jeito que usamos as variáveis estáticas de uma classe em C++ (vide sharedptr do boost, ou a CString do ATL, que usa o mesmo princípio).
-
 
 Houve uma vez em que tive que fazer hooks direcionados a threads específicas no sistema, onde eu não sabia nem qual o processo host nem quantos hooks seriam feitos. Essa é uma situação onde fica muito difícil usar a técnica milenar.
 
@@ -127,7 +125,6 @@ Como pode-se ver, o seu funcionamento é muito simples: uma função-template qu
 
 O segredo para entender mais detalhes dessa técnica é pesquisar as funções envolvidas: CreateFileMapping, OpenFileMapping, MapViewOfFile e UnmapViewOfFile. Bem, o CloseHandle também ;)
 
-
 Ah, é mesmo! Fiz especialmente para o artigo:
 
     #define _CRT_SECURE_NO_DEPRECATE
@@ -184,9 +181,7 @@ Ah, é mesmo! Fiz especialmente para o artigo:
     } 
     
 
-
 Preciso lembrar que essa é uma versão inicial ainda, mas que pode muito bem ser melhorada. Duas idéias interessantes são: parametrizar a proteção da variável (através do SECURITYATTRIBUTES) e transformá-la em classe. Uma classe parece ser uma idéia bem popular. Afinal, tem tanta gente que só se consegue programar se o código estiver dentro de uma.
-
 
     
   * MSDN Library - by Microsoft

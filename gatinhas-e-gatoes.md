@@ -9,4 +9,3 @@ Primeiro longa dirigido por John Hughes, Sixteen Candles é memorável até 30 a
 
 Porém, essa é uma comédia, e como tal é cheia de piadas escrachadas, mas que ao mesmo tempo continuam essa tarefa de documentar o que era engraçado na época. Uma experiência no mínimo curiosa.
 
-

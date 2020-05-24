@@ -10,7 +10,6 @@ Porém, existem situações, como a que passei essa semana, onde é preciso sabe
 
 Para isso é que serve um depurador de verdade, mesmo.
 
-
 No modo real, onde vivem sistemas como o MS-DOS e programas como o Turbo C, a memória é acessada através do par de coordenadas conhecido como segmento e offset. Entre outros motivos, isso acontece porque em um determinado momento da história o 8086 possuía 16 bits em seus registradores, mas conseguia endereçar até seiscentos e quarenta quilobytes, o que resulta em seiscentos e quarenta vezes mil e vinte e quatro, ou seja, seiscentos e cinquenta e cinco mil, trezentos e sessenta bytes, um número dez vezes maior do que sessenta e cinco mil, quinhentos e trinta e seis, ou dois elevado a dezesseis, o maior número representado por dezesseis bits.
 
 Dessa forma, foi necessário o uso de mais 4 bits para fazer a coisa funcionar, pois como podemos notar logo abaixo, a representação do último byte de 640 KB exige isso:
@@ -41,7 +40,6 @@ Se nós repararmos bem, veremos que esse método implica em conseguirmos acessar
        0x  9000
        0x   1734 (+)
        0x  91734
-
 
 É verdade! Então, o WinDbg possui alguns comandos extendidos e formas de representar essa memória real, atualmente limitada não mais em 640 KB, mas até onde seus pentes de RAM agüentarem. Os mais comuns são os que imitam os nossos conhecidos dumps de memória: db, dc, dd... Temos daí as extensões !db, !dc, !dd... (note a exclamação do início).
 

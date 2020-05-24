@@ -15,8 +15,6 @@ Aliás, para os que baixaram esses produtos gratuitos da Borland versão C++ e n
 
 Após instalado, em qualquer lugar da sua escolha, configure no seu Visual Studio Express o caminho de onde se encontra a pasta atl71 (ou a 30, ou a 21). Aproveite também para colocar a pasta do WTL e o diretório de LIBs:
 
-
-
 Isso vai fazer com que pelo menos os exemplos que vêem com o WTL compilem.
 
 No entanto, você verá o seguinte erro durante a compilação dos recursos:
@@ -85,7 +83,6 @@ Esse problema ocorre porque as funções de alocação e desalocação de memór
     #pragma comment(lib, "atlthunk.lib")
 
 E pronto! Agora temos todo o poder das 500 milhões de classes da ATL aliadas à ilimitada flexibilidade das classes de janelas da WTL.
-
 
 	
   * Explicando a sopa de letrinhas da programação C/C++ para Windows: WTL

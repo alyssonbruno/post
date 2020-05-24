@@ -22,26 +22,13 @@ Muito bem, o raciocínio é perfeito. Afinal de contas, "A simple string" é um 
 
 Estou quase certo disso. Porém, isso quer dizer que já deixei vários bugs escabrosos há uns 4 anos atrás em trechos de código parecidos com esse. Será que eu estava errado e não me dei conta, ou sabia de algo que esqueci faz muito tempo?
 
-
 Eu e meu amigo demos uma olhada no padrão da linguagem C de 89 (revisão de 90), que diz duas coisas muito importantes nesse momento: o que é um sizeof e o que é uma string constante (chamada no padrão de string literal):
-
-
-
-
-
-The sizeof operator yields the size (in bytes) of its operand, which may be an expression or the parenthesized name of a type. The size is determined from the type of the operand, which is not itself evaluated. The result is an integer constant.
 
 
 
 A character string literal is a sequence of zero or more multibyte characters enclosed in double-quotes, as in "xyz". A wide string literal is the same, except prefixed by the letter L. (...) The multibyte character sequence is then used to initialize an array of static storage duration and lenght just sufficient to contain the sequence.
 
 Em C++ (padrão ISO de 98) o texto é muito parecido, apenas abragendo também o conceito de type-id (desnecessário explicar para o contexto deste artigo):
-
-
-
-
-
-The sizeof operator yields the number of bytes in the object representation of its operand. The operand is either an expression, which is not evaluated, or a parenthesized type-id.
 
 
 

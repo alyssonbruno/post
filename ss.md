@@ -18,7 +18,6 @@ Uma das coisas mais cretinas e difíceis para os iniciantes em C++ é conseguir 
     }
     
 
-
 A resposta é, pra variar, depende. Se você combinar com seu cérebro que o operador de shift que você aprendeu em C para cout não tem a mesma semântica, OK. No fundo eu acredito que os criadores dessa sobrecarga de operador pensaram sinceramente que hoje em dia quase ninguém conhece os operadores de shift binário, então tudo bem reaproveitá-lo de uma maneira mais miguxa.
 
 Porém, isso depende da maneira com que você usa streams C++. Vai haver momentos de sua vida que você vai se questionar por que tiraram todo o controle, a elegância e simplicidade de um bom printf, quando os homens eram homens e sabiam configurar jumpers para instalar a nova placa EISA.
@@ -33,8 +32,6 @@ Porém, isso depende da maneira com que você usa streams C++. Vai haver momento
         std::cout << "int x = 0x" << std::hex << x << ";" << std::endl; // pois eh, parece que melhoramos mesmo com streams...
     }
     
-
-
 
 A questão dos streams fica mais complicada quando precisamos realizar atividades corriqueiras no código, como retornar uma string formatada, ou até mesmo transformar um inteiro em string.
 
@@ -58,7 +55,6 @@ A questão dos streams fica mais complicada quando precisamos realizar atividade
 Já pensou termos que criar uma função dessas sempre que quisermos converter números em string? Ou pior, ter que fazer o que fizemos dentro dessa função: declarar um ostringstream (um cout com buffer interno de string), usá-lo como cout e obter seu buffer interno através do método str. Tudo isso para converter um número para string.
 
 Quando uma tarefa muito comum exige mais de dois passos para ser realizada é de bom tom criarmos algum código reutilizável, certo? Um código que trará de uma vez por todas a solução final!
-
 
     #include <sstream>
     

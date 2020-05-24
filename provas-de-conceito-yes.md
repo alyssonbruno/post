@@ -10,7 +10,6 @@ A consequência interessante disso é que, uma vez que a prova de conceito deva 
 
 Portanto, conclui-se que desenvolver provas de conceito é a coisa mais divertida do Universo.
 
-
 Além de serem extremamente divertidas e disputadas entre os programadores, desenvolver provas de conceito gera uma gama de vantagens para o desenvolvimento "sério" do software como um todo, "rodável" e "vendável":
 
 	
@@ -20,7 +19,6 @@ Além de serem extremamente divertidas e disputadas entre os programadores, dese
   * Consegue tornar o milagre do cronograma realista mais perto do provável.
 
 Apenas essas vantagens já praticamente obrigam o profissional do software a pensar em produtos novos em termos de como pode-se testar tudo o que se está dizendo antes de realmente começar a trabalhar pra valer.
-
 
 Mas antes que se pense que fazer provas de conceito não requer nenhuma responsabilidade e que o que você quer ser quando crescer é desenvolvedor de prova de conceito, é necessário colocar alguns pingos nos is antes de continuar. Para criar provas de conceito realmente agregadoras para o projeto, deve-se sempre:
 

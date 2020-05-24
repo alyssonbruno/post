@@ -114,9 +114,7 @@ This version almost done it, except for timeout error. Hacker Hank has a timeout
 
 And it worked. Now what I learned looking the other solutions.
 
-
 There are incredible tools in C++, even since 98 or 11, that are frequently overlooked, but it is important to notice that the language has a framework for processing: containers, algorithms and so on. By example, looking for other solutions I learned about the characteristics of multiset and priorityqueue (spoiler: both have a ordering predicate and are logarithmic). There are smart functions in algorithm, too, as lowerbound.
-
 
 A lot of solutions simply ignored the skeleton provided by the site and began its own code from scratch, eliminating the "request" that the numbers must be stored first in a vector. Sometimes, when there as skeleton in our life, we use them as guidelines, forgetting that "there is no spoon".
 

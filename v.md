@@ -20,7 +20,6 @@ Parabéns a todos que participaram e ajudaram para que todos nós chegássemos a
 
 E esse é só o começo.
 
-
 04 de outubro de 2008, São Paulo, Brasil
 	
   * Ferramentas para programação C++ para Windows por Rodrigo Strauss
@@ -28,7 +27,6 @@ E esse é só o começo.
   * Arquivos de memória mapeada no Windows com C++ por Basílio Miranda
   * Explorando o Windows (Vista & Server 2008) com C++ por Fábio Galuppo
   * Criando Linguagens Embutidas para Otimização por Felipe Almeida
-
 
 08 de novembro de 2008, São Paulo, Brasil
 	

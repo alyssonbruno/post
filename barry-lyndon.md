@@ -15,4 +15,3 @@ Curioso começa a ser a opinião do narrador, que entrega o mérito da escalada 
 
 O que dizer de sua visão cruel da guerra, ou das consequências de um tiro para aquela medicina tragicamente precária? Nada pode ser mais cínico do que a visão afastada desse anti-herói, que prefere não julgar, pois prefere contar suas aventuras tal como o leríamos nos livros de história. Se isso por si só não é o maior sarcasmo do filme, não sei o que é.
 
-

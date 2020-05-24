@@ -12,24 +12,17 @@ No começo não existe nenhum problema, mesmo. O fonte vai ser pequeno. A coisa 
 
 A partir daí, para chegar em uma LIB, já é meio caminho andado.
 
-
 Boa pergunta. Uma LIB, ou biblioteca, nada mais é do que um punhado de ".obj" colocados todos no mesmo arquivo, geralmente um ".lib". Esses ".obj" são o resultado da compilação de seus respectivos ".c" de origem.
-
 
 Alguns acreditam ser esse negócio de LIB uma pura perda de tempo, pois existem trocentas configurações diferentes (e incompatíveis) e trocentas compilações diferentes para gerenciar. Outros acham que o problema está no tempo de compilação, enquanto outros defendem o uso dos ".obj" de maneira separada. Esse artigo não presume que nem um nem outro seja melhor. Apenas ensina o que você precisa saber para criar sua primeira LIB usando o Visual Studio Express.
 
 Vamos lá?
 
-
 Após abrir o VS, tudo que precisamos fazer é ir em New, Project, e escolher a configuração de "Win32 Project":
-
 
 A seguir, escolhemos nas opções do assistente criar uma "Static library", e desmarcamos a opção de "Precompiled header" para evitar má sorte logo no primeiro projeto de LIB (má sorte significa horas procurando erros incríveis que você só irá fazer desaparecer se recompilar tudo com o uso do famigerado "Rebuild All"; espero que isso dê certo para você, para mim não tem funcionado).
 
-
 E pronto! Temos um projeto de LIB completo, funcional e... um tanto inútil. Mas, calma lá. Ainda não terminamos.
-
-
 
 Conforme o programador consegue se livrar das maldições das mil dependências, aos poucos ele vai conseguindo novas funções genéricas e encaixáveis para colocar em sua coleção de objs.  Essa com certeza não é uma tarefa fácil, mas ei, quem disse que esse trampo de programador seria fácil?
 
@@ -69,11 +62,7 @@ Adicionamos esses dois arquivos ao projeto (se já não estão), e voilà!
     MyFirstLib - 0 error(s), 0 warning(s)
     ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
 
-
 Para usar uma LIB temos inúmeras maneiras de fazê-lo. A mais simples que eu conheço é criar um novo projeto no mesmo Solution de sua LIB. Um console, por exemplo:
-
-
-
 
 Se você seguiu todos os passos direitinho, e eu estou assumindo que você já sabia como criar um projeto console, sua saída da compilação talvez seja mais ou menos essa:
 
@@ -92,8 +81,6 @@ Se você seguiu todos os passos direitinho, e eu estou assumindo que você já s
 Dois erros! Ele não achou os símbolos mult e sum. Mas eles estão logo ali! E agora?
 
 Nada a temer: tudo que temos que fazer é falar para o Solution que o projeto myfirstcmd depende do projeto myfirstlib:
-
-
 
     
     ------ Build started: Project: MyFirstCmd, Configuration: Debug Win32 ------

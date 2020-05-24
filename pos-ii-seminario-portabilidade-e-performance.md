@@ -8,7 +8,6 @@ O nosso seminário da semana retrasada sobre portabilidade e performance teve um
 
 A ordem das palestras também ajudou muito a tecer os conteúdos individuais para algo maior e em comum, que eram os temas do seminário: se com Galuppo tivemos uma pitada do desenvolvimento concorrente, com Fernando conseguimos entender de uma maneira simples e didática como funcionam os recursos de sincronismo entre threads rodando em múltiplos cores, com uma pequena ajuda de um exemplo em C levado ao nível de assembly, onde foi possível acompanhar o que já havíamos aprendido com a palestra do Caloni.
 
-
 Pra terminar, um apanhado de boas práticas e  a experiência de quem já mexeu muito com análise e desempenho no código: Rodrigo Strauss. Além das dicas e do bom humor costumeiros, tivemos uma pequena prévia do que poderemos ter em breve com o tema "C++ com outra linguagens".
 
 Deixarei disponibilizado para download minha transparência, onde infelizmente não estão embutidos o áudio nem o vídeo do momento realmente importante,que foi a interação do grupo durante a apresentação. Se você perdeu, so sorry. Até a próxima!

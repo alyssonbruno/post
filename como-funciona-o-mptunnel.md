@@ -6,12 +6,9 @@ title: "Como Funciona o MPTunnel"
 ---
 A ideia por trás de um sistema multipath de rede é fornecer mais de um caminho para o tráfego de pacotes. O objetivo pode ser diminuir a perda de pacotes por causa da instabilidade da rede, mas também isso irá fazer com que o throughput da comunicação seja maior pela diminuição da razão da perda de pacotes, além da melhor rota acabar sendo por onde os pacotes irão chegar primeiro, em uma espécie de seleção natural da arquitetura.
 
-
 Esta é uma implementação em user space de UDP multipath. Assim como a contraparte em sua versão TCP, você pode estabilizar várias conexões entre o servidor local e o remoto.
 
 MPTCP (MultiPath TCP) é uma boa ideia para tornar a conexão de rede mais robusta, mas apenas funciona em TCP, e em um ambiente multiplataforma não há soluções em kernel mode exceto o ECMP desenvolvido no último Linux, cujos artigos de Jakub Sitnicki explicam os detalhes. E foi através da busca por uma implementação de MPUDP que foi escrita essa ferramenta por greensea, um usuário do GitHub.
-
-
 
                             .---- bridge server 1 ----.
                            /                            \
@@ -27,10 +24,7 @@ mpserver é a parte servidora do mptunnel, ele pode rodar no ServerB. Você deve
 
 Os servidores bridge são simples, eles apenas redirecionam os pacote do mpclient para mpserver, ou pacotes do mpserver para mpclient. Você pode usar nc ou socat para entregar um servidor bridge.
 
-
-
 Para a solução ser rodável em Linux, Windows e Mac OS os fontes compilam em um ambiente POSIX mínimo, já disponível nos três SOs, sendo que para Windows este ambiente é o Cygwin.
-
 
 O resumo para compilar em Linux é instalar o gcc, o make, o git, as dependências, baixar o projeto e compilar. Esses passos devem funcionar em qualquer Linux, mas foi testado em Ubuntu.
 
@@ -39,7 +33,6 @@ O resumo para compilar em Linux é instalar o gcc, o make, o git, as dependênci
     caloni@ubuntu:~$ sudo apt install git
     caloni@ubuntu:~$ sudo apt install libev-dev
     caloni@ubuntu:~$ git clone https://github.com/bitforgebr/mptunnel && cd mptunnel
-
 
 O primeiro passo é baixar e instalar o cygwin com os seguintes pacotes adicionais ao padrão: 
 
@@ -80,8 +73,6 @@ Em seguida deve-se baixar o repositório do mtunnel e do terminal cygwin executa
     ./make-locale.sh: line 3: xgettext: command not found
     ./make-locale.sh: line 12: msgmerge: command not found
     ./make-locale.sh: line 14: msgfmt: command not found
-
-
 
 Dentro deste repositório há como exemplo dois programas client/server em UDP, udpclient.c e udpserver.c. Eles se comunicam de um lado para outro enviando mensagens de hello com um número na frente que é incrementado pelo servidor.
 
@@ -128,7 +119,6 @@ Em cada "servidor bridge" (no exemplo está tudo local, mas não precisaria) use
 
 Os servidores bridge irão ficar em listen nas portas 4001, 4002 e 4003 e redirecionar qualquer pacote recebido para localhost:2000, e vice-versa.
 
-
 Agora eu faço o cliente conectar em localhost:4000 que o mpclient está em listen ele irá estabiizar uma conexão sobre o MultiPath UDP tunnel.
 
                            .------ bridge server 1 -----.
@@ -138,7 +128,6 @@ Agora eu faço o cliente conectar em localhost:4000 que o mpclient está em list
                            `------ bridge server 3 -----`
 
 Dois scripts estão disponíveis para iniciar e parar a arquitetura de exemplo acima chamados respectivamente sample.start.sh e sample.stop.sh.
-
 
 Para observar a performance da solução os samples udpclient/udpserver servirão para medir a eficiência de uma comunicação onde as bridges se tornam instáveis, e para isso eles precisarão de uma rota remota entre as bridges. Este teste requer ao menos uma máquina a mais que esteja acessível na rede pelas portas a serem usadas (pode ser uma máquina virtual).
 
@@ -160,13 +149,11 @@ Isso fará com que três dos quatros bridges sejam remotos, enquanto o último e
 
 Outros cenários podem ser desenhados levando em conta a velocidade de uma rede ou sua instabilidade.
 
-
 Mptunnel adiciona alguma informação de controle dentro dos pacotes, incluindo informação síncrona. mpserver e mpclient devem ser iniciados ao mesmo tempo. Se o mpclient ou o mpserver terminar, você terá que reiniciar ambos para restabelecer o túnel.  
 
 Atualmente você pode especificar apenas um único host alvo. Alguém sabe se existe uma biblioteca C de proxy SOCKS5? Penso que ao tornar o mpclient como um servidor proxy SOCKS irá torná-lo mais fácil de usar.  
 
 Mptunnel não encripta os pacotes por padrão, apesar de ter essa opção, pois isso irá diminuir o throughput. Em alguns testes o throughput atual é 3Mbps enquanto usando três túneis com criptografia, e após desabilitar a criptografia o throughput sobe para 300Mbps. Se você ainda quiser que o mptunnel encripte os pacotes, defina a variável de ambiente MPTUNNELENCRYPT=1.  
-
 
 Para compilar o mptunnel, essas bibliotecas são requeridas:
 

@@ -11,4 +11,3 @@ No entanto, as participações de Laura Linney e Julie Walter (essa última, tam
 
 Fora isso, temos Julie Walters no papel de Evie Walton, uma atriz aposentada cuja vida é um misto de realidade e encenação. Esse é o papel que faz toda a diferença.
 
-

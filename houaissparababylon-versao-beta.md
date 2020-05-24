@@ -21,16 +21,12 @@ Tudo isso verificado, basta então clicar no botão de Iniciar Conversão, senta
   * Montagem do projeto de dicionário Babylon. Para isso existe um processo de interpretação do formato Houaiss, agora desencriptado, e sucessivas traduções para um projeto que o Babylon Builder irá entender.
   * Construção do dicionário Babylon. Essa parte é feita pelo Babylon Builder. Por ser o maior dicionário de português da atualidade, esse processo pode demorar bastante, e com certeza irá se tornar o maior dicionário já instalado na sua lista de dicionários do Babylon.
 
-
 Na segunda fase, após toda essa movimentação de HD, existe apenas uma coisa a fazer: instalar o dicionário no Babylon.
 
 Quem faz isso é o próprio Babylon, se devidamente instalado. Se tudo deu certo, o HouaissParaBabylon sai de fininho e deixa o usuário com o progresso da instalação do dicionário Houaiss-Babylon.
 
-
 Se não for encontrado o dicionário Houaiss devidamente instalado no disco rígido, será exibida uma mensagem de erro pedindo que a instalação seja feita dessa maneira. Se, contudo, não for possível localizar a instalação do dicionário, será pedido ao usuário que diga onde ela se encontra, ou aponte para a pasta "Houaiss" em seu CD de instalação, uma dica suficiente para que a operação seja bem-sucedida.
 
-
 Outros erros comuns, como o Babylon Builder não instalado, serão obviamente avisados ao usuário. Erros mais raros terão um tratamento mais genérico. No entanto, nem por isso ele está livre de solução. Ao sair de uma conversão mal-sucedida, o usuário tem a opção de exportar o log de operações que foram realizadas durante a malfadada operação. Dessa forma, ele próprio conseguirá diagnosticar o problema ou, em casos mais sérios, me enviar o resultado de suas tentativas.
-
 
 E é isso. Para uma versão inicial, talvez esteja razoável. Quem confirmará serão os ansiosos usuário que, espero sinceramente, consigam seus objetivos há tempos aguardados.

@@ -13,7 +13,6 @@ Compilação automática geralmente está disponível nas ferramentas de desenvo
 
 Se não for exatamente o que você precisa, basta fazer uma pesquisa de quinze minutos e encontrar os parâmetros corretos. O objetivo é: eu rodo esse comando em cima do projeto inteiro em uma máquina zerada e ele simplesmente compila.
 
-
 É lógico que ter apenas um solution/workspace para guardar projetos médios e grandes é inviável. Demora para carregar no ambiente e possuem dezenas de dependências. Isso já foi tentado duas vezes nas duas empresas em que trabalhei e não funcionou. Talvez por isso seja necessário criar um script que rode o comando acima para todas as soluções do projeto, o que não muda muito o modus operandi da coisa:
 
     

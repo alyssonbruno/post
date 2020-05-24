@@ -6,7 +6,6 @@ title: "Usando a LIBC nativa do Windows"
 ---
 Por padrão, todo projeto no Visual Studio depende da LIBC. Isso quer dizer que, mesmo que você não use nem um mísero printf em todos os projetos criados, está atrelado a essa dependência. Em tempos onde fazer um "Hello World" pode custar 56 KB em Release - Visual Studio 2005, configuração padrão sem "buffer security check" - vale a pena economizar alguns KBytes que não se vão usar. Principalmente se essa possibilidade existe desde o cavernoso Windows 95.
 
-
     
   1. Crie um novo projeto console Win32 vazio (_File, New, Project_, blá blá blá)
 
@@ -39,7 +38,6 @@ Pronto, após esses passos temos um projeto ordinário que compila um executáve
 
 Agora a parte divertida =).
 
-
 Desde o Windows 95, existe uma DLL com a maioria das funções da LIBC disponíveis para link dinâmico. Só que, com o uso padrão do Visual C++, é usada sempre a biblioteca que vem junto com o ambiente, com suas trocentas funções (e conseqüentes bytes enche-lingüiça). Porém, é possível utilizar diretamente a msvcrt.dll distribuída no diretório do sistema se criarmos uma LIB de importação para ela.
 
     
@@ -71,7 +69,6 @@ Desde o Windows 95, existe uma DLL com a maioria das funções da LIBC disponív
     REM Isso gera um arquivo .lib para importar as funções da DLL
     REM
     LIB /DEF:msvcrt.def
-
 
 Ótimo. Geramos a LIB que precisávamos e agora só falta integrar com o projeto. Para isso, mais alguns passos:
 
@@ -110,9 +107,7 @@ Desde o Windows 95, existe uma DLL com a maioria das funções da LIBC disponív
 
 E agora o tamanho final de nosso executável passou para espantosos 2KB! Isso a princípio parece ótimo e dá vontade de usar em todos os projetos, mas existe um porém ainda não resolvido: as limitações da falta de um runtime. Para isso que existe a próxima seção.
 
-
 Essa é uma solução bem bobinha que não tem nada a ver com uma solução profissional 100% garantida e com suporte técnico 24 horas. Algumas coisas não vão funcionar, como inicialização de variáveis estáticas, exceções, redirecionamento de entrada/saída, etc. Contudo, para projetos simples e pequenos, isso não deverá ser um problema. No entanto, eu não garanto qualquer coisa que advier de compilações inspiradas neste artigo. 
-
 
     
   * Reduce EXE and DLL Size with LIBCTINY.LIB - Matt Pietrek

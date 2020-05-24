@@ -16,7 +16,6 @@ Pela linha de comando:
 
 Pela interface:
 
-
 Para variar, iremos depurar o Bloco de Notas, o maravilhoso editor de textos da Microsoft e plataforma de testes para serviços, GINAs e drivers. Para começar, poderemos usar quaisquer das opções anteriores, o que nos levará para uma saída parecida com a seguinte:
 
     
@@ -86,16 +85,13 @@ Muito bem. Agora vamos explicar resumidamente o que cada parte significa:
 
 Explicado o começo, o resto é fácil. Para continuar a execução do bloco de notas basta usarmos o comando g (Go), ou pressionar F5, ou ir no menu "Debug, Go", ou ainda apertar este botão:
 
-
 Na maioria dos comandos mais comums você terá todas essas opções ao seu dispor. Na maioria dos comandos mais incomuns tudo o que você terá será o prompt de comando do WinDbg e a ajuda, acionada por F1 ou pelo comando .hh tópico. Geralmente os comandos do WinDbg possuem milhares de parâmetros, e é considerada atitude sábia olhar de vez em quando o que alguns desses parâmetros significam para que, aos poucos, aprenda-se alguns truques até a chegada da iluminação completa, onde seu espírito irá fluir livremente pela memória de todos os processos do sistema.
 
 Por enquanto, basta apertar g e .
 
 > A tempo: após executar g e mais um monte daquelas mensagens cheias de caracteres irão aparecer. Não se preocupe. Elas realmente não são importantes no momento, mas é importante saber o básico, que é "o WinDbg está avisando você de tudo o que ocorre". No momento certo, saberemos usar as informações na tela quando houver necessidade.
 
-
 Vamos fazer algo não tão esperto para ver como o bloco de notas reage. Tente abrir um arquivo com um nome inexistente:
-
 
 Como podemos ver, o Bloco de Notas exibe uma mensagem de erro indicando que o arquivo cujo nome você digitou não existe, pede para você verificar a "orografia" e tudo o mais. O importante aqui não é que você não sabe digitar nomes de arquivos, mas sim que a função que o notepad usa para exibir sua mensagem de erro é a conhecida API MessageBox, cujo protótipo é o seguinte:
 
@@ -124,8 +120,6 @@ Sabendo que tudo converge para UNICODE, vamos colocar um singelo breakpoint ness
     
     bp user32!MessageBoxW
     g
-
-
 
 > 
 > #### Faça do modo inteligente
@@ -201,7 +195,5 @@ Para continuar a execução, como já vimos, usamos o comando g (Go), e é nessa
     breakpoint 0 redefined
 
 O comando bp (BreakPoint) permite que sejam especificados comandos para serem executados automaticamente sempre que o breakpoint for ativado. Por isso, ao passar em user32!MessageBoxW colocamos dois comandos (separados por ponto-e-vírgula): ezu, que Edita uma string Unicode com outra string terminada em Zero, e o comando g, que já estamos carecas de saber. O resultado é óbvio, mas divertido de ver:
-
-
 
 Repare que colocamos esse breakpoint diretamente na função API, ou seja, qualquer outro ponto do notepad em que ele tiver vontade de chamar a mesma API irá ativar o mesmo breakpoint e exibir a mesma mensagem, o que pode ser um pouco importuno da parte dele. Um bom exercício pós-leitura seria tratar as condições em que a mensagem será trocada, talvez se baseando na mensagem recebida. Mas isso já é lição de casa, e paramos por aqui.

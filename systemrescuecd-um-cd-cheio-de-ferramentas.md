@@ -23,7 +23,6 @@ Desligue a VM. A partir do Windows, monte o HD Windows e formate a partição cr
 
 Obs.: Apenas a VM ou a máquina real podem utilizar o HD de uma vez. Portanto, para copiar arquivos para o HD virtualizado é necessário desligar a VM antes.
 
-
 Seguindo o tutorial do SystemRescueCD ("Step-01: Mount the working partition"), vamos montar a partição Linux na pasta /mnt/custom.
 
     % mkdir /mnt/custom

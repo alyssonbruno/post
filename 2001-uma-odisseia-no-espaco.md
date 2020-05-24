@@ -15,4 +15,3 @@ A discussão envolve menos diálogos e mais sensações. As formas arredondadas 
 
 Por esses motivos não consigo deixar de considerar 2001 uma obra de arte que puxa ao máximo o seu meio - o Cinema - para uma discussão profunda e deliciosa sobre o que estamos fazendo aqui.
 
-

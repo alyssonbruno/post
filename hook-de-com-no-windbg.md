@@ -10,18 +10,15 @@ Antes de começar, se você não sabe nada sobre COM, não deveria estar aqui, m
 
 Pra começar, vamos dar uma olhada na representação da interface IUnknown em UML e em memória:
 
-
 Como podemos ver, para implementar o polimorfismo, os endereços das funções virtuais de uma classe são colocados em uma tabela, a chamada vtable, famosa tanto no COM quanto no C++. Existe uma tabela para cada classe-base polimórfica, e não para cada objeto. Se fosse para cada objeto não faria sentido deixar esses endereços "do lado de fora" do leiaute. E não seria nada simples e elegante fazer uma cópia desse objeto.
 
 Assim, quando você chama uma função virtual de um objeto, o código em assembly irá chamar o endereço que estiver na posição correspondente ao método chamado dentro da vtable. Se você chama AddRef, por exemplo, que é o segundo método na tabela, será chamado o endereço da posição número dois. Com isso, mesmo desconhecendo de que tipo é o objeto a função certa será chamada, porque existe um ponteiro para essa tabela no início da interface.
 
 Sabendo de tudo isso, agora sabemos como teoricamente proceder para colocar uns breakpoints nessas chamadas:
 
-
 Note que o breakpoint não é colocado dentro da tabela, o que seria absurdo. Uma tabela são dados e dados geralmente não são executados (eu disse geralmente). Porém, usamos a tabela para saber onde está o começo da função para daí colocar a parada nesse endereço, que por fazer parte do código da função é (quem diria!) executado.
 
 Agora vamos sair da teoria e tentar fazer as coisas mais ou menos parecidas na prática.
-
 
 O nosso sorteado desse artigo foi o IMalloc, a interface de alocação de memória do COM, que existe desde a época em que não se sabia direito pra que esse tal de COM iria servir. O IMalloc é definido como se segue:
 
@@ -90,7 +87,6 @@ Vamos fazer de conta que é desnecessário dizer como se compila o fonte acima.
     
     cl /c imalloc-hook.cpp
     link imalloc-hook.obj ole32.lib
-
 
 WinDbg. Na opção "File, Open Executable" selecionamos a nossa vítima, cujo nome você escolhe na hora de compilar o fonte acima. Aqui, ele irá chamar imalloc-hook.exe. A seguir, colocamos um breakpoint na função da ole32, mandamos rodar, e esperamos a parada do código:
 

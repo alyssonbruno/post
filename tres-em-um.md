@@ -44,9 +44,7 @@ Usar o CreateWindow com a classe certa, fazer markup html dentro do título e cu
 
 Você que não está fazendo subclassing de janelas existe outra técnica que você pode utilizar: arrastar-e-soltar o controle do seu ToolBox. Qual é a graça?
 
-
  Outra coisa que aprendi foi como enviar mensagens ao usuário para impedir que este reinicie a máquina em momentos importantes:
-
 
 A partir do Vista temos uma nova API para fazer isso. E é muito simples:
 

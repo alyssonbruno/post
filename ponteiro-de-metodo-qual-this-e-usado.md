@@ -10,7 +10,6 @@ Isso me estimulou a desdobrar um pouco mais os mistérios por trás dos ponteiro
 
 Para entender por inteiro o que acontece quando uma chamada ou acesso utilizando ponteiros dependentes de escopo, algumas pequenas mudanças foram feitas no nosso pequeno FuzzyCall.
 
-
     #include <windows.h>
     #include <iostream>
     #include <time.h>
@@ -83,9 +82,7 @@ O novo código chama através do mesmo ponteiro o mesmo método (duh), mas atrav
     this: 0012FF5C, member: 5
     this: 0012FF60, member: 44
 
-
 Cada compilador e plataforma tem a liberdade de implementar o padrão C++ da maneira que quiser, mas o conceito no final acaba ficando quase a mesma coisa. No caso de ponteiros de métodos, o ponteiro guarda realmente o endereço da função que pertence à classe. Porém, como todo método não-estático em C++, para chamá-lo é necessário possuir um this, ou seja, o ponteiro para a instância:
-
 
 Em assembly (comando "cl /Fafuzzycall3.asm fuzzycall3.cpp" para gerar a listagem), teremos algo assim:
 
@@ -110,7 +107,6 @@ Em assembly (comando "cl /Fafuzzycall3.asm fuzzycall3.cpp" para gerar a listagem
     call    DWORD PTR
     _pMethod$
     [ebp]
-
 
 Além do ponteiro de métodos, também é possível no C++ apontar para membros de um dado objeto. Para tanto, como vimos no código, basta declarar um tipo de ponteiro de membro de acordo com o tipo desejado:
 

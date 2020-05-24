@@ -66,9 +66,7 @@ Um uso trivial pode não cuspir um resultado trivial, ou seja, os elementos não
     }
     
 
-
 Isso ocorre porque o comportamento do removeif é copiar todos os elementos que retornem false (não remova) e pular elementos que retornem true (remova). No entanto, o tamanho do contêiner, e consequentemente seu ponteiro end(), permanecem o mesmo.
-
 
 De acordo com o saite cplusplus.com, o algoritmo STL é previsível, simples, e por isso mesmo sujeito a otimizações do compilador:
 
@@ -135,6 +133,5 @@ Para obtermos qual seria o "novo end()", precisamos obter esse valor do retorno 
     	for_each(newAges, newAges + newAgesSz, [&] (int age) { cout << age << endl; } );
     }
     
-
 
 Esse C++... intuitivo como nunca!

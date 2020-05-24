@@ -21,5 +21,3 @@ Toda a tensão construída e as histórias independentes são abortadas por uma 
 
 Interpretações competentes na média, com especial destaque para os irmãos McLaren, que encantam em todas as cenas na qual estão juntos.
 
-
-

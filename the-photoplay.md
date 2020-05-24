@@ -42,7 +42,6 @@ Ainda na análise psicológica do filme, ele entende que o cinema está emulando
 > 
 > The objective world is molded by the interests of the mind. Events which are far distant from one another so that we could not be physically present at all of them at the same time are fusing in our field of vision, just as they are brought together in our own consciousness. 
 
-
 A discussão sobre estética se torna a mais prolífica do livro, pois além de explicar o que torna as outras formas de arte... arte, há uma análise profissional sobre como o Cinema deve ser trabalhado entre os críticos, exaltando principalmente como esteticamente o importante para uma obra de arte não é imitar a vida real, mas justamente se distanciar desta, para com isso criar sua própria bolha de significado, auto-contida, com começo, meio e fim, de forma a se distanciar do cotidiano e virar uma entidade independente.
 
 > We admire the marble statue and we despise as inartistic the colored wax figures. 
@@ -68,7 +67,6 @@ Um desses momentos é quando ele compara o cientista com o artista e como ambos 
 Por fim, na terceira parte do livro, Münsterberg tenta juntar as duas primeiras partes em sua tese, onde ele faz uma análise curiosa e temporal sobre o Cinema. Para ele, psicólogo, o mundo real perdeu seu significado, dando lugar para o poder da mente, sua liberdade sobre o tempo e a causalidade. O Cinema é apenas uma forma de arte que exibe essa consequência do nosso mundo contemporâneo.
 
 > The massive outer world has lost its weight, it has been freed from space, time, and causality, and it has been clothed in the forms of our own consciousness. The mind has triumphed over matter and the pictures roll on with the ease of musical tones. It is a superb enjoyment which no other art can furnish us.
-
 
 Quando ele explica porque a projeção de filmes não é 3D, mas como seria possível implementar (e de fato já foram feitas várias tentativas de embalar o espectador em um 3D "real":
 

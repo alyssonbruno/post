@@ -71,6 +71,5 @@ Essa é uma maneira rústica, porém eficaz e rápida de obter a lista de execu�
 
 [2] Essa técnica nem sempre funciona com todas as chamadas API, pois o aplicativo ainda pode utilizar outras maneiras de obter o endereço de uma função e chamá-la. A solução definitiva seria escrever diretamente um assembly esperto no começo da função, o que pode gerar mais problemas que soluções. Do jeito que está, conseguimos resolver 90% dos nossos problemas com análise de chamadas API. O resto nós podemos resolver em futuros artigos.
 
-
   * http://www.kakeeware.com: sítio com monitor de chamadas de API e outras ferramentas interessantes. Detalhe notável: o cara faz tudo usando apenas _assembly_, o que torna os programas realmente pequenos e rápidos.
   * ComTrace: outro monitor de chamadas, mas de componentes COM. Intercepta todas as chamadas de métodos de um aplicativo.

@@ -17,5 +17,3 @@ A ideia genial do longa é justamente representar a história do resto do mundo 
 
 [pesquisar pela página que faz o cálculo].
 
-
-

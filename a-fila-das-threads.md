@@ -70,9 +70,7 @@ Esta é a saída:
 
 Pelo jeito, a primeira thread não deu chance para as outras. Isso acontece por causa do pequeno espaço de tempo que é necessário para realizar a tarefa de incrementar uma variável. Tempo esse tão pequeno que nem foi suficiente para a primeira thread dar lugar para as outras duas threads e ir para o final da fila.
 
-
 Quando uma thread quer realizar algum processamento, ela precisa entrar na fila das threads ativas, que aguardam pela CPU que irá atendê-las. Nessa fila ela pega uma senha e aguarda a sua vez. Só que cada um que é atendido pela CPU tem um tempo máximo de atendimento, que nós chamamos de quantum, ou time slice. Se o tempo máximo estoura, ou a thread não tem mais nada pra fazer, ela sai do guichê de atendimento e volta a ficar inativa, ou volta para o final da fila, aguardando por mais processamento.
-
 
 Uma thread pode opcionalmente ir para o final da fila por conta própria. Para isso, basta que ela chame a função Sleep.aspx) da API passando qualquer valor em milissegundos; até mesmo zero. Se passar um valor diferente de zero, ela irá para outra fila de espera, a fila das inativas, até o tempo determinado estourar. Depois ela volta para a fila das threads ativas. Se passar zero, ela vai direto para a fila das ativas.
 
@@ -130,7 +128,6 @@ Uma thread pode opcionalmente ir para o final da fila por conta própria. Para i
     Counter: 10             Thread: 2284
 
 Agora cada thread, depois de incrementar uma vez o contador, volta para o final da fila. Dessa forma vemos uma thread de cada vez incrementando o mesmo contador.
-
 
 Peraí. O mesmo contador? Isso não pode gerar problemas de duas threads tentando incrementar o mesmo contador ao mesmo tempo?
 

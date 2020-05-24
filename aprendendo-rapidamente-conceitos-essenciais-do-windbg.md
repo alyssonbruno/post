@@ -63,5 +63,4 @@ Se você ainda não teve tempo de se dedicar à depuração avançada em Windows
 
 Eu recomendo.
 
-
 Existe uma tradução para inglês desse texto no saite do próprio Robert Kuster, que usou-o como uma espécie de introdução.

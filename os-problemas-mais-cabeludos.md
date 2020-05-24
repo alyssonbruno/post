@@ -24,7 +24,6 @@ Para esse tipo de situação que envolve 1. o sistema como um todo, 2. processos
 
 Cada uma dessas perguntas deve ser respondida com a maior sinceridade e disciplina, custe o que custar.
 
-
 Esse deve ser o primeiro e mais importante indício do que pode estar acontecendo. Sem entender o funcionamento do programa, dificilmente conseguiremos passar para os passos seguintes. Na maioria das vezes, sem saber onde a coisa começa e termina, o problema vai ficar rindo da nossa cara até entendermos de fato que aquele if não merece estar naquela linha.
 
 Para facilitar esse entendimento, nada como elaborar uma pequena explicação para si mesmo no estilo How Stuff Works. Não precisa exagerar e fazer uma tese a respeito e criar vídeos explicativos. Só precisa descrever o fluxo com os detalhes aparentemente importantes para a resolução do problema.
@@ -54,11 +53,9 @@ Continuando nosso exemplo:
 
 A lista acima é longa o suficiente para podermos elaborar perguntas interessantes e pequena o suficiente para podermos ter em mente o seu funcionamento como um todo, o que é vital para o sucesso das observações durante a depuração.
 
-
 Note que a pergunta nos direciona para o sintoma do problema, não o problema em si, que provavelmente ainda não é conhecido. E nunca é demais lembrar que podemos estar lidando com uma série de problemas trabalhando em conjunto para nos deixar acordados por dias a fio.
 
 Exemplos de respostas possíveis: a tabela estatística perde a lógica em determinado momento, o hook algumas vezes não funciona, aleatoriamente um dos processos "hookados" capota.
-
 
 Essa pergunta deve ser respondida com uma análise das respostas das duas primeiras perguntas. Batendo os sintomas do problema com o seu funcionamento macro, uma ou mais cabeças aos poucos irão elaborando teorias a respeito de onde pode estar falhando.
 
@@ -67,7 +64,6 @@ Ex: talvez por algum motivo a DLL esteja sendo descarregada (que lugares podem s
 Ao mesmo tempo que os sintomas do problema acusam que algo está errado, existem os sintomas de que alguma coisa, afinal de contas, está funcionando nessa porcaria de código. Através dos sintomas positivos é possível chegar a algumas conclusões sobre o que está funcionando bem.
 
 Ex: o arquivo de log está sendo atualizado, a thread da janela que monitora recebe mensagens continuamente, algumas informações da tabela não estão corrompidas.
-
 
 Esse é o pulo do gato, a parte que diferencia meninos e meninas de homens e mulheres. Se conseguirmos, através de código de teste e/ou observação, aos poucos provar nossas conclusões a respeito do problema e conseguir elaborar, passo a passo, uma "maquete mental" de todo o código funcional, será possível aos poucos ir descartando teorias e reforçando nossa confiança sobre o caminho que estamos trilhando.
 
@@ -80,7 +76,6 @@ O importante é nunca parar de pensar sobre o problema, evitando ao máximo agir
 Ex: Quando estava habilitado o tratamento de eventos, o hook parava de funcionar em menos de cinco minutos. Agora, rodando os testes por três horas, o hook continua ativo.
 
 Ex: Desabilitei um dos eventos que possui comunicação remota com o servidor. O hook continuou funcionando, apesar do resto dos eventos.
-
 
 Por fim, com uma pequena dose de sorte e muitas doses de força de vontade (e café), o problema cansa de se esconder e mostra a cara.
 

@@ -8,10 +8,6 @@ A sobrecarga estática possui algumas desvantagens em relação ao sistema de no
 
 Em dois projetos usando Visual C++ 2008 e Borland C++ Builder 5 (última versão que funciona direito) eu fiz uma exportação da função soma em linguagem C (o fonte é um .c). Veja o resultado:
 
-
-
 Já usando a linguagem C++ (o fonte é um .cpp) temos outro resultado totalmente diferente para nossas duas funções soma descritas no artigo anterior:
-
-
 
 Se quiser tentar entender essas letrinhas bizarras, recomendo baixar projetos de exemplo. Se apenas entender que você não conseguirá juntar classes VC++ e Builder usando dllexport.aspx) para tudo quanto é lado, então terminamos por aqui.

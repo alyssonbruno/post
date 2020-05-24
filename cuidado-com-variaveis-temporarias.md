@@ -44,13 +44,9 @@ Por exemplo, vejamos o singelo caso de alguém que precisa formatar uma saída d
 
 Quando chamamos func, ele lança uma exceção que é capturada no main que, por sua vez, formata uma stream e obtém sua string (através do método str) e através dessa string obtém o ponteiro da string em C puro (através do método cstr). Porém, a mensagem resultante na saída-padrão de erro não era o esperado:
 
-
 Depurando diretamente, vemos que a stream, de fato, contém o que esperávamos. O único elemento errante é justamente o ponteiro obtido através da chamada dupla de métodos.
 
-
 O porquê isso ocorre só fica óbvio quando vemos a ajuda (ou a assinatura) da função str da classe stringstream:
-
-
 
 >     
 >     <span style="color: #ff0000;">string str ( ) const;</span>
@@ -62,7 +58,6 @@ O porquê isso ocorre só fica óbvio quando vemos a ajuda (ou a assinatura) da 
 >     
 >     The first version <span style="text-decoration: underline; color: #ff0000;">returns a copy of the string object</span> currently associated with the string stream buffer.
 > 
-
 
 Ora, a função str retorna uma cópia do objeto string usado internamento pelo buffer de nossa string stream. Duas coisas ocorrem em qualquer cópia de um objeto retornada por uma função:
 
@@ -89,9 +84,7 @@ Obviamente ele fica inválido após o fim da expressão!
 
 Vamos ver em câmera lenta:
 
-
 Nada como assembly fresquinho para refrescar os conceitos de C++ por baixo dos panos.
-
 
 Após uma enxurrada de programadores gerenciáveis perguntarem qual seria, então, a solução ideal, segue o snipet mais explicitado:
 
@@ -101,7 +94,6 @@ Após uma enxurrada de programadores gerenciáveis perguntarem qual seria, entã
     
     // 2. Use essa string dentro de seu escopo válido (até o final do catch, no exemplo do artigo).
     const char* text = buf.c_str();
-
 
 Outro leitor sugeriu fazer toda a chamada em uma única instrução, economizando em expressividade e ainda evitando a destruição da variável temporária criada ao chamar str.
 

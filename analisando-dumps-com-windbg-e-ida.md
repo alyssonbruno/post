@@ -8,7 +8,6 @@ Apesar de ser recomendado que 100% dos componentes de um software esteja configu
 
 Para incluir um programa novo em nosso leque de opções, vamos usar dessa vez uma ferramenta chamada IDA, um disassembler estático cujo nome é uma clara homenagem à nossa primeira programadora da história. E, é lógico, o WinDbg não poderá ficar de fora, já que ele será nosso analisador de dumps.
 
-
 Tecnicamente falando, um dump nada mais é do que o conjunto de informações relevantes de um sistema em um determinado momento da execução, geralmente logo após um crash, onde tudo pára e morre. No caso do Windows, o crash é chamado de BSOD, Blue Screen Of Death, ou Tela Azul da Morte (bem macabro, não?). Do ponto de vista do usuário, é aquela simpática tela azul que aparece logo após o travamento da máquina.
 
 Em algumas máquinas, essa tela nem mais é vista, pois o Windows XP é configurado automaticamente para exibir um simpático reboot que joga todos os seus dados não-salvos naquele momento para o limbo (ou, como diria o Thiago, para o "céu dos dados não-salvos antes de uma tela azul").
@@ -163,11 +162,9 @@ Mais sobre isso pra depois.
 
 Com isso em mãos, mesmo sem símbolos e nomes de funções no código, conseguiríamos achar o código responsável pelo BSOD. Porém, vamos imaginar por um momento que não foi tão fácil assim e fazer entrar em cena outra ferramenta indispensável nessas horas: o Interactive Disassembler.
 
-
 No sítio do IDA podemos encontrar o download para uma versão gratuita do IDA, isso se usado com objetivos não-comerciais. Ou seja, para você que está lendo esse blogue por aprendizado, não terá nenhum problema você baixar essa versão e fazer alguns testes com seu driver favorito.
 
 O funcionamento básico do IDA é bem básico, mesmo. Simplesmente escolhemos um executável para ele destrinchar e nos mostrar um assembly bem amigável, com todos os nomes de funções que ele puder deduzir. Como não temos os símbolos do próprio executável, as funções internas ganham "apelidos", como sub6669, loc13F35 e por aí vai. Isso não importa, já que temos nomes amigáveis de APIs para pesquisar no código-fonte e tentar encontrar as funções originais em C.
-
 
 Pois bem. Como manda o figurino, o primeiro ponto do assembly que temos que procurar é o ponto em que uma função interna é chamada logo após IopLoadDriver, mydriver+0x4058. Por coincidência (ou não, já que essa é a função do IopLoadDriver), se trata da função inicial do executável, ou seja, provavelmente a função DriverEntry no código-fonte (obs: estamos analisando um driver feito para plataforma NT).
 
@@ -237,6 +234,5 @@ Voilà! O caminho não foi tão longo. Chegamos rapidamente no ponto onde é cha
     
 
 Ora, ora. O número de processadores influencia no número de objetos que estaremos esperando na função de espera. Esse seria um bom motivo para gerar um MAXIMUMWAITOBJECTSEXCEEDED em máquinas onde existe mais de 3 processadores ativos, não? Talvez seja uma boa hora para atualizar esse código e torná-lo compatível com os novos Quad Core.
-
 
 É importante, durantes os testes de desenvolvimento, sempre manter em dia uma versão debug (para o mundo kernel mode, versões checked) para que os primeiros problemas, geralmente os mais bestinhas, sejam pêgos de forma rápida e eficiente. No entanto, um bom desenvolvedor não se limita a depurar com código-fonte. Ele deve estar sempre preparado para enfrentar problemas de falta da versão certa, informação pela metade, situação não-reproduzível. Para isso que servem as ferramentas maravilhosas que podemos usar no dia-a-dia. O IDA é mais uma das que deve estar sempre no cinto de utilidades do bom "debugador".

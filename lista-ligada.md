@@ -94,7 +94,6 @@ Se a lista não estiver vazia apenas o glast deve ser atualizado.
         g_last = e->next;
     }
 
-
 Remover é a parte mais complicada de uma lista ligada, pois temos que atualizar o elemento de trás (se houver):
 
     void RemoveElement(Element* prev)

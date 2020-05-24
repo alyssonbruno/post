@@ -52,7 +52,6 @@ Basicamente a macro obtém a partir do endereço zero o offset do membro que é 
     	MeuElemento* pElem = CONTAINING_RECORD(pEntry, MeuElemento, entry);
     }
 
-
 Note que entry é o nome, literal, do membro na estrutura, e não há maneira possível com templates de obter isso. A solução? Usar um nome padronizado. O resultado final pode ser parecido com este:
 
     template<typename T>

@@ -58,7 +58,6 @@ A segunda ressalva diz respeito à linha obscura, sintaticamente correta, mas cu
 
 A clássica função inicial, nada de mais aqui. Retorna um int, e de fato retorn. Chama a função func, definida acima.
 
-
 A linha que guardamos para analisar contém uma operação de casting, atribuição e deferência, sendo o casting executado primeiro, operador unário que é, seguido pelo segundo operador unário, a deferência. Como sempre, a atribuição é uma das últimas. Descomprimida a expressão dessa linha, ficamos com algo parecido com as duas linhas abaixo:
 
     
@@ -68,7 +67,6 @@ A linha que guardamos para analisar contém uma operação de casting, atribui�
 Não tem nada de errado em atribuir o valor 0 a um ponteiro, que é equivalente ao define NULL da biblioteca C (e C++). De acordo com a referência GNU, é recomendado o uso do define, mas nada impede utilizar o o "hardcoded".
 
 Porém, estamos escrevendo em um ponteiro nulo, o que com certeza é um comportamento não-definido de conseqüências provavelmente funestas. O ponteiro nulo é um ponteiro inválido que serve apenas para marcar um ponteiro como inválido. Se escrevermos em um endereço inválido, bem, não é preciso ler o padrão para saber o que vai acontecer =)
-
 
 Alguns amigos me avisaram sobre algo muito pertinente: dizer que acessar um ponteiro nulo, portanto inválido, é errado e nunca deve ser feito. Como um ponteiro nulo aponta para um endereço de memória inválido, acessá-lo irá gerar uma exceção no seu sistema operacional e fazer seu programa capotar. Um ponteiro nulo é uma maneira padrão e confiável de marcar o ponteiro como inválido, e testar isso facilmente através de um if. Mais uma vez: ponteiros nulos apontando para um endereço de memória inválido (o endereço 0) nunca devem ser acessados, apenas atribuído a ponteiros.
 
@@ -81,9 +79,7 @@ Em código. Isso pode:
     // isso também pode
     int* p2 = p; 
 
-
 Isso **não pode**:
-
 
     // NUNCA acessar 
     // ponteiros nulos
@@ -92,6 +88,5 @@ Isso **não pode**:
     // isso também não pode, 
     // ler de um ponteiro nulo
     int x = *p;
-
 
 Dito isso, me sinto melhor =)

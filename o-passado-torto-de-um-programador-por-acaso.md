@@ -58,7 +58,6 @@ Viva a linguística!
 
 Tudo estaria bem na cabeça daquele promissor "professor de português das escolas da rede pública de ensino" se não fosse o meu lado numérico. Comprei um computador, e isso mudou minha vida. Cada vez mais a quantidade de livros de informática que eu carregava comigo ultrapassava o número de sonetos de Camões ou as prosas modernísticas de Guimarães Rosa que estudava no momento.
 
-
 Desde aquele dia, o vício tem me acompanhado cronicamente, religiosamente, todo dia.
 
 Larguei a faculdade. Comecei a me dedicar inteiramente aos livros sobre computadores, programação e "como as coisas funcionam". E desde então o ser em que me transformei vos fala através deste humilde blogue. E assim foi. Como é que o pessoal de humanas fala mesmo? Ah, sim: o resto é história.

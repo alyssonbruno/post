@@ -63,7 +63,6 @@ E, pior, o código abaixo também não vai funcionar!
 
 Pesquisando um pouco descobri uma boa discussão sobre o tema, e inclusive que outras pessoas descobriram o interessante detalhe que para pastas normais o retorno é 0x10, mas para compartilhamentos o retorno é 0x1.
 
-
 O problema ocorre por causa da maneira que a função determina se o caminho é um diretório ou não. Uma simples vistoria sobre a função nos revela o detalhe crucial:
 
     

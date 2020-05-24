@@ -8,13 +8,11 @@ Nesse último sábado aconteceu, como previsto, o terceiro encontro de usuários
 
 Aqui segue um breve relato sobre as palestras que ocorreram no evento.
 
-
 Inicialmente o palestrante focou o ponto muito pertinente da visão comercial do uso de um framework multiplataforma que possa rodar nos três sistemas operacionais mais usados no Brasil: Windows, Linux e MacOS. É um fato que programadores precisam se alimentar e alimentar seus filhos, então essa questão pode ser interessante para aqueles que precisam expandir seus mercados.
 
 Como sempre deve rolar, houve demonstração por código de como um programa wxWidgets é estruturado. Basicamente temos inúmeras macros e um ambiente controlado por eventos, da mesma maneira que MFC e outros frameworks famosos.
 
 Para mim foi uma imensa vantagem e economia de tempo ter assistido à palestra, já que faz um tempo que eu tento dar uma olhada nessa biblioteca. Para quem também gostou da idéia, dê uma olhada nos tutoriais disponíveis do sítio do projeto.
-
 
 Para quem achava que as palestras iriam ser superficiais no quesito linguagem deve ter ficado espantado com o nível de abstração, formalidade e profundidade com que foi tratado o assunto das novas características da linguagem C++ que serão aprovadas pelo novo padrão e que irão tornar a programação genérica muito mais produtiva e eficiente.
 
@@ -27,7 +25,6 @@ Para quem se interessou pelo tema e pretende estudar um pouco mais sobre as novi
   * Proposed Wording for RValue Reference
   * Specifying C++ Concepts
   * O sítio do comitê dos padrões C++
-
 
 O foco principal desse tema foi dividido entre a interface, óbvia, para suportar programas multithreading em C++, incluindo abstrações de sincronismo e variáveis de condição, e a mudança significativa no padrão para definir um modelo de memória consistente com programas multithreading, a grande vantagem dessa biblioteca ter sido votada, pois tendo as bases para o que eles estão chamando de "execução consistente", a interface é mera conseqüência.
 

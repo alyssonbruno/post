@@ -17,4 +17,3 @@ Porém, não é só a história que prende a atenção: as atuações são exemp
 
 Enfim, um policial dos bons como não se costuma ver.
 
-

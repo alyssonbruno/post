@@ -153,9 +153,7 @@ The needed steps to test the code above are:
 
 After the attach process, the debug port is occupied, and the communication between the debugger and debuggee is made throug LPC. Bellow we can see a little illustration of how things work:
 
-
 Basically the process stay receiving debugging events (through the LPC message queue) until the final event, the process exit. Notice that if someone try to terminate the protector process the debuggee process will be terminated, too.
-
 
 The strength in this protection is that it doesn't affect the code understanding and readability. In fact the code that protects is in another process. The weakness, I would say, it is your visibility. Everyone that will try to attack the solution will se two processes being created, what gives him/her something to think about...
 

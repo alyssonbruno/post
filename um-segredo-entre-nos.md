@@ -11,4 +11,3 @@ Se começa com uma introdução forte, o fato é que todo o resto é uma tentati
 
 Como se não bastasse, ainda precisamos ir e voltar no tempo para entendermos as consequências dos atos passados na relação entre as pessoas daquela família no presente.
 
-

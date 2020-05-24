@@ -14,7 +14,6 @@ A produção abraça os anos 80 e toda a nostalgia da época através de uma fot
 
 Nesse sentido, a comédia politicamente incorreta é inteligente o suficiente para não cair na batidíssima gafe da auto-paródia, se mantendo na superfície com uma história tão sensível quanto cômica, e ainda conseguindo manter uma saudável dose de humor negro (e, sim, isso é possível). Seus personagens são cativantes, por parecerem reais, e a sensação final é de que deveríamos passar mais tempo com esses caras. Não importa que um deles seja um urso de 30 centímetros se ainda consegue ser divertido.
 
-
 Vendo dois anos depois, Ted me parece um filme extremamente coeso e coerente com sua proposta, algo quase que imprevisível na época visto que seu diretor e roteirista Seth MacFarlane é conhecido pela série de animação com piadas sem contexto formada por gags que produzem risos pelo absurdo e pela repetição de piadas: Family Guy.
 
 Porém, é necessário dar o braço a torcer: usando como premissa o urso que magicamente ganha vida para uma criança e passa a conviver com ela até depois dos seus 30 anos é uma metáfora eficiente para os jovens que se recusam a amadurecer e costumam colocar a culpa no resto do mundo pelo seus fracassos. A maneira com que o filme discute isso consegue trazer ao mesmo tempo as piadas sem contexto de Ted assim como o drama de um personagem (um Mark Wahlberg assustadoramente eficiente) que ganha vida pelas conversas com seu urso (dublado pelo próprio MacFarlane).

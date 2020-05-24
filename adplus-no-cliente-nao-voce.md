@@ -13,7 +13,6 @@ Ele pode ser usado na situação mais comum: o programa trava/quebra em um clien
 
 Esse notepad, viu! Sempre ele!
 
-
 Bom, vamos fazer alguma brincadeira de desmontar para ver seu funcionamento. Com o notepad recém-aberto por esse comando, vamos abrir outro depurador em modo de visualização e alterar alguma chamada-chave para quebrar propositadamente:
 
     
@@ -25,9 +24,7 @@ Bom, vamos fazer alguma brincadeira de desmontar para ver seu funcionamento. Com
 
 Após isso só precisamos abrir um arquivo qualquer que não existe:
 
-
 Depois desse lapso de memória o AdPlus irá gerar dois "dumpões" e um "dumpinho" para você:
-
 
 O dumpinho é a exceção de first chance, que ele iria gerar de qualquer forma se houvesse uma exceção capturada pelo programa. É apenas um minidump.
 
@@ -61,7 +58,6 @@ A partir do second chance podemos visualizar a cagada feita pelo nosso WinDbg de
     0007e764 7e373ce4 user32!InternalCallWinProc+0x28
 
 Se você não é desenvolvedor apenas empacote essa pasta com os dumps e envie para o culpado (ou quem você gostar menos).
-
 
 Existem alguns outros parâmetros bem comuns e que podem ser muito úteis para outras situações:
 

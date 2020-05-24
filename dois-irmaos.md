@@ -23,4 +23,3 @@ Os sussurros nas paredes, em que eles escutam pelos copos, são usados para ambo
 
 Ao final, o quadro belíssimo: agora ambos os irmãos olha o rio do mesmo lado. O que me faz pensar: seria isso uma tentativa de metaforizar a relação argentina-uruguai?
 
-

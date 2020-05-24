@@ -16,7 +16,6 @@ Eu entendo meus receios em ler dicas de um autor de ficção, mas entendo també
 
 Mas, experiências à parte, o que eu queria mesmo eram dicas. E elas começam no núcleo do livro, entitulado "On Writing", que é onde a coisa começa de verdade. Antes disso, na parte biográfica, o único destaque não-ficcional foi do seu primeiro editor, da época que ele escrevia artigos para um jornal esportivo. Ele disse ao então garoto Stephen King: escreve com a porta fechada; reescreva com a porta aberta. E essa dica é de ouro. Vamos colocar em destaque para pensar a respeito:
 
-
 > "When you write a story, you're telling yourself the story," he said. "When you rewrite, your main job is taking out all the things that are not the story."
 
 Em "On Writing" há bons momentos que não deixam de ser a experiência de um escritor que lê muito. Suas dicas saíram de outras fontes sobre como escrever, como George Orwell e aquele livro sobre estilo escrito no começo do século passado (The Elements of Style, de William Strunk Jr.). Por exemplo, o famigerado e sempre dito não use advérbios, ou o já batido use sempre a voz ativa ou evite voz passiva como o diabo.
@@ -42,7 +41,6 @@ Além das dicas, é curioso notar a postura de Stephen King diante da verdade. A
 > If you substitute "Oh sugar!" for "Oh shit!" because you're thinking about the Legion of Decency, you are breaking the unspoken contract that exists between writer and reader -- your promise to express the truth of how people act and talk through the medium of a made-up story.
 > 
 > The point is to let each character speak freely, without regard to what the Legion of Decency or the Christian Ladies' Reading Circle may approve of. To do otherwise would be cowardly as well as dishonest, and believe me, writing fiction in America as we enter the twenty-first century is no job for intellectual cowards. There are lots of would-be censors out there, and although they may have different agendas, they all want basically the same thing: for you to see the world they see... or to at least shut up about what you do see that's different. They are agents of the status quo. Not necessarily bad guys, but dangerous guys if you happen to believe in intellectual freedom.
-
 
 A parte mais difícil de On Writing é unir começo e fim, os dois extremos de uma viagem não-ficcional através do poder da magia da escrita. No começo, somos apresentados a um conceito fascinante que reverbera por todo o livro porque percebemos que é isso realmente que King acredita, do fundo do seu coração, e logo antes do final entendemos que esse conceito se une a outro mais prático e muito mais falado na rodinha de escritores, tornando-se, então, um mecanismo pragmático, e uma história circular.
 

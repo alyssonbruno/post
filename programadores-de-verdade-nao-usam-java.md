@@ -38,5 +38,4 @@ O fato é que, independente de quanto mais o mundo se tornar "gerenciado" por tr
 
 PS: Na verdade, me lembrei. Eu peguei esse cacoete de falar "quem sabe faz na hora" do meu amigo Thiago. Ele também dizia "se vira nos 30!". Bom, se eu citar todas as frases brilhantes que ele usava quando trabalhávamos juntos o texto vai ficar bem longo =)
 
-
 Se você gostou desse texto, talvez goste de eXtreme Go Horse!

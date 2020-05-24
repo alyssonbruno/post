@@ -20,7 +20,6 @@ E para transformar em um serviço podemos usar o NSSM, já visto em outros artig
 
 Isso cria um serviço de start automático que irá iniciar o debugger na ponta server quietinho, sem janelas, só escutando e esperando o Visual Studio atachar.
 
-
 Para este exemplo vamos usar um programa console que será convertido, assim como o msvsmon, em serviço, e uma DLL que ele carrega, chamando dois métodos; um de start, outro de stop. Nosso objetivo aqui é começar a depurar a DLL logo em seu início, na chamada do start.
 
     #include <iostream>

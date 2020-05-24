@@ -16,7 +16,6 @@ Este é um guia bem básico, mas atende os requisitos de quem quer começar a me
 
 https://www.youtube.com/embed/dMY91ojS0tw
 
-
  - CLang
  - LLVM
  - C++ compiler support

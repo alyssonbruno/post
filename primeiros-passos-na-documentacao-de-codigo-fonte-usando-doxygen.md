@@ -12,13 +12,11 @@ Bom, já que é pra fazer comentários, porque não fazê-los de uma forma que s
 
 Vocês não têm documentador no projeto? Ah, tá. Bem-vindo ao grupo.
 
-
 O Doxygen é uma ferramenta que consegue extrair comentários do seu código-fonte, formatados ou não, e transformar em arquivos html, doc, chm, etc. O resultado é muito impressionante, pois ele é capaz de interpretar algumas linguagens (como C++) e mostrar a hierarquia de classes e funções.
 
 Ele não obriga que o desenvolvedor formate corretamente os comentários, mas ao fazer isso podemos descrever o funcionamento exato de funções de interface, como o que cada parâmetro significa, o valor de retorno, algumas observações quanto ao uso, etc.
 
 Aprender a usar Doxygen é muito fácil. Ele possui uma ajuda com vários exemplos com os quais podemos começar a programar um código auto-documentado.
-
 
 Por ser uma ferramenta bem flexível, são permitidos inúmeros formatos para se auto-documentar o código. Vou descrever como eu faço, mas pode ser que outro formato lhe agrade mais. Para conhecê-los, dê uma olhada no manual.
 
@@ -86,7 +84,6 @@ Vejamos:
   * remark. Observações especiais que podem ajudar quem chama a função.
 
 Existem diversos outros tipos de marcadores e com certeza você encontrará muita utilidade em outros. No entanto, esse é o basico que todo desenvolvedor do seu time deve saber para já começar a documentar suas funções.
-
 
 	
   * Usando o Doxygen (Parte 1 e Parte 2) - Daniel Quadros

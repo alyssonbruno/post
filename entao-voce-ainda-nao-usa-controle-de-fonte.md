@@ -15,11 +15,9 @@ Dica: Um commit é uma maneira de dizer ao controle de fonte: "já modifiquei o 
 
 Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que uso no dia-a-dia com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta baixá-lo, next next e finish.
 
-
 Marcar para usar o PATH pode ser uma boa pra quem é fã de linha de comando.
 
 Apesar de existirem firulas gráficas, gosto de usar o Bazaar na linha de comando porque faz você pensar direito antes de fazer commits, mas esteja livre para experimentar a maneira que achar melhor.
-
 
 Isso vale para qualquer projeto que você esteja trabalhando. Pela linha de comando, navegue até o diretório do projeto. Digite os comandos abaixo seguidos de enter:
 
@@ -72,6 +70,5 @@ Os passos seguintes seguem o mesmo padrão, exceto o passo 1, que é substituíd
     Committing to: C:/Users/Caloni/Documents/Projetos/MeuProjeto/
     modified MeuProjeto.cpp
     Committed revision 2.
-
 
 Basicamente, sim. É claro que um controle de fonte não se baseia apenas em commits. Existem arquivos a serem ignorados (os obj da vida) e eventualmente algum trabalho paralelo ou com mais programadores. No futuro poderá comparar versões diferentes do código. Porém, apenas seguindo essa simples receita acima você já pode se gabar de ter um controle de fontes confiável em seus projetos. Já estará se aproveitando desse controle no futuro, quando aprender mais sobre ele.

@@ -28,7 +28,6 @@ Atualmente existem diversas formas do google te ajudar a encontrar o que você p
 
 Você já devia saber disso. Faz parte da netiqueta, o guia mundial de bom uso da internet. O quê? Você nunca leu a netiqueta? Se nunca, então comece por lá. Depois venha fazer perguntas interessantes.
 
-
 Tudo bem, você não conseguiu achar nenhum livro a respeito, não existe tutorial no mundo que resolva o seu problema, e todas as pessoas que possuem a resposta falam e escrevem em mandarim, ou algum outro idioma baseado em pegadas de passarinhos (o google ainda não traduz isso ainda muito bem). Nesse último caso, você ainda tem duas escolhas, sendo a mais fácil delas perguntar para quem entende.
 
 Eu já fiz isso muitas vezes, antes de aprender a me virar (quase) sozinho. Todas que fiz foi por um de dois motivos: intercomunicação ou desespero.

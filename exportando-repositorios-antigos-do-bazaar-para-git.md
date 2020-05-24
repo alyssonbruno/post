@@ -10,7 +10,6 @@ Hoje com o Git sendo praticamente o mainstream das conversões do SubVersion, e 
 
 Agora é hora de manter esse histórico vivo, mas convertido para o que todos usam.
 
-
 A primeira coisa a ser feita é converter o repositório. Depois de convertido, como todas as operações estarão no universo Git, há uma de entradas no StackOverflow para nos ajudar a reunir os repositórios em um só, meu objetivo, já que o Git é mais leve e mais versátil nesse quesito.
 
 No Windows, nas últimas versões do Bazaar o comando fast-export não estava mais funcionando. Parado desde 2012, não há previsão de correções. No entanto, para essa operação, a versão 2.4.2 atendeu bem. O comando é um pouco diferente, mas ele é rápido e rodou sem problemas em conjunto com o fast-import do Git.
@@ -99,8 +98,6 @@ Para conseguir ter acesso ao histórico dos arquivos movidos, basta usar a opç�
 
     git log --all -- MyRemovedPath
 
-
 Tive alguns problemas em rastrear o histórico utilizando a estratégia de fazer merge no mesmo branch. A solução que encontrei, embora não exatamente direta, foi realizar os merges em branches apartados primeiro, mover os arquivos (de preferência, usando o git, para que ele detecte o rename), aplicar o commit e realizar o merge com o master. Há uma vantagem nessa estratégia, além do log --follow funcionar melhor: mantenha os branches originais, além do ponteiro para remote. Dessa forma, depois de alguns anos, saberá de onde veio esse merge maluco.
-
 
 Depois de um tempo testando essa técnica, descobri que o Git se perde novamente e não encontra mais todos os logs, mesmo com --follow  mesmo movendo os arquivos. O meu problema está relacionado com mesmos paths dos arquivos em repositórios diferentes. Paciência.

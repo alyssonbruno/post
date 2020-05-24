@@ -8,7 +8,6 @@ Eu realmente gostei desse negócio de tagging. =)
 
 Aproveitando o comentário do Ferdinando sobre o novo sistema de tradução eletrônica do MSDN, lanço aqui algumas dicas para aprender a tão falada língua de Shakespeare. Acredite, se você deseja ser um melhor programador, inglês é fundamental.
 
-
 O aprendizado de qualquer idioma deve estar focado em um objetivo. Se o objetivo é se comunicar, conversação é importante. Se você deseja ser um business man, um vocabulário mais específico deve ser aprendido. No nosso caso, em que a santa leitura técnica de cada dia é a necessidade básica, alguns passos básicos em inglês instrumental é um ótimo começo para começar a desvendar 80% da internet.
 
 > Note, contudo, que inglês instrumental não é muito bem visto por escolas conceituadas de idiomas, tanto por ensinar um inglês limitado quanto por criar vícios de linguagem. O importante a lembrar nesse caso é: estamos usando o inglês como uma ferramenta de compreensão de textos que são úteis para nosso trabalho. Se o interesse/necessidade do inglês for maior, deve-se passar para as próximas dicas.

@@ -24,7 +24,6 @@ Esse detalhe esdrúxulo de uma das linguagens mais famosas da época nos leva a 
 
 O tipo de erro de falta de atenção do programa da NASA lembra uma das mais duras críticas às linguagem C e C++: é fácil escrever um código errado do ponto de vista lógico mas sintaticamente correto (compilável). Alguns exemplos famosos:
 
-
        // batata entre os iniciantes
        if( isActived && isTimeToLaunch );
           doTheStuff();
@@ -72,7 +71,6 @@ Dessa coleção de problemas, o compilador nos brinda com dois warnings:
     warning C4706: assignment within conditional expression
 
 Agora imagine o número de horas noturnas em frente ao micro que você não poderia ter economizado em sua vida se aumentasse o nível de warning e lêsse-os de vez em quando? =)
-
 
 Colaborando com a lista de bugs difíceis de achar do artigo ai vai código/piadinha:
 

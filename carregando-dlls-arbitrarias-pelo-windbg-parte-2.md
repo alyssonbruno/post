@@ -8,7 +8,6 @@ Como pudemos ver no artigo anterior, o processo para carregar uma DLL pelo WinDb
 
 Se trata do meu primeiro script grande para o WinDbg, por isso, peço que tenham dó de mim =).
 
-
 Um script no WinDbg nada mais é que uma execução em batch: um arquivo texto cheio de comandos que poderíamos digitar manualmente, mas que preferimos guardar para poupar nossos dedos.
 
 Existem quatro maneiras diferentes de chamar um script no WinDbg, todas muito parecidas, variando apenas se são permitidos espaços antes do nome do arquivo e se os comandos são condensados, isto é, as quebras de linhas substituídas por ponto-e-vírgula para executar tudo em uma linha só.
@@ -27,7 +26,6 @@ No caso do script desse artigo, utilizaremos a última forma, pois precisamos de
     $$>a<path\LoadLibrary.txt mydll.dll
     $$>a<path\LoadLibrary.txt c:\\path\\mydll.dll
     $$>a<path\LoadLibrary.txt "c:\\path with space\\mydll.dll"
-
 
 Não há qualquer dificuldade. Tudo que você tem que fazer é baixar o script que carrega DLLs e salvá-lo em um lugar de sua preferência. Depois é só digitar o comando que carrega scripts, o path de nosso script e o nome da DLL a ser carregada em uma das três formas exibidas. Eu costumo criar uma pasta chamada "scripts" dentro do diretório de instalação do Debugging Tools, o que quer dizer que posso simplesmente chamar todos meus scripts (ou seja, 1) dessa maneira:
 
@@ -67,7 +65,6 @@ Abaixo um pequeno teste que fiz carregando a DLL do Direct Draw (ddraw.dll) na n
     7c901230 cc              int     3
 
 Simples e indolor.
-
 
 Vamos agora dar uma olhada no script completo e dissecar as linhas pausadamente. Dessa forma entenderemos como a função inteira funciona e como usar os comandos isoladamente para criar novos scripts.
 
@@ -141,7 +138,6 @@ A primeira coisa que fazemos para carregar a DLL é salvar o estado do registrad
 
 Feito isso, usamos um comando não tão comum, mas que pode ser muito útil nos casos em que precisamos capturar algum dado da saída de um comando do WinDbg e usá-lo em outro comando.
 
-
 A estrutura do .foreach deixa o usuário especificar dois grupos de comandos: o primeiro grupo irá gerar uma saída que pode ser aproveitada no segundo grupo.
 
     
@@ -173,7 +169,6 @@ O código assembly que irá chamar fica um ponto à frente, mas na mesma memóri
     
     r $t1 = @$t0 + 0x100
 
-
 Conforme as técnicas vão cada vez ficando mais "não-usuais", mais difícil fica achar um nome para a coisa. Essa técnica de escrever o assembly de um código através de escritas em hexadecimal dentro de um script do WinDbg eu chamei de "script assembly". Se tiver um nome melhor, não se acanhe em usá-lo. E me deixe saber =).
 
     
@@ -199,9 +194,7 @@ Conforme as técnicas vão cada vez ficando mais "não-usuais", mais difícil fi
 
 Cada comentário de uma instrução em assembly é seguido pela escrita dessa instrução usando o comando e. Se trata de um código bem trivial, fora alguns detalhes que merecem mais atenção.
 
-
 Os comandos acima servem para salvar e restaurar o estado dos registradores e das flags de execução. Isso permite que possamos executar o código virtualmente em qualquer posição que pararmos no código depurado, já que retornamos tudo como estava ao final da execução do LoadLibrary. É claro que isso não garante que o código estará 100% estável em todas as condições, mas já ajuda um bocado.
-
 
 Uma chamada através do opcode call (código em hexa 0xe80c) é bem comum e se trata de uma chamada relativa, baseada no estado do Instruction Pointer atual mais o valor especificado. Por isso mesmo que fazemos o cálculo usando o endereço de onde será escrita a próxima instrução, que é o valor que teremos em IP quando este call for executado:
 
@@ -225,14 +218,11 @@ Você pode ver com seus próprio olhos se editar o script comentando o último c
     
     u @$ip
 
-
 Somos um script bem comportado (na medida do possível) e por isso colocamos um breakpoint temporário no final para, quando retornarmos para o código atual, desalocarmos a memória usada para a escrita e execução das instruções.
 
     
     bp /1 @$t2 ".dvfree @$t0 0"
 
-
 Eu não me responsabilizo por qualquer (mau) uso do script aqui disponibilizado, assim como as eventuais perdas de código-fonte, trilhas de HD e placas de memória RAM pela sua execução. Assim sendo, bom divertimento.
-
 
 O criador do DriverEntry me questionou se não seria mais fácil, em vez de escrever todos os opcodes em hexa, usar o comando a, que permite entrar o código assembly diretamente a partir de um endereço especificado. Essa realmente é uma ótima idéia, e de fato eu tentei isso no começo de meus testes. Porém, infelizmente para scripts isso não funciona bem. A partir do comando a o prompt fica esperando uma entrada do usuário, não lendo o assembly que estaria no próprio script. Pior ainda, a escrita do assembly não permite usar os registradores temporários, como $t0 ou $t1, o que nos força a escrever um código dependende de valores constantes. Por esses motivos, tive que apelar para o comando e, que é a forma mais confusa de escrever e entender assembly. Nesse tipo de edição é vital comentar bem cada linha que se escreve.

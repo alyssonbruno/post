@@ -17,4 +17,3 @@ Porém, se as coisas vão ou não até o fim, apenas quem assistiu ficou sabendo
 
 Um exercício de estilo, tanto na direção quanto no roteiro. Divertido do começo ao fim, a partir de um humor muito, muito peculiar.
 
-

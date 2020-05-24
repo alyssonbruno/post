@@ -55,7 +55,6 @@ Quando há uma nova conexão o método createProcessGetOutputAndSendBack lê dad
 
 Após o término do processo a saída estará no arquivo aberto em si.hStdOutput. Basta abri-lo para leitura e enviar seu conteúdo via socket para o cliente. O trabalho dessa conexão termina por aí.
 
-
 O que não estava previsto é que junto da herança dos handles vai também handles indesejados. Como o de "\Device\Afd", que é um recurso usado na comunicação do winsock. Ao usar as funções síncronas e tradicionais do winsock, que constitui em criar o socket server, dar listen e no accept o socket cliente ter sido criado, o AcceptEx exige já um socket cliente criado, o que é feito no sample da Microsoft com a função socket e no Boost.Asio com a duplicação do socket existente (que também foi criado via socket function).
 
     ClientSocket = socket(result->ai_family, result->ai_socktype, result->ai_protocol);

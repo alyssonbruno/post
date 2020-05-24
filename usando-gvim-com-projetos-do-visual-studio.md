@@ -90,7 +90,6 @@ Da mesma forma, projetos 2010+ devem usar o msbuild:
     
     C:\Projects\samples\ConsoleApplication5>
 
-
 Pois é. Tirando essa facilidade, as coisas no Vim para msbuild rodam particularmente bem. Basta alterarmos o makeprg da seguinte maneira:
 
     :set makeprg=msbuild\ /nologo\ /v:q\ /property:GenerateFullPaths=true<CR>

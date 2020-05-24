@@ -14,7 +14,6 @@ Por exemplo, ele detalha a diferença entre texto e subtexto, e se a maioria dos
 
 Outro detalhe primordial do trabalho de um roteirista é ter em mãos seu storyline e seu argumento, e Bayão mais uma vez ressalta as diferença envolvidas:
 
-
 > Geralmente perguntam ao roteirista qual a história do seu roteiro. Eles querem ouvir o storyline, a isca. Um storyline bem construído é um convite à leitura de um roteiro, enquanto que em um storyline pouco atraente leva um roteiro para a gaveta. 
 
 > Já o argumento tem uma função diferente. O texto corrido dá uma sensação ao leitor de estar lendo um pequeno romance, o que facilita muito para quem é pouco familiarizado com o formato do roteiro cinematográfico. Ele também é muito útil na pré-produção, pois já que é mais detalhado que o storyline, oferece mais dados aos profissionais das outras áreas, como por exemplo, os cenógrafos, figurinistas... A partir do argumento também é possível calcular aproximadamente os custos da produção. 

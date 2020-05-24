@@ -37,7 +37,6 @@ Depois há uma visão dos perigos mais comuns que nos levam para longe da práti
 
 Por fim, seus últimos capítulos são mais voltados para a prática esportista e o uso do exercício físico contínuo para conseguir energia e se manter eternamente como um mestre: disposto a se entregar pela auto-melhora. Sempre um eterno aprendiz.
 
-
 > To love the plateau is to love the eternal now, to enjoy the inevitable spurts of progress and the fruits of accomplish- The Master's Journey 49 ment, then serenely to accept the new plateau that waits just beyond them.
 
 > Ultimately, the master and the master's path are one.

@@ -10,7 +10,6 @@ Criei este pequeno projeto de mock da winsock para exemplificar. Ele utiliza um 
 
 Em primeiro lugar vamos montar um projeto para iniciar um client socket para exemplificar o uso da winsock. Na verdade, de qualquer UNIX socket.
 
-
     #include "client.h"
     #include <stdio.h>
     
@@ -35,9 +34,7 @@ Em primeiro lugar vamos montar um projeto para iniciar um client socket para exe
       }
     }
 
-
 Esse código pode ser testado diretamente do Blogue do Caloni. Só que não. Ele não está apto no momento a retornar o conhecido ack do IRC. Um dia talvez. Mas no momento não. As funções com o prefixo winmock estão no projeto C client que usa as funções de socket para se comunicar com o servidor. Alguns snippets:
-
 
     int winmock_connect(const char* host, short port, struct CONNECTION** connection)
     {
@@ -78,9 +75,7 @@ Esse código pode ser testado diretamente do Blogue do Caloni. Só que não. Ele
         /*...*/  
         ret = recv(connection->socket, char_buffer + received, len - received, 0);
 
-
 As funções C do winsock/socket, connect, send, recv, select, etc, são apenas funções C cujos nomes são conhecidíssimos. Elas são linkadas com programas que usam alguma biblioteca de socket. Nada impede que nós mesmos sobrescrevamos essas funções para implementá-las nós mesmos em nosso programa. É isso o que nosso projeto de unittest integrado faz, usando o define já citado para evitar que as funções winsock tomem o lugar.
-
 
     add_subdirectory("${PROJECT_SOURCE_DIR}/submodules/googletest" "submodules/googletest")
     
@@ -96,9 +91,7 @@ As funções C do winsock/socket, connect, send, recv, select, etc, são apenas 
     add_library(client_test_lib STATIC client_mock.c ../client/client.c)
     target_include_directories(client_test PRIVATE)
 
-
 A linha mais importante é "adddefinitions(-DINCLWINSOCKAPIPROTOTYPES=0)", que irá manter as assinaturas do header da winsock longe da compilação.
-
 
     /* winsock2.h */
     /*...*/
@@ -134,9 +127,7 @@ A linha mais importante é "adddefinitions(-DINCLWINSOCKAPIPROTOTYPES=0)", que i
         );
     #endif /* INCL_WINSOCK_API_TYPEDEFS */
 
-
 Tanto a INCLWINSOCKAPIPROTOTYPES quanto a INCLWINSOCKAPITYPEDEFS podem ser muito úteis para incluir algumas coisas do header, mas não todas. E como os protótipos das funções winsock não estão disponíveis, podemos implementar as nossas:
-
 
     #if !INCL_WINSOCK_API_PROTOTYPES
     SOCKET socket(int af, int type, int protocol)
@@ -160,7 +151,6 @@ Tanto a INCLWINSOCKAPIPROTOTYPES quanto a INCLWINSOCKAPITYPEDEFS podem ser muito
     }
     #endif /* !INCL_WINSOCK_API_PROTOTYPES */
 
-
 Com isso o linker irá usar nossas funções em vez da lib de winsock, e na execução podemos simular eventos e operações de rede. Para flexibilizar para que cada teste monte seu ambiente transformamos a implementação em chamadas de ponteiros de função que podem ser trocadas. Por padrão preenchemos esses ponteiros com uma função que não faz nada. Note que com a convenção de chamadas de C não precisamos especificar os argumentos e funções com diferentes tipos e números de parâmetros podem chamar a mesma função.
 
     #include "client_mock.h"
@@ -175,10 +165,8 @@ Com isso o linker irá usar nossas funções em vez da lib de winsock, e na exec
 
 Agora é possível escrever um sistema de simulação do Blogue do Caloni que retorna o ack que precisamos para que o teste funcione.
 
-
 extern "C" {
 }
-
 
 using namespace std;
 
@@ -224,7 +212,6 @@ extern "C" {
   }
 }
 
-
 class clientTest : public ::testing::Test {
 protected:
   clientTest() {
@@ -246,7 +233,6 @@ protected:
   // your stuff
 };
 
-
 TESTF(clientTest, ConnectSendReceive)
 {
   struct CONNECTION* conn = NULL;
@@ -267,9 +253,7 @@ TESTF(clientTest, ConnectSendReceive)
   }
 }
 
-
 Uma observação importante sobre getaddrinfo: ele não possui esse salvaguarda de define e irá dar erro no linker de redefinição. Porém, apenas se incluirmos o header onde ele é definido. Podemos nos proteger com o mesmo define no código-fonte original do client:
-
 
     #include <winsock2.h>
     #if INCL_WINSOCK_API_PROTOTYPES
@@ -283,6 +267,5 @@ Durante a compilação do unittest warnings como os abaixo aparecerão, mas não
     client.c(84,13): warning C4013: 'connect' undefined; assuming extern returning int
     client.c(98,16): warning C4013: 'send' undefined; assuming extern returning int
     client.c(144,13): warning C4013: 'recv' undefined; assuming extern returning int
-
 
 Para se divertir brincando de rede de mentirinha, baixe o projeto completo.

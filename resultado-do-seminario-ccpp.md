@@ -61,11 +61,9 @@ Com uma didática impecável, o novato nesse tema (como eu) pôde ver as dificul
 
 Foram apresentados exemplos reais de otimização, além de dicas muito importantes sobre o comportamento das compilaçõe de cada dia.  Você sabia, por exemplo, que ao declarar em escopos mais locais suas variáveis usadas apenas em pequenos trechos de código, estará dando uma poderosa dica ao compilador para que ele consiga usar os registradores no máximo de sua capacidade?
 
-
 Ao final, como é de praxe, tivemos um sorteio de ótimos livros sobre programação e C++ em geral, com destaque aos livros do Herb Sutter. Rodrigo Strauss, conhecido fundador dos encontros, recebeu sua mais que merecida homenagem ao receber um de seus livros autografados. É o mais novo MVP da comunidade!
 
 E por falar em comunidade, e agora podemos ver claramente, estamos com uma força bem maior do que no início do ano. A seqüência de ótimos eventos, além de nossos mestres do conselho Jedi de programadores C++, prova finalmente que, se depender da qualidade dos desenvolvedores, o Brasil pode sim ser uma poderosa fonte de programas de qualidade que façam coisas bem mais interessantes do que acessar um banco SQL. Nós já temos a matéria-prima.
-
 
 	
   * Discussão sobre o evento na nossa lista

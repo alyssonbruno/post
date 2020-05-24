@@ -8,8 +8,6 @@ Como já vimos algumas vezes, a STL não prima por interfaces intuitivas, prefer
 
 Dito isto, a abstração dos iteradores é a coisa mais linda do mundo.
 
-
-
 Os dois únicos conceitos que é preciso se lembrar para sempre quando se trata de iteradores é que ele:
 
   * Um iterador se comporta como um ponteiro opaco.
@@ -58,7 +56,6 @@ Tudo que um ponteiro faz de útil em C/C++ foi emprestado para a STL usar em seu
         std::cout << *VaiSomandoVaiSomando(vInts.begin(), vInts.end()) << std::endl;
     }
     
-
 
 Da mesma forma, operações como cópia, movimentação, ordenação, caotização, pode ser feito usando dois ponteiros/iteradores de dois contêiners distintos, desde que algumas regras básicas sejam seguidas, como um iterador deve sempre apontar para algo válido (ou disponibilizar alguma abstração que insira novos elementos em um contêiner menor). Veremos essas regras em um próximo post sobre o tema. Apontarei para ele aqui.
 

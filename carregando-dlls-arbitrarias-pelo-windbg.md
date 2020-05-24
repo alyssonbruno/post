@@ -25,7 +25,6 @@ Primeiro devemos parar a execução, voltar para um ponto seguro do código e ar
     
     Note que usamos dois pseudo-registradores ($t0, o primeiro registrador temporário do WinDbg, e $ip, o registrador que aponta para a próxima instrução que será executada), mas só um deles possue o prefixo '@'. Esse prefixo diz ao WinDbg que o que segue é um registrador. Como o comando r já é usado com registradores, é desnecessário usá-lo para $t0. Se usarmos sintaxe C++ esse prefixo é obrigatório, enquanto na sintaxe MASM não. Porém, se não usarmos esse prefixo em registradores não-comuns (como é o caso para $ip) o WinDbg primeiro tentará interpretar o texto como um número hexadecimal. Ao falhar, tentará interpretar como um símbolo. Ao falhar novamente, ele finalmente irá tratá-lo como um registrador. A diferença na velocidade faz valer a pena digitar um caractere a mais. Faça a prova!
 
-
 Parada a execução em um local seguro e armazenado o IP, em seguida podemos alocar memória para entrar o código em assembly da chamada, além do seu parâmetro, no caso o path da DLL a ser carregada.
 
     
@@ -43,7 +42,6 @@ Parada a execução em um local seguro e armazenado o IP, em seguida podemos alo
     0:000> $$ estamos de volta no prompt do WinDbg
 
 Note que estamos usando a versão ANSI do LoadLibrary, aquela que termina com A. Sendo assim, escrevemos uma string ANSI como parâmetro usando o comando eza.
-
 
 O último passo é chamar a função previamente "editada". Para isso basta mudarmos o endereço da próxima instrução para o começo de nosso código e mandar executar, pois ele irá parar automaticamente no breakpoint que definimos "na mão", o int 3 digitado. Após a execução devemos voltar o ponteiro usando nosso backup no registrador $t0.
 

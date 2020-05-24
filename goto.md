@@ -301,7 +301,6 @@ Os programadores usaram o apelo clássico do while. Sem motivo, pois goto é usa
         goto infinite;
     }
 
-
     c:\Projects\goto>cl goto4.c
     Microsoft (R) C/C++ Optimizing Compiler Version 19.22.27706.1 for x64
     Copyright (C) Microsoft Corporation.  All rights reserved.

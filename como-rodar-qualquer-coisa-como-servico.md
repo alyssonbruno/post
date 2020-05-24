@@ -8,7 +8,6 @@ A maior vantagem de se rodar um aplicativo como serviço, interativo ou não, é
 
 Hoje eu descobri um atalho bem interessante para isso.
 
-
 Um artigo do Alex Ionescu falava sobre esse aplicativo linha de comando usado para criar, iniciar e apagar serviços. Mesmo não sendo o foco do artigo, achei muito útil a informação, pois não conhecia esse utilitário. Logo começaram a borbulhar idéias na minha mente:
 
 "E se eu usasse esse carinha para iniciar o notepad?"

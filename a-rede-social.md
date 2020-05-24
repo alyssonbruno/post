@@ -25,5 +25,3 @@ A situação da fama chega a ser tão ridícula que o próprio fato deles serem 
 
 O tom do processo também tem seus momentos ridículos, como o detalhe de um trote envolvendo uma galinha ter ido parar nos autos de defesa .
 
-
-

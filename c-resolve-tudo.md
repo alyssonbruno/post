@@ -16,7 +16,6 @@ Esse mindset propost tem como objetivo impedir que você pense que as outras sol
 
 Dito isto, vamos analisar algumas balas de prata e entender como em C isso é implementado para revelar a mágica.
 
-
 A Orientação a Objetos se divide em algumas features. Algumas não vale a pena falar aqui, como tratar tudo como objeto. C já faz isso através de structs. Você pode montar uma struct que possua métodos, inclusive, através de ponteiros para função. E esses métodos já são sobrecarregáveis e virtuais.
 
     struct MyClass

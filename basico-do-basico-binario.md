@@ -22,7 +22,6 @@ Outros seres poderiam usar, sei lá, dois:
 
 O importante é que seriam na quantidade de dois.
 
-
 O nosso sistema de representação ainda possui algumas características singulares, como o valor posicional. Os mesmos dez símbolos, quando colocados em posições diversas, assumem valores diversos.
 
 Dessa forma, quando esgotamos todos os símbolos e chegamos a nove, para irmos ao dez começamos a repetir os símbolos, mas em outra posição:
@@ -44,7 +43,6 @@ A nova posição do símbolo '1' possui o próximo valor após o nove. O zero, c
 
 Pronto! Eis toda a base de nosso sistema numérico. O resto é historinha pra boi dormir. Com isso é possível até mudarmos de base, ou seja, o número de símbolos usados, conforme nos convier.
 
-
 Para nos comunicarmos com a raça alienígena que usa dois símbolos poderíamos contar seguindo o mesmo princípio:
 
     
@@ -58,11 +56,9 @@ Para nos comunicarmos com a raça alienígena que usa dois símbolos poderíamos
     111,
     ...
 
-
 O valor do número, como sabemos, depende de sua posição. Mas, calma lá! O 111 logo acima não é idêntico ao 111 que vimos anteriormente, pois mudamos a base! Agora só temos dois símbolos para representar números, quando antes tínhamos dez.
 
 O "segredo" do valor posicional também está na base, pois o zero, apesar de não possuir valor, marca a quantidade de símbolos que foram utilizados para se esgotar uma posição qualquer. Dessa forma, enquanto o nosso conhecido 10 (dez) vale todos os símbolos não-nulos (nove) mais um (nove + um = dez), o outro 10 (um-zero) da raça alienígena de dois dedos também vale todos os símbolos deles nã-nulos (um) mais um (um + um = dois).
-
 
 Como não faz parte do tema, não vou explicar como o sistema binário foi importante para a definição de uma arquitetura simples o suficiente para ser expandida a níveis nunca antes imaginados de processamento e comprimida em espaços que muitos diriam não caber qualquer coisa de útil que fosse. No entanto, apesar de brilhante, o binário no dia-a-dia do programador gera alguns problemas. Principalmente se o programador escreve seus cálculos de ponteiros em binário.
 
@@ -77,7 +73,6 @@ E, claro, ainda poderia ficar pior, se fosse depurado um desses novíssimos sist
 
     
     10011101101101101101101101101101101101101101
-
 
 Eu sei que não vou conseguir explicar tudo sobre bases numéricas em apenas um miniartigo. Porém, vamos dar uma rápida olhada no famoso hexadecimal, que foi o que nos salvou de lidar com os numerozinhos acima.
 
@@ -110,7 +105,6 @@ A grande vantagem de contar as coisas em dezesseis é que sua representação se
 Tabelinha básica, fácil de achar em qualquer lugar da internet, mas colocada aqui apenas para relembrar a relação entre as três bases.
 
 Bom, acho que é isso. Já ultrapassei o limite do teórico, porque na verdade o que importa aqui, para captar de fato o binário dos fatos, é praticar:
-
 
 	
   * Conte em binário quando não estiver fazendo nada. É simples e ajuda a fixar. Dessa forma: um, um-zero, um-um, um-zero-zero, um-um-zero, um-um-um, ...

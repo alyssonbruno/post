@@ -12,8 +12,6 @@ Até que veio o dia de juntar.
 
 O processo de merge de um controle de fonte supõe que os branches começaram em algum ponto em comum; do contrário não há como o controlador saber as coisas que mudaram em paralelo. Pois é achando a modificação ancestral, pai de ambos os branches, que ele irá medir a dificuldade de juntar as versões novamente. Se não existe ancestral, não existe análise. Como exemplificado na figura:
 
-
-
 Acontece que existe um plugin esperto que consegue migrar revisões (commits) entre branches sem qualquer parentesco. Não me pergunte como ele faz isso. Mas ele faz. E foi assim que resolvemos o problema dos branches órfãos.
 
 Para instalar o plugin do rebase, basta baixá-lo e copiar sua pasta extraída com um nome válido no Python (rebase, por exemplo). A partir daí os comandos do plugin estão disponíveis no prompt do Bazaar, assim como a instalação de qualquer plugin que cria novos comandos.
@@ -42,7 +40,6 @@ Para instalar o plugin do rebase, basta baixá-lo e copiar sua pasta extraída c
     revert          Revert files to a previous revision.
     ...
     whoami          Show or set bzr user id.
-
 
 O comando que usamos foi o replay, que não é comando principal do plugin, mas que resolve esse problema de maneira quase satisfatória. Como era tudo o que tínhamos, valeu a pena.
 

@@ -41,7 +41,6 @@ Para fazer Gerência, Coisão, você deve fazer o seguinte:
 
 Simples e conciso. Acho que até a gerência deve conseguir se lembrar desses três passos.
 
-
 Não há nada de errado em usar outras metologias em cima da PMF, mas há tudo de errado em substituir uma coisa por outra. A PMF é primordial para terminar alguma coisa. É o suprasumo da eficiência. Com ela todas as coisas eventualmente são solucionadas. Usar apenas a metologia do seu coração sem aplicar PMF não irá entregar nada.
 
 E por mais curioso que seja, há de fato uma tendência nas pessoas de enxergar a solução de todos os seus problemas não fazendo absolutamente nada. Apenas preenchendo cartões em um dashboard. Não é bem por aí. Claro que há uma parcela de nada que pode ajudar a organizar a bagunça que é uma equipe de programadores batucando código, mas esse nada nunca pode atrapalhar os... programadores batucando código!

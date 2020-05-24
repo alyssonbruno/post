@@ -11,7 +11,6 @@ O tempo passou, completei uma década na área, e agora está realmente na hora 
 
 Aprendi muito nesse tempo todo com alguns amigos entusiastas (até demais) e programei muito código que gostaria que não tivesse meu nome nos comentários. Mas a vida (e o código) é assim: melhora com os erros.
 
-
 A empresa que estou deixando agora está à caça de uma pessoa para se tornar minha versão 2.0. Dessa vez não é uma busca por talentos inexperientes, de forma que estaremos aceitando apenas pessoas que já se f... com larga experiência em programação Windows.
 
 Segue a descrição da vaga, feita por mim mesmo, sozinho. Interessados: sem timidez, please.

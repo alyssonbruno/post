@@ -21,7 +21,6 @@ O que todas essas funções têm em comum? Bom, ignorando seu funcionamento inte
 
 Por exemplo, chamamos a função ReadFile para ler um arquivo. Ela retorna FALSE. Isso significa que não deu certo nossa leitura. Por quê? Ora, não sabemos ainda. Apenas sabemos que o polegar está virado para baixo!
 
-
 Em funções nessas condições, geralmente existe uma segunda função (ou variável) que retorna o último erro que ocorreu na API, ou seja, o erro que fez com que última função chamada retornasse que algo não deu certo. Nas funções de exemplo, são usados três métodos distintos, pois estamos falando de três APIs distintas:
 
 	
@@ -34,6 +33,5 @@ Em funções nessas condições, geralmente existe uma segunda função (ou vari
   * Função GetLastError.aspx)
 
 São esses métodos que realmente retornam o porquê da função ter dado errado. E é elas que devemos chamar, eu disse devemos chamar, sempre que a função der errado. Até porque, já que o polegar está virado para baixo, temos que fazer alguma coisa para que nosso programa não morra.
-
 
 Como bem observado pelo Fernando no comentário abaixo, nem todas as funções-polegar possuem uma função para obter a causa do erro. Vide SysAllocString, ou mesmo malloc. Nesse caso, não há muito o que determinar a não ser que não foi possível alocar o recurso pedido pelo sistema. Paciência.

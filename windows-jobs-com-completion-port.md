@@ -12,11 +12,9 @@ Além da pouca documentação.aspx), parece que não são muitas as pessoas que 
 
 Mas, pra início de conversa, o que é um job mesmo?
 
-
 Um job é um objeto "novo" no kernel do Windows 2000 em diante, e se prontifica a suprir a carência que havia anteriormente de controle sobre o que os processos podem fazer e por quanto tempo.
 
 A abstração mais coerente que eu consigo tirar de um job é como um trabalho a ser executada por um ou mais processos. O objeto job controla a criação, o término e as exceções que ocorrem dentro dele mesmo.
-
 
 Entre as funções mais úteis de um job estão limitar o tempo de execução do conjunto de processos, o número de handles/arquivos/outros objetos abertos, limite de memória RAM ocupada e a possibilidade de terminar todos os processos de uma só vez.
 

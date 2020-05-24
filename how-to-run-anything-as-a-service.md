@@ -8,7 +8,6 @@ The biggest advantage running an application as a service, interactive or not, i
 
 Today I've figured out a pretty interesting shortcut to achieve it.
 
-
 An Alex Ionescu article talks about this command line application used to create, initiate and remove services. Even not being the article focus, I found the information pretty useful, since I didn't know such app. Soon some ideas starting to born in my mind:
 
 "What if I used this guy to run notepad?"

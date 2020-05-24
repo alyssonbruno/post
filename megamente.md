@@ -13,4 +13,3 @@ Isso fica mais visível quando até mesmo o relacionamento herói-mocinha se con
 
 A caricatura de Marlon Brando é óbvia, engraçada e necessária em um filme que trata do caráter dos super-heróis e dos vilões, e não deixa de ser divertido que quem exatamente se disfarça dessa caricatura de mentor é o próprio Megamente, representante máximo da vilania.
 
-

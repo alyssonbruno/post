@@ -66,5 +66,4 @@ A mágica é tão bela que resolvi gravar um vídeo do que ocorreu quando compil
      
     
 
-
 Espero com isso aliviar a carga pesada de A.V.s que sempre aparece quando menos se espera. Cuidar de toneladas de código legado exige algumas pitadas de automatização nos lugares certos. Como já dizia meu primeiro chefe: se a mente não pensa...

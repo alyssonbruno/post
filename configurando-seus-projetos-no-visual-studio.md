@@ -12,12 +12,9 @@ Nota do autor: isso não foi uma propaganda gratuita, apenas uma piada. Se fosse
 
 Inicialmente, se compilarmos um programa em Debug no Visual Studio 2005 teremos as seguintes dependências:
 
-
 A DLL kernel32 é nativa e sempre estará presente no Windows. Porém, a msvcr80d não. Ela veio junto com o pacote do Visual Studio, e se não for distribuída em outras máquinas, você não conseguirá rodar seu programa, pois isso gerará o seguinte erro:
 
-
 Bem, para resolver isso, a partir da IDE, temos que ir em Project, Properties, Configuration Properties, C/C++, Code Generation, Runtime Library.
-
 
 Existem atualmente quatro tipos de runtime que você pode escolher:
 
@@ -32,13 +29,8 @@ Note que, por padrão, existem dois tipos de configuração em seu projeto: Debu
 
 Pois bem. Para tirar a dependência da maldita DLL, tudo que temos que fazer é alterar a configuração, nesse caso Debug, de /MDd para /MTd. E recompilar.
 
-
 E testar.
 
-
-
 Além da dependência de DLLs, alguns casos especiais vão chiar por causa dos dados do manifesto embutidos no programa compilado. Por algum motivo que eu desconheço, o programa necessita que as DLLs estejam instaladas mesmo que no Dependency Walker não mostre nada. Nesses casos, uma arrancada do manifesto na versão Debug não fará mal algum.
-
-
 
 Acho que esses são os únicos empecilhos iniciais para testar seu programa em outras máquinas. Sempre que ver o erro exibido no começo desse artigo, desconfie de alguma dependência que não está presente na máquina. Nessas horas, ter um Dependency Walker na mão vale ouro.

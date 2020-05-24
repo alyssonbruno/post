@@ -16,7 +16,6 @@ Podemos aprender, por exemplo, que ele é carregado logo depois do NT Detect, qu
 
 O NTLDR é um executável "híbrido" que possui tanto código em modo real quanto código em modo protegido. Com isso podemos supor que é ele o responsável por entrar em modo protegido, uma tarefa que exige alguns conhecimentos da arquitetura.
 
-
 Além disso, como o próprio nome diz, ele tecnicamente "sobe" o sistema operacional, pois provê a comunicação entre o hardware (processador e periféricos da máquina) e o software (kernel e drivers de boot). O hardware é o que está espetado na máquina e o kernel é o arquivo ntoskrnl.exe; para a comunicação entre eles existe uma camada de abstração, o hal.dll.
 
 Esses dois arquivos, juntos dos drivers de boot, são carregados pelo NTLDR.
@@ -27,11 +26,9 @@ Nesse ponto o nosso amigo loader faz o que todo mundo já fez na infância (não
 
 Como ele leu a lista de kernels bootáveis, é isso que ele exibe naquela famosa tela que qualquer um que depura o kernel vê:
 
-
 Escolheu seu boot, é a partir daí que ele acha o executável do kernel: ntoskrnl.exe. Ele deve estar na pasta system32 (em ambientes 32 bits). Também é nesse momento que é carregada a HAL (hal.dll) e isola-se o hardware do software a partir daí. As DLLs que esses dois componentes dependem são identificadas e carregadas na memória.
 
 Agora é hora de abrir o registro. Quer dizer, parte dele. Dentro da pasta system32/config deve estar a hive SYSTEM, que é onde ficam os drivers que devem ser carregados a partir daí em vários níveis. Inicialmente são carregados os que possuem o valor Start igual a zero, como o driver Atapi (controlador de disco):
-
 
 A partir daí vários componentes do kernel serão carregados progressivamente. Só que a partir do momento que é chamada a rotina interna KiInitializeKernel o NTLDR não tem mais nada pra fazer: o kernel, em sua forma básica e primitiva, está carregado.
 

@@ -79,12 +79,9 @@ Era um belo dia em um ambiente de processamento fictício de filas fictícias e 
 
 Se olharmos de perto o processamento e a memória consumida por esse processo, veremos que no início existe um boom de ambos, mas após um momento de pico, o processamento praticamente pára, mas a memória se mantém:
 
-
 Depois de pesquisar por meus tweets favoritos, fica fácil ter a receita para verificarmos isso usando nosso depurador favorito: WinDbg!
 
-
 windbg -pn MemoryConsumption.exe
-
 
 Achamos onde está a memória consumida. Agora precisamos de dicas do que pode estar consumindo essa memória. Vamos começar por listar os chunks alocados por tamanho de alocação:
 
@@ -124,7 +121,6 @@ O Top 3 é de tamanhos conhecidos pelo código, de 1024 a 1024 + QUEUESSIZE - 1
      0059de58 0(...)
 
 A listagem do depurador nos dá o endereço onde o chunk foi alocado no heap e o endereço devolvido para o usuário, onde colocamos nossas tralhas. Através de ambos é possível trackear a pilha da chamada que alocou cada pedaço de memória. Isso, claro, se previamente tivermos habilitado essa informação através do GFlags.aspx):
-
 
     
     0:004> !heap -p -a 00558600
@@ -174,7 +170,6 @@ Outra informação relevante é o que está gravado na memória, que pode nos da
     00558688 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
 
 Não é o caso, mas vamos supor que fosse um objeto/tipo conhecido. Poderíamos simplesmente "importar" o tipo diretamente do PDB que estamos para modelar a memória que encontramos em volta. Mais detalhes em outro artigo.
-
 
     
   * CreateThread.aspx). Cria uma nova linha de execução.

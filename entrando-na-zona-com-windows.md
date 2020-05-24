@@ -12,7 +12,6 @@ O Windows 10 já vem com atalhos pré-instalados assim que você loga nele. Tem 
 
 Mas é possível arrancar tudo isso e deixar na barra de tarefas pinado apenas as coisas realmente vitais para o uso do computador de trabalho, geralmente o terminal, o navegador (pesquisa, emails, etc) e o editor (não necessariamente o Vim).
 
-
 O terminal do Windows, o Command Prompt, ou cmd para os íntimos, sofreu algumas mudanças ultimamente. Entre elas há a transparência, o que o tornou cool, e a tela cheia (atalho Alt+Enter), o que o tornou ideal como ferramenta de navegação para programadores (melhor do que o explorer, que virou um penduricalho de atalhos inúteis também). Você pode ativá-lo já entrando na tela cheia e com o code page de sua preferência (o meu é 65001, que é o utf8) usando esse pequeno programa:
 
     #include <iostream>
@@ -31,7 +30,6 @@ O terminal do Windows, o Command Prompt, ou cmd para os íntimos, sofreu algumas
     }
     
 
-
 Os comandos do git são muito verbose. Duas letras já seriam suficiente (o Windbg manipula seu programa com apenas uma...). Para otimizar a digitação no git crie uns aliases em seu HOME\.gitconfig:
 
     [user]
@@ -47,6 +45,5 @@ Os comandos do git são muito verbose. Duas letras já seriam suficiente (o Wind
     	autocrlf = true
     	excludesfile = C:\\Users\\Caloni\\.gitignore
     	fileMode = false
-
 
 Agora, através dos atalhos Win+1, 2, 3... pode-se abrir e alternar entre os aplicativos principais do seu dia-a-dia, que devem ficar "pinados" na barra de tarefas. Os meus atualmente são três: terminal (1 cmd), editor (2 vim) e browser (3 chrome). Não é necessário colocar coisas como Visual Studio, já que minha navegação é feita rapidamente pelo terminal para o projeto que irei mexer. Com isso o foco fica restrito a apenas uma coisa: o que você tem que fazer hoje? =)

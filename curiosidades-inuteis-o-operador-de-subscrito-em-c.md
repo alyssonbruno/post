@@ -6,9 +6,7 @@ title: "Curiosidades inúteis: o operador de subscrito em C++"
 ---
 Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!
 
-
 Em C e C++ as regras de sintaxe são extremamente flexíveis. Essa liberdade toda se manteve no decorrer dos tempos porque se trata de uma das idéias fundamentais da linguagem C, motivo de sua criação. Me lembro certa vez que, bitolado em C Standard 89, usei uma sintaxe não lá muito usual para acessar um elemento de um array. Foi apenas um experimento de estudante, coisa que nunca vi em código algum e queria comprovar.
-
 
 As regras de acesso a elementos de um array (subscrito) são definidas não em termos do array, mas em termos de um ponteiro e de um índice. "Me dê um ponteiro para T e um inteiro e te retorno um lvalue do tipo T". Essa é a idéia geral. A mesma idéia, com pequenas alterações, se manteve em C++. Eis parte do parágrafo que fala sobre isso:
 

@@ -14,11 +14,9 @@ Ultimamente não tenho acertado muito bem meus cronogramas, com erros que variam
 
 Portanto, aí vão algumas dicas empíricas para lidar com esses detalhezinhos que são "faceizinhos de serem esquecidinhos" (by Rafael).
 
-
 Simples de dizer, não? No entanto, se o que você está fazendo é tão pequeno quanto duas horas passa a ficar um pouco mais fácil. E isso é possível se você souber fazer direito um cronograma, dividindo suas tarefas em tarefas menores, mais paupáveis e "pausáveis".
 
 Um exemplo real serial o de uma mudança em um projeto que envolva três componentes: uma LIB estática, um componente COM e um driver. No caso de ser necessário parar no meio do projeto, é importante que essas três partes estejam bem separadas em tarefas que alteram o código-fonte um a um, sendo a última tarefa a integração entre todos. É interessante notar que, se for bem estruturado o projeto, é possível fazer testes individuais por componente antes da integração de fato, o que torna as coisa bem menos dolorosas. A divisão seria algo incremental e possivelmente paralelizável:
-
 
 Você tem certeza que o programa está rodando como deveria, que não existem problemas paralelos e relacionados que podem prejudicar seu desempenho cronogrametal? A última versão funciona realmente como deveria funcionar? Não? Nesse caso, esqueça sua estimativa inicial: ela foi pro espaço. Quer dizer, do ponto de vista otimista, adiada para depois de serem resolvidos os problemas atuais.
 

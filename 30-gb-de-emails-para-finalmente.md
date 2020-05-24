@@ -6,7 +6,6 @@ title: "30 GB De Emails Para Finalmente..."
 ---
 Vinte anos de backup de emails devem servir para alguma coisa, certo? OK, eu sei o que você está pensando. Vamos lá:
 
-
     >grep -cri "arial" *.mbox
     all_emails.mbox:1677467
     
@@ -21,6 +20,5 @@ Vinte anos de backup de emails devem servir para alguma coisa, certo? OK, eu sei
 
     >grep -cri "comic sans" *.mbox
     all_emails.mbox:2181
-
 
 Perdeu, Comic Sans. Perdeu feio.

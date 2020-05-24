@@ -16,7 +16,6 @@ Porém, terminado o almoço, volto a pensar em como resolverei o impasse do cron
 
 Se você está com algum PROBLEMA DE DIFÍCIL SOLUÇÃO e precisa de AJUDA URGENTE, peça esta ajuda a Santo Expedito que é o Santo dos Negócios que precisam de Pronta Solução e cuja invocação nunca é tardia. (Abaixo segue a oração ao Santo).
 
-
 É lógico que toda essa história fantasiosa pode ser pura ficção com um pingo sequer de realidade, e no fundo almocei foi mesmo é com meus amigos imaginários. No entanto, é capaz que esse não seja um cenário incomum em muitas empresas de tecnologia por aí afora, que insistem em fazer duas coisas que, aliadas, podem gerar qualquer coisa, menos um projeto bem feito e testado:
 
 - Pedir que seus funcionários elaborem um cronograma de um projeto complexo (um mês ou mais de trabalho).

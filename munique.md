@@ -11,4 +11,3 @@ Uma profunda introspecção na luta entre os dois povos, árabes e judeus, sob o
 
 Não há final feliz.
 
-

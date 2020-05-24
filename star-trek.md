@@ -21,7 +21,6 @@ Porém, o que chega realmente a dar um nó na garganta é a maneira orgânica co
 
 Conseguindo criar um desfecho satisfatório e que ao mesmo tempo abre o leque de possibilidades para continuações, o novo Star Trek é uma notícia muito positiva para os cinéfilos, pois consegue através de decisões inteligentes e bem orquestradas agradar gregos e troianos, algo que, diga-se de passagem, não é tão fácil em outras galáxias tão tão distantes.
 
-
 Agora que o segundo filme da nave Enterprise chegou fica claro o empenho de J. J. Abrams em estabelecer a amizade entre Kirk e Spock, além da confiança e dedicação do primeiro com sua tripulação, como pilares para qualquer aventura que a nave da Federação tenha pela frente.
 
 Star Trek não é ainda um "Star Wars para adultos" porque seu foco não se localiza na emoção das arrancadas da Enterprise ou em seus tiros e duas avarias. Por enquanto, graças a um delicado trabalho de composição do diretor, roteiristas e elenco, a pirotecnia da ação fica escalada como entretenimento George Lucas, mas isso não prejudica o fã dos detalhes mais fascinantes da agora série: como humanos conseguiriam a sanidade no espaço com os seus riscos sempre iminentes, a solidão das decisões de seus líderes e o empenho individualizado de cada membro desse grupo que, antes refém da tecnologia que os possibilita viajar para as galáxias mais distantes, são reféns do destino que escolheram.

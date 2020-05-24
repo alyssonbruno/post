@@ -16,7 +16,6 @@ O nosso rústico importador fez o trabalho de desofuscar todos os 53 arquivos us
 
 Partindo do bom senso, abriremos o arquivo maior, deah001.txt, e abriremos o próprio dicionário Houaiss, em busca de um padrão que faça sentido. Como poderemos ver na figura abaixo, o padrão inicial não é nem um pouco complicado.
 
-
 As duas primeiras observações do formato do arquivo nos dizem que (1) o primeiro caractere de cada linha indica o conteúdo dessa linha, e que (2) a formatação dos caracteres é feita dentro de um par de chaves {}.
 
 Dessa forma, podemos começar a construir nosso interpretador de arquivos do Houaiss em seu formato básico.
@@ -58,7 +57,6 @@ Dessa forma, podemos começar a construir nosso interpretador de arquivos do Hou
 Simples e funcional. Com esse código já é possível extrair o básico que precisamos de um dicionário: os vocábulos e suas definições.
 
 Para conseguir mais, é necessário mais trabalho.
-
 
 A formatação segue o estilo já identificado, de forma que podemos aos poucos montar um interpretador de formatação para HTML, que é o formato reconhecido pelo Babylon Builder. Podemos seguir o seguinte molde, chamado no exemplo de código anterior:
 
@@ -124,8 +122,6 @@ Algumas partes ainda estão feias, eu sei. Mas, ei, isso é um código de ráque
 
 A partir dessas duas funções é possível dissecar o primeiro arquivo do dicionário, e assim, construirmos a primeira versão interessante do Houaiss no Babylon.
 
-
 Como é normal a qualquer dicionário do Babylon, podemos instalá-lo simplesmente clicando duas vezes no arquivo (em uma máquina com Babylon previamente instalado).
-
 
 O projeto atual está um tanto capenga, mas já desencripta os arquivos do Houaiss e gera o projeto do Babylon Builder sozinho. Em anexo já está um projeto do Babylon Builder. Basta copiar o arquivo Houaiss.txt para a pasta do projeto e gerar o projeto do Babylon.

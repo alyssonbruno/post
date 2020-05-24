@@ -12,10 +12,7 @@ O programa está rodando no servidor do cliente, que é acessível por sessão r
 	
   2. Depurar localmente o problema.
 
-
-
 Para a primeira opção, basta abrir o Gerenciador de Tarefas, localizar o processo e gerar o dump através do menu de contexto.
-
 
 Com o dump e o Windbg em mãos, basta analisá-lo. Porém, se o seu processo é 32 bits e o servidor é 64 bits (geralmente é), o dump gerado será de 64 bits, EMBORA seja de um process 32. Ou seja, ao abri-lo, o sistema vai mostrar as threads de manipulação do SO para sistemas 32 (todos com o nosso amigo wow64cpu).
 
@@ -77,7 +74,6 @@ Com o dump e o Windbg em mãos, basta analisá-lo. Porém, se o seu processo é 
 
 Após esse último passo, siga para o último passo desse tutorial. Ou escolha a segunda opção:
 
-
 Para depurar localmente, supondo que seja um executável simples, você precisa dos seguintes itens:
 
 	
@@ -93,16 +89,12 @@ Os fontes, no caso de uma conexão por Terminal Server, podem ser disponibilizad
 
 Supondo que temos tudo isso, só precisamos executar alguns passos básicos para o setup:
 
-
-
-
     
     <span style="font-family: Consolas, Monaco, monospace; font-size: 12px; line-height: 18px; white-space: pre;" class="Apple-style-span">.symfix 
     .sympath+ 
     .reload
     </span><span style="font-family: Consolas, Monaco, monospace; font-size: 12px; line-height: 18px; white-space: pre;" class="Apple-style-span">.srcpath 
     </span><span style="font-family: Consolas, Monaco, monospace; font-size: 12px; line-height: 18px; white-space: pre;" class="Apple-style-span">.reload /f CrashOnServer.exe</span>
-
 
     
     0:000> .symfix c:\tools\symbols
@@ -124,7 +116,6 @@ Supondo que temos tudo isso, só precisamos executar alguns passos básicos para
      00000000`74640000 00000000`7467f000 wow64 (deferred)
      00000000`76da0000 00000000`76f4c000 ntdll (pdb symbols) c:\tools\symbols\ntdll.pdb\\ntdll.pdb
      00000000`76f80000 00000000`77100000 ntdll32 (deferred)
-
 
 Por último, execute o seguinte comando na tela de comandos do WinDbg:
 

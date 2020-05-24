@@ -8,7 +8,6 @@ Ed Weissman, ou edw519 para os íntimos, é um dos comentaristas mais efusivos, 
 
 Clique aqui para baixar seu livro. Se quiser ter apenas um gostinho do que vai encontrar lá, leia meus recortes abaixo (tradução minha):
 
-
  - Alguns caminhos são melhores que outros, mas qualquer caminho é melhor que nenhum.
  - Como hackers, tudo que fazemos ou é plantar sementes ou colhendo. Se você não vê uma colheita hoje é porque você estava plantando sementes.
  - Quanto eu contrato, eu não estou procurando por uma pessoa ou um recurso. Eu estou procurando por uma solução para meu problema.
@@ -18,14 +17,12 @@ Clique aqui para baixar seu livro. Se quiser ter apenas um gostinho do que vai e
  - Engenharia de software não está morta. É que o processo de depender de modelos antes de iniciar nunca funcionou em primeiro lugar.
  - A necessidade de frameworks e linguagens de alto nível só se torna aparente quando crescemos tanto que não é possível achar mais hackers experientes o suficiente. Só quando você apela para as massas medíocres que você precisa dessa ajuda.
 
-
  - "Eu só vejo um lance à frente, mas é sempre o correto." - mestre de xadrez Jose Raul Capablanca
  - "Você não pode resolver um problema com a mesma mente que a criou." - Albert Einstein
  - "Foque no menor problema possível que você pode resolver que cuja solução será potencialmente útil." - David Cohen
  - "Cada momento que você está trabalhando em algo sem estar na arena pública, esse algo está na verdade morrendo, privado do oxigênio do mundo real." - Matt Mullenweb
  - "Quando apresentado com um crescimento exponencial, lembre-se que as pessoas tendem a superestimar drasticamente o que irá acontecer o curto prazo, mas subestimam profundamente o que acontece sobre longos períodos de tempo." - Ryan McIntyre
  - "O que nós acreditamos é baseado em nossas percepções. O que nós percebemos depende do que estamos procurando. O que nós estamos procurando depende do que pensamos. O que pensamos depende do que percebemos. O que nós percebemos é o que aceitamos como verdade. O que aceitamos como verdade é nossa realidade." - Gary Zukav
-
 
  1. Comece com a resposta, então trabalhe ao contrário.
  1. Nomeie suas variáveis para que qualquer um saiba o que elas são.
@@ -47,7 +44,6 @@ Clique aqui para baixar seu livro. Se quiser ter apenas um gostinho do que vai e
  1. Lembre-se dos padrões que você usou antes. Você irá usá-los novamente.
  1. Mantenha extremamente simples no começo. Complique conforme avança.
  1. Codifique todos os dias.
-
 
  - Como aprender a programar? Ache um cliente com um dedline absurdo. Alcance-o. Repita. Não vai ser bonito, mas você será o tipo de programador que eu iria para a batalha junto: ótimo nas coisas que realmente importam e medíocre nas coisas que não importam.
 

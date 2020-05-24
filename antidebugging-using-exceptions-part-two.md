@@ -43,7 +43,6 @@ The upgrade showed here still uses the exception throwing intrinsically, but now
 
 The solution above is explained in pseudocode to make things clearer. Notice that exist some kind of invisible return, not stack based. To handle it, however, we can use the good for all C ANSI standard, using the setjmp (step one) and longjmp (step 3). To understand the implementation for theses functions running on the 8086 platform we need to get the basic vision of the function calls in a stack based environment (the C and Pascal way).
 
-
 Registers are reserved variables in the processor that can be used by the assembly code. Stack frame is the function calling hierarchy, the "who called who" in a given execution state. Call and ret are assembly instructions to call and return from a function, respectively. Both change the stack frame.
 
 Imagine you have a function, CallFunc, and another function, Func, and one calls the other. In order to analyse just the function call, and just that, let's consider Func doesn't receive any argument and doesn't return any value. The C code, would be like bellow:
@@ -84,7 +83,6 @@ Well, in the same way we can follow this simple execution, the attacker will do 
     00411F73 catch_exception
     00411F74 mov ESP, 0012FD3C ; ESP = 0012FD3C, just like CallFunc
     00411F75 jmp 00411FA3 ; jumps to CallFunc::next_instruction
-
 
 All this assembly stuff doesn't need to be written in assembly level. It was just a way I found to illustrate the differences between the stack return and the jump return. As it was said, to the luck and well being for all, this same technique can be implemented using ANSI C functions:
 

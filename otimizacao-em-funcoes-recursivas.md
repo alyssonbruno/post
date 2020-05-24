@@ -6,7 +6,6 @@ title: "Otimização em funções recursivas"
 ---
 O livro que estou lendo fala sobre algoritmos em C. Os primeiros capítulos são praticamente uma revisão para quem já programou em C, pois tratam de coisas que programadores com mais de cinco anos de casa devem ter na memória cachê (listas, pilhas, recursão, etc). Porém, tive uma agradável surpresa de achar um truque muito sabido que não conhecia, chamado de tail recursion. Fiz questão de testar nos dois compiladores mais conhecidos e eis o resultado.
 
-
 Imagine uma função recursiva que calcula o fatorial de um número. Apenas para lembrar, o fatorial de um número n é igual a n * n-1 * n-2 * n-3 até o número 1. Existem implementações iterativas (com um laço for, por exeplo) e recursivas, que no caso chamam a mesma função n vezes.
 
     int factorial(int n)
@@ -191,7 +190,6 @@ A mesma coisa podemos notar se compilarmos o mesmo fonte no GCC e depurarmos pel
     #8  0x004010b3 in main () at recursive-factorial1.c:11
     (gdb)
 
-
 Isso acontece porque o compilador é obrigado a montar um novo stack frame para cada chamada da mesma função, já que os valores locais precisam manter-se intactos até o retorno recursivo da função. Porém, existe uma otimização chamada de tail recursion, que ocorre se, e somente se (de acordo com meu livro):
 
     
@@ -206,7 +204,6 @@ Note que ser a última instrução não implica em ser a última linha da funç�
         return factorial(n - 1) * n;
         // o retorno da chamada recursiva 
         // é parte de uma expressão
-
 
 Por isso é necessário desenvolver uma segunda versão do código, que utiliza dois parâmetros para que aconteça a situação de tail recursion.
 

@@ -33,7 +33,6 @@ O marketing da Microsoft sempre será melhor do que as reais soluções entregue
     ... hangs forever
     ...
 
-
 O fun fact até aqui é que a primeira versão que tentei, a Express 2017, sequer chegava nesse ponto, dando erros de conexão com named pipe ou timeout no login. Não estou certo de como funcionaria um login em um acesso local em um arquivo, mas essa era uma mensagem extremamente longa e potencialmente inútil. Encontrei uma outra alma sofredora na internet neste mesmo dia de hoje que recomendou fazer o rollback para o Server 2016 [2] (por isso a versão 13.1 no prompt acima), mas os erros apenas mudam de figura ou se repetem indefinidamente.
 
 Aliás, outro fato curioso e revoltante é que a Microsoft sequer mantém a versão anterior dos seus produtos para download. A versão 2016 achei no site de alguém que se dispôs a mantê-los. Do contrário, a solução seria ~~sentar e chorar~~ olhar o código-fonte.

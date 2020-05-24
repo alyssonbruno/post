@@ -39,7 +39,6 @@ Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map 
      argc: | 3 |
             --- 
 
-
 Essa função é tão simples, e tem tão poucas dependências (strcmp) que você pode usá-la em praticamente qualquer programa que use argc/argv e que use os parâmetros dos mais complexos:
 
     MeuPrograma.exe --debug --file c:\path\arquivo.ext --readonly 1

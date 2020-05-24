@@ -21,7 +21,6 @@ Se a função ou DLL não existe no sistema, o seguinte erro costuma ocorrer (is
 
 Mas nem tudo está perdido!
 
-
 Existe uma LIB no Visual Studio que serve para substituir a dependência estática de uma DLL pela verificação dinâmica da existência de suas funções quando, e se, for executada a função no programa.
 
 Essa LIB contém algumas funções-chave que o Visual Studio utiliza ser for usado o seguinte parâmetro de compilação:
@@ -44,7 +43,6 @@ Isso costuma sempre funcionar, sendo que tive uma grande surpresa com os seguint
 
 Isso, é claro, depois de ter checado e rechecado a existência da LIB de Delay Load na lista de LIBs a serem lincadas:
 
-
 Acontece que eu conheço algumas ferramentas que podem sempre me ajudar em situações de compilação e linque: Process Monitor e dumpbin.
 
 O Process Monitor pode ser usado para obter exatamente a localização da LIB que estamos tentando verificar:
@@ -56,7 +54,6 @@ Após localizar o local, podemos listar seus símbolos, mais precisamente a fun�
     108 00000000 SECT3C notype ()    External     | ___delayLoadHelper2@8
 
 A análise mostra que a função possui um "2" no final de seu nome, causando o erro de linque.
-
 
 Essa função, pelo visto, tem mudado de nome desde o Visual C++ 6, o que fez com que LIBs mais novas não funcionassem com essa versão do Visual Studio.
 

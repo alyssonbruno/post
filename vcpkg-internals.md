@@ -6,7 +6,6 @@ title: "Vcpkg Internals: como o gerenciador de pacotes da M$ funciona por dentro
 ---
 Depois de entender mais ou menos como funciona o vcpkg é hora de realmente entrar no código e entender qual a grande sacada dessa ferramenta da Microsoft.
 
-
 Uma das formas mais divertidas de entender o funcionamento de um fonte é compilar e sair depurando. E foi o que eu fiz. Através dos step ins e step outs foi possível ter as primeiras impressões de em qual pé está o projeto, além de pegar boas ideias para meu próprio código.
 
 Por exemplo, no começo do programa encontrei uma saída simples e eficaz de como tratar entrada e saída (ou só saída) de dentro de um terminal:
@@ -19,7 +18,6 @@ Com tudo UTF-8 a vida fica mais fácil.
 Outro ponto interessante é que o fonte é muito C++ moderno, com direito a inclusive usar headers ainda experimentais, como o filesystem (C++ 17). Ele usa também um conjunto de paths sobre onde estão as coisas (instalação, pacotes, etc). Há muito código no vcpkg que são módulos independentes que soam como retrabalho de coisas comuns, como parseamento de argumentos, mas o objetivo do projeto é ser independente de tudo. Do contrário ele não seria um bom gerenciador de pacotes.
 
 O arquivo vcpkg\installed\vcpkg\status contém em formato texto simples o status de todos os pacotes instalados (se foi instalado com sucesso ou não, etc). A pasta vcpkg\ports contém todos os pacotes, instalados ou não. O início de tudo é o executável na pasta-raiz após compilado, vcpkg.exe, feito em C++ e que realiza todas as bruxarias para montar a hierarquia de pastas e arquivos em texto. Tudo é tão simples e baseado em arquivos de texto que vejo que a M$ finalmente se rendeu ao jeito unix de fazer as coisas (mais conhecido como o jeito certo).
-
 
 No gerenciador de pacotes há um conceito chamado de triplet, que não é uma novidade; é uma forma de especificar um conjunto de elementos do ambiente para cross compiling utilizando um simples nome.
 
@@ -49,7 +47,6 @@ O vcpkg já vem com alguns triplets de fábrica, mas você pode criar os seus pr
  - VCPKG_VISUAL_STUDIO_PATH. Onde está a instalação do Visual Studio (é, o vcpkg tem uma certa tendência pro Zwindows).
  - VCPKG_CHAINLOAD_TOOLCHAIN_FILE. Esse não é do Zwindows, mas do CMake; a possibilidade de escolher outro toolchain (diferente de scripts/toolchains) para o CMake.
 
-
 Há diversas flags de compilação que podem ser especificadas direto no triplet:
 
  - VCPKG_CXX_FLAGS_DEBUG
@@ -57,7 +54,6 @@ Há diversas flags de compilação que podem ser especificadas direto no triplet
  - VCPKG_C_FLAGS
  - VCPKG_C_FLAGS_DEBUG
  - VCPKG_C_FLAGS_RELEASE
-
 
 A macro do CMake PORT será interpretada pelo triplet. Isso é uma garantia de mudanças nos settings para portabilidade. Por exemplo:
 
@@ -67,7 +63,6 @@ A macro do CMake PORT será interpretada pelo triplet. Isso é uma garantia de m
     endif()
 
 Que compila qualquer coisa que entre no match "qt5-*" como dinâmico (DLLs), embora todo o resto possa ser estático.
-
 
 A integração com o Visual Studio ocorre com o uso daqueles pedaços de configuração de projetos que são as abas de propriedades. Você mesmo pode criar abas de propriedade como arquivos separados do seu vcxproj para configurações comuns a mais projetos.
 
@@ -83,7 +78,6 @@ Para realizar a integração o comando é vcpkg integrate install":
     CMake projects should use: "-DCMAKE_TOOLCHAIN_FILE=c:/Libs/vcpkg/scripts/buildsystems/vcpkg.cmake"
 
 Note que as coisas para quem usa CMake são automáticas e fáceis de usar. Basta acrescentar o toolchain especificado. Já para Visual Studio...
-
 
 O mecanismo envolve uma pasta do msbuild:
 
@@ -195,7 +189,6 @@ UPDATE: Essa sugestão já foi adicionada à última versão do vcpkg. É feita 
 
 Assim o que seguir é Debug ou Release =).
 
-
 Um outro potencial problema dos usuários de Visual Studio para compilar e rodar projetos C++ são as dependências de binários (DLLs). É possível que um pacote seja compilado de maneira dinâmica, ou seja, com DLLs de dependência. Essas DLLs na instalação do pacote devem constar na pasta bin, mas por conta dessa pasta não fazer parte dos diretórios de sistema o depurador do Visual Studio irá carregar um executável em sua pasta de geração em que não encontrará as eventuais DLLs que ele precisa para rodar.
 
 Para "corrigir" isso, ou melhor dizendo, contornar a experiência, também foi adicionado um comando Post Build no vcpkg.targets com um comando Power Shell que copia esses binários para a pasta de geração do projeto atual. Dessa forma o projeto pode rodar sem problemas, o usuário fica feliz e consegue terminar sua programação antes de passar para o deploy (e facilita deploys de testes, pois basta copiar a pasta de geração do executável que todas suas dependências estarão lá).
@@ -240,7 +233,6 @@ A cópia dos binários é feito com um teste simples de "path existe" com deploy
 
 Fato curioso: no script do PowerShell existem alguns hacks para alguns pacotes, incluindo Qt.
 
-
 O uso do CMake permite aos usuários do vcpkg ter boas ideias apenas lendo os scripts do projeto. Se você abrir o solution vcpkg.sln dentro de toolsrc vai descobrir todos os scripts listados por lá. Há funções espertinhas como o download e extração de pacotes 7zip do Source Forge.
 
 Essa parte fica em vcpkg/scripts/cmake. Olhe, por exemplo, como retornar a versão do Windows SDK (vcpkggetwindowssdk.cmake):
@@ -253,7 +245,6 @@ Essa parte fica em vcpkg/scripts/cmake. Olhe, por exemplo, como retornar a vers�
     endfunction()
 
 Assim como o esquema de triplets, tudo pode ser atualizado conforme o gosto do freguês, adicionando funções e configurações úteis em seu clone do repositório, e feitas atualizações com a versão oficial.
-
 
 O vcpkg não é apenas um ecossistema de libs compiladas e instaladas em uma pasta para serem usadas localmente. Pode ser um caminho simples e rápido para você conseguir compilar libs conhecidas e entregar para um terceiro um zip com todos os includes, libs e dependências do seu projeto.
 
@@ -268,7 +259,6 @@ O vcpkg não é apenas um ecossistema de libs compiladas e instaladas em uma pas
     
     To use the exported libraries in CMake projects use:
         "-DCMAKE_TOOLCHAIN_FILE=[...]/scripts/buildsystems/vcpkg.cmake"
-
 
 Para trabalhar em equipe é vital que todos falem a mesma língua. Uma das formas disso acontecer é usar um gerenciamento de pacotes que inclua todos os ambientes que a equipe usa. Como geralmente esses ambiente não são os mesmos, o uso de pacotes próprios do vcpkg é um plus da ferramenta que vem para somar em padronização de fontes e compilação.
 

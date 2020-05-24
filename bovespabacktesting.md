@@ -6,15 +6,11 @@ title: "BovespaBacktesting"
 ---
 Eu não sou apenas um programador: sou um especulador. Ou, para quem ficou com medo, um investidor. Ficou bonito, agora? Trocando em miúdos, isso quer dizer que muitas vezes aposto na bolsa de valores, aquela onde as pessoas ganham e perdem dinheiro loucamente. Porém, assim como faço com minha carreira de desenvolvedor, não deixo de estudar e aprimorar minhas habilidades. Tirando alguns anos de estudo com livros de finanças, economia e contabilidade, foi com base nisso que eu fiz uma série de scripts que realiza operações de backtesting nos papéis da Bovespa.
 
-
-
 Backtesting é uma maneira dos especuladores terem uma noção de quão bom ou ruim é sua estratégia de compra e venda. É uma maneira profissional de se aproximar do mercado caótico das ações. Basicamente um backtesting simula o que o especulador faria na vida real com um histórico razoável de variação de preços das ações que pretende operar. Se esse monte de palavras novas neste blogue está te deixando com medo, recomendo dar uma passada no Senhor Mercado (lá você irá também aprender mais sobre técnicas de backtesting).
 
 Vamos supor que minha ideia de estratégia seja comprar quando o preço de uma determinada ação estiver na metade do seu topo histórico e vender quando ele estiver no dobro do momento da compra. Uma estratégia bem tosca, mas se fizer dinheiro, quem liga para vaidade? Outra estratégia mais refinada usa médias móveis para estabelecer pontos de compra e venda dependendo da tendência do mercado. Qual das duas dá mais dinheiro? Existem duas maneiras de saber: a dolorosa e a indolor. A dolorosa seria sacar uma grana do banco e começar a operar em sua corretora favorita seguindo ambas as estratégias e ver qual te deixou mais rico e qual te levou à falência. A indolor seria baixar o histórico de preços dos papéis que está interessado em usar essas estratégias e rodar uma simulação que opere seguindo ambas as estratégias e descubra qual é a perdedora. Qual você preferiria?
 
 OK, esse assunto já está ficando bem monótono para quem acompanha um blogue de programação. Vamos ao código!
-
-
 
 O projeto que mantenho no GitHub possui algumas ideias que gostaria de compartilhar com todos que estão interessados em realizar um backtesting, independente de sua estratégia. A primeira delas seria de onde baixar o histórico de preços de maneira simples e barata. Eu recomendo e uso o software Grafix, que consegue baixar as informações diretamente do saite da Bovespa e realizar os ajustes necessários para montar e exibir as informações. Com base no banco de dados do Grafix é que o BovespaBacktesting (meu projeto) importa as informações que ele precisa. Ele irá importar apenas os códigos que estiverem em uma lista disponível no arquivo data/filterCodes relativo de onde o script estiver rodando. Esse arquivo é apenas texto com um código por linha.
 

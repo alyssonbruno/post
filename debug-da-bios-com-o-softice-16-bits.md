@@ -22,7 +22,6 @@ Passado o desafio inicial de encontrar essa versão do SoftIce e saber usá-la, 
   10. A execução deve ser paralisada exatamente no ponto onde o código da BIOS lê o setor de boot do seu disquete.
   11. Digite p ret e em seguida F10 ou T e seja feliz.
 
-
 Pelo softice 16 bits conseguimos parar a execução nas interrupções da BIOS e ainda especificar qual das funções será executada, definida no registrador AH (mais detalhes sobre layout de memória do 8086 no artigo do DQ).
 
 Quando o código da BIOS é executado, ele precisa, entre outras coisas, fazer três:
@@ -34,13 +33,9 @@ Quando o código da BIOS é executado, ele precisa, entre outras coisas, fazer t
 
 O item 2 é justamente o que utiliza essa interrupção para ler do disco. Eu prefiri colocar o breakpoint no item 2, mas nada impediria de você colocá-lo no item 3 e já iniciar a depuração no código do boot loader. Mas, como eu já passei por problemas encontrados no código da BIOS que impediam o sistema de entregar a execução para o setor de boot, já dei a dica de lambuja caso você também tenha a oportunidade de se divertir em um cliente depurando a BIOS de algum laptop desajustado.
 
-
 Pela imagem acima sabemos que após o boot foi executada a interrupção 0x13, função 2 e que se trata de leitura em disquete, pois o conteúdo do registrador DL está em 0 (veja a referência das interrupções da BIOS em Ralf Brown's Interrupt List).
 
-
 É mais ou menos o step out do SoftIce 32. Ou seja, ele avança a execução até a função retornar. No caso do SoftIce 16, ele irá avançar até o próximo ret/iret. Por isso que também precisamos executar a próxima instrução (o próprio ret) para cair onde queremos. É nesse ponto que o "nosso" código começa a executar e onde conseguimos colocar breakpoints "de verdade" (lembre-se que o código da BIOS está em uma memória de somente leitura, pelo menos durante a execução).
-
-
 
   * Building your own operating system - ShalomZ
   * Ralf Brown's Interrupt List

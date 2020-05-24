@@ -38,7 +38,6 @@ Partindo disso, imaginei que o que ocorria era que havia algo faltando no regist
   * Transformei a exportação em exclusão total das chaves.
   * Importei ambos os registros no esquema "apaga tudo cria tudo de novo".
 
-
 Problema reproduzido.
 
 Agora restava saber qual chave exata estava faltando e o que isso impactava no comportamento do browser.
@@ -53,7 +52,6 @@ Foi esse o procedimento seguido:
   4. Importar registro danificado do cliente (já na VM).
   5. Se deu erro de novo, repassar os passos 2 a 3.
   6. Se não deu erro, testar os passos 3 e 4 com a outra metade.
-
 
 Essa série de passos foi reproduzida em menos de uma hora até chegarmos a apenas uma linha no registro:
 

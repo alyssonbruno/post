@@ -24,7 +24,6 @@ Voltamos ao início.
 
 Não há nada de errado em autores independentes quererem se expressar. É assim que todos começam. Esta não é uma crítica negativa, apenas a constatação de que Sinais do Fim não é um trabalho que possua substância o suficiente para ser criticado. Ele pode ser uma versão alfa de um projeto melhor construído. E o dia em que (se) houver algo melhor construído, é bem capaz que vejamos em uma vitrine de uma livraria, virtual ou não. Nesse caso, ninguém acreditaria que o autor estava há algum tempo atrás sentado na frente do Masp, procurando por futuros leitores. Este sim é um futuro muito menos apocalíptico que eu gostaria de ver.
 
-
  - Para comprar os livros de Dario em ebook, vá no saite da editora.
  - Canal do Dario no YouTube.
  - Reportagem da Cultivando sobre autores independentes.

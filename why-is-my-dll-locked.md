@@ -6,10 +6,7 @@ title: "Why is my DLL locked?"
 ---
 There is a document from Microsoft alerting about the hazards in putting your code inside a DllMain function. what is more comprehensive and easier to read than the MSDN observations. It is worth reading, even because the explanations about the loader lock and its side effects can do very good for your code health.
 
-
 In short, the Windows code responsible to call DllMain for each loaded/unloaded DLLs uses an exclusive access object (the so-called "mutex") to synchronize its calls. The result is that inside a process just one DllMain can be called at a given moment. This object-mutex is called "loader lock" into the Microsoft documentation.
-
-
 
 The code below is silly, but represents quite well what I've seen in lots of production code. For many times I was unable to realize what was going on (whether because I didn't know about the loader lock or the code readability was too bad). The comments say by themselves:
 
@@ -94,9 +91,7 @@ In order to the see the locking code in action, copy the DLL and EXE source file
     link loaderlock-exe.obj
     link /dll loaderlock.obj
 
-
 It is important to remember that a DllMain dependant code is a very, very bad thing. Nevertheless, there are some particular cases the only place to run our code is inside DllMain. In these cases, when detected, try to run a side by side communication with your locked thread using an event object (or equivalent) before it really returns. Using this craft the thread can warn the waiting thread that the important thing to be done is done, and the waiting thread can go to sleep and stop waiting forever locked threads.
-
 
     
   1. NT Loader (MSJ Sep 99) - Matt Pietrek

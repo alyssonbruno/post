@@ -8,7 +8,6 @@ Esta palestra tem como objetivo ensinar o que são moedas digitais, como o bitco
 
 A partir da criação da moeda surge a necessidade de facilitar o seu uso, um problema recorrente em todas as mais de 700 moedas digitais existentes no mercado e no laboratório, incluindo o bitcoin. Após a palestra teremos uma discussão de como levar a tecnologia ao usuário comum.
 
-
 Para nossa moeda digital utilizaremos um sistema simples, rápido e prático para subir informações na memória de um nó (server) e repassar essas informações para outros nós, o tiodb. Este projeto mantém contêineres STL na memória da maneira mais enxuta possível e eles são acessíveis através do protocolo mais simples possível utilizando uma gama de linguagens (C, C++, Python, .NET).
 
 A primeira coisa é compilar o projeto tiodb, que irá disponibilizar alguns binários em sua saída:

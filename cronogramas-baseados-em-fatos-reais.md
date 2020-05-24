@@ -14,8 +14,6 @@ Seja honesto consigo mesmo e com seu chefe: você realmente trabalha 8 horas por
 
 Qual o valor de um dia, então? Cada um sabe o valor que deve ser decrementado desse valor simbólico de 8 horas, mas esse valor sempre será menor. Não se iluda!
 
-
-
 Exatamente. Não se iluda! Isso tem seu reflexo na metodologia Agile. Basicamente quer dizer que você precisa aplicar índices que reflitam a realidade do seu próprio ritmo. Além disso:
 
 Regra # 4: uma tarefa estimada é uma tarefa completada
@@ -34,7 +32,6 @@ Basicamente, o que a própria metodologia ensina: meça o esforço necessário p
 
 Pronto? Agora é hora de aplicar os indicadores.
 
-
 Mais uma vez, admita: programadores raramente conseguem manter o foco por muito tempo. São pessoas ao redor te desviando a atenção, o tweet que salta de uma janela ou até mesmo as necessidades orgânicas que todo ser humano tem. São elementos, enfim, que, em conjunto, nunca te possibilitarão ter 100% do foco durante todo o trabalho.
 
 Portanto, criemos um indicador: foco. Ele é um valor entre 0 e 1 e estima a porcentagem de foco que você consegue obter, em média, durante o dia. Por exemplo: eu consigo me focar 70% do dia inteiro em apenas codificar e o resto é perdido em reuniões e e-mails. OK. Esse número é, então, 0,7. Aplique sobre seu total de horas e terá o tempo real para codificar a tarefa:
@@ -45,7 +42,6 @@ Levarei 35 horas para codificar todo o processo de autenticação por reconhecim
     35 / 0.7 = 50
 
 No entanto, como consigo apenas 70% de foco em média, sei que essa tarefa irá levar 50 horas na verdade.
-
 
 Já temos o tempo para o código ficar pronto, mas... é apenas código. Temos que reescalonar o tempo do projeto inserindo testes, retrabalho, comentários e documentação. Tudo ainda nas mãos do programador, que está ainda "aquecido" e que pode resolver retrabalhos em questões de segundos, se ninguém mais passar nada pra ele.
 
@@ -61,6 +57,5 @@ Levarei 50 horas para codificar tudo considerando o quesito foco.
 Porém, para poder entregar, preciso dedicar cerca de 20% aos testes, retrabalho e uma documentação mínima. Nesse caso, 60 horas é o prazo de entrega.
 
 Note que, se quiser, pode fazer a análise contrária também, tanto de um quanto de outro. Assim, se geralmente você gasta 20% a mais na codificação do que estima, então use o fator foco como 1.2 e multiplique em vez de dividir. Da mesma forma, se codificar é 60% de todo o trabalho, o fator finalização é 0.6 e deve-se dividir as horas pós-indicador de foco.
-
 
 O número de horas ficou muito maior que o esperado? Não me admira que os projetos geralmente atrasem, então. Por pior que pareça o cálculo final, ele foi construído com base na realidade. E não há nada melhor do que nos basearmos na realidade para estimar seriamente o quanto pode custar à empresa um projeto qualquer.

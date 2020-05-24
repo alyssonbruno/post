@@ -26,7 +26,6 @@ So if you don't clean up every seventh cycle you may be faced with the choice of
 
 > Generally the team knows when it's time. Management finds out a lot later. The team is getting beat up pretty regularly, making too many pretty regularly, making too many bugs; the code's too big, it's too slow; we're falling behind. They know why. It's not because they became stupider or lazier. It's because the code base is no longer serving the purpose that it needs to.
 
-
 Esse pequeno trecho da entrevista de Brendan Eich, de Coders at Work, revela parte das frustações que os programadores de linha de frente sofrem com os ambientes de depuração, muitas vezes aquém dos desafios atuais. Sinceramente, não sinto isso em meu dia-a-dia, e acho o Visual Studio um excelente depurador com interface (mas que perde feio para o WinDbg em casos mais hardcore). Porém, fica a percepção curiosa do criador do JavaScript.
 
 > Proofs are hard. Most people are lazy. Larry Wall is right. Laziness should be a virtue. So that's why I prefer automation. Proofs are something that academics love and most programmers hate." - Brendan Eic

@@ -8,7 +8,6 @@ Desde quando o usuário liga o computador até o momento em que ele vê a barra 
 
 O que esses artigos não vão fazer muito bem é explicar o lado do kernel mode funcionando, até porque temos artigos melhores explicando esse ponto de vista. Essa é uma abordagem mais "high level", apesar de "low enough". No entanto, espero que seja divertido. É esse o mais importante requisito em qualquer aprendizado, certo? Let's go!
 
-
 Tudo começa no hardware, que recebe um lampejo de energia que o põe em funcionamento ("levanta-te e anda!"). Isso faz com que um pequeno pedaço de software comece a rodar. Esse pedaço inicial de código é chamado de firmware, que é um meio termo entre hardware e software.
 
 O firmware fica gravado na placa-mãe e normalmente nós ouvimos falar dele pelo nome de BIOS, Basic Input Output System (Sistema Básico de Entrada e Saída). É nele que estão gravadas as rotinas mais básicas para fazer o hardware mais básico funcionar: CPU, memória, vídeo e teclado.
@@ -22,7 +21,6 @@ Quando o computador é ligado, o código da BIOS realiza duas operações vitais
   2. Ver quem é o dispositivo que inicia o sistema operacional.
 
 Esse segundo item é o que veremos agora.
-
 
 Dependendo do computador, podemos iniciá-lo por um disco rígido (HD), por um CD-ROM, por um PenDrive USB e até pela rede. Isso está subordinado ao firmware da máquina, pois é ele que comanda, até segunda ordem, todo o hardware acoplado ao sistema.
 
@@ -61,7 +59,6 @@ Agora chegamos em todos os passos iniciais realizados antes de entrar em cena o 
 
 Todos os componentes principais desse boot podem ser visualizados de uma forma bem macro na figura abaixo.
 
-
 Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvolvedor de sistemas operacionais, um dia desses:
 
 	
@@ -76,7 +73,6 @@ Alguns detalhes sórdidos que podem fazer alguma diferença para você, desenvol
 	
   * O endereçamento da localização das partições na MBR pode ser feito de duas maneiras distintas: por CHS ou por LBA. A versão CHS é bem antiga, mas ainda usada, e especifica uma localização no HD através de um posicionamento físico de três dimensões, com cilindro/trilha (C - Cylinder), cabeça (H - Head) e setor (S - Sector). Sim, isso é bem _old-fashionable_. Também existe o LBA (Logical Block Addressing), que é uma forma lógica de endereçar setores no disco, através de deslocamentos (_offsets_).
 
-
 Para detectar problemas de hardware, a BIOS pode ajudar com seus beeps significativos. Isso aparentemente parece ser o fim da picada, mas não é. O DQ sabe muito bem que podemos ter problemas no hardware que exigem análises mais sofisticadas (como comprimento de onda dos sinais).
 
 Se for detectar algum problema no sistema de boot baseado em MBR, então você tem dois caminhos:
@@ -88,7 +84,6 @@ Se for detectar algum problema no sistema de boot baseado em MBR, então você t
   * Usar o Debug 16 bits do MS-DOS (ou similar) e depurar diretamente o código de boot da MBR, reproduzindo os passos anteriores da BIOS.
 
 Se o problema for durante o carregamento do próprio sistema operacional, as mensagens de erro do loader são significativas. No entanto, pode-se usar o Debug mais uma vez e depurar essa parte, logo antes, é claro, do sistema entrar em modo protegido de 32 bits, o que daí já é outra história (que pretendo contar em breve).
-
 
 	
   * Artigo sobre o boot no Linux

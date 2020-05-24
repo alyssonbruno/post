@@ -24,7 +24,6 @@ Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possu
 
 Ele compila e roda sem problemas:
 
-
 "Estruturalmente" falando, MinhaEstrutura e MinhaClasse são idênticas, pois são os detalhes de sintaxe que diferem, e diferem pouco. Abrindo o jogo, a única diferença que poderá ser sentida em usar um ou outro é que structs possuem seus membros públicos por padrão e classes possuem seus membros privados por padrão. Apenas isso. O resto, nada muda.
 
 Isso pode ser visto quando adicionamos um construtor para nossos tipos de teste:
@@ -45,7 +44,6 @@ Isso pode ser visto quando adicionamos um construtor para nossos tipos de teste:
         MinhaClasse mc;
     }
     
-
 
 Antes não havia problemas para MinhaClasse porque o construtor padrão criado para ela é público por default. Porém, explicitando no código um construtor e deixando sua privacidade ligada por padrão temos esse erro que NÃO ocorre em MinhaEstrutura.
 
@@ -78,7 +76,6 @@ Geralmente uma struct é uma forma de concatenar tipos primitivos e só. Algumas
     }
     
 
-
 E, por que não, uma sobrecarga do operador de stream para imprimirmos diretamente os valores de MinhaEstrutura para a saída com apenas um comando?
 
     #include <iostream>
@@ -101,7 +98,6 @@ E, por que não, uma sobrecarga do operador de stream para imprimirmos diretamen
         std::cout << me << std::endl;
     }
     
-
 
 Enfim, não há nenhum limite que se aplica à uma struct além do bom senso. A criação da palavra class não foi por falta do que fazer. Ela diz claramente que estamos definindo um objeto que contém usos mais adequados à orientação a objetos de C++ do que a programação estruturada de C, e vice-versa. É uma forma de tornar o código mais legível, mas nada do outro mundo. Sabemos, no final das contas, que o compilador trata as duas (quase) da mesma maneira.
 

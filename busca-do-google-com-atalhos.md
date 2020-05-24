@@ -8,7 +8,6 @@ Eu adoro atalhos de teclado. Desde meus primeiros anos usando computadores, atal
 
 Eu não tenho nada contra o uso do mouse nem as pessoas que o usam. Eu apenas não sou tão entusiástico em usar o mouse. Por algum tempo, eu até acreditei que o ponteiro do cursor estava me atrapalhando, então eu desenvolvi um programa para tirá-lo da tela (usando um atalho de teclado, claro). Porém, mais uma vez, não sou contra seu uso. Eu mesmo uso-o de vez em quando (quando eu preciso).
 
-
 Até algum tempo atrás a web não era muito convidativa para usuários de atalhos. Então surgiu o Google e as suas aplicações que suportavam essa característica, o que me deu uma razão a mais para passar a usar seu cliente de e-mail e leitor de notícias sem pressionar constantemente a tecla tab. No entanto, ainda faltava a mesma funcionalidade para seu buscador. Felizmente, isso não é mais verdade.
 
 Ainda em teste, eu comecei a usar os novos atalhos de teclado na busca do Google disponíveis no saite Google Experimental Search. Até agora existem atalhos para próximo resultado (J), resultado anterior (K), abertura da busca (O ou enter) e colocação do cursor na caixa de busca (/). Eles funcionam exatamente como o Gmail e o Google Reader. Eu fiquei tão empolgado com a idéia que mudei o complemento de busca do Google de dentro do meu Firefox. E agora vou contar como isso pode ser feito facilmente (nota: minhas dicas servem para usuário de Windows apenas).

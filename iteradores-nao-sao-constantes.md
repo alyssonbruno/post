@@ -42,7 +42,6 @@ Para operações como essa, o retorno geralmente nos dá uma dica de para onde v
 
 Algo de errado irá acontecer apenas se o elemento removido for o último localizado no contêiner.
 
-
 Esse é um erro comum para os acostumados com outros tipos de iteração (ex: ponteiros) e que não estudaram os princípios básicos da STL, entre eles o da reutilização de algoritmos. Se fosse usado este princípio, nada disso teria acontecido:
 
     

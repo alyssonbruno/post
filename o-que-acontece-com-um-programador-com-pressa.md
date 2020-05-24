@@ -12,7 +12,6 @@ Como quase toda uma geração do imediatismo, aconteceu o inevitável: o blogue 
 
 Eu sou um deles, mas de vez em quando atualizo esse meu espacinho =)
 
-
 Na experiência de vida que tenho com todas aquelas idéias mirabolantes que as pessoas possuem de fazer alguma coisa, seja um software, aprender algo novo, ou até criar uma rotina qualquer, eu diria que quase todas, se não todas, falharam.
 
 É natural que no começo, quando a idéia brota, e mais idéias formentam a idéia original, o empolgamento nos dá a falsa impressão que podemos fazer isso facilmente, e que é só planejar, ter vontade e ir em frente que conseguimos. É claro que toda essa impressão muda com o passar do tempo, principalmente para aquelas pessoas que possuem muitas idéias em muito pouco tempo, algo que acontece bastante com programadores, mas que em geral afeta todo mundo.
@@ -20,7 +19,6 @@ Na experiência de vida que tenho com todas aquelas idéias mirabolantes que as 
 Em se tratando de software, a primeira coisa que deve ser feita, sempre, é planejar as tarefas visíveis a serem feitas para esboçar um panorama possível para o futuro do projeto. Eu disse possível no sentido de realizável.
 
 O segundo passo é esquecer esse negócio de realizável, cair na real e encarar os fatos: o mundo não é perfeito. Comece a colocar defeitos no cronograma, tentar imaginar o que vai sair errado e, principalmente, conhecer você mesmo e as pessoas envolvidas para ter a real expectativa do que pode ser feito em quanto tempo.
-
 
 Após jogar água fria o suficiente (às vezes são necessários muitos baldes) sobre suas idéias novas e excitantes, temos um panorama um pouco mais preciso, mais realista e, agora sim, passível de ser feito e acontecer de verdade.
 

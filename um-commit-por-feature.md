@@ -63,7 +63,6 @@ Se a política de pull request estiver sendo usada, faça isso em um branch à p
     To ..\projectXRemote
      * [new branch]      ISS-5-changing-test-return-value -> ISS-5-changing-test-return-value
 
-
 Quando mais de um commit é necessário é porque vai rolar a festa. Vários commits com texto e modificações temporárias podem ser feitos, e caso o trabalho vire a noite, é recomendado subir tudo para um branch temporário remoto (de preferência que já seja identificado pela equipe como o branch para determinado issue).
 
     C:\Temp\projectX>git branch
@@ -221,6 +220,5 @@ Agora na hora de fazer o merge seu histórico estará redondo, sem ramificaçõe
     Date:   Sat Feb 4 10:47:11 2017 -0200
     
         ISS-1 First version.
-
 
 Esta é uma das inúmeras formas de trabalhar com o git de maneira individual sem atrapalhar seus colegas. Basicamente você pode escolher outras estratégias de commits e branchs locais, mas através do comando rebase -i é possível sempre reorganizar a bagunça em commits comportados, e dar a impressão que esses programadores são enviados divinos que modificam o fonte e acertam de primeira.

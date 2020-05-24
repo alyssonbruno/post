@@ -37,7 +37,6 @@ Isso porque mudanças pontuais que vão sendo aplicadas na linguagem e bibliotec
 
 Neste singelo exemplo, que está errado by design, a classe X não se preocupa em proteger-se de cópias simples. Mas o programador também não se protege da ignorância e usa std::move como se ele magicamente movesse referências const, o que é absurdo.
 
-
 A questão, porém, não é sobre qual é o problema no código, mas os aspectos de design de C++ que podem levar futuros programadores a se depararem com o mesmo problema em versões multicamadas de complexidade. Este é um exemplo óbvio, mas até quando será?
 
 Esta crítica pode levar (pelo menos) para dois diferentes caminhos:

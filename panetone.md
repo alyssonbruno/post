@@ -13,7 +13,6 @@ Usando uma receita de YouTube, na tentativa alfa a massa não cresceu como dever
  - 2019-12-16 Na beta já usei a essência de panetone que produzi com resultados aromáticos agradáveis. Mesmo colocando muito fermento seco a massa ainda demorou a crescer, e acredito que na próxima devo já ensacar a massa na forma e aguardar apenas pelo primeiro crescimento. Na hora de assar, muito cuidado para não queimar, e principalmente secar, pois irá perder todo o sabor molhado produzido pela essência e pela massa.
  - 2019-12-22 Assado um panetone no mesmo dia quente, pois cresceu bem, e os outros quatro no dia seguinte, mas ao cortar eles afundaram. Não devo cortar de ponta a ponta, apenas uma pequena cruz no meio (ou nem isso).
 
-
 Ingredientes: Raspas de um limão, Suco de um limão, Raspas de duas laranjas, Suco de uma laranja, Noz-moscada a gosto, Meia xícara de água, Meia xícara de açúcar, Uma xícara de rum, dois paus de canela.
 
 Preparo: Coloque todos ingredientes numa panela e cozinhe em fogo baixo até reduzir 3/4 do líquido ou até ficar com uma "aparência de xarope", coe todos ingredientes e guarde num potinho na geladeira, essa mistura dura até duas semanas na geladeira.

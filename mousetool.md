@@ -14,7 +14,6 @@ MouseTool was originally a open source tool. That means the lastest open source 
 
 Fortunately, my friend Marcio Andrey [2] has got the source, and just like me, he wanted to make it available to everyone who would like to use it and change it. That's why I'm publishing it here. It's free, and it's 4all =).
 
-
 Let's make use of this source and show how to explore a code not written by us. Normally the first things to do are: download the compacted file and extract the files into a new folder. So we find the project file (in this case, MouseTool.dsw) and try to open it. The result is a total failure, because I believe no one use the Visual Studio version that opens this kind of file (it will convert it to another one).
 
 Normally open source projects programmers are used to get the source code files, modify them, use them, publish them and all. But this is not always true about strict Windows commercial programmers.

@@ -8,7 +8,6 @@ I know what you going to think about this one: "silly trick". That's why I just 
 
 Let's say you have to manage a big solution in Visual Studio made of more than 30 projects, and needs to rebuild all them. Suddenly, something goes wrong. The question is: how to discover, in a heartbeat, what project has failed?
 
-
 Note that you need to enable "Regular Expressions" option in the Find Dialog (not shown here).
 
 What I'm saying inside this regex is "find the first number different from zero followed by a space and the letters err". This lead us to the first project who has at least one error:

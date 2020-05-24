@@ -306,7 +306,6 @@ Inicialmente feito em STL pela produtividade, a solução atual no GitHub é fei
 
 O código é bem simples. Mapas e listas com strings e ponteiros para organizar as estruturas por detrás do sistema de tipos que estamos implementando e seus métodos sobrecarregados. Cada método possui um nome, um endereço de ponteiro e o número dos seus argumentos. Todos os argumentos são do tipo polimórfico, seguindo o que provavelmente existe por detrás da própria implementação do Lisp.
 
-
 O código que utiliza a clos.c é bem direto e enxuto. Como no Lisp.
 
     #include "cclos.h"

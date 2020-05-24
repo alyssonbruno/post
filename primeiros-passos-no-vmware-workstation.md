@@ -8,11 +8,9 @@ Como uma ferramenta essencial que uso todos os dias da minha vida de programador
 
 Para os que não sabem, o VMware é um software de virtualização que permite rodar diversos sistemas operacionais secundários (chamados de convidados, ou guests) em cima do sistema operacional primário (chamado de hospedeiro, ou host). Para isso ele utiliza uma técnica muito interessante conhecida como virtualização, onde o desempenho da máquina virtual chega bem próximo da máquina nativa em que estamos rodando, ainda mais se instalados os apetrechos de otimização (vide VMware Tools) dentro dos sistemas operacionais convidados.
 
-
 O VMware, diferente de alguns outros programas de virtualização, não é gratuito. No entanto, o tempo despendido pela equipe da VMware em tornar esta a solução a de melhor qualidade (opinião pessoal de quem já mexeu com Virtual PC e pouco de VirtualBox) está bem cotado, sendo que seu preço é acessível pelo desenvolvedor médio. Pior que o preço da VMware com certeza será o dos sistemas operacionais convidados, se estes forem da Microsoft, que obriga cada instância do Windows, seja hospedeiro ou convidado, a possuir uma licença separada. Se rodar um Windows XP como hospedeiro e um Vista e 2000 como convidados vai desembolsar pelo menos o quíntuplo da licença da VMware.
 
 No entanto, não entremos em mais detalhes financeiros. Os detalhes técnicos são mais interessantes.
-
 
 A instalação é simples e indolor, sendo constituída de cinco ou seis botões de next. O resto, e mais importante, é a instalação de um sistema operacional dentro de sua primeira máquina virtual. Outro assistente existe nessa fase para guiá-lo através de suas escolhas que irão configurar sua futura máquina.
 
@@ -51,7 +49,6 @@ Após feita a instalação, você terá um sistema operacional rodando dentro de
 Snapshots
 
 A primeira coisa a fazer em sua VM com SO recém-instalado é criar um snapshot, ou seja, salvar o estado atual de sua máquina virtual. Ao fazer isso, se fizer alguma coisa dentro da VM que possa se arrepender depois, basta voltar para o estado que salvou anteriormente. A VMware permite criar quantos snapshots precisar (basta ter espaço em disco). Ela permite que você crie novas máquinas virtuais a partir de um estado de uma VM já criada, o que pode economizar todo o tempo de montar do zero outra VM ou copiar o disco virtual.
-
 
 	
   * Abrir os seus e-mails suspeitos. Não tenha mais medo de sujar seu computador com e-mails de conteúdo duvidoso. Crie um estado seguro em sua VM através de um snapshot (fotografia de estado da máquina virtual) e execute os anexos mais absurdos. Depois basta voltar para o estado seguro.
