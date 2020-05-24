@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2011-04-28"
 tags: [ "draft", "projects" ]
-title: Houaiss 1.3
+title: "Houaiss 1.3"
 ---
 
 Os problemas relacionados com acesso negado durante a conversão/construção do dicionário foram corrigidos na novíssima versão disponível no GitHub.

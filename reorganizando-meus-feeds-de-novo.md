@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2011-03-10"
 tags: [ "draft",  ]
-title: Reorganizando meus feeds (de novo)
+title: "Reorganizando meus feeds (de novo)"
 ---
 Depois da minha opinião dada ao Efetividade na matéria sobre ferramentas para gerenciar as leituras tenho que atualizar que não utilizo mais o esquema das estrelinhas, porque acabei me dando conta que nunca lia o que marcava para ler "depois".
 

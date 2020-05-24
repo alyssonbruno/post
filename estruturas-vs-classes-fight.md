@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2014-05-20"
 tags: [ "draft",  ]
-title: 'Estruturas VS Classes: fight!'
+title: "Estruturas VS Classes: fight!"
 ---
 
 Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possuem é saber qual a diferença entre um objeto declarado como class e um objeto declarado como struct. A causa dessa dúvida é uma linguagem que se derivou de outra (C) que não possuía classes, e portanto criou a palavra-chave class para "ficar bonito", pois, na prática, não muda muita coisa. Tomemos como exemplo o código mais simples de todos:

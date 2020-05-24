@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2009-02-10"
 tags: [ "draft", "windbg" ]
-title: WinDbg.info
+title: "WinDbg.info"
 ---
 Para os perdidos e desatualizados como eu, notei hoje que Robert Kuster possui um saite onde mantém diversas informações sobre o WinDbg; uma espécie de continuação de sua famosa transparência "WinDbg. From A to Z".
 

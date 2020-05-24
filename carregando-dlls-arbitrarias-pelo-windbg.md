@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2007-11-23"
 tags: [ "draft",  ]
-title: Carregando DLLs arbitrárias pelo WinDbg
+title: "Carregando DLLs arbitrárias pelo WinDbg"
 ---
 Durante meus testes para a correção de um bug me deparei com a necessidade de carregar uma DLL desenvolvida por mim no processo depurado. O detalhe é que o processo depurado é de terceiros e não possuo o fonte. Portanto, as opções para mim mais simples são:
 

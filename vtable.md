@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2011-03-01"
 tags: [ "draft",  ]
-title: VTable
+title: "VTable"
 ---
 Acho que na breve história desse blogue nunca contei a história do vtable. No máximo fizemos um hookzinho nos métodos de um componente COM. Mas só.
 

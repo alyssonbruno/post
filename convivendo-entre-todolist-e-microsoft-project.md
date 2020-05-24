@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2010-03-15"
 tags: [ "draft",  ]
-title: Convivendo entre TodoList e Microsoft Project
+title: "Convivendo entre TodoList e Microsoft Project"
 ---
 O próximo artigo sobre escovação de bits ainda está no forno. Tirar férias (de 40 dias) é uma escassez de ideias! No momento, posso explicar a facilidade que tive para continuar usando o TodoList para gerenciar minha equipe e ainda assim sincronizar nossas tarefas em um cronograma do Microsoft Project.
 

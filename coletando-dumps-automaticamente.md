@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2012-05-17"
 tags: [ "draft",  ]
-title: Coletando dumps automaticamente
+title: "Coletando dumps automaticamente"
 ---
 | Value           | Description | Type        | Default value             |
 |-----------------|-------------|-------------|---------------------------|

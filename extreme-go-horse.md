@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2012-09-27"
 tags: [ "draft", "fun" ]
-title: eXtreme Go Horse
+title: "eXtreme Go Horse"
 ---
 O Go Horse Power (GHP) foi criado por um blogue hoje extinto. As premissas dessa nova metodologia de desenvolvimento era que o projeto fosse feito da maneira mais rápida possível.
 

@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2014-04-15"
 tags: [ "draft", "puzzle" ]
-title: Geleia de Código
+title: "Geleia de Código"
 ---
 
 Não costumo participar de campeonatos de programação por alguns motivos vagos: é perda de tempo (não ganho nada com isso), sou um péssimo programador (ou pasteleiro), dá preguiça (esse é o mais válido) e por aí vai o mimimi. Dessa forma, sempre passei ileso de eventos como o atual Google Code Jam, que pretende levar a categoria de código ofuscado para um novo patamar.

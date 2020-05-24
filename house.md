@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2010-01-25"
 tags: [ "draft", "essays" ]
-title: House
+title: "House"
 ---
 Depois da analogia entre depuração e CSI, nada como fazer o mesmo com o seriado estilo House.
 

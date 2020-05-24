@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2011-03-18"
 tags: [ "draft", "debug" ]
-title: Loucuras multithreading
+title: "Loucuras multithreading"
 ---
 Estava eu depurando um sistema cliente/servidor com um tantão de threads e me veio à cabeça na volta pra casa como que um programador iniciante entenderia aquela bagunça de dar F10 em uma função e cair no meio de outra, dar outro F10 na outra e voltar pra primeira.
 

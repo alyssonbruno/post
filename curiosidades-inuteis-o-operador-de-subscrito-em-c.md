@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2007-12-27"
 tags: [ "draft",  ]
-title: 'Curiosidades inúteis: o operador de subscrito em C++'
+title: "Curiosidades inúteis: o operador de subscrito em C++"
 ---
 Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!
 

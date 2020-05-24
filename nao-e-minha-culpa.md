@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2010-08-08"
 tags: [ "draft", "debug" ]
-title: Não é minha culpa
+title: "Não é minha culpa"
 ---
 Recebi a dica de meu amigo kernel-mode sobre o aplicativo NotMyFault, escrito como ferramenta do livro Windows Internals e que basicamente gera telas azuis para análise.
 

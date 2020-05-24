@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2011-03-09"
 tags: [ "draft",  ]
-title: Base64
+title: "Base64"
 ---
 No meio dos meus artigos pendentes, encontrei esse, de Luiz Rocha, que fala sobre a dificuldade de entender o que seria Base64:
 

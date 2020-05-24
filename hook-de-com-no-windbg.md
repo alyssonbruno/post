@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2007-09-18"
 tags: [ "draft",  ]
-title: Hook de COM no WinDbg
+title: "Hook de COM no WinDbg"
 ---
 Continuando com o tema hooks no WinDbg, vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás [1], mas com as opções de pause, rewind, replay e câmera lenta habilitadas.
 

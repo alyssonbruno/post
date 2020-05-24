@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2015-01-04"
 tags: [ "draft",  ]
-title: Entendendo a Compilação
+title: "Entendendo a Compilação"
 ---
 Esses slides foram compilados a pedido dos organizadores do TDC 2014, já que a palestra que ministrei com esse tema foi para ajudar meu amigo-sócio Rodrigo Strauss que não havia preparado nenhum slide a respeito.
 

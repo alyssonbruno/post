@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2009-07-07"
 tags: [ "draft",  ]
-title: Strings
+title: "Strings"
 ---
 Como já vimos centenas e centenas de vezes, memória é apenas memória até que alguém diga que isso vale alguma coisa. Em seu estado latente é o que chamamos formalmente de dados. E dados são bytes armazenados na memória.
 

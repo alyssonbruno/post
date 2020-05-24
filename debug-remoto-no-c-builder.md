@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2007-12-13"
 tags: [ "draft",  ]
-title: Debug remoto no C++ Builder
+title: "Debug remoto no C++ Builder"
 ---
 Esse é um detalhe que pode passar despercebido da maioria da população Borland, mas o Builder, assim como o Visual Studio, possui sua suíte para depuração remota. E tudo o que você precisa fazer é instalar um pacote no cliente.
 

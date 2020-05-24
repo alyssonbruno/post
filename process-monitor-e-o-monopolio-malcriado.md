@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2008-02-05"
 tags: [ "draft",  ]
-title: Process Monitor e o monopólio malcriado
+title: "Process Monitor e o monopólio malcriado"
 ---
 
 Essa é uma regra básica, mas não é fácil de cumpri-la.  Só quem já tentou fazer isso sabe do que estou falando. Inúmeros programas mal-escritos vão tentar, de uma hora pra outra, acessar áreas do sistema de arquivos e registro que não possuem acesso, pois agora estão rodando em uma conta mais restrita. E não são programas de administração ou manutenção do sistema. Estou falando de programas de escritório e jogos. Aqui vai um singelo exemplo que tive que lidar esse fim-de-semana.

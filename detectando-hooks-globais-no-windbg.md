@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2007-11-09"
 tags: [ "draft",  ]
-title: Detectando hooks globais no WinDbg
+title: "Detectando hooks globais no WinDbg"
 ---
 Nada como um comando prático para aprender rapidamente uma técnica. Nesse caso, tive que usar o comando abaixo para localizar o momento em que um executável instala um hook global:
 

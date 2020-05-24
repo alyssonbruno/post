@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2008-06-10"
 tags: [ "draft",  ]
-title: Guia básico de repositórios no Bazaar
+title: "Guia básico de repositórios no Bazaar"
 ---
 Alguns conceitos-chave antes de trabalhar com o Bazaar são:
 

@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2008-07-18"
 tags: [ "draft",  ]
-title: O conhecido unresolved external
+title: "O conhecido unresolved external"
 ---
 O artigo anterior mostrou que nem sempre as coisas são simples de resolver, mas que sempre existe um caminho a seguir e que, eventualmente, todos os problemas se solucionarão.
 

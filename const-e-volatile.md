@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2010-06-04"
 tags: [ "draft",  ]
-title: Const e Volatile
+title: "Const e Volatile"
 ---
 Padrão C (ISO/IEC 9899:1990)
     

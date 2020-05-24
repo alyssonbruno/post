@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2007-09-28"
 tags: [ "draft", "essays" ]
-title: 'Developer: you need to know English!'
+title: "Developer: you need to know English!"
 ---
 Eu realmente gostei desse negócio de tagging. =)
 

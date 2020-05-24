@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2008-02-29"
 tags: [ "draft",  ]
-title: Quando o ponteiro nulo não é inválido
+title: "Quando o ponteiro nulo não é inválido"
 ---
 
 Pois bem. O mesmo amigo que me recomendou que escrevesse sobre o assunto do ponteiro nulo achou um livro sobre armadilhas em C com um exemplo que demonstra exatamente o contrário: dependendo da plataforma, ponteiros nulos são sim válidos.

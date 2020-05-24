@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2011-01-04"
 tags: [ "draft",  ]
-title: Dependência pedindo carona
+title: "Dependência pedindo carona"
 ---
 Mesmo as vezes que você não queira, algumas dependências pedem carona e o compilador deixa entrar. Daí mesmo que você não use uma função API, ela acaba te atazanando a vida.
 

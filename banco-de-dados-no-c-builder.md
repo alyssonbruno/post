@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2007-12-21"
 tags: [ "draft",  ]
-title: Banco de dados no C++ Builder
+title: "Banco de dados no C++ Builder"
 ---
 
 Um banco de dados é qualquer lugar onde podemos ler e escrever informação geralmente persistente. Pode ser um arquivo INI, uma estrutura binária ou uma plantação de servidores para fazer busca na internet.

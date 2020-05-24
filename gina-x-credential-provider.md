@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2007-08-13"
 tags: [ "draft",  ]
-title: GINA x Credential Provider
+title: "GINA x Credential Provider"
 ---
 Não fui convidado a participar do tema, mas como já faz algum tempo que o rascunho deste artigo está no molho, e aproveitando que meu amigo Ferdinando resolveu escrever sobre nossa amiga em comum, darei continuidade à minha empolgação sobre o tagging e largarei aqui este pequeno adendo.
 

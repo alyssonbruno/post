@@ -2,7 +2,7 @@
 categories: [ "code" ]
 date: "2008-10-21"
 tags: [ "draft",  ]
-title: A alça dentro do fio gerou um bloqueio da morte
+title: "A alça dentro do fio gerou um bloqueio da morte"
 ---
 Estava folheando um livro fenomenal que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções (o livro estava em português) no mínimo curiosas.
 

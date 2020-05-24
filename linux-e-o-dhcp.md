@@ -2,7 +2,7 @@
 categories: [ "blog" ]
 date: "2008-04-09"
 tags: [ "draft", "linux" ]
-title: Linux e o DHCP
+title: "Linux e o DHCP"
 ---
 Quando procuramos no google por "linux dhcp", o que vem em resposta são diversas dicas, tutoriais, documentos oficiais e palpites sobre como configurar um servidor Linux.
 
