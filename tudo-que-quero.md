@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-04-11T17:31:48-03:00
-title: "Tudo que Quero"
-tags: [ "draft", "movies" , "cinemaqui" ]
-
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Tudo que Quero"
 ---
 Tudo que Quero é um road movie onde as emoções estão empacotadas e sob controle. Não há nenhum momento no filme inteiro que você teme pela sua protagonista. Seu sorriso nos diz que tudo vai dar certo. As expressões das pessoas que gostam dela também. Ninguém está verdadeiramente desesperado pela situação, pois, afinal de contas, o que pode acontecer de ruim com uma garota linda como Dakota Fanning perdida sozinha na estrada?
 

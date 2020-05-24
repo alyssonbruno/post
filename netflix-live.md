@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
-stars: "4/5"
 date: "2017-04-01"
-title: "Netflix Live"
+stars: "4/5"
 tags: [ "draft", "series" ]
+title: "Netflix Live"
 ---
 Prepare-se para o "streaming" mais emocionante já lançado por um serviço de "streaming". Netflix Ao Vivo possui momentos do cotidiano que podem se tornar emocionantes, divertidos, hilários e até empolgantes!
 

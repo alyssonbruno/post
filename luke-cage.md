@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-17"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Luke Cage"
-stars: "3/5"
 ---
 
 As produções da Marvel têm tanta certeza que seus fãs irão acompanhar as séries do começo ao fim que eles sequer precisam fazer um episódio piloto que chame a atenção. E é assim com Luke Cage, cria gerada a partir de Jessica Jones, a quase-potencial série em se tornar algo além do incidente Vingadores em Nova Iorque. Nesse caso, Cage passeia pelos personagens que irão colocá-lo em grandes enrascadas e fazê-lo viver grandes aventuras na velha e bobinha lenda do herói humilde que surge do Harlem e que combate uma poderosa máfia com conexões políticas.

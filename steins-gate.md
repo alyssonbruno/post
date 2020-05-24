@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-10-05T00:36:17
+stars: "4/5"
 tags: [ "draft", "series", "animes" ]
 title: "Steins;Gate"
-stars: "4/5"
 ---
 Não é fácil contar bem uma história de viagem no tempo. Mais difícil ainda é conseguir fazer ela ter sentido. E mais difícil ainda é conseguir que o espectador sinta o movimento espaço/tempo dos personagens, a apoteose de todo criador de sci-fi desta linha. Poucos devem ter chegado a essa proeza: De Volta para o Futuro (a trilogia), A Máquina do Tempo, Os 12 Macacos, Efeito Borboleta, O Predestinado, Primer, Harry Potter e o Prisioneiro de Azkaban. E Steins;Gate, que se esforça em homenagear todos os exemplos citados e ainda superá-los em inventividade. Uma viagem e tanto.
 

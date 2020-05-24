@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-02-17"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Estrelas Além do Tempo"
-stars: "5/5"
 ---
 "Fortran é uma nova e excitante linguagem usada por programadores para se comunicar com computadores..." -- começa lendo Dorothy Vaughan, líder das programadoras de cor da NASA. É difícil imaginar como uma espécie tão irracional a ponto de subestimar a mente humana baseada na cor e sexo do corpo que a carrega teria conseguido chegar até ao espaço. Assistindo a Estrelas Além do Tempo torna-se difícil imaginar como colocariam um homem branco orbitando o planeta se não fosse pela genial mente humana de Katherine G. Johnson, uma mulher, negra, e gênio.
 

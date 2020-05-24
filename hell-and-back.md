@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-03-13"
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Hell and Back"
-stars: "1/5"
 ---
 Uma comédia escrachada nem sempre é lançar um monte de palavrões e piadas a respeito de sexo, gays, estupro, negros, pênis e vagina. Se você não sabe o que está fazendo, corre grande risco de gerar o efeito contrário: a indiferença, ou o desprazer. A maior prova disso recentemente é essa animação, que consegue errar na história, no tom, na lógica, na narrativa e na direção.
 

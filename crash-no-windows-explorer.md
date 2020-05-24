@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2016-03-01"
-title: "Crash no Windows Explorer"
 tags: [ "draft", "debug" ]
+title: "Crash no Windows Explorer"
 ---
 Quem nunca se deparou com um sistema Windows em que o Explorer travasse ou crashasse de vez em quando? O problema com esse tipo de problema (recursividade...) é que ele pode ocorrer por infinitos motivos. Tão infinitos quanto os shell extensions, aquelas DLLs irritantes que são carregadas automaticamente por todo processo explorer.exe, e que portanto podem gerar infinitas maneiras de travar seu shell.
 

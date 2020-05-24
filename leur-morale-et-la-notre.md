@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-03-04"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Leur morale... et la nôtre"
-stars: "2/5"
 ---
 Nessa comédia de humor negro francesa é difícil identificar-se com os protagonistas, um casal de meia-idade que vive sozinho às custas de promoções de supermercados e uma vendinha clandestina em sua própria casa e preocupados com a crescente onda de bandidagem no bairro que residem. Isso porque eles são tão vigaristas quanto os supostos "bandidos" que o casal de meia-idade tanto teme.
 

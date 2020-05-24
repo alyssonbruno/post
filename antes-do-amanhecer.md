@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-04"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Antes do Amanhecer"
-stars: "5/5"
 ---
 Os personagens de Jesse e Celine são adoráveis desde o começo, e é agradável vê-los conversando sobre temas tão universais e constantemente abordados por casais que nós mesmos formamos na vida. O mais interessante, porém, é a forma natural e (aparentemente) despropositada que o roteiro e direção de Richard Linklater nos apresenta seus personagens, criando mais ou menos um pacto com o espectador, que aceita aquela situação em prol da poesia e da mágica daqueles momentos.
 

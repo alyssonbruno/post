@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-12-17"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Hobbit Uma Jornada Inesperada"
-stars: "3/5"
 ---
 Baseado no romance de 310 páginas escrito por J. R. R. Tolkien  conhecido aqui no Brasil como "O hobbit ou Lá e de Volta Outra Vez"  e dirigido por Peter Jackson (trilogia Senhor dos Anéis), a história do pequeno hobbit em sua jornada na companhia de 13 anões e um mago foi dividida em três filmes. Esse texto diz respeito ao primeiro deles, "Uma Jornada Inesperada".
 

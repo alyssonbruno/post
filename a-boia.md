@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-09"
-title: "A Boia"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "A Boia"
 ---
 Quando a Go Pro encontra o poeta. A tecnologia de filmagens com câmeras de alta resolução e drones possibilitam a qualquer um, até quem não tem muito o que dizer, a fazer seu próprio filme. O seu documentário da vida real, digamos assim. E é assim que o diretor Fernando Spiner concebe este projeto, A Boia, obcecado mais pelo experimento do que pelo filme em si.
 

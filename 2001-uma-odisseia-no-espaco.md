@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-10-23"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "2001: Uma Odisseia no Espaço"
-stars: "5/5"
 ---
 A obra maior de Stanley Kubrick - ou pelo menos a mais ambiciosa e enigmática - permanece em seu auge mesmo mais de 45 anos depois da estreia. Diferente de filmes que podem ser compreendidos no conforto de sua casa, este é dos que deve ser degustado no espaço sagrado do Cinema. Aliás, ele funciona tão bem nessas condições que assinaria uma petição para que fosse exibido eternamente em uma sala tombada pelo patrimônio da humanidade.
 

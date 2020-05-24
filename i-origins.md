@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-06-03"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "I Origins"
-stars: "4/5"
 ---
 I Origins é sutil e honesto o suficiente para gostarmos dele apesar de nossas convicções religiosas ou científicas. Ele não tenta em nenhum momento te obrigar a enxergar o mundo através de uma visão determinante do nosso destino como seres dotados de consciência, mas brinca com isso o tempo todo, o que é saudável e instigante. E mesmo lidando com uma questão delicada, controversa e complexa como a vida pós-morte, não se priva de desenvolver seus personagens de forma que eles participem do processo de descoberta como seres humanos, e não simples criações unidimensionais para cumprir um papel.
 

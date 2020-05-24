@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-10-18"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Trabalhar Cansa"
-stars: "5/5"
 ---
 Esse drama-terror concebido e dirigido por Juliana Rojas e Marco Dutra (esse, um dos roteiristas do recente Meu País) busca evitar se posicionar claramente no sobrenatural, mas dá uma gélida impressão durante toda a trama que é exatamente com isso que estamos lidando, ainda que não seja dito ou declarado. E é esse o detalhe mais aterrorizante de todo o longa.
 

@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2011-05-18"
-title: Sem reflection
 tags: [ "draft",  ]
+title: Sem reflection
 ---
 Em C++ não temos (ainda) a possibilidade de listarmos, por exemplo, a lista de métodos de um determinado tipo, a fim de chamá-lo pelo nome em tempo de execução. Algo assim:
 

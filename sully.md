@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-01-05"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Sully: O Herói do Rio Hudson"
-stars: "5/5"
 ---
 Sully é um trabalho delicado e empenhado não apenas de um diretor que vem crescendo cada vez mais sua sensibilidade a respeito da figura humana, mas também um trabalho de uma equipe de cineastas afiada com a proposta deste simplório e poderoso filme. Ele transforma medo em esperança, resgatando no processo, em um mundo cada vez mais dominado por máquinas e matemática, o surrado, mas ainda de pé, "fator humano".
 

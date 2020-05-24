@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-09-18"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Cowboys e Aliens"
-stars: "3/5"
 ---
 Não há muito o que falar da história em Cowboys & Aliens, novo filme de Jon Favreau (dos dois O Homem de Ferro e Zathura - Uma Aventura Espacial). O título já torna tudo muito óbvio, por mais bizarro que isso seja. No entanto, acredito que a definição desse gênero misto acabe sendo o principal motivo do filme não conseguir "decolar" em nenhum momento, sendo constantemente cozinhado em forno brando.
 

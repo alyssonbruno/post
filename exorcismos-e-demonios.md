@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-03-27T22:31:52-03:00
-title: "Exorcismos e Demônios"
-tags: [ "draft", "movies" , "cinemaqui" ]
-
 stars: "2/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Exorcismos e Demônios"
 ---
 Exorcismos e Demônios é um filme que adota o estilo clássico de mistério que vai sendo desvendado, mas se esquece que para o espectador ficar interessado no mistério é necessário que ele de fato exista.
 

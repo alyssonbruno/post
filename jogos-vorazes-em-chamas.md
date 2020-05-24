@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-07-12"
 review: [ "2014" ]
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Jogos Vorazes Em Chamas"
-stars: "4/5"
 ---
 É curioso que quase uma década depois a estrutura narrativa de Catching Fire nos faça lembrar do ótimo Matrix Reloaded. Apesar de também ser uma continuação, Jogos Vorazes pelo menos sabia que não terminaria no primeiro. No entanto, ambos tratam de esperança surgida em meio a uma guerra eterna, e embora a escravidão consentida pelos Distritos à Capital por tantas gerações soe às vezes meio forçada, o fato é que o aspecto político e social é o que mais cativa na história.
 

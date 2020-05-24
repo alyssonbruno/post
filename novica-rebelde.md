@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-11-15"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Noviça Rebelde"
-stars: "5/5"
 ---
 O musical ganhador do Oscar nos anos 60 é tanto um apelo emocional quanto musical. Ele fala sobre aproximação de pai e filhos, sobre uma mudança radical na vida de uma noviça e fala também sobre uma nação que começa a ser desconstruída pela força das armas. 
 

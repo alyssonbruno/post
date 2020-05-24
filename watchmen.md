@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-09-04"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Watchmen O Filme"
-stars: "5/5"
 ---
 Watchmen seria uma história sobre anti-heróis ou heróis como eles seriam no mundo real? Desde o começo do filme, nos vemos embarcados nestes pensamentos, ajudados pela magnífica introdução que mostra, em câmera lenta, os vigilantes do filme posando para fotos jornalísticas, em uma fotografia super-sensível que, utilizando tons de sépia para identificar o passado, demonstra, desde já, o apuro estético de uma produção que está claramente acima do gênero "adaptação de quadrinhos".
 

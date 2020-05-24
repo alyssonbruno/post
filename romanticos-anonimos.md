@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-01-04"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Românticos Anônimos"
-stars: "4/5"
 ---
 Como bom tímido que fui (sou?) posso com autoridade dizer que Românticos Anônimos ao mesmo tempo que permite nos identificarmos com o casal protagonizado por dois tímidos irremediáveis também nos permite identificar as diferenças peculiares de cada um, evitando assim estereotipar mas manter-se engraçado e terno.
 

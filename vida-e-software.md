@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2011-10-22"
-title: Vida e Software
 tags: [ "draft", "essays" ]
+title: Vida e Software
 ---
 Desenvolver software está bem longe de ser uma ciência exata e muito próxima de ser uma ciência humana. Eu, pessoalmente, considero um ramo esotérico, onde vale muito mais ter a atitude de reconhecer que não temos muito controle sobre como as coisas funcionam do que querer ter as rédeas de algo desgovernado.
 

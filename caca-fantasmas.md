@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-12"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Caça-Fantasmas"
-stars: "3/5"
 ---
 Os caça-fantasmas continua sendo uma ótima ideia em seu remake, protagonizado agora pelas meninas. Elas são espontâneas e fazem funcionar muitas das cenas do roteiro capenga escrita a várias mãos, com diálogos e piadas engraçadinhas. Os efeitos visuais atraem, mas não tanto quanto o conceito. E esse... continua tão novo como se tivesse sido lançado esse ano.
 

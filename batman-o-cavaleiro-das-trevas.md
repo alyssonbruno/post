@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-29T18:18:05-03:00
-title: "Batman: O Cavaleiro Das Trevas"
-
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Batman: O Cavaleiro Das Trevas"
 ---
 The Dark Knight fala sobre o caos, mas é dirigido por um diretor tão sistemático que esse caos está meticulosamente definido em 50%. O diretor e roteirista Christopher Nolan é o Duas Caras do cinema. Sua outra cara é seu irmão, Jonathan Nolan, que co-escreve aqui o roteiro e consegue nos entregar um material redondo, polido, com toques góticos que nos remetem ao universo consolidado de Batman e que Nolan diretor realça com seu diretor de fotografia com o negro brilhante desta trilogia. E Heath Ledger, o ator que faz o vilão Coringa, esse sim, é o verdadeiro caos que o filme precisava para se tornar a referência que temos de uma adaptação dos quadrinhos bem feita. Aprende, Marvel.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-21T00:33:48-02:00
-title: "A Última Gargalhada"
-
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "A Última Gargalhada"
 ---
 A Última Gargalhada é daqueles exemplos de produção Netflix que não precisa existir no mundo. É sobre uma história sem tensão, sem motivação e sem paixão. Um conselho: viva sua vida no lugar de assistir esse filme; será capaz de sonhar mais do que acompanhar essa série televisiva de um episódio apenas de uma hora e meia.
 

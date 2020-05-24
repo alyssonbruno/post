@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-02-23"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Cisne Negro"
-stars: "5/5"
 ---
 Nina é uma dançarina de balé que, assim como muitas, devota toda sua vida a essa arte. Perfeccionista ao extremo e apoiada pela mãe controladora, ela está prestes a participar da escolha de quem será a nova protagonista de uma nova versão do clássico O Lago dos Cisnes, dirigida pelo seu controverso diretor Thomas Leroy (Cassel).
 

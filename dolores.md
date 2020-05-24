@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-28"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Dolores"
-stars: "4/5"
 ---
 Este é um filme feito para a televisão, com um orçamento aparentemente baixo, mas com grandes ideias. Ele repete os passos hitchcockianos e seus mistérios fantasiosos, mas com pouco jeito. Se tratando de um filme que é sobre a cópia perfeita da realidade, este Hitchcock queimou um pouco no forno.
 

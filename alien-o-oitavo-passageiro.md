@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-04"
 review: [ "2015" ]
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Alien o Oitavo Passageiro"
-stars: "5/5"
 ---
 Falar de "Alien, o Oitavo Passageiro" é falar de ficção científica, terror e suspense. Todos esses gêneros estão em um grau quase equivalente na produção de 1979. Dirigido por Ridley Scott (Blade Runner, 1492, Hannibal, Gladiador) e com roteiro e história de Dan O'Bannon (A Volta dos Mortos Vivos, O Vingador do Futuro), o filme inicia no momento em que a nave Nostromo, inicialmente programada para retornar à Terra, decide acordar seus tripulantes da hibernação para averiguar um possível sinal de vida inteligente em um planeta inóspito. Sem muitas informações do que possa existir na origem do sinal é montado um grupo de exploração.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-06-01"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Mulher-Maravilha"
-stars: "2/5"
 ---
 Depois de uma história seríssima e enfadonha envolvendo o Homem de Aço e o Homem Morcego, agora temos... mais uma história seríssima, dessa vez envolvendo a mulher misteriosa que aparecia no filme anterior, sempre acompanhada de sua música-tema. Ela é a Mulher-Maravilha, em um filme que não é lá essas maravilhas. Mas agora, pensando bem, eu não sei se o título de "Mulher-Maravilha" serve para esta versão asséptica e ultra-estilizada de uma das poucas heroínas solo. Eu sou mais a Lynda Carter, sua fantasia colorida e sua voluptuosidade honesta.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-01-14"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "72 horas"
-stars: "4/5"
 ---
 Um drama contado em um ritmo adequado, que consegue avançar para um filme de ação em seu terceiro ato de forma surpreendentemente competente, visto que o filme consegue uma identificação com o drama de seus personagens, mesmo que perifericamente, e extrai disso uma emoção maior da perseguição final, pois não estamos assistindo mais um filme de perseguição qualquer.
 

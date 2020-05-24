@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-06-10"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Beijei uma Garota"
-stars: "3/5"
 ---
 Embora no começo pareça uma comédia romântica daquelas bem clichê, com o protagonista sendo narrador em off e aquelas piadinhas previsíveis inseridas durante toda a trama, Beijei uma Garota se mantém honesto ao seu conteúdo original do começo ao fim, trazendo a questão da homossexualidade como alvo de uma chacota inocente, embora nunca ofensiva, e muito menos improvável.
 

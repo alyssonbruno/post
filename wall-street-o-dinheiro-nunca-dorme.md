@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-09-24"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Wall Street O Dinheiro Nunca Dorme"
-stars: "4/5"
 ---
 Essa seria a continuação do original Wall Street, quando o protagonista sai da prisão e sua filha namora um operador de Wall Street.
 

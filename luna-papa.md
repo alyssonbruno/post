@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-04T11:58:59-03:00
-title: "Luna Papa"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Luna Papa"
 ---
 Esta é uma comédia russa que vai fazer você pensar várias vezes: mais um dia normal na Rússia.
 

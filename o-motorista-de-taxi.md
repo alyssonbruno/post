@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-10-20T19:21:42
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Motorista de Táxi"
-stars: "3/5"
 ---
 O Motorista de Táxi é um filme feito para grandes públicos, mesmo com cenas fortes, mas necessárias, pela frente. Em troca há doçura, aventura, emoções fáceis que estão meticulosamente manipuladas para aquele espectador que vai sair do cinema pensativo, mas realizado.
 

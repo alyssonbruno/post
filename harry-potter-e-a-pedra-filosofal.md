@@ -1,10 +1,10 @@
 ---
 categories: [ "cinema" ]
 date: "2018-12-07"
-title: "Harry Potter e a Pedra Filosofal"
-tags: [ "draft", "movies" ]
-stars: "3/5"
 review: [ "2019" ]
+stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Harry Potter e a Pedra Filosofal"
 ---
 Assistir novamente a "Harry Potter e A Pedra Filosofal" depois dos atores crescidos e a computação dominar o cenário de efeitos visuais cria uma nostalgia quentinha no coração. Por ser um filme de origem, muitos detalhes da história tiveram que ser contados de forma burocrática, mas a imaginação de J. K. Rowling transforma o exagero do mundo mágico dos bruxos, coexistindo debaixo das barbas dos não bruxos (trouxas, esse é o nome), em uma diversão à parte. Quando uma chuva de cartas inunda a residência dos tios do pequeno órfão Harry Potter nós sabemos que as regras da magia podem dominar nossa percepção daquela realidade.
 

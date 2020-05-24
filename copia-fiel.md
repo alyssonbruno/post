@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-11-16"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Cópia Fiel"
-stars: "5/5"
 ---
 Afinal, eles são casados ou não? E o que são aqueles diálogos que não conseguimos ouvir? Por que não conseguimos acompanhar a ação dos dois personagens -- "marido" e "mulher" -- quando não estão conversando juntos? E, finalmente, por que nas conversas à mesa os personagens olham para nós?
 

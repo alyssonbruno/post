@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-04-27T14:00:27-03:00
-title: "Corra, Lola, Corra"
-
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Corra, Lola, Corra"
 ---
 Esse filme é o prêmio que todo cinéfilo espera depois de assistir a vários filmes medíocres que seguem a mesma fórmula. "Corra, Lola, Corra" não é um deles. Ele quebra barreiras linguísticas (sobre a linguagem do cinema). Ele explora a mescla entre realismo e fantasia. Ele permite que o espectador acompanhe três versões de roteiro e as compare. E ele tem uma das trilhas sonoras mais perfeitas do cinema.
 

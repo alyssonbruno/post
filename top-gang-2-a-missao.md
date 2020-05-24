@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-03-05"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Top Gang 2! - A Missão"
-stars: "4/5"
 ---
 Top Gang 2! é mais uma comédia-paródia de trabalhos da época. E é um trabalho hilário. Primeiro porque ele reúne o maior número de gags por segundo. E segundo porque ele abraça o besteirol sem qualquer ressalva. Quando as flechas de nosso herói acabam, ele simplesmente olha para o chão e acha a galinha-flecha que ele precisava. Esse é o nível de insanidade do trabalho de Jim Abrahams.
 

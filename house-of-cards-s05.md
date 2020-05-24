@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-06-05"
+stars: "4/5"
 tags: [ "draft", "series" ]
 title: "House of Cards - Quinta Temporada"
-stars: "4/5"
 ---
 Uma nova temporada de House of Cards significa que as peças do jogo serão remanejadas para dar início a outra partida, e a história é sempre sobre o remanejamento de peças, e não a partida em si. A Netflix usa e abusa de seu formato, já que a temporada inteira foi concebida para ser assistida em sequência. Os episódios quase nunca terminam em reviravoltas, mas em conclusões. São mini-capítulos da eterna história pela busca do poder.
 

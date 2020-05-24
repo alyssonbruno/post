@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-02-20"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Monstros S/A"
-stars: "4/5"
 ---
 Interessante notar como a Pixar em seus primeiros filmes costumava inserir brincadeiras que, de certa forma, acusavam o espírito jovem e experimentador daqueles tempos. Mais impressionante, porém, é perceber como esse deve ter sido a semente para o amadurecimento da técnica antes de filmarem jovens clássicos como Os Incríveis, Wall-E, Ratatouille e Up!.
 

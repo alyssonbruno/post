@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-17T13:01:07-02:00
-title: "Hi Score Girl"
-
-tags: [ "draft", "series", "animes" ]
 stars: "4/5"
+tags: [ "draft", "series", "animes" ]
+title: "Hi Score Girl"
 ---
 Hi Score Girl apela para o saudosismo de velhos que vivenciaram todas as gerações dos games e fliperamas mais badalados da história, mas é ao mesmo tempo uma história de relacionamento entre um menino e uma garota. Isso provavelmente deve dar tilt.
 

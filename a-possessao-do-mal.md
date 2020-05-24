@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-10-01"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Possessão do Mal"
-stars: "4/5"
 ---
 Você já conhece a história: câmeras espalhadas pela casa; acontecimentos estranhos que vão aumentando a cada noite; os especialistas na arte de se comunicar com espíritos.
 

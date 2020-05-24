@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-08"
-title: "Klaus"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Klaus"
 ---
 Ideias brilhantes soam óbvias depois de ditas, e Klaus está amparado pela ideia brilhante do animador Sergio Pablos de tal forma que é difícil se desvencilhar de sua beleza intrínseca, ainda mais se considerarmos que o espírito de natal nunca esteve tão desgastado.
 

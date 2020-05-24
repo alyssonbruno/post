@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-07-01"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Harry e Sally"
-stars: "5/5"
 ---
 Nora Ephron morreu ano passado. Escreveu e dirigiu trabalhos desde os anos 80 que hoje são agradáveis passeios pelas origens da comédia romântica como hoje a vemos (ainda que algumas bem datadas, como A Difícil Arte de Amar). No entanto, "Harry & Sally", comparado com a média das com-rom atuais, possui virtudes o suficiente para elevá-lo à categoria de grande filme.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-10-09"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Terra Estranha"
-stars: "4/5"
 ---
 Terra Estranha é um filme corajoso no formato de televisão. Ele é corajoso em entediar o espectador por quase todo o tempo para em seus minutos finais trazer a redenção de tudo aquilo que o filme pretende tratar. Sua coragem, aliás, vai além, pois descarta um final convencional pelo bem do argumento. E tudo isso na Austrália, terra da "aventura fácil", do clichê Hollywoodiano e das histórias de amor selvagem.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-05-10T14:54:06-03:00
-title: "O Renascimento do Parto 2"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "1/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "O Renascimento do Parto 2"
 ---
 O Renascimento do Parto 2, talvez não seja preciso dizer, é mais do mesmo cinco anos após seu predecessor, O Renascimento do Parto. E desconfio que o objetivo aqui é a conscientização eterna e perene da população, em um trabalho de formiguinha que com certeza deve desanimar às vezes as pessoas por trás desse movimento, mas não chega nem perto do desânimo que isso gera aos fãs de Cinema.
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-29"
-title: "Harry Potter e o Prisioneiro de Azkaban"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Harry Potter e o Prisioneiro de Azkaban"
 ---
 O bruxo Harry Potter e seus amigos atingindo uma idade em que a história começa a ficar ligeiramente mais interessante e menos infantil, menos magia por magia, menos efeitos tomando conta da história, embora os efeitos em si criam uma nova dimensão ao entretenimento.
 

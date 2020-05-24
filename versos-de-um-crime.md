@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-09-10"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Versos de Um Crime"
-stars: "3/5"
 ---
 Depois do ótimo Na Estrada (Walter Salles, 2012), o requisitado personagem da vida real Allen Ginsberg, o poeta americano da geração beat dos anos 50, é encarnado por Daniel Radcliffe (da série Harry Potter), e tem ao seu lado o igualmente ótimo Dane DeHaan (Poder Sem Limites, O Lugar Onde Tudo Termina) e um Michael C. Hall (da série Dexter) curioso, mas um tanto ausente. A história é retratada como um drama novelístico e televisivo, com impecável direção de arte, mas uma narrativa burocrática demais para funcionar com poetas que estavam revolucionando o mundo da literatura.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-01-30"
+stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Mulher de Preto 2: O Anjo da Morte"
-stars: "2/5"
 ---
 Se a maioria do terror produzido hoje em Hollywood já é sinônimo de filme trash, ou no máximo medíocre, o que dizer de suas continuações. E este A Mulher de Preto 2 infelizmente não foge muito da regra. Pegando carona no ambiente tenebroso da casa abandonada em torno de uma ilha, o filme nos apresenta uma história semelhante passada no mesmo lugar, embora na época da segunda guerra.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-03-28"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Mundo Fora do Lugar"
-stars: "3/5"
 ---
 O Mundo Fora do Lugar é uma sutil defesa dos psicologicamente abusados (coincidentemente mulheres em um relacionamento). Ele usa um drama familiar do passado com revelações de novela, mas faz isso com muito charme e boa música. E é um filme alemão, o que nesse caso quer dizer que as emoções estarão contidas, embora elas existam.
 

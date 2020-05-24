@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-03-18"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Vinho para Roubar"
-stars: "2/5"
 ---
 Esse filme argentino segue a cartilha do gênero "Onze Homens e um Segredo" e "Missão Impossível". Porém, com baixo orçamento, apresenta um romance para preencher as lacunas dos efeitos visuais, além de personagens agradáveis, mas quase invisíveis. Os filmes argentinos, bons ou ruins, nunca pecam pela falta de charme. No entanto, ao usar a abordagem hollywoodiana, assume o risco de perder até isso.
 

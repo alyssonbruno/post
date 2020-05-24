@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-11-17"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "A Saga Crepúsculo Amanhecer Parte 1"
-stars: "2/5"
 ---
 Se pudéssemos abstrair o fato de que desde seu início a "saga" Crepúsculo não teve uma única linha narrativa que conseguisse manter de fato uma história com começo, meio e fim, seria possível dizer que "Amanhecer: Parte 1"  penúltimo filme da série  ganha em ritmo próximo ao seu final e consegue nos fazer esquecer, através do seu design de arte mais aprimorado que seus antecessores, os vampiros brilhantes de Stephenie Meyer, que subiam em árvores como macaquinhos excitados.
 

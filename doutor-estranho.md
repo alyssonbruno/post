@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-11-17"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Doutor Estranho"
-stars: "3/5"
 ---
 Algo vem me incomodando nos filmes da Marvel. Algo que normalmente passa batido em outros filmes menores: não há personagem nenhum nas histórias, exceto seu herói protagonista. Às vezes um vilão. Aqui há apenas um inicial anti-herói, cercado de pessoas que estão aí para falar o resto dos diálogos. São coadjuvantes. Normalmente possuem funções mais elaboradas do que descrever o universo onde se passa a história ou como o personagem é desagradável com as pessoas. Mas aqui fazem apenas isso. Mais um trampolim para mais um herói em uma grande cidade sitiada de supers. Dessa vez com magia.
 

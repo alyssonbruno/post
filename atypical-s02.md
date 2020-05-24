@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-17T18:13:24-02:00
-
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Atypical - Segunda Temporada"
-stars: "3/5"
 ---
 A segunda temporada de Atypical já demonstra o que o final da primeira temporada já arriscava em dizer: se trata de uma novelinha típica norte-americana aliada a algumas tentativas de conscientizar as pessoas acerca do autismo.
 

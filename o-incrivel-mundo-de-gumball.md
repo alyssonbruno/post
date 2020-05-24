@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-16"
+stars: "4/5"
 tags: [ "draft", "series" ]
 title: "O Incrível Mundo de Gumball"
-stars: "4/5"
 ---
 Mais um desenho de adultos que apela para o absurdo, a metalinguagem, o fofinho, o humor negro e o slapstick que ultrapassa o convencional em um formato quase tão criativo quanto A Hora da Aventura. Felizmente, Gumball tem senso do ridículo ou acaba sendo mais adulto.
 

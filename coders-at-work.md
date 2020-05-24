@@ -1,9 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2011-10-14"
-title: 'Coders at Work: Reflections on the Craft of Programming'
 tags: [ "draft", "books" ]
-
+title: 'Coders at Work: Reflections on the Craft of Programming'
 ---
  > "Personally I have never believed that it is possible to be a good coder without being a good programmer nor a good programmer without being a good designer, communicator, and thinker." - Jamie Zawinski
 

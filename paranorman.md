@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-01-20"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "ParaNorman"
-stars: "3/5"
 ---
 A única proposta original em Paranorman é que o seu protagonista consegue ver e falar com os mortos. Aliado a isso, a proposta infantil de lidar com o além-vida envolvendo um mundo de zumbis e bruxas, embora interessante enquanto desenvolve esse conceito atrelado à visão primitiva e violenta que as pessoas tinham em relação ao desconhecido, está envolta em mais e mais clichês que vão enfraquecendo o núcleo da sua original ideia.
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-15"
-title: "Terrace House"
-tags: [ "draft", "series", "essays" ]
 stars: "3/5"
+tags: [ "draft", "series", "essays" ]
+title: "Terrace House"
 ---
 Como o fato dos participantes saberem que se trata de um programa televisionado faz com que a verdade saia pelas beiradas, revelando como personagens são criados e mantidos em rede mundial. A maior crítica que se pode fazer de um reality show é que a parte "reality" nunca consegue se sobrepor ao "show". Se a própria vida já é um show, em que todos estamos apresentando e cuidando de nossos egos quando em público, o que dirá com dezenas de câmeras apontadas para você, interagindo com pessoas que nunca viu na vida.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-05-28"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Escritor Fantasma"
-stars: "5/5"
 ---
 O Escritor Fantasma é o tipo de thriller que, diferente da enxurrada de pistas e falsas-pistas que funcionam muito bem em Os Homens que não Amavam as Mulheres, ele nos leva a desvendar o mistério da trama recriando-o gradualmente em uma série de passos sutis, mas consistentes, que revelam em seu momento final um mosaico diferente na mente de cada espectador.
 

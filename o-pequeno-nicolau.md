@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-06-02"
 review: [ "2013", "2019" ]
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Pequeno Nicolau"
-stars: "3/5"
 ---
 O Pequeno Nicolau é aquele típico exemplo de filme fofinho que funciona pela dedicação de sua direção de arte em reconstruir a época com um esmero tocante, por seu roteiro que entende a mente das crianças, e como sua criatividade às vezes (quase sempre) extrapola os limites da vida real de maneira encantadora, por sua direção que não mede esforços para situar o ponto de vista de tudo que acontece através dos olhos do pequeno Nicolau do título, um personagem famoso em livros franceses.
 

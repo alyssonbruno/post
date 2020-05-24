@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-20T21:10:47-03:00
-title: "Aladdin"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Aladdin"
 ---
 Todos sabem a história. Está nas Mil e Uma Noites (apesar de não fazer parte do original arábico, leia descrição no final do texto). Jovem humilde encontra lâmpada e com isso tem o poder de se casar com a princesa. Os detalhes foram compilados em um projeto que se arrastou por anos durante o período do renascimento dos estúdios Disney, nos anos 90, quando depois de longo hiato os lançamentos de A Bela e A Fera, O Rei Leão, Aladdin entre outros catapultou novamente a produtora nos holofotes de público e crítica.
 

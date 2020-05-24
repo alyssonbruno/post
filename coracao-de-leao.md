@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-07-31T18:05:42
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Coração de Leão"
-stars: "2/5"
 ---
 Este filme beira o amador em sua fotografia e roteiro. As atuações, coitadas, não podem fazer nada com esses personagens que se olham o tempo todo e nada dizem de importante. Como seria retratar o começo de um relacionamento qualquer, que poderia ser de qualquer um de nós e que não teria qualquer detalhe diferente? Este filme é assim, com apenas uma exceção: um dos lados é mais baixo que o normal.
 

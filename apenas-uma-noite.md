@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-06-18"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Apenas uma Noite"
-stars: "4/5"
 ---
 Primeiro filme ao mesmo tempo dirigido e escrito por Massy Tadjedin (roteirista de Camisa de Força) dois anos atrás, o casamento entre Joanna e Michael poderia ser o de qualquer pessoa (talvez por isso nunca sabemos seus sobrenomes). Quem nunca aspirou mudar suas escolhas baseado tão somente em seus sentimentos passados? Quando Michael (Sam Worthington) faz uma viagem a negócios, logo após uma pequena briga de casal, ele e Joanna (Keira Knightley) experimentam a velha sensação de desejo de mudança junto de um velho amigo/companheiro e uma colega de trabalho.
 

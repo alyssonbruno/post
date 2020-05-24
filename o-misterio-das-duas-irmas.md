@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-05-01"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Mistério das Duas Irmãs"
-stars: "3/5"
 ---
 "Um filme vendido como terror, mas que não consegue sequer chegar próximo de um suspense. Depois de passarmos quase duas horas acompanhando a movimentação de uma câmera que parece estar sempre revelando algo espantoso ou fantástico (não está), temos uma série de revelações completamente atrapalhadas sobre algo que não estávamos sequer procurando desvendar."
 

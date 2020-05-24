@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-10-28"
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Carmel"
-stars: "1/5"
 ---
 Que filme odiável. Não que ele seja odiável do começo ao fim. Houve uma tentativa realmente sincera de quem vos escreve de tentar decifrar a narrativa difusa e aparentemente amadorística de um filme que estava sendo apresentado quase que como um tributo à vida do diretor Amos Gitai (presente na sessão) e sua mãe, que viveu as agrúrias do povo judeu desde muito antes da Segunda Guerra. A base da história são as cartas dela, que teoricamente poderiam fazer eco com décadas e mais décadas da visão judia sobre seu povo e suas relações com o mundo.
 

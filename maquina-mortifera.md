@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-11-28"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Máquina Mortífera"
-stars: "4/5"
 ---
 Mel Gibson e Danny Glover estreiam essa franquia que ficou conhecida como a segunda série de ação policial dos anos 80 mais lembrada. A primeira é Duro de Matar (John McTiernan, 1988). Aqui Richard Donner parece brincar um pouco entre o drama, a ação e a comédia, conseguindo isso através do roteiro de Shane Black, que faz o mesmo, e embora sem a perspicácia que foi desenvolvendo com os anos ("Beijos e Tiros") consegue criar uma das duplas de policiais mais famosa do Cinema.
 

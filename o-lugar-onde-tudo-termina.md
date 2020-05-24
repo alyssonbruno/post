@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-11-22"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Lugar Onde Tudo Termina"
-stars: "5/5"
 ---
 É uma satisfação imensa presenciar tantas virtudes técnicas juntas em um filme ambicioso também em seu lado narrativo e temático. Há muitas ideias a serem interpretadas e sentidas em O Lugar Onde Tudo Termina, sendo a principal delas é: até que ponto nossas escolhas conseguem influenciar de alguma forma o futuro? Há uma justiça (divina ou não) em algum lugar ou tudo é uma questão de interpretação?
 

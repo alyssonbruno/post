@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-external: "true"
-
-stars: "4/5"
-title: "Operação Red Sparrow"
 date: 2018-02-21T17:42:57
+external: "true"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Operação Red Sparrow"
 ---
 Operação Red Sparrow é um filme para quem gosta de histórias de espionagem sem a ação dos filmes de James Bond e com um jogo de gato e rato intelectual que irá fazer você sair do cinema pensando por um bom tempo sobre o que foi que aconteceu.
 

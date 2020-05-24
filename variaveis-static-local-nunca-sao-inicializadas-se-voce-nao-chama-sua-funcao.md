@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: 2018-02-20T00:06:40-03:00
-title: "Variáveis static local Nunca São Inicializadas Se Você Não Chama Sua Função"
 tags: [ "draft",  ]
+title: "Variáveis static local Nunca São Inicializadas Se Você Não Chama Sua Função"
 ---
 Uma dúvida muito comum dos programadores iniciantes em C/C++ diz respeito às variáveis static que são declaradas dentro de um escopo, como uma função. Sabemos que se ela fosse declarada global, fora de qualquer escopo, ela seria inicializada antes do main ser chamado, como diz este trecho de alguém que pesquisou a respeito:
 

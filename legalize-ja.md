@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-09-28T18:52:09-03:00
-title: "Legalize Já! Amizade Nunca Morre"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Legalize Já! Amizade Nunca Morre"
 ---
 Quase trinta anos após iniciado um movimento artístico liderado pela banda Planet Hemp, "Legalize Já!" ainda soa provocador. Extraído de um momento na história do país onde política e alienação andavam de mãos juntas, a mini biografia de Marcelo D2 e Skunk é muito mais sobre uma amizade inusitada do que uma crítica social.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-19T23:08:16-03:00
-title: "A Casa Caiu"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "A Casa Caiu"
 ---
 A Casa Caiu é mais uma daquelas comédias em que um personagem fora do universo do protagonista chega e muda tudo, em versão black, mas além disso tem uma crítica social interessante. Além de ser black o suficiente para você sentir um pouco da ginga.
 

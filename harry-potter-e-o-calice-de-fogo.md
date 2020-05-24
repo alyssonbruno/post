@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-29"
-title: "Harry Potter e o Cálice de Fogo"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Harry Potter e o Cálice de Fogo"
 ---
 Quarta aventura da série de filmes adaptados dos livros da escritora infanto-juvenil J. K. Rowling, este é o último ainda adolescente e que não envolve tragédias muito acenturadas no dia-a-dia dos estudantes bruxos da escola de Hogwarts. Ele termina com essa transição para o mundo adulto, onde a morte pode e deve acontecer de forma mais frequente para os protagonistas da história. É um arco, mas como filme serve para múltiplos propósitos dentro de uma série, como evoluir as relações do núcleo Harry, Hermione e Ron, além de revelar novas facetas do mundo dos bruxos, como sua existência em outros países, além do perigo sempre iminente que o Ministério da Magia no Reino Unido sofra ataques indiretos pelos capangas do mal maior no universo, representado por Lorde Voldemort.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-01-15"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Partida"
-stars: "5/5"
 ---
 Este é um filme que trata a morte de maneira direta ao apresentar-nos a profissão de preparador de corpos. No Japão há uma cerimônia com os familiares e amigos presentes em que o corpo é limpo e maquiado para voltar à vida. Além de possui uma quantidade assombrosa de momentos tocantes (leve seu lenço), seja por esses momentos ou pela poesia implícita neles, A Partida de certa forma celebra a vida como um processo de auto-descoberta, e a morte como uma despedida solene das pessoas que convivemos por este breve tempo.
 

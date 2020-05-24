@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-22"
-title: "Boy Meets Gun"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Boy Meets Gun"
 ---
 Fazendo um trocadilho com o filme icônico de Leos Carax (Boy Meets Girl), Boy Meets Gun é uma mistura de drama, comédia e investigação policial que consegue entreter com o mundinho criado pelo roteirista Willem Bosch, que também é o escritor do roteiro do cativante Afterlife, também em exibição nesta Mostra.
 

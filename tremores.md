@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-26"
-title: "Tremores"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Tremores"
 ---
 Pablo está com um problema, e sua família se reúne para ajudá-lo. Quem não sabe da sinopse de Tremores pensa se tratar de um filme sobre vício em drogas pesadas, mas quando se revela a homossexualidade do protagonista, entendemos que o filme de Jayro Bustamante expõe a ferida, a vergonha e a irresponsabilidade humana das religiões cristãs de vertente protestante.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-04"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Perdida"
-stars: "4/5"
 ---
 Esse documentário de colagens charmosas tenta resgatar do passado longínquo toda a história de uma família de cineastas, de sua ascensão até os diferentes declínios, como o fim de uma grande fortuna.
 

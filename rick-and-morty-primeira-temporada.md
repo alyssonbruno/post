@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-01-01"
+stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Rick and Morty - Primeira Temporada"
-stars: "4/5"
 ---
 Essa é uma animação adulta até para muitos adultos. Ele discute temas familiares da maneira mais crua, usando artifícios de sci-fi para tornar tudo mais amenizado ou potencializado. Quando a história é das consequências de um desejo egoísta o roteiro acaba com toda aquela realidade, transformando os humanos em monstros. Quando quer discutir feminismo, adentra em um mundo onde mulheres usam os homens apenas para o que eles servem: aparelhos de esperma (aparentemente a genialidade feminina nesse planeta não conseguiu realizar inseminações artificiais). Cada episódio de 20 minutos revela uma faceta bruta da natureza humana, mostrando como somos primitivos em alguns detalhes. Cerca de 99,9%.
 

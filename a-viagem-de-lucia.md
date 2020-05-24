@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-09-07"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Viagem de Lucia"
-stars: "3/5"
 ---
 Uma produção ítalo-argentina obscura que conta a história de Lúcia e Lea, duas mulheres com visões completamente diferentes da vida que acabam se encontrando e compartilham momentos que irão transformar a vida de uma delas.
 

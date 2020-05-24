@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-11-25T13:54:00
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Capitão Fantástico"
-stars: "5/5"
 ---
 "Poder para o povo. Abaixo o sistema." Essas duas frases tipicamente anarquistas resumem a filosofia de mais este filme sobre uma família disfuncional. A virtude deste filme é que ele nos faz enxergar a sociedade atual do ponto de vista de uma outra forma de viver. E se todos nós fôssemos criados para sermos filósofos e seguir a razão? Bom, se isso fosse possível seria o paraíso na Terra.
 

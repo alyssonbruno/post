@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-03-26"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Duplo"
-stars: "5/5"
 ---
 O Duplo é uma viagem moderna, animesca, exagerada, utópica e livre de interpretações do livro homônimo de Fyodor Dostoevsky. Apresentando uma estética rica e impecável, o diretor Richard Ayoade adaptou o conteúdo do romance do autor russo com a ajuda de Avi Korine e entregaram um resultado além das expectativas de alguém poderia pensar de um filme protagonizado por Jesse Eisenberg como um herói tragicômico. Se trata de uma premissa simples: e se seu pior inimigo fosse você mesmo, mas em uma versão que todos reconheçam como um ser humano completo -- ainda que imoral -- e que você seja um mero espectador do sucesso que você poderia ser se pudesse, paradoxalmente, colocar seu próprio eu de lado, deixando de atrapalhar sua existência.
 

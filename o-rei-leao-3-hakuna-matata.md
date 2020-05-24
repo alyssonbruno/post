@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-06T23:05:03-03:00
-title: "O Rei Leão 3 Hakuna Matata"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "O Rei Leão 3 Hakuna Matata"
 ---
 Se Shakespeare tivesse visto essa versão de Rei Leão ele teria feito uma segunda versão de Sonhos de Uma Noite de Verão. Subtítulo: Hakuna Matata.
 

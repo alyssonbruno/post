@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-24"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O concerto"
-stars: "4/5"
 ---
 Trama principal: o próprio concerto; trama secundária: a relação de Andrey e sua solista, Anne-Marie.
 

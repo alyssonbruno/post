@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-25"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Black Mirror - S03E02 - Playtest"
-stars: "3/5"
 ---
 Como seria um episódio de hoje em dia da série "Além da Imaginação", que mistura lendas urbanas, teorias da conspiração e acontecimentos fantásticos, sempre com um fundinho de moral? Desconfio fortemente que seria como os idealizadores de Black Mirror nos fizeram passar este episódio-terror, que parece experimentar um Twilight Zone versão High-Tech. Este episódio, afinal de contas, também parece um playtest da série.
 

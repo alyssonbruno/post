@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-22"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Homem na Parede"
-stars: "4/5"
 ---
 O filme é quase um conto narrado em diversas e longas sequência que mostram os acontecimentos em um apartamento enquanto uma esposa aguarda ansiosa pela volta do marido desaparecido. O filme inteiro se passa no apartamento, e os únicos cortes são justamente a passagem do tempo.
 

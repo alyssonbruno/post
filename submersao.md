@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-03-29T15:19:01-03:00
-title: "Submersão"
-tags: [ "draft", "movies" , "cinemaqui" ]
-
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Submersão"
 ---
 Submersão é a volta do diretor Win Wenders para o circuito mais comercial após sua experimentação com Os Belos Dias de Aranjuez. Aqui ele mostra como um romance adaptado (J.M. Ledgard) consegue ser bem feito quando o autor entende as motivações por trás dos seus personagens. Primeira adaptação do roteirista Erin Dignam, ele constrói uma narrativa até que padrão, e mesmo assim o resultado varia entre interessante a fascinante em vários momentos.
 

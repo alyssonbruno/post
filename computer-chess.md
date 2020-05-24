@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-06-06"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Computer Chess"
-stars: "3/5"
 ---
 Já virou um clichê cinematográfico: se vai fazer filme de xadrez, sua história tem que ser complexa. No caso de Computer Chess, essa complexidade nos personagens e em suas relações é complementada pelo fato de um filme de 2013 emular os anos 80 através de filmagens em preto e branco com razão de aspecto quadrada e erros de edição um possível encontro de programadores entusiastas em um torneio disputado entre suas máquinas de fazer cálculo. A ideia é parecer um documentário, mas sua estrutura possui o tom ficcional, com cortes definidos e diálogos obviamente vindos de um roteiro. Vemos a câmera e o cameraman diversas vezes, o que obviamente já nos revela aquele ser um filme amador sobre um documentário sendo feito em um campeonato de programas de xadrez, o que com certeza dá o tom da complexidade que comentei.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-12-15"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Albergue"
-stars: "3/5"
 ---
 Este é um thriller que segue a cartilha básica do grupo de jovens descerebrados que entra em uma enrascada ao procurar prazer carnal no albergue de uma cidadezinha do Leste Europeu. O que eles não imaginavam -- nem teriam como, a não ser que você seja muito preconceituoso a respeito dessa região ex-comunista, portanto, esquecida e miserável -- é que a cidade emprega várias pessoas em um esquema que alimenta o prazer sádico de ricaços em torturar pessoas, especialmente americanos (nem preciso dizer de onde vem os nossos amigos).
 

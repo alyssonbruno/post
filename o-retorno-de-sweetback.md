@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-18T20:36:35-03:00
-title: "O Retorno de Sweetback"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "O Retorno de Sweetback"
 ---
 Um filme é produzido em 1971. Ele fala sobre um negro que mata policiais para sobreviver e se dá bem no final (foi isso que eu entendi). Ninguém branco produziria um filme desses nessa época. E hoje "O Retorno de Sweetback", em 2003, fala sobre a Odisseia que foi essa produção.
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-24"
-title: "Amazing Grace"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Amazing Grace"
 ---
 Amazing Grace é o resultado das horas gravadas de duas noites em uma igreja em Los Angeles pela Warner Brothers. Quem eles gravam? Ninguém menos que Aretha Franklin, uma das maiores cantoras que já pisou na Terra. De volta às origens, ela canta Gospel não como um anjo, mas como uma força da natureza vinda para o bem. Ela representa tudo o que podemos esperar de uma cantora completa.
 

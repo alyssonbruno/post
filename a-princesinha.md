@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-03-23"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Princesinha"
-stars: "5/5"
 ---
 É muito bom de vez em quando levar um tapa na cara dos gêneros menos "louváveis" como essa aventura/fantasia que abraça completamente o clima de conto de fadas. Dirigido pelo ainda jovem talento Alfonso Cuarón em 95, é um filme para chorar, com momentos dramáticos extremamente angustiantes, ainda que a heroína seja uma criança, mas que, depois de viver na Índia, é entregue aos cuidados de uma escola para garotas em Nova Iorque para que seu pai viúvo sofra as agrúrias da guerra. 
 

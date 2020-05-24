@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-06-24"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Bruxa"
-stars: "5/5"
 ---
 Este terror faz jus a produções clássicas como O Exorcista (Friedkin, 1973), inovadoras como A Bluxa de Blair (Myrick, Sánchez, 1999) e instigantes como A Vila (Shyamalan, 2004), sem apelar inteiramente para nenhum desses três formatos. Conta uma lenda/conto antigo inglês e leva ao pé da letra muitas passagens, embora em todas elas haja a tal licença poética e o ponto de vista dos seus personagens, permitindo um verdadeiro jogo de interpretação para os que estiverem curiosos apenas pela sua história.
 

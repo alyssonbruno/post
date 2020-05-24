@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-04-16"
+stars: "3/5"
 tags: [ "draft", "series", "animes" ]
 title: "Sword Art Online - Segunda Temporada"
-stars: "3/5"
 ---
 A série japonesa de animação SAO (Sword Art Online) possui uma estrutura bem confusa. Essa segunda temporada é formada por duas histórias, assim como a primeira, mas diferente da primeira as histórias quase não têm relação.
 

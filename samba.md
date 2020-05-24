@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-08"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Samba"
-stars: "4/5"
 ---
 Filme que faz uma crítica (válida) ao sistema de imigração francês, mas ao mesmo tempo flerta com a mistura de culturas e experiências. Tenta abraçar o mundo com essa ideia, dá seus tropeços por causa disso, mas ainda mantém sua força dramática nos ombros da sempre competente atuação de Omar Sy (Intocáveis), que faz o papel de um trabalhador africano ilegalmente por 10 anos, e que mesmo assim é preso e condenado a sair do país (curioso a sentença não definir para onde, pois isso não importa para a justiça francesa).
 

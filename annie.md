@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-02-22"
+stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Annie"
-stars: "2/5"
 ---
 Talvez o remake de Annie sofra daquele conhecido problema de hoje em dia: alguns filmes com um teor mais ingênuo simplesmente não conseguem superar a barreira do cinismo contemporâneo. Pelo menos nesse caso não é apenas esse o diagnóstico, pois o diretor Will Gluck (do péssimo A Mentira) não faz o menor esforço para tirar do automático uma representação teatral com uma alma um tanto defeituosa.
 

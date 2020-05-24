@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-05-16T18:05:25-03:00
-title: "A Vida Extra-Ordinária de Tarso de Castro"
-tags: [ "draft", "movies" , "cinemaqui" ]
-
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "A Vida Extra-Ordinária de Tarso de Castro"
 ---
 A única forma honesta de escrever sobre "A Vida Extra-Ordinária de Tarso De Castro" é estando bêbado. E estar bêbado é apenas uma leve reverência ao jornalista, boêmio e mulherengo Tarso de Castro, que é homenageado à altura aqui pelos idealizadores Leo Garcia e Zeca Brito, que constrõem uma narrativa que essencialmente passeia pelo universo cotidiano do que era ser jornalista naquela época.
 

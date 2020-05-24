@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-28"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Hee"
-stars: "2/5"
 ---
 Uma ideia interessante, estruturada de maneira interessante, e executada desleixadamente. Tem a ver com sexo, tem a ver com drama, tem a ver com crime. E isso, aparentemente, é motivo de sobra para a diretora Kaori Momoi se achar a fodona e deixar todos nós entediados.
 

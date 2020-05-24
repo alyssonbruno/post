@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-01-11"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Mágico de Oz"
-stars: "4/5"
 ---
 Não dá para assistir a O Mágico de Oz e automaticamente não relacionar com Alice no País das Maravilhas já que a estrutura e muito provavelmente a ideia veio justamente do romance de Lewis Carroll. No entanto, ao relacionarmos também com o momento histórico dos EUA temos uma visão muito mais interessante. Uma crise financeira devastou o país por uma década e o filme estreia semanas antes da Segunda Grande Guerra oficialmente começar. Virou o símbolo de uma geração (além de ter uma belíssima música). Quando as pessoas perdem a esperança, é função do Cinema fazê-las as distrair com histórias fantasiosas, super-heróis impossíveis e viagens no espaço.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-07-31"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Edward Mãos de Tesoura"
-stars: "3/5"
 ---
 Mesmo mais de 20 anos depois de produzido, o conto do homem inacabado com tesouras no lugar de dedos continua se sustentando bem, e por vários motivos que fazem hoje de Tim Burton ainda um diretor de destaque.
 

@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2010-05-19"
-title: Analogicamente perfeito
 tags: [ "draft", "essays" ]
+title: Analogicamente perfeito
 ---
 É possível explicar tudo no mundo da informática através de analogias?
 

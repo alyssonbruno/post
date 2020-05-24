@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-28"
-title: "Borboletas Negras"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Borboletas Negras"
 ---
 Essa poetisa é maluquinha. Ingrid Jonker o nome dela. Morreu aos 32 anos. Houve um pequeno hiato antes de sua morte em que ela conheceu Jack Cope, um escritor mais velho que só escreveu um livro e que se esforçava para focar em outro. Jack salvou sua vida no dia que se conheceram, e ele se apaixonou perdidamente por esta libertina que é o resultado mais que previsível de um pai autoritário.
 

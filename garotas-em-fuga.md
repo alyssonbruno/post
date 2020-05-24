@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-16T16:15:28-03:00
-title: "Garotas em Fuga"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Garotas em Fuga"
 ---
 Garotas em Fuga é uma versão adolescente de Garota Interrompida com um andamento mais leve -- porque não há atrizes à altura -- e uma história mais pesada -- porque é ela que precisa apresentar seus personagens.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-08-24"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Separação"
-stars: "5/5"
 ---
 Esse filme foi o vencedor do Oscar de melhor filme estrangeiro, além de indicado a melhor roteiro original. Ele também está aí para provar como falso esse preconceito de "filme iraniano" como sinônimo de filme parado, difícil, do tipo que só os críticos gostam.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-05-23"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Wall Street Poder e Cobiça"
-stars: "5/5"
 ---
 Após ganhar o oscar por Platoon, Oliver Stone decide focar suas lentes para sua terra natal e abordar temas em torno do que faz mudar, nós e um país inteiro, a maneira de se enxergar: o dinheiro.
 

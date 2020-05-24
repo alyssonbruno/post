@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-07"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Homem-Aranha 2"
-stars: "5/5"
 ---
 Doze anos e toneladas de super-heróis depois, Homem-Aranha 2 continua sendo um dos melhores filmes do sub-gênero já feito, digno de ocupar o pódio junto de pequenas obras-primas como "Superman: O Filme" e "Dark Knight".
 

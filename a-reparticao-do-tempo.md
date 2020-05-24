@@ -1,9 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: 2018-01-17T23:05:25
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Repartição do Tempo"
 ---
 A Repartição do Tempo é a contribuição brasileira recente sobre filmes que discutem a não-unicidade dos indivíduos. E como toda contribuição brasileira em um gênero de nicho muito específico ela tropeça na realização pelos aspectos mais básicos. Como colocar Dedé Santana no filme.

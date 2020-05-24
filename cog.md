@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "C.O.G."
-stars: "3/5"
 ---
 Uma experiência religiosa ou uma auto-descoberta sexual? Uma visão romântica de nossas diferenças de princípios ou um drama que tenta soar engraçado? Se sentindo com múltiplas personalidades, C.O.G. pode muito bem se apresentar como uma visão religiosa do mundo, pois usa a maçã como uma espécie de símbolo do pecado (e da tentação) e mantém em sua história uma estrutura esquizofrênica tão conhecida dos religiosos mais fanáticos.
 

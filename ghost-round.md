@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-23"
+stars: "3/5"
 tags: [ "draft", "series", "animes" ]
 title: "Ghost Hound"
-stars: "3/5"
 ---
 Geralmente as animações japonesas pecam pelo caricato sem ter muito realismo (exceção: stúdios Ghibli). Aqui, em Ghost Hound, começamos assistindo um drama psicológico, mas no meio a coisa vira exatamente este caricato, que, embora em um nível mais sutil, acaba por acusar a si mesmo de ser... uma animação.
 

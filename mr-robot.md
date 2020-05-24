@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-09-11"
+stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Mr. Robot"
-stars: "5/5"
 ---
 Finalmente uma série que retrata o hacker de uma maneira realista. Mais do que isso: retrata o hacker inserido na realidade que vivemos hoje, nesse exato momento. E, por que não, alguns meses à frente?
 

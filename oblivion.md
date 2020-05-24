@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-04-06"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Oblivion"
-stars: "3/5"
 ---
 Oblivion consegue a proeza de citar diversas obras de ficção científica memoráveis e ainda assim ficar muito longe dos resultados que as mesmas obras tiveram em suas épocas. Talvez o maior problema seja Tom Cruise, que desde muito tempo vem repetindo suas performances e evitando que uma trama até que interessante ganhe frutos, um toque de Midas ao contrário que chega a rivalizar com Will Smith.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-02-05"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Django Livre"
-stars: "4/5"
 ---
 Django Livre é divertido moderadamente e possui um conteúdo pseudo-histórico de impacto que faz jus aos bons faroestes. Quentin Tarantino poderia ter futuramente  caso conseguisse controlar seu gigantesco ego  a mesma habilidade e maestria na direção que tornou Sergio Leone conhecido para sempre na história do Cinema.
 

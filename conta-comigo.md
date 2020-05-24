@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-04-25"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Conta Comigo"
-stars: "5/5"
 ---
 Mais um filme dos anos 80 que envelheceu muito bem. Leveza e ingenuidade caminham juntos na história dos quatro amigos que partem em uma jornada com o objetivo de se tornarem heróis. E por mais piegas que pareça a argumentação de Conta Comigo, ela é levada a sério, o que faz toda a diferença no desenvolvimento dos personagens (que não são crianças genéricas).
 

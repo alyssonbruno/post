@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2010-05-28"
-title: Modificadores e qualificadores de tipo
 tags: [ "draft",  ]
+title: Modificadores e qualificadores de tipo
 ---
 @caloni poderia pensar em fazer um artigo sobre os modificadores de tipo em c? os mais complexo, acho eu: volatile, enum, union, extern, etc
 

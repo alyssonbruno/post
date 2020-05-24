@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-28"
-title: "Das Tripas Coração"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Das Tripas Coração"
 ---
 O final das pornochanchadas dá origem a este filme da diretora Ana Carolina, seguidora de Godard na linha de frente contra a lógica opressora burguesa. Ela abandona todo e qualquer sentido neste trabalho onírico que documenta as cantigas e brincadeiras de boca suja de um colégio de garotas e da insinuação de sexo a todo momento com todo mundo. Ela pode levantar a bandeira libertina enquanto não mostra nenhuma nudez nem sexo daquelas garotas com pessoas mais velhas, pois do fundo de um artista da contra-cultura há uma moral careta como qualquer outra.
 

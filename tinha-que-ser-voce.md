@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-07-19"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Tinha Que Ser Você"
-stars: "4/5"
 ---
 Eu sei que o desfecho final possui vários defeitos. É esquemático porque segue à risca a cartilha das comédias românticas, o que acaba prejudicando demais aqueles dois personagens até então bem construídos. Está longe do clima depressivo de todo o resto, onde o diretor tenta amenizar com músicas bonitinhas e um pouco do desconcertante humor britânico (mas a partir de um dado momento, acompanhar a mãe paranoica nem é mais interessante).
 

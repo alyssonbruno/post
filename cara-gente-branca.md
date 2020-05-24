@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-05-24"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Cara Gente Branca"
-stars: "3/5"
 ---
 Esta é uma série Netflix que fez sua lição de casa e está aproveitando a onda de discussões sobre racismo para inserir um trabalho que tenta fazer o espectador pensar em quanta besteira os militantes das minorias conseguem discutir ao mesmo tempo.
 

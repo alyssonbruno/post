@@ -1,10 +1,10 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-27"
-title: "A Viagem de Chihiro"
-tags: [ "draft", "movies" ]
-stars: "5/5"
 review: [ "2020" ]
+stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "A Viagem de Chihiro"
 ---
 A Viagem de Chihiro é um passeio fantasioso sem ser infantil pelo mundo dos espíritos, onde a história importa menos do que o mundo criado para ela, tal qual um Senhor dos Anéis ou Star Wars.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-11-28"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "How to Get Away with Murder - Primeira Temporada, Episódios 1 ao 3"
-stars: "3/5"
 ---
 Assisti alguns episódios deste que parece ser aquelas séries que causam sensação, talvez pelo seu final. O detalhe é que não importa como, todo novo episódio parece querer voltar nas mesmíssimas cenas finais, onde os estudantes de direito se metem em um assassinato e precisam... adivinhem? Lavar suas mãos.
 

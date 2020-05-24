@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-06-18"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Um Ratinho Encrenqueiro"
-stars: "4/5"
 ---
 Com uma história típica da sessão da tarde, talvez fosse impossível tentar realizar algo acima de medíocre. Porém, quando o roteiro abraça o absurdo das situações com competente propriedade, nunca nos permitindo questionar se alguma coisa é verossímil ou não, pois é a história que dita isso, aí temos um ótimo exemplo de que, independente da história, é possível criar Cinema através de quase nada.
 

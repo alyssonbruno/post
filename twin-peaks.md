@@ -1,9 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: 2018-02-27T23:02:12
-
-tags: [ "draft", "series" ]
 stars: "4/5"
+tags: [ "draft", "series" ]
 title: "Twin Peaks (2017)"
 ---
 Você que conhece o diretor David Lynch sabe que ele não é muito afeito a narrativas ortodoxas e pensamentos não-oníricos. Então faz muito sentido você, que não assistiu à primeira versão de Twin Peaks, se tornar completamente perdido ao acompanhar esta pseudo-continuação do diretor em uma versão mais moderna, mas ainda assim, hermética.

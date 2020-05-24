@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-10-21"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Menino do Pijama Listrado"
-stars: "4/5"
 ---
 Há filmes que possuem uma catarse tão forte e fluida durante a narrativa que parece fácil produzir isso no espectador. No entanto, muitas vezes tudo isso é fruto da nossa imaginação, e há um trabalho grande do início ao fim para que esse efeito seja criado da maneira com que ocorre. Ora, como explicar que um amontoado de bonecas consiga ser tão impactante para os nossos olhos?
 

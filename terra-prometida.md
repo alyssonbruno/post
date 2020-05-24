@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-26"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Terra Prometida"
-stars: "5/5"
 ---
 Uma farsa deliciosa dramatizando o apocalipse enxergado por Karl Marx. Mostra os capitalistas inescrupulosos sem valor à vida humana para defender o comunismo que dá valor aos humanos como ferramenta de sacrifício. Não é um filme para levar a sério, mas como qualquer propaganda vermelha que se preze, ela tem que ser dramática; quiçá hilária. Na verdade, é de uma série de filmes do diretor que ridiculariza a propaganda soviética.
 

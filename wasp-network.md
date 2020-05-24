@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-17"
-title: "Wasp Network"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Wasp Network"
 ---
 Wasp Network faz o melhor com o que tem para contar uma história confusa sem protagonista definido, e o diretor/roteirista Olivier Assayas nos traz um filme leve quando essa opção seria a única que não poderia ser escolhida.
 

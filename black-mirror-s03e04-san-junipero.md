@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-28"
+stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Black Mirror - S03E04 - San Junipero"
-stars: "5/5"
 ---
 Já estava na hora da série Black Mirror enfocar uma questão altamente relevante e discutida entre os aficionados por tecnologia futura: a imortalidade. Dentre as diferentes formas, eles escolheram a perfeita para o romance que pretendem retratar em um arco ambicioso, tudo em apenas uma hora. Abaixo uma breve descrição COM SPOILERS.
 

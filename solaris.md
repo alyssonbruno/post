@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-10-21"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Solaris"
-stars: "5/5"
 ---
 Solaris exige do espectador uma imersão surreal e ao mesmo tempo filosófica. Tudo bem que isso já é esperado de toda boa obra de ficção-científica, que nos coloca em uma realidade alternativa mas que continua debatendo temas da época em que foi feita.
 

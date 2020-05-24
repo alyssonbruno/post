@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-11"
-title: "Mulheres no Front"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Mulheres no Front"
 ---
 Valerio Zurlini é um cineasta existencialista que se tornou resistência italiana na segunda guerra, em grupos anti-fascismo que se ergueram após Mussolini se tornar marionete de Hitler. Ele começou com curtas e eventualmente fez alguns longas de prestígio que ganharam prêmios europeus. O pessoal que preparou o DVD no Brasil é seu fã, e o texto que o introduz o apresenta como um artista da altura de Felini. Os trailers dos filmes do DVD são dele ou de sua época, um presente de muito bom tom.
 

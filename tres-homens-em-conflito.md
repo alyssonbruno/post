@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-20"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Três Homens em Conflito"
-stars: "5/5"
 ---
 Esse faroeste de Leone foi narrado em um contexto histórico e, por isso mesmo, com muitas pitadas de realismo nas cenas, mesmo com os absurdos hilários a que estamos acostumados em filmes do gênero. Nesse longa de quase três horas de duração teremos três pistoleiros decididos a encontrar uma fortuna escondida, mas para isso terão que passar por várias provações na época da guerra da Sessesão.
 

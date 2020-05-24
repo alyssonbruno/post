@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-06-29T15:49:42-03:00
-title: "Screenland"
-
-tags: [ "draft", "series" ]
 stars: "2/5"
+tags: [ "draft", "series" ]
+title: "Screenland"
 ---
 Essa série parece ter a intenção de reconhecer a genialidade dos gamers em antecipar futuras tendências nos jogos eletrônicos que virão com a melhora da inteligência artificial e a construção de ambientes virtuais, sejam eles realistas ou não.
 

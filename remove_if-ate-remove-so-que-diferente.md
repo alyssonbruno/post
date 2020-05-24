@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2014-01-21"
-title: "removeif até remove, só que diferente"
 tags: [ "draft",  ]
+title: "removeif até remove, só que diferente"
 ---
 A surpresa de hoje foi descobrir (vejam só) que o removeif, como todo algoritmo da STL, deve ser olhado de perto antes de usado. Nesse caso em específico porque, apesar do nome, a função NÃO remove elementos, mas os sobrescreve.
 

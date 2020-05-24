@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-04-18"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Fragmentado"
-stars: "3/5"
 ---
 Este é mais um suspense de M. Night Shyamalan baseado em "eventos reais" que flerta com as possibilidades sobrenaturais de suas premissas. Mas mais "sobrenatural", contudo, é a forma simplista com que a história é contada, como se o diretor/roteirista não se importasse muito com a verossimilhança da história que quer contar, já que, marca registrada do diretor, obviamente tratará de um tema que brinca com coisas "Além da Imaginação".
 

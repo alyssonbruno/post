@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-10"
-title: "O Irlandês"
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "O Irlandês"
 ---
 Se você já assistiu a O Poderoso Chefão e Os Bons Companheiros, O Irlandês fica no meio do caminho. É um filme mais agitado e com muito mais violência gráfica que o clássico de Coppola, mas muito menos apressado que o filme de gângsters de Martin Scorsese. Cito Goodfellas não porque tem Joe Pesci no elenco, mas porque fala sobre um caso real de máfia e possui o ponto de vista de alguém que viveu aquilo de perto.
 

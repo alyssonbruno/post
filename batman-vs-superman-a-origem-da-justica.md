@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-04-02"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Batman vs Superman: A Origem da Justiça"
-stars: "3/5"
 ---
 Os deuses da DC descem do Olimpo para se exibir. Não há muito o que mostrar senão uma demonstração interminável de força, poder e loucura. São tempos sinistros para amantes dos quadrinhos, mas mais sinistros ainda para cinéfilos que se enveredam pelos filmes dessa trupe que gosta de se vestir engraçado.
 

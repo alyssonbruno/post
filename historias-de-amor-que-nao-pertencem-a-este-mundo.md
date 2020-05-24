@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-11-11T00:04:06
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Histórias de Amor Que Não Pertencem a Este Mundo"
-stars: "3/5"
 ---
 Você já conviveu intimamente com alguém que possui muito medo do desconhecido, uma ansiedade angustiante e que não consegue deixar de falar sobre todas as terríveis possibilidades (para essas pessoas é uma certeza) que o futuro nos espera? Se sim, talvez "Histórias de Amor Que Não Pertencem a Este Mundo" o ajude a entender melhor essa pessoa, e a entender que, apesar de tanto fatalismo, há por trás um ser humano que deseja ser feliz à sua maneira.
 

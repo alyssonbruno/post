@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-30"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "De Pernas pro Ar"
-stars: "3/5"
 ---
 Alice é uma mulher que se dedica inteiramente ao trabalho. Boa parte do tempo a vemos usando seu celular e seu notebook. Apesar de excelente profissional, ela ignora sua família, cuidando dos afazeres caseiros e profissionais como se fizessem parte de uma mesma agenda. A triste consequência é que, apesar de terem uma vida invejável de classe média alta, ela acaba conhecendo pouco de seu próprio filho e quase não nota a existência do marido, que aparece distante em sua vida (sua cara de fato não aparece no início do filme).
 

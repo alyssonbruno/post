@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-15"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Que Horas Ela Volta?"
-stars: "5/5"
 ---
 "Que Horas Ela Volta" tem a virtude de conseguir se tornar um filme essencial para a discussão contemporânea e ao mesmo tempo se entregar a uma cartilha retrógrada que é usada a cada momento como combustível para uma esquerda brasileira (igualmente retrógrada) com sede de vingança e miopia de caráter.
 

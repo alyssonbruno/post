@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-20"
-title: "Vampiros de Alma"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Vampiros de Alma"
 ---
 Este é o primeiro dessa série de filmes com a mesma história do romance de Jack Finney: uma ameaça de fora faz com que as pessoas se tornem vazias por dentro, mas iguais por fora. Todos os problemas serão resolvidos, desde que todos os humanos se transformem dessa forma sem sentimentos que entram em conflito com a comunidade.
 

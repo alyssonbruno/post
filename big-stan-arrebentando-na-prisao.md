@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-04-04"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Big Stan Arrebentando na Prisão"
-stars: "3/5"
 ---
 Se algumas pessoas possuem preconceitos (bobos) de não ver Rob Schneider atuar, o que diriam a respeito de um filme em que ele não apenas atua, como dirige!
 

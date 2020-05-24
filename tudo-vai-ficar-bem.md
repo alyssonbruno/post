@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-03-01"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Tudo Vai Ficar Bem"
-stars: "4/5"
 ---
 O diretor Win Wenders (Pina) faz em "Tudo Vai Ficar Bem" um trabalho intimista e sutil em um ritmo que não deve agradar a muitos. Porém, é algo necessário para abordar essa espécie de thriller que evita cair no lugar-comum, pois está mais interessado em explorar seus personagens pela suas psiques do que pelas suas ações.
 

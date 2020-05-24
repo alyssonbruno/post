@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: 2018-01-26T20:53:30-02:00
-title: "Como Parsear Argc Argv para um map STL"
 tags: [ "draft",  ]
+title: "Como Parsear Argc Argv para um map STL"
 ---
 Os clássicos argv/argc são úteis quando os parâmetros de um programa são conhecidos e geralmente obrigatórios (até a ordem pode ser obrigatória). Isso funciona muito bem para C. Porém, há a possibilidade de STLzar esses argumentos de forma simples, usando a lógica UNIX de fazer as coisas e transformando tudo em um map de string para string. E tudo isso cabe em uma função pequena que você pode copiar e levar com você em seu cinto de utilidades:
 

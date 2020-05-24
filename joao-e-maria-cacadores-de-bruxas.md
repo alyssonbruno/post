@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-01-28"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "João e Maria Caçadores de Bruxas"
-stars: "3/5"
 ---
 João e Maria, como pode-se notar pelo título e sub-título, é uma reinterpretação do conto infantil dos dois irmãos que, perdidos na floresta, acabam entrando em contato com uma bruxa que mora em uma casa feita de doces. Esse é o único detalhe de toda a trama que nos faz lembrar da história clássica. A partir do momento em que eles se livram da bruxa e a queimam viva a história muda completamente de tom. Naquelas duas faces jovens e satisfeitas por assistirem ao seu precoce primeiro assassinato podemos constatar impressionados que a história não é mais de duas crianças indefesas, mas de dois psicopatas.
 

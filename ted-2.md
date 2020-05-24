@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-31"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Ted 2"
-stars: "2/5"
 ---
 Personagens tão carismáticos em um filme tão disposto a comprar a ideia de um urso de pelúcia com vida adulta não poderia gerar uma continuação mais chata, mecânica e automática das comédias pastelonas.
 

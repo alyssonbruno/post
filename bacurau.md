@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-09"
-title: "Bacurau"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Bacurau"
 ---
 Terceiro filme de Kleber Mendonça Filho, que começou com o ótimo O Som Ao Redor seguido do excelente Aquarius, Bacurau demonstra que o diretor não tem o mínimo jeito para lidar com personagens humanos nem com filmes tensos de ação. Todas suas reviravoltas são previsíveis e não sentimos por nenhuma das mortes. Se trata de uma análise de natureza morta, a intelectualização da condição humana sob o prisma pseudo-humanista de um historiador pensando em Brasil sem olhar diretamente para os brasileiros.
 

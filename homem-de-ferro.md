@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-07-30"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Homem de Ferro"
-stars: "4/5"
 ---
 Pepper Potts (Gwyneth Paltrow) guarda o primeiro coração nuclear de Tony Stark (Robert Downey Jr.) como prova de que ele tem um coração. Ironicamente, o primeiro Homem de Ferro também prova que a franquia tinha coração e lógica em suas primeiras duas horas, estruturados de uma forma que jamais veríamos novamente nas novas aparições do gênio/bilionário/herói.
 

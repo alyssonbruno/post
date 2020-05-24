@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-03-28T19:14:05-03:00
-title: "Construindo Pontes"
-tags: [ "draft", "movies" , "cinemaqui" ]
-
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Construindo Pontes"
 ---
 O ditado popular reza que futebol, religião e política não se discute. Discordo. Porém, ainda que seja necessário discutir todo e qualquer tema, acho difícil alguém discordar, incluindo os participantes de Construindo Pontes, que discutir política é de longe a atividade mais extenuante de todas.
 

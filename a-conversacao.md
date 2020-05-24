@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-11-16"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Conversação"
-stars: "5/5"
 ---
 Geralmente quando o Cinema se volta para si mesmo (rendendo boa parte das vezes filmes memoráveis) ele nunca pensa em descrever como o som é importante. Direção, atores, fotografia, trilha sonora, tudo isso parece relevante para o público médio. Mas o som, esse pobre coitado, é renegado à posição de "quanto mais invisível, melhor".
 

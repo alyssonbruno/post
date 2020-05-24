@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-11-30T00:07:56
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Maníaco"
-stars: "4/5"
 ---
 Estou em uma sequência foda de gore. E estamos apenas no segundo. Depois de Cronenberg e seu clássico techno-obscuro A Mosca, este bem mais recente Maníaco, também uma espécie de remake, e estrelado parcialmente por Elijah Wood e parcialmente por sua voz, nos apresenta o ponto de vista mais fascinante de toda história de serial killers: o ponto de vista dele mesmo.
 

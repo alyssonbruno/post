@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-26T00:27:20-02:00
-title: "Fuga"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Fuga"
 ---
 Fuga possui uma ideia fascinante a respeito de identidade, mas parece estar disposto a desperdiçar com uma narrativa lenta e repetitiva em torno de um mistério bobo como em tantos outros filmes. Resta o exercício narrativo, mas isso é tão pouco que passa desapercebido.
 

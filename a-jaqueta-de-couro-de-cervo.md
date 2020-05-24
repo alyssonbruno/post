@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-21"
-title: "A Jaqueta de Couro de Cervo"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "A Jaqueta de Couro de Cervo"
 ---
 A lógica de A Jaqueta de Couro de Cervo é simples, direta e escalável. É daqueles filmes curtos que exploram um tema até seu inevitável final, não nos permitindo sair dos trilhos. Nos limitamos a ficar tensos, aguardando quando as coisas começarão a dar errado, enquanto assistimos nossa própria incompreensão de quando começa o fascínio por uma história de cinema.
 

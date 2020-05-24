@@ -1,8 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-27"
-title: "Cinco Séries da Netflix"
 tags: [ "draft", "series" ]
+title: "Cinco Séries da Netflix"
 ---
 Esta série sobre evidências forenses mal formuladas com má ciência é uma versão de estagiário de Making a Murderer.
 

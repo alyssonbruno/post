@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-10-11T20:23:34
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Guerra dos Sexos"
-stars: "4/5"
 ---
 Guerra dos Sexos é uma viagem leve, mas não inconsequente, pelos fascinantes anos 70. Nessa viagem achamos um episódio na História igualmente fascinante que envolve tênis e feminismo. E se tênis é um embate de egos, o feminismo é um embate de forças. Forças essas que, se hoje encontramos um certo equilíbrio entre gêneros, naquele tempo eles ainda estavam por se formar.
 

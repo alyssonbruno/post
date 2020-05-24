@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2008-07-04"
-title: VirtualBox
 tags: [ "draft", "tools" ]
+title: VirtualBox
 ---
 O VirtualBox parece ser o concorrente mais próximo atualmente da VMWare. Descobrimos ele essa semana e resolvemos fazer alguns testes. O resultado foi bem animador.
 

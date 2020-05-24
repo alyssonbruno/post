@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-04-02T19:42:49-03:00
-title: "Uma Temporada na França"
-tags: [ "draft", "movies" , "cinemaqui" ]
-
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Uma Temporada na França"
 ---
 Uma Temporada na França é um filme que você provavelmente já viu, mas de outras formas mais pesadas. Isso porque o tema de refugiados pode revelar situações muito dramáticas, além de ser fonte principal de inspiração hoje em dia no cinema da Europa. O diretor e roteirista Mahamat-Saleh Haroun tenta, então, tornar esse tema fácil de assistir, palatável até para a família. O resultado é uma fábula com resultados mistos.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-08-14"
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "G.I. Joe A Origem de Cobra"
-stars: "1/5"
 ---
 G.I. Joe é um filme tão ruim assim como muitos têm falado? Talvez sim. O fato é que, baseado em uma franquia de action figure produzida pela empresa de brinquedos Hasbro (e vendido no Brasil sob o codinome Comandos em Ação), o filme tenta se firmar nessa superfície frágil e infantil usando conceitos mais infantis ainda que acabam por estabelecer relações entre os personagens absurdamente ilógicas e pedestres.
 

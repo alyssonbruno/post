@@ -1,9 +1,9 @@
 ---
-date: "2020-05-10"
-title: "Westworld S03 E02"
 categories: [ "cinema" ]
+date: "2020-05-10"
 stars: "3/5"
 tags: [ "draft", "series" ]
+title: "Westworld S03 E02"
 ---
 Então eles resolveram plagiar Matrix. Pra ser sincero, em vários momentos soa como homenagem. Mas a soma de tantas homenagens acaba se tornando plágio, pois são tantas ideias vindas da mesma fonte, parte integrante e ativa da história que essa temporada pretende contar, que não há como deixar de pensar que 20 anos depois o blockbuster de ação dos irmãos Wachowski vira um episódio acelerado que recapitula todos os elementos que amamos nos três filmes.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-10T20:33:29-03:00
-title: "Time - O Amor Contra a Passagem do Tempo"
-tags: [ "draft", "movies" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" ]
+title: "Time - O Amor Contra a Passagem do Tempo"
 ---
 Você sempre sai de um filme do diretor coreano Kim-Ki Duk (Fôlego, Pieta, Primavera Verão Outono Inverno e Primavera,  Tipo Ruim) pensativo. É uma marca deste cineasta não fechar as pontas e abrir mais algumas. "Time" faz isso, e faz de uma maneira que dá pra se divertir no processo.
 

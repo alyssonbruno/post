@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-08-01"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Amor Pleno"
-stars: "4/5"
 ---
 É difícil analisar os filmes de Terrence Malick através da abordagem tradicional de "historinha". O que é possível observar nesse seu novo trabalho é sua semelhança com Árvore da Vida (semelhança narrativa) com muito menos glamour. Assim como a reflexão de Almodóvar em Amantes Passageiros (depois do tenso A Pele que Habito), Malick parece querer não se aprofundar demais em temas existenciais como fez anteriormente, mas mesmo assim não consegue evitar de ligar as referências, como em determinado momento sua câmera foge para o mundo subaquático, quase como uma tentativa de conectar-se com seu predecessor no melhor estilo continuação dos grande temas.
 

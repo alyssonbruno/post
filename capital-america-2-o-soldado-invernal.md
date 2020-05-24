@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-04-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Capitão América 2 O Soldado Invernal"
-stars: "3/5"
 ---
 Chris Evans, ou Capitão América, seria o personagem mais carismático, mais querido e um líder natural dos Vingadores da Marvel (o que, já sabemos, não se concretiza). Tony Stark (Robert Downey Jr.) lhe tira uma parcela grande de popularidade, mas isso não é culpa dos atores nem dos personagens (originais), mas da nossa era de cinismo e sarcasmo, onde não é o mais bonzinho, o mais patriótico e muito menos o mais correto que irá se sobressair. O politicamente incorreto, ainda que maltratado pela esquerda, continua livre, leve e solto. Curiosamente, tornar esse herói organicamente anacrônico foi uma das poucas virtudes do longa original.
 

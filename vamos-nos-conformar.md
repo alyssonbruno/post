@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
-title: "Vamos nos Conformar"
-stars: "3/5"
 date: "2010-11-01"
+stars: "3/5"
 tags: [ "draft", "movies" ]
+title: "Vamos nos Conformar"
 ---
 Esse documentário conta a história de quatro amigas que estão internadas em uma espécie de abrigo para filhas que foram abandonadas por suas famílias. Cada uma delas fala na sua vez sobre sua história, e conseguimos identificar facilmente a personalidade de cada uma: a que tem pena de si, a durona e irritada, a complicada e, por fim, a conformada. É ela que veremos frente a frente com os pais.
 

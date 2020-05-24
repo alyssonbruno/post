@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-03-04"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Onde os Fracos não Têm Vez"
-stars: "4/5"
 ---
 Deve existir um "bug" ou chip implantado na maioria dos críticos para que estes adorem filmes que se preocupam milimetricamente em realizar a experiência mais real possível, ainda que estes estejam equipados de fotografia, figurino, direção de arte e roteiro. Isso poderia explicar a veneração quase que incondicional de certas obras, como O Som ao Redor (Kleber Mendonça Filho, 2012), Amor (Michael Haneke, 2012) e este Onde os Fracos Não Têm Vez, dos irmãos Coen, os mesmos que já haviam realizado Fargo e cuja existência não pode passar em branco ao analisarmos seu filme gêmeo.
 

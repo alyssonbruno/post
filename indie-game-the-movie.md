@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-06-17"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Indie Game The Movie"
-stars: "3/5"
 ---
 Focado principalmente no amor, dedicação, desespero e muitas vezes loucura dos criadores de jogos de computador independentes, Indie é uma grata surpresa ao mostrar os nerds solitários como artistas que lutam pelo reconhecimento, mas, acima de tudo, pela máxima expressão de si mesmos dentro dos bits e bytes que insistem em escrever.
 

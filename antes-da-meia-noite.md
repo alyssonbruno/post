@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-06-27"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Antes da Meia-Noite"
-stars: "5/5"
 ---
 A grande sacada dos filmes que acompanham as conversas entre Jesse (Ethan Hawke) e Celine (Julie Delpy)  o ótimo Antes do Amanhecer, o excelente Antes do Pôr-do-Sol e este fabuloso Antes da Meia-Noite  é que os textos dos diálogos soam naturais, acontecem em uma ordem elegantemente cadenciada e são surpreendentemente relevantes durante todo o tempo, instigando a nossa percepção de realidade e fazendo nosso cérebro não conseguir parar de pensar nas questões tão atuais e filosóficas. Vivenciarmos esses breves momentos que exploram a vida real de maneira tão intensa no Cinema faz com que a quarta parede que nos separa dos personagens se rompa e nos atire para dentro de uma discussão existencialista qualquer, mas que ganha um contorno fascinante por estar sendo discutido com brilhantismo por este adorável casal.
 

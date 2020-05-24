@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-30"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Tudo pelo Poder"
-stars: "5/5"
 ---
 Geralmente filmes que tentam revelar os bastidores da política soam pretenciosos e bobinhos em suas conjecturas infantis e roteiros confusos e incompletos. Esse não é o caso de Tudo Pelo Poder, que consegue, de maneira didática e assustadora, revelar muito mais sobre o pano de fundo de influências do que gostaríamos de saber ou de admitir.
 

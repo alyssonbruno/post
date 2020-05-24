@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-08-29T18:39:26-03:00
-title: "A Luta do Século"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "A Luta do Século"
 ---
 A luta é do século. No caso, o século 21. Estamos diante de dois rivais clássicos da luta de boxe do nordeste brasileiro. Todo Duro e Holyfield são os ícones mais desconhecidos que já se teve história no esporte, e ao mesmo tempo possuem a rixa mais incompreensível. Regionalistas e com uma primeira luta com desfecho surpreendente, o desfecho dessa história é mais surpreendente ainda.
 

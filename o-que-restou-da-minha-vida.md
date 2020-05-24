@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-21"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Que Restou da Minha Vida"
-stars: "3/5"
 ---
 Tratando da morte de uma maneira leve para depois reverenciar a perda das pessoas que amamos, O Que Restou da Minha Vida é um misto de temas que combina comédia, romance e drama em uma sequência de idas e voltas não necessariamente confusas, mas frustrantes.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-07-26T16:56:50
+stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Rifle"
-stars: "2/5"
 ---
 Rifle poderia ser chamado de exercício de futilidade, mas quem faz exercício tem o objetivo de melhorar. E não é isso que vemos no filme. Nele há altos e baixos que poderiam sugerir alguma linha de pensamento. O espectador anseia por significado. Mas no final fica claro que tudo não passa de uma grande bobagem.
 

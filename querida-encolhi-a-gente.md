@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-01-26"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Querida, Encolhi a Gente"
-stars: "2/5"
 ---
 Parece demais um filme inteiro com a ideia de mostrar como as crianças conseguem se virar sozinhas sem a presença dos pais. Ainda mais por se tratar de uma continuação da continuação e tentar reciclar velhas ideias da série usando os mesmo efeitos que hoje já se pode notar algumas marcas do passado. E isso em um filme de 97!
 

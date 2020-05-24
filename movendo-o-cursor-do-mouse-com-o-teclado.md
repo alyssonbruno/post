@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2007-07-26"
-title: Movendo o cursor do mouse com o teclado
 tags: [ "draft",  ]
+title: Movendo o cursor do mouse com o teclado
 ---
 Bom, vamos deixar de papo furado e "codar". Para essa primeira tentativa iremos desenvolver um programa que move o cursor do mouse quando pressionada uma tecla de atalho e voltar à sua posição original quando pressionada outra tecla.
 

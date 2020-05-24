@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-08-06T15:24:03
+stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Reino Gelado: Fogo e Gelo"
-stars: "2/5"
 ---
 O Reino Gelado é a continuação da continuação de uma série de animação russa fora do circuito Disney/Dreamworks, então não é um filme que se possa esperar o ápice de qualidade dos grandes estúdios. E mesmo assim não deixa de ser uma aventura razoável, com história feita para televisão, mas com efeitos que lembram como hoje há uma acessibilidade incrível a efeitos digitais que antigamente demandavam anos e muitos milhões.
 

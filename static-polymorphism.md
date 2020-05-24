@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2009-07-10"
-title: Static Polymorphism
 tags: [ "draft",  ]
+title: Static Polymorphism
 ---
 To explain the polymorphism nothing is better than see how stuff used to be. If you were a twenty old C programmer in the past and created the following functions:
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-07-14"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Corações de Ferro"
-stars: "4/5"
 ---
 O que é o patriotismo, senão uma outra forma de religião? Da mesma forma com que a igreja católica destroçava povos e arrancava suas almas, a curiosa mente de soldados norte-americanos cansados e no final da segunda guerra nos revela em Corações de Ferro uma noção de que até atos de heroísmo estão manchados de sangue e uma moral no mínimo duvidosa. O estresse de ter matado (e muito) pode servir de desculpa, mas assim como em Sniper Americano, não por muito tempo.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-11-20"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Os Intocáveis"
-stars: "5/5"
 ---
 Trilha sonora que nos remete ao solete faroeste, e apesar de não ser um filme desse gênero, o ambiente sem lei que Chicago aparenta torna mais do que adequada a escolha.
 

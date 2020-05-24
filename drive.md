@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-03-13"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Drive"
-stars: "4/5"
 ---
 A filmagem no estilo homenagem aos anos 80 cativa e ao mesmo tempo cria uma atmosfera que aceitamos exatamente pelas inúmeras referências da época, como os créditos estilosos ou as frequentes mas elegantes transições em que o personagem de Ryan Gosling (Tudo pelo Poder ) aparece em um plano detalhe e se "esfumaça" para outra cena.
 

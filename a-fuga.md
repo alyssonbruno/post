@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-03-22"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Fuga"
-stars: "3/5"
 ---
 Não há muito o que falar de A Fuga (Deadfall), com Eric Bana e Olivia Wilde. As atuações desses dois atores elevam uma experiência banal de uma história mediocremente interessante sobre um casal de irmãos, Addison e Liza, que realiza um roubo e precisam fugir pela fronteira com o Canadá. No caminham encontram situações que vão aos poucos revelando suas características e seu passado juntos do pai alcoólatra. Mas isso é pouco. Nunca ficamos sabendo de fato o suficiente para que faça sentido acompanhá-los ou entender o que está em jogo. Addison não é violento, mas estrategista, se torna quando necessário. Porém, não mais do que qualquer pessoa comum no seu lugar. Liza parece querer dizer algo mais a partir do seu comportamento dissimulado e sua lascívia. A troca de nomes que ocorre em determinado momento é um recurso óbvio demais, o que faz perder toda a sutileza da introdução que sugere um histórico incestuoso.
 

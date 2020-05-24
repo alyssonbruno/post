@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2019-09-17"
-title: "Vcpkg: openssl.cnf"
 tags: [ "draft",  ]
+title: "Vcpkg: openssl.cnf"
 ---
 Mais uma aventura em vcpkg. Dessa vez o projeto openssl, a biblioteca de SSL open-source multiplataforma. O vcpkg divide esse port por SO, sendo o openssl-windows o port que alterei. A alteração foi enviada como PR para a Microsoft, mas no momento está apenas no repo da BitForge.
 

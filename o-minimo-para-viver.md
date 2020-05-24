@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-08-06T18:30:44
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Mínimo Para Viver"
-stars: "3/5"
 ---
 Mais um drama da Netflix que usa o seu formato já usado em trabalhos como The Fundamentals of Caring (Amizades Improváveis no IMDB). Há uma pessoa que vive com dificuldades, as famílias e desconhecidos em volta, o Keanu Reeves porque sim (o bom é que ele já ganha a graninha do metrô) e um filme leve demais para conseguir causar qualquer comoção ou profundidade no tema que quer abordar.
 

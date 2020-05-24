@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-11-01"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Aconteceu Naquela Noite"
-stars: "4/5"
 ---
 Será esta a comédia romântica mãe de todas as comédias românticas? Bom, uma coisa ela é: o exemplo perfeito de como, mesmo se tratando de um sub-gênero maniqueísta, é possível extrair boas histórias e um ótimo elenco em cima do que hoje são clichês mais que consagrados. Alguns já são jurássicos!
 

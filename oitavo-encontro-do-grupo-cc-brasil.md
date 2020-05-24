@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2011-09-19"
-title: Oitavo Encontro do Grupo C/C++ Brasil
 tags: [ "draft", "ccppbr" ]
+title: Oitavo Encontro do Grupo C/C++ Brasil
 ---
 Esse final de semana ocorreu mais um dos inesquecíveis encontros dos programadores C++, dessa vez ao estilo "velhos tempos", com direito a entrada gratuita e um grupo mais coeso, quase já íntimo, e mais animado.
 

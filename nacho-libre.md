@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-09-20"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Nacho Libre"
-stars: "2/5"
 ---
 Comédias com Jack Black e Jim Carrey não são protagonizadas por atores atuando, mas antes por comediantes que usam a oportunidade para fazer suas esquisitices e deixar a plateia rir no vácuo de suas piadas muitas vezes de gosto duvidoso.
 

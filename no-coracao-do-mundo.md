@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-24"
-title: "No Coração do Mundo"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "No Coração do Mundo"
 ---
 No Coração do Mundo é exercício de estilo, filme de golpe, drama social/poético e antologia mineira, e algumas dessas características deste adorável longa você deve gostar. Nem que seja da antologia mineira. Fique para um cafezinho.
 

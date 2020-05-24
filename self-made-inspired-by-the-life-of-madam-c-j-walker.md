@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-27"
-title: "Self Made: Inspired by the Life of Madam C.J. Walker"
-tags: [ "draft", "series" ]
 stars: "3/5"
+tags: [ "draft", "series" ]
+title: "Self Made: Inspired by the Life of Madam C.J. Walker"
 ---
 Daquelas séries biográficas que pode ser lida em quinze minutos na internet. E de quebra você estará melhor informado sobre os fatos, e não engolirá a cartilha social corrente. Por exemplo, é óbvio que a filha dessa milionária negra não era lésbica na vida real, assim como não existia uma vilã milionária mestiça para confrontar a pureza do sangue de uma afro-americana. Parece existir apenas uma verdade nessa mistureba roteirizada por Nicole Jefferson, Elle Johnson e a tataraneta da protagonista: no fundo todos gostariam de ser brancos.
 

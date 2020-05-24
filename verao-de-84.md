@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-17"
-title: "Verão De 84"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Verão De 84"
 ---
 Após os anos 80 tudo mudou, e por isso este não é um filme espetacular sobre um serial killer, nem um resgate aos lúdicos anos mágicos. É mais uma repaginada sobre o que mudou desde então, quando os mocinhos e vilões deixaram de serem fáceis de reconhecer. Ou se era um ou outro. Agora heróis como Walter White são o mais comum e família feliz e perfeita existe apenas nos comerciais e nas redes sociais.
 

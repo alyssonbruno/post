@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-03-06"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Homem Que Mudou o Jogo"
-stars: "5/5"
 ---
 Brad Pitt é um ator com um controle de personagem invejável. Podemos acompanhar sua trajetória em papéis mais exóticos como o do vampiro Louis (Entrevista com o Vampiro), do maníaco Jeffrey Goines (Os 12 Macacos), do inconsequente Tyler Durden (Clube da Luta) e do cômico Tenente Aldo Raine (Bastardos Inglórios) e compararmos com papéis mais contidos ou dramáticos como o pai de família em A Árvore da Vida, o detetive David Mills em Seven e o gerente de um time de beisebol Billy Beane, papel que desempenha em O Homem que Mudou o Jogo que faz ficarmos em dúvida se existem dois, três ou mais clones do ator escondidos e revelados em momentos pontuais de sua carreira.
 

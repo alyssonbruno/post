@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-02-09"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Bom Dinossauro"
-stars: "4/5"
 ---
 É uma satisfação ver que a Pixar continua com sua vontade de arriscar de vez em quando, e possivelmente possui os desenhistas mais ambiciosos do mercado. O Bom Dinossauro é um trabalho estético e artístico admirável, que causa estranheza em alguns momentos, mas em outros faz valer totalmente a pena.
 

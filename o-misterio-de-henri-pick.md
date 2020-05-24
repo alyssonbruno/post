@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-19"
-title: "O Mistério de Henri Pick"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "O Mistério de Henri Pick"
 ---
 O Mistério de Henri Pick é um filme de investigação improvisada, mas ao mesmo tempo dialoga sobre como o marketing pode ser ao mesmo tempo perverso e necessário. "Dois terços dos franceses escrevem, mas ninguém lê", diz um personagem. Há todo um ar melancólico em torno dessa comédia fácil de digerir. Pelo menos na superfície.
 

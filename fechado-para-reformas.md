@@ -1,9 +1,9 @@
 ---
-date: "2020-05-19"
-title: "Fechado Para Reformas"
 categories: [ "blog" ]
-tags: [ "draft", "essays" ]
+date: "2020-05-19"
 draft: "true"
+tags: [ "draft", "essays" ]
+title: "Fechado Para Reformas"
 ---
 Quase três mil posts durante quinze anos nessa vida de blogue e percebo que chegou a hora de atingir a maioridade. Escrever um rascunho e publicá-lo na internet não me torna melhor escritor que qualquer YouTuber que resolve na edição ou tuítes que simplificam o pensamento humano de tal forma que ele parece totalmente válido ou inválido. Perde-se as nuances.
 

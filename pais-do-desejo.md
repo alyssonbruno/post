@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-02-04"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "País do Desejo"
-stars: "2/5"
 ---
 Filmes como Febre do Rato e O Som ao Redor possuem narrativas pouco convencionais, mas seus temas são tão bem explorados e ensinados ao espectador que não conseguimos imaginar maneira melhor de contar uma história. Que é exatamente o que não existe em País do Desejo, que articula temas complexos e polêmicos como o aborto e a castidade dos padres sem a mínima intenção de explorá-los como mereceriam.
 

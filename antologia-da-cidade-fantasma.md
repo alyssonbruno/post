@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-11"
-title: "Antologia da Cidade Fantasma"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Antologia da Cidade Fantasma"
 ---
 Antologia da Cidade Fantasma é um terror psicológico que flerta com questões sociais sem conseguir desenvolver com sucesso nenhuma delas. Porém, a atmosfera opressiva que o clima de inverno exerce sobre essas pessoas é quase um personagem à parte, e isso vale a pena acompanhar.
 

@@ -1,8 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: "2016-12-27"
-title: "Dez melhores filmes de 2016"
 tags: [ "draft", "lists" ]
+title: "Dez melhores filmes de 2016"
 ---
 <table class="sortable">
 <tr><td>Trolls. Como pegar um fiapo de argumento, mais uma vez baseado em brinquedos dos anos 80, e transformá-lo em uma história previsível, mas que convence por sua mensagem de ode à felicidade de uma era. Trolls nos convida a rir dos clichês e a dançar ao som de outros tempos. Remixados, claro, mas que mantém a pureza no olhar de uma criança, crescida ou não.</td></tr>

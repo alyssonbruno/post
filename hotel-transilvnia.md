@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-02-22"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Hotel Transilvânia"
-stars: "2/5"
 ---
 Hotel Transilvânia é uma surpresa em animação e seus divertidos momentos. A direção transforma efeitos visuais competentes em sequências sempre interessantes, utilizando personagens cativantes construídos através do imaginário popular e não tão clichês quanto poderíamos esperar.
 

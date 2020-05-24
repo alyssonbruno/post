@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-10T19:02:34-03:00
-title: "Compra Me Um Revólver"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Compra Me Um Revólver"
 ---
 Compra Me Um Revólver começa com a seguinte premissa: "em um México sem lei, a população diminui porque estão desaparecendo as mulheres". Assistindo ao filme entendemos que o problema populacional não se deve à falta de úteros, mas ao excesso de pênis. Todos sabem o nível de violência em uma sociedade varia de acordo com a quantidade de pênis disputando território.
 

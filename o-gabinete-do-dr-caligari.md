@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-30T17:46:15-03:00
-title: "O Gabinete do Dr Caligari"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "O Gabinete do Dr Caligari"
 ---
 Caligari! Caligari! Caligari! Um grito surdo que se traduz no cinema mudo com este nome sendo escrito pela tela de todas as formas. Este é um dos representantes do expressionismo alemão que inspirou o estilo noir que por sua vez está influenciando o neo-noir. Cenários com sombras distorcidas, elementos exagerados na tela, maquiagem pesada estilo gótico (o de indivíduos, não a arte alemã). É um filme curto que já arrisca detalhes novos na linguagem como paralelismo, sonhos e certa complexidade na história.
 

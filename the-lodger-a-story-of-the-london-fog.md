@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-01-11"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "The Lodger: A Story of the London Fog"
-stars: "4/5"
 ---
 O primeiro filme sobre crime de Hitchcock já contém vários elementos que indicam a que veio esse diretor, que já demonstrava inventividade em seus trabalhos anteriores. Aqui ele mantém algumas boas ideias (como a câmera subjetiva, girando no meio de um quarto, olhando o reflexo do rosto no vidro, e até caminhando furioso em direção a uma pessoa amedrontada) e cria tantas outras novas. Porém, mais que isso, constrói um belo filme através de um roteiro até que mediano.
 

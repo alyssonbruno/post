@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-01-04"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Minúsculos O Filme"
-stars: "5/5"
 ---
 Me encantam filmes cuja ideia não parece muito boa ou de difícil execução, mas então, remando contra a maré, surge um trabalho inspirador.
 

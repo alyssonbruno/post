@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: 2019-11-13
-title: "DTLS Simples... simples?"
 tags: [ "draft",  ]
+title: "DTLS Simples... simples?"
 ---
 
 O protocolo DTLS, grosso modo, é um addon do TLS, que é a versão mais nova e segura do SSL, só que em vez de usar por baixo o TCP, que garante entrega na ordem certa dos pacotes, além de outras garantias, o UDP é permitido. Ou seja, datagramas. Em teoria essa forma de usar TLS é uma versão mais light, com menos overheadh e tráfico de banda. E a pergunta que tento responder aqui é: será que isso é verdade?

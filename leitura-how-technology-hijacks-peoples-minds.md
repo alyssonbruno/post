@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
-title: "Leitura: How Technology Hijacks People’s Minds from a Magician and Google’s Design Ethicist"
-tags: [ "draft", "reading" ]
 date: 2019-06-20
+tags: [ "draft", "reading" ]
+title: "Leitura: How Technology Hijacks People’s Minds from a Magician and Google’s Design Ethicist"
 ---
 How Technology Hijacks People’s Minds -- from a Magician and Google’s Design Ethicist, de Tristan Harris, foi uma leitura inicial que o SendToKindle cortou, mas pretendo ler o texto completo.
 

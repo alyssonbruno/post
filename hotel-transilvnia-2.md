@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-02-22"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Hotel Transilvânia 2"
-stars: "3/5"
 ---
 Adam Sandler consegue a proeza de tornar a tosca dublagem brasileira menos pior do que ouvi-lo arriscar um sotaque que é uma mistura de Zohan com trechos de Little Nick.
 

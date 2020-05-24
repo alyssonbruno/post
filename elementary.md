@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-01-11"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Elementary (piloto)"
-stars: "3/5"
 ---
 E por que ele não é Sherlock? Cinema e televisão são linguagens que vão evoluindo com o passar dos anos, das produções e dos espectadores. Todos que gostam de séries de investigação já assistiram pelo menos um episódio ou ouviram falar de C.S.I., Bones, Law & Order e tantos outros -- onde até Sobrenatural se encaixa. Todas essas séries confiam em uma fórmula que existe no Cinema há muito tempo e é usado em praticamente qualquer filme, mas que em investigação se torna muito óbvio: primeiro há um caso, depois o protagonista demonstra como é esperto, depois há uma reviravolta e ele se mostra errado para depois descobrir no terceiro ato que ele estava certo desde o começo ou descobriu coisas novas que o levaram a acertar por último quem era o culpado.
 

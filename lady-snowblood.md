@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-03-09"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Lady Snowblood"
-stars: "4/5"
 ---
 Originalmente um mangá da década de 70, Lady Snowblood (sem título nacional, provavelmente nunca lançado no Brasil) contém uma verdadeira miscelânea que com certeza foi fonte de inspiração de Quentin Tarantino na confecção de sua Noiva em Kill Bill. Fica até difícil listar todos os tipos de influências, referências e cópia descarada (como a música-tema). Porém, diferente de um plágio barato, ambos são trabalhos impecáveis de composição, e hoje em dia emprestam diversos significados um ao outro, formando uma perfeita sessão dupla (ou tripla, se considerarmos que Kill Bill possui dois "volumes").
 

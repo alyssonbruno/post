@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
-title: Sobre a BitForge
-tags: [ "draft",  ]
 date: 2014-07-03
+tags: [ "draft",  ]
+title: Sobre a BitForge
 ---
 Minha empresa e onde eu trabalho; nos contrate para resolver seu problema aqui.
 

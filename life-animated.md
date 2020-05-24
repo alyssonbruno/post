@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-02-25"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Life, Animated"
-stars: "3/5"
 ---
 O documentário "Life, Animated" conta a incrível história de Owen Suskind, diagnosticado como autista aos três anos de idade, incapaz de falar e de ações motoras minimamente coesas e que através dos filmes da Disney abriu um portal surpreendente de comunicação com o mundo externo. Apenas por esta premissa este filme vale cada segundo de nossa atenção.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-07-28T11:09:44-03:00
-title: "Para o Que Der e Vier"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Para o Que Der e Vier"
 ---
 Aparentemente este é um filme sessão da tarde, mas ele tem personagens que são cativantes de acompanhar, seja por eles serem vividos por atores cujas personas já conhecemos ou pelos seus conflitos e desafios serem tão comuns quanto... banais.
 

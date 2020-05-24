@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-06-01"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Corte"
-stars: "4/5"
 ---
 A Corte está no Festival Varilux desse ano e conta a história justamente do que propõe. Vamos acompanhando o dia-a-dia na vida de todos envolvidos no julgamento de um réu, quase sempre sob o ponto de vista do juiz.
 

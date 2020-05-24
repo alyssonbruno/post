@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-09-30"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "De Quem é a Cinta Liga?"
-stars: "2/5"
 ---
 Essa é uma comédia argentina co-dirigida por Fito Páez (Vidas Privadas)  que também assina o roteiro  e pela estreante María Cecilia López. Ambos estão sintonizados em um projeto que tenta de todas as formas chamar a atenção, não importante que para isso seja sacrificado o bom senso e, o que é pior, o humor de sua história.
 

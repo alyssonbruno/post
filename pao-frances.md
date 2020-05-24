@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2019-12-29"
-title: "Receita: Pão Francês"
 tags: [ "draft", "food", "recipes" ]
+title: "Receita: Pão Francês"
 ---
 Tirado do vídeo do canal do YouTube Pão da Casa.
 

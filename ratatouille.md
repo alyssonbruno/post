@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-11-20"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Ratatouille"
-stars: "5/5"
 ---
 Ratatouille na época representou a capacidade grandiosa que um bom roteiro e uma excepcional produção conseguiam fazer, na animação computadorizada, como limite máximo de expressão na arte cinematográfica.
 

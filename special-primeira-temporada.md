@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-04-26T16:11:32-03:00
-title: "Special Primeira Temporada"
-
-tags: [ "draft", "series" ]
 stars: "1/5"
+tags: [ "draft", "series" ]
+title: "Special Primeira Temporada"
 ---
 Tenho algo a confessar: o piloto de Special mentiu para mim. Pensei que seria uma série de humor negro onde alguém com paralisia cerebral seria atropelado constantemente por um carro. Mas não é. Está mais para um programa preenchendo cota para deficientes. E deficiente no caso físico, emocional e mental.
 

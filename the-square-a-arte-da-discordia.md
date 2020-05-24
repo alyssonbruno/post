@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-08T14:01:49-02:00
-title: "The Square: A Arte da Discórdia"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "The Square: A Arte da Discórdia"
 ---
 Tenho uma confissão a fazer: quando eu entro em um salão onde está exposto arte moderna eu nunca tenho certeza se entendi realmente o que o autor quis dizer com determinada obra. Aliás, eu também não tenho certeza se o próprio autor sabe o significado de sua obra. Aliás, eu nem sei se podemos chamar aquilo de obra. O que é arte, afinal de contas? E, aproveitando, qual o sentido da vida?
 

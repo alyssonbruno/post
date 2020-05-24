@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-title: "O Manuscrito Perdido"
-
-stars: "3/5"
 date: "2011-10-23"
+stars: "3/5"
 tags: [ "draft", "movies" ]
+title: "O Manuscrito Perdido"
 ---
 Fradique Mendes, um poeta e aventureiro português, amigo de Eça de Queiroz, viveu na região que foi primeiro abordada pelos portugueses no começo do século XVI, evento esse que nós brasileiros conhecemos como "Descobrimento do Brasil". Esse evento, e muitos outros na história do país, no entanto, possuem ecos diversos na sociedade brasileira, como bem demonstra esse documentário de José Barahona. O mais relevante desse trabalho, porém, é constatar que esses ecos do passado continuam influenciando boa parte da nossa sociedade, e como ela é estruturada em torno da terra herdada.
 

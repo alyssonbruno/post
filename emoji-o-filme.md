@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-11-23T01:21:08
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Emoji: O Filme"
-stars: "1/5"
 ---
 Não é sintomático que um filme chamado Emoji tenha tão poucas emoções? Talvez não. Afinal de contas, os emojis basicamente são a simplificação de nossa linguagem e dos nossos sentimentos. Onde um email com uma poesia é colocado na lixeira porque "usar textos é tão retrô" e onde no lugar de um emoji com uma única emoção enlatada surge um emoji com várias!
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2017-01-12"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Moonlight: Sob a Luz do Luar"
-stars: "3/5"
 ---
 Moonlight contém uma história simples demais depois que é desvendada. Porém, esse não é um filme que foca em sua história, mas sim em seus personagens. Ele usa toda técnica disponível para explorar o isolamento afetivo dessas pessoas, e por algum motivo, de dentro de suas sutilezas, acaba berrando seu estilo aos quatro ventos, como se o estilo por si só criasse um grande filme.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-08T14:55:01-03:00
-title: "A Espiã Vermelha"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "A Espiã Vermelha"
 ---
 Política, conspiração, romance, ciência. A Espiã Vermelha é um filme que contém esses elementos unidos por uma mulher vivendo seu sonho na Segunda Guerra em ser uma cientista, mas ao mesmo tempo sendo pressionada por seus valores e sua posição privilegiada a fazer algo que ela poderá se arrepender profundamente. A questão toda do filme é que ela não tem como saber disso naquele momento, e, sendo finalmente descoberta, tem a chance de rever suas ações.
 

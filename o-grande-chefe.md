@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-30"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Grande Chefe"
-stars: "5/5"
 ---
 Uma comédia pautada no absurdo, mas que ancora suas situações em neuroses realistas nos colegas de uma empresa. No entanto, tais neuroses nunca seriam expostas por pessoas reais, e a beleza de O Grande Chefe é justamente deixar fluir o comportamento humano até suas últimas consequências, enquanto ironicamente o comportamento de um ator medíocre é analisado sob a ótica da incompetência.
 

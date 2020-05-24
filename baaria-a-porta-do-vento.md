@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-09-17"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Baarìa - A Porta do Vento"
-stars: "3/5"
 ---
 O novo filme de Tornatore na verdade conta uma história da antiga Itália, seu nascimento como fascista, seus movimento social-comunistas e seu fim. Com o uso da tela inteira para apresentar paisagens de tirar o fôlego, seja da cidade-título quanto os pastos sem fim, o diretor continua com seus resquícios que remetem a Cinema Paradiso: trilha evocativa, movimentos de câmera circulares, um garoto que vê negativos de filmes de cinema, o cara que sempre fica na praça ("compro dólar/vende caneta", em comparação com o louco da praça) e tantas outras cenas e modos de contar uma história.
 

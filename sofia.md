@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-18T22:32:47-03:00
-title: "Sofia"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Sofia"
 ---
 "As pessoas conseguem se acostumar com tudo", um personagem diz em certo momento de Sofia, um filme que se você não parou pelo menos por alguns minutos para refletir após ter assistido, pense de novo. O personagem tem razão.
 

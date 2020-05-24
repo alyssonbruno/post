@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-02"
-title: "O Voto é Secreto"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "O Voto é Secreto"
 ---
 Este filme parece uma propaganda do governo incentivando o voto com não-atores dizendo falas prontas para incitar a reflexão no espectador. Uma pena que o formato seja tão simplório. Sem personagens, sem atores, sem história, O Voto é Secreto consegue no máximo fazer-nos pensar por que está região do mundo está usando democracia.
 

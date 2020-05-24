@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-12-29"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Frances Ha"
-stars: "4/5"
 ---
 Nunca vi um filme tão alto astral com uma personagem tão... errada. E fascinante. O mundo de Frances é medíocre. Ela é uma dançarina (ou gostaria de ser) e como todo artista que se preza, tenta viver em Nova Iorque. Porém, como sua amiga bem observa, só um artista rico para se manter próximo da Broadway. Acompanhamos, então, suas vicissitudes, inicialmente com sua melhor amiga, que parece ser a única que lhe resta. Ela é "inamorável", como um amigo costuma dizer. Pegamos partes de sua personalidade de seu convívio com as pessoas.
 

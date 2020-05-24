@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-07-08"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "The Housemaid"
-stars: "4/5"
 ---
 O longa possui algumas reviravoltas que podem soar esquisito à cultura ocidental, mas a base do drama, que são os acontecimentos macabros rodeando a honrada família do professor de piano, criam um clima, se não de tensão, definitivamente macabro e sexy.
 

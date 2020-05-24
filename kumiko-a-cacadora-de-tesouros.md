@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-06-21"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Kumiko, a Caçadora de Tesouros"
-stars: "3/5"
 ---
 Kumiko é uma fábula criada a partir de uma história real (ou pelo menos levemente inspirada em uma pessoa). Embalando uma história impossível em torno de um outro filme sobre uma história impossível (e, este também, baseado em uma história real), Kumiko é uma experiência entusiasmada, embora na maioria das vezes, não tenha lá seus motivos.
 

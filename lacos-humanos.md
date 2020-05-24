@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-10-27"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Laços Humanos"
-stars: "5/5"
 ---
 É até sacanagem querer escrever um pouco sobre Laços Humanos, trabalho impecável de Elia Kazan (que, acabei de descobrir, é seu primeiro longa!). De certa forma, não parece correto apontar virtudes técnicas em um filme que fale direto com o coração. Não é raro para mim assistir filmes que me faça lacrimejar compulsivamente uma ou duas vezes durante a sessão, mas nesse caso o filme inteiro tem algo de mágico e esperançoso, que deixa o espectador com o coração apertado boa parte do tempo.
 

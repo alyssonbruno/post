@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-04-07"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Beleza Adormecida"
-stars: "4/5"
 ---
 Quadros episódicos e geralmente com a câmera parada foram a forma da diretora/roteirista aumentar nossa cumplicidade com a protagonista absoluta Lucy (Emily Browing, de Desventuras em Série e X-Men Primeira Classe). O fato do ritmo do filme ser mais lento não é para que fiquemos com sono, mas que olhemos com mais atenção ao que está acontecendo de fato, e não apenas na superfície. Assim como as paredes invisíveis de Dogville estamos testemunhando essas cenas que poderiam muito bem ter acontecido na vida real, com a diferença que na vida real ninguém ficaria sabendo. A fotografia triste e que ao mesmo tempo evoca um ambiente onírico parece querer dizer que essa realidade, ainda que triste, não pode mudar por causa de seus personagens e não de suas situações.
 

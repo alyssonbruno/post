@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-07-13"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "El Mismo Amor La Misma Lluvia"
-stars: "3/5"
 ---
 Juan José Companella dirige pela primeira vez o casal dO Segredo dos Seus Olhos, Ricardo Darín e Soledad Villamil, em um romance leve, episódico e que brinca com as palavras ao vento que digerimos conforme a passagem do tempo faz as pessoas mudarem sua visão de mundo, assim como uma Argentina dos anos 80 em amplas modificações políticas e sociais.
 

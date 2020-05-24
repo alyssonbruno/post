@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-10-29"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Kids of Töday"
-stars: "3/5"
 ---
 Qual a visão de um crítico musical sobre a música contemporânea de vanguarda? Ou, uma pergunta ainda melhor, o que esse crítico pensa sobre os jovens dessa nova era, tão acomodados a ouvirem músicas de diversas correntes (muitas delas auto-proclamadas futuristas) e se limitarem a apertar o botão Like de seu Facebook?
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-07-02T18:49:16-03:00
-title: "Nenhum a Menos"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Nenhum a Menos"
 ---
 Um filme lindo de superação, baseado em história real e a porra toda. Se passa na China. Começa em um vilarejo e termina na cidade. É uma lição de vida para todos os brasileiros que reclamam da situação precária das escolas.
 

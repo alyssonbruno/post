@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-12-02"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Gonzaga De Pai pra Filho"
-stars: "3/5"
 ---
 "Gonzaga: De Pai pra Filho", do diretor Breno Silveira (2 Filhos de Francisco, O Homem do Ano), é daqueles filmes que emocionam natualmente, sem maquiagens e pelo simples poder do Cinema de transformar em imagem o que já foi imaginado, lido e pensado. Vemos em som e diversas cores o ícone do sanfoneiro Luis Gonzaga, que trouxe, como bem diz o roteiro de Patrícia Andrade, "o sertão esquecido para o resto do Brasil". Há algo de mágico nos momentos que Breno Silveira escolhe compartilhar conosco; algo de solene, quase místico.
 

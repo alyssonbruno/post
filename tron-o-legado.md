@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2018-05-14
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tron: o Legado"
-stars: "3/5"
 ---
 O universo redescoberto pela Disney nesta continuação da saga Tron, que revolucionou em sua época os filmes feitos por computador, demonstra aqui todo o potencial do CGI em um universo não apenas construído essencialmente por computadores, mas rodando dentro de um. Como cult dos anos 80, que revolucionou a computação gráfica na época. Hoje, o uso de televisores 3D e a câmera indo em foco da imagem 2D de um deles pode ser considerada a única revolução desse filme.
 

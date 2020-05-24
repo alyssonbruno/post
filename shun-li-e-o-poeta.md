@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-10-28"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Shun Li e o Poeta"
-stars: "3/5"
 ---
 Shun Li e o Poeta assume que apenas o fato de inserir dois personagens de culturas e povos longínquos em uma terceira nação pudesse significar uma boa história. É possível apreciar a interação entre Shun Li, uma trabalhadora chinesa que assume o controle de um bar na beira do cais de uma cidadezinha litorânea na Itália, com "O Poeta", um pescador local que emigrou da Iugoslávia e que já aposentado começa a repensar sua vida de solteiro.
 

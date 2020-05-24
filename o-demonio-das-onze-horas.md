@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-17T10:19:58-03:00
-title: "O Demônio das Onze Horas"
-
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "O Demônio das Onze Horas"
 ---
 Godard coloca em prática seu objetivo de destruir a linguagem cinematográfica porque é coisa de burguês, mas seu jeito mimado e francês de criticar o establishment vira um tiro pela culatra em filme chato que apenas enfatiza que crianças como ele devem ser mantidas longe da câmera.
 

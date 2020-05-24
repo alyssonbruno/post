@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-08-15"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Free Birds"
-stars: "3/5"
 ---
 Free Birds é um desenho com qualidade técnica discutível e narrativa idem. Suas ideias oscilam entre o divertido e o repetitivo. Seus personagens são quase cópias de outros desenhos. Dito isto, o conjunto da obra mais impressiona por conseguir levar a história do começo ao fim a despeito de todas suas limitações.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-04-01"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Up Altas Aventuras"
-stars: "5/5"
 ---
 Uma produção da Pixar possui, como todo o filme, o(s) nome(s) do diretor. Contudo, a dedicação dos seus produtores e toda a equipe é tamanha que transparece o amor pelo Cinema em cada canto da tela e em cada detalhe técnico de suas produções.
 

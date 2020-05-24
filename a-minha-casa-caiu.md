@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-07-31T20:18:15
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Minha Casa Caiu"
-stars: "3/5"
 ---
 Este é mais um daqueles filmes da safra de filmes sobre mulheres. Mas não é um comrom, e sim uma comédia escrachada sobre os absurdos de uma repórter que deseja o cargo de âncora de um jornal importante da região que até então tinha apenas em seu currículo de gafes ser atacada por gatos.
 

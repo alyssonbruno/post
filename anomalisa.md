@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-31"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Anomalisa"
-stars: "5/5"
 ---
 Este é uma animação que não se anima. O movimento lento de seus personagens e o comportamento robótico de cada situação -- além do próprio maxilar das pessoas denotar isso -- leva a crer que há algo de errado naquele mundo, mas ao mesmo tempo, por se parecer tanto com o nosso mundo, se torna uma comparação estranhamente familiar.
 

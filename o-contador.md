@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-28"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Contador"
-stars: "4/5"
 ---
 O Contador é um filme que se divide em duas metades. A primeira metade é envolvente e possui uma forma de contar histórias de maneira inteligente, embora óbvia. A segunda metade se abstém em servir como catarse para os fãs de filmes de ação e Ben Affleck.
 

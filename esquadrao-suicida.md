@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-08-12"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Esquadrão Suicida"
-stars: "2/5"
 ---
 As músicas deste filme faz com que o que ouvimos se torne infinitamente melhor do que o que vemos (e por "ver" eu quero dizer não só visualmente, mas as situações e os diálogos). Como prêmio de compensação, torna o pacote completo um pouquinho melhor.
 

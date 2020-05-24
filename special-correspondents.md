@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-05-22"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Special Correspondents"
-stars: "3/5"
 ---
 Ricky Gervais arrisca pouco, mas ganha. Special Correspondents tem a cara e o gosto do diretor/roteirista em suas inúmeras comédias (The Office, Derek, Life is Too Short), mas por se tratar de um longa-metragem, evita a batidíssima câmera na mão e tenta criar uma ficção de fato.
 

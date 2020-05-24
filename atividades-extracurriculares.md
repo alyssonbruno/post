@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2011-01-18"
-title: Atividades extracurriculares
 tags: [ "draft",  ]
+title: Atividades extracurriculares
 ---
 Essa é uma resposta a um simpático e-mail de um leitor, o Fabio, me perguntando sobre a tal da lógica (de programação?) e das atividades que um programador pode ter quando está longe do micro para não ficar com a "mente vadiando".
 

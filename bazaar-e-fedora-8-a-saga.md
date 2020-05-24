@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2008-04-29"
-title: 'Bazaar e Fedora 8: a saga'
 tags: [ "draft", "git" ]
+title: 'Bazaar e Fedora 8: a saga'
 ---
 Seria bom se as coisas simples da vida fossem simples, não é mesmo?
 

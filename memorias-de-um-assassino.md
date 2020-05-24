@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-01-01"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Memórias de um Assassino"
-stars: "4/5"
 ---
 Memórias de um Assassino, do diretor Joon-ho Bong (O Hospedeiro, Mother - A Busca Pela Verdade), compreende que a principal faceta de uma investigação pode estar muitas vezes nos próprios investigadores. Apostando em nossa identificação com os detetives Park Doo-Man (Kang-ho Song) e Seo Tae-Yoon (Sang-kyung Kim), investe na dinâmica entre os dois desde até antes que o primeiro chegue na pequena cidade para ajudar as autoridades locais a desvendar o estupro e assassinato de duas bonitas jovens.
 

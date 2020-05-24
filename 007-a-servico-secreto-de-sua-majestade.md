@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-02-01"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "007 A Serviço Secreto de Sua Majestade"
-stars: "5/5"
 ---
 Mais intenso, talvez pela incerteza na troca de Sean Connery por George Lazenby, e já entregando uma trama que mexe na vida pessoal do agente secreto como nunca antes, A Serviço Secreto de Sua Majestade é também um excelente filme de ação, tanto para sua época quanto para agora.
 

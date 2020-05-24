@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-11-04"
+stars: "1/5"
 tags: [ "draft", "series", "animes" ]
 title: "Angel Beats!"
-stars: "1/5"
 ---
 "Não fazer sentido é com a gente!", repete a heroína Ryuko Matoi nos capítulos finais do anime "Kill La Kill", uma série ousada e inteligente, mas que acaba em seus capítulos finais descanbando para o clichê de lutas sem fim. Mesmo assim... pobre Ryuko; mal sabia ela que seria ultrapassada de longe por "Angel Beats!", um trabalho digno de colegiais sem ter o que fazer na hora do recreio, e que une diferentes conceitos em prol da diversão interna desses alunos, pois qualquer tentativa de entender a lógica interna desse universo cairá por terra.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-25"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Porto"
-stars: "3/5"
 ---
 Um romance pode terminar em algo bom ou algo ruim, mas ele sempre será um romance. A montagem de Porto também nos mostra que pedaços de informação não são a mesma coisa que a coisa em si, que pertence apenas aos que viveram o momento. Contando a história de um breve romance de suas problemáticas pessoas, o roteiro do diretor estreante Gabe Kleeman atravessa a questão do final feliz problematizando tanto a questão do ponto de vista quanto a causalidade do mundo que nos leva a concluir um sentido para as histórias a partir do seu final. O que acontece, então, quando enxergamos a série de eventos que fazem parte da vida de duas pessoas sob uma outra ordem? 
 

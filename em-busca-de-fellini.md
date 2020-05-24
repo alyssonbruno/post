@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-11-23T00:35:20
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Em Busca de Fellini"
-stars: "3/5"
 ---
 Em Busca de Fellini é desses filmes que homenageiam grandes diretores tentando extrair um pouco de seu estilo. É claro que o resultado geralmente nunca atinge o brilhantismo do autor original. E nem é pra isso. E como homenagem, o filme de Taron Lexton consegue explorar tantas nuances do diretor italiano que o ponto mais impressionante do projeto é que tanto tempo se passou após seu último filme, e mesmo assim, o sonho da humanidade ainda parece continuar.
 

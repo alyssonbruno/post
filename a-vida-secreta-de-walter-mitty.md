@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-12-26"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Vida Secreta de Walter Mitty"
-stars: "4/5"
 ---
 Uma história batida, com um ator (e diretor) batido, mas com um argumento instigante e um desenvolvimento que fascina desde o começo: a revista Life ("vida") está no seu fim físico, e um dos fotógrafos mais conceituados envia sua obra-prima para o revelador de películas, que faz isso há uns 15 anos, ou seja, revelar as fotos dos lugares e pessoas mais exóticas. Curiosamente, Walter Mitty (Ben Stiller) nunca viajou para qualquer lugar que mereça ser citado em seu perfil online do eHarmony, onde tenta enviar uma "piscada" para sua colega de trabalho (de vista) Cheryl (Kristen Wiig, linda). Coincidentemente, o negativo da foto é perdido, e o único que sabe seu paradeiro está, como sempre, em uma viagem exótica pela Groenlândia, Islândia e o Selvagem Afeganistão.
 

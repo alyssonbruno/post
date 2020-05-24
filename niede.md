@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-27T16:17:15-03:00
-title: "Niède"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Niède"
 ---
 No começo de "Niède" há umas batidas bacanas na trilha sonora, batidas ocas, que não conseguimos discernir de onde poderiam vir, exceto de materiais muito primitivos. Essa batida já começa o filme evocando tempos tão distantes na cronologia humana que sequer ousamos imaginar o que o homo sapiens fazia até então.
 

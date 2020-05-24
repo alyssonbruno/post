@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2015-02-19"
-title: "CCPPBrasil 11 Brasil (Inscrições)"
 tags: [ "draft", "ccppbr" ]
+title: "CCPPBrasil 11 Brasil (Inscrições)"
 ---
 Agora é pra valer!
 

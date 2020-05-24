@@ -1,10 +1,10 @@
 ---
-date: "2020-05-19"
-title: "Conto de Outono"
-stars: "4/5"
 categories: [ "cinema" ]
-tags: [ "draft", "movies" ]
+date: "2020-05-19"
 draft: true
+stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Conto de Outono"
 ---
 É época da colheita de uvas para fazer vinho e este filme de Éric Rohmer fala sobre personagens mais maduros, que já envelheceram o suficiente para saberem exatamente o que querem e terem um gosto mais complexo na boca.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-01-07"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Moana: Um Mar de Aventuras"
-stars: "5/5"
 ---
 É fascinante constatar como os trabalhos anteriores da equipe de criação da Disney servem de pavimento para criações cada vez mais ambiciosas. E aqui o ponto alto de Frozen, quando Elsa se transforma no que sempre foi, vira um simples rascunho da força da música de Maoma, onde ela não apenas identifica (e assume) quem realmente é, mas quem seu povo deve ser. Em ambos é a força do indivíduo que prevalece, mas só na segunda essa força ganha um panorama dentro de uma comunidade, da sua história e tradição e, principalmente, de sua própria sobrevivência.
 

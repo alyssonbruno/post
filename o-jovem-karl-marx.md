@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-10-21T20:06:17
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Jovem Karl Marx"
-stars: "3/5"
 ---
 É muito comum fãs de quadrinhos e livros ficarem ansiosos em ver o resultado das histórias retratadas nesses formatos transpostas para o cinema. E o resultado que mais os agrada geralmente é o mais fidedigno ao conteúdo original. Pois bem: eis que surge este O Jovem Karl Marx, que direto dos livros de escola, retrata um período da História de maneira formal e burocrática, o que não é um defeito se você gostar de História, economia, política ou até filosofia.
 

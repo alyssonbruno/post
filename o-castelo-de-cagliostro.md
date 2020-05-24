@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-25T14:53:23-03:00
-title: "O Castelo de Cagliostro"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "O Castelo de Cagliostro"
 ---
 Esta é a estreia de Hayao Miyazaki na direção. Miyazaki é o fundador dos estúdios Ghibli, responsável por filmes como A Viagem de Chihiro, Meu Amigo Totoro, O Mundo dos Pequeninos, Ponyo, The Wind Rises. Com esse currículo eu não fiquei muito impressionado, mas satisfeito, em constatar que Miyazaki na direção conseguia desde o começo exaltar detalhes na animação com um nível de realismo que constrói um castelo no ar com muito pouco. E ainda assim há poucos cineastas hoje com essa capacidade no olhar.
 

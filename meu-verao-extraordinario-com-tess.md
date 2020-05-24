@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-17"
-title: "Meu Verão Extraordinário Com Tess"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Meu Verão Extraordinário Com Tess"
 ---
 Meu Verão Extraordinário com Tess é uma comédia leve, de amadurecimento, baseada no livro de Anna Woltz que deve ser tão gostoso de ler quanto o verão, fictício ou não, que Sam passou naquela praia.
 

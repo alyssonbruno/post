@@ -1,9 +1,9 @@
 ---
-date: "2020-05-04"
-title: "O Fio da Inocência"
-stars: "4/5"
 categories: [ "cinema" ]
+date: "2020-05-04"
+stars: "4/5"
 tags: [ "draft", "movies" ]
+title: "O Fio da Inocência"
 ---
 Este é um filme atordoante. Ele começa como um drama, mas vai tomando aspectos de thriller, mas nunca perde seu primeiro tom. Esquizofrênico, nos apresenta um personagem carismático, mas olhe de novo e verá outra coisa. Porém, o carisma continua lá em alguma lugar. E isso bate no espectador como um jogo moral difícil de se desvencilhar.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-20"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Munique"
-stars: "4/5"
 ---
 Fotografia escura, personagens quase sempre aparecem na penumbra das janelas e paredes, evidenciando sua característica de "não existirem" oficialmente.
 

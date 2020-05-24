@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-11-23"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Sour Grapes"
-stars: "4/5"
 ---
 Este documentário mostra através de uma narrativa fluida e divertida uma das maiores fraudes na história do vinho. Pegando carona com a bolha de 2008, acompanhamos a história de Rudy Kurniawan, um asiático muito simpático que se inseriu na rodinha de velhos colecionadores de vinho e conseguiu ganhar amigos, fama, e muitos, muitos milhões.
 

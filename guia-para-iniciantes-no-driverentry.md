@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2008-08-11"
-title: Guia para iniciantes no DriverEntry
 tags: [ "draft",  ]
+title: Guia para iniciantes no DriverEntry
 ---
 A mensagem anterior deixou bem claro que tenho um roteiro de leituras bem hardcore a fazer nos próximos 20 anos. Pretendo, enquanto isso, programar alguma coisinha rodando em ring0, porque nem só de teoria vive o programador-escovador-de-bits. Pensando nisso, esse fim-de-semana comecei a me aventurar nos ótimos exemplos e explicações do DriverEntry.com.br, nossa referência kernel mode tupiniquim.
 

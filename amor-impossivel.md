@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-07-02"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Amor Impossível"
-stars: "3/5"
 ---
 A ideia por trás do romance de Paul Torday poderia se sair muito bem como um livro e até, com uma adaptação adequada, um filme. Porém, a tentativa frustrada do diretor Lasse Hallström (Gilbert Grape - Aprendiz de Um Sonhador) e do roteirista Simon Beaufoy (Quem Quer Ser Um Milionário?) esbarra na injustificada tendência em transformar um drama em uma comédia romântica engraçadinha. Aliás, a tentativa de fazer humor com o uso do primeiro-ministro e sua assessora, se funcionam no início, depois se tornam repetitivos e apelativos para dar ênfase ao lado engraçado da narrativa que inexiste na história principal.
 

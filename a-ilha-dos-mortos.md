@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-20"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Ilha dos Mortos"
-stars: "4/5"
 ---
 Em uma introdução ultra-rápida em off, temos o cenário e o resumo do que irá acontecer durante o filme inteiro, em uma síntese cuja forma também será usada por todo a história, mostrando a segurança de Romero em estabelecer as ligações primordiais e avançar ideologicamente em pontos mais aprofundados do tema "mortos-vivos".
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-26"
-title: "O Que Arde"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "O Que Arde"
 ---
 É um sentimento profundo, que vai além da razão, testemunhar uma floresta ser devastada. Árvores caindo ao movimento de um trator e a fumaça denunciando um incêndio não muito longe dali marcam o início de O Que Arde, terceiro filme do diretor Santiago Fillol escrito pelo seu parceiro usual, Oliver Laxe, e ambos não deixam fácil extrair algum significado disso tudo.
 

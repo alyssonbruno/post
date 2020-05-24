@@ -1,8 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-03T10:33:26-02:00
-title: "Mulheres Cineastas No Cinema"
 tags: [ "draft", "lists" ]
+title: "Mulheres Cineastas No Cinema"
 ---
 Sempre por detrás das câmeras, os cineastas raramente se tornam famosos para o grande público. Apenas os cinéfilos mais antenados para dar atenção a quem dirige o filme, e mais raro ainda é encontrar alguém que sabe quem escreveu o roteiro. Isso contribui para que as diretoras mulheres, uma minoria que vem crescendo nos últimos anos, fiquem mais esquecidas ainda. Pense comigo: o público está acostumado a ver mulheres (e homens) como atrizes (e atores) interpretando seus personagens favoritos, mas dificilmente se lembra que os diretores e diretoras dos filmes possuem também gênero (não que isso importe).
 

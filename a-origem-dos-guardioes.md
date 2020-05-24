@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-12-06"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Origem dos Guardiões"
-stars: "4/5"
 ---
 Quando o desenhista de story boards Peter Ramsey (Drácula de Bram Stoker, Adaptação) decide criar uma animação que aborda os ícones infantis de maneira não convencional o que temos é uma aventura belíssima pelo seu design, embora peque pela falta de profundidade em seus personagens, o que torna toda a experiência aquém do seu verdadeiro potencial.
 

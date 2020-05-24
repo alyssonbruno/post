@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-03-15"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Tigre e o Dragão"
-stars: "5/5"
 ---
 Muitos fãs de artes marciais torceram o nariz na época em que O Tigre e o Dragão foi lançado. Na visão deles, o fato das pessoas "voarem" tirava toda a realidade da história. Muitos perderam a noção de que sempre existe uma metamorfose entre a história e o seu narrador. Quando falamos de uma história milenar, são tantas gerações no caminho, que torna-se fácil achar tudo exagerado e absurdo.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-07-22"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Old Boy"
-stars: "5/5"
 ---
 Quando o filme inicia, temos um breve momento com o futuro Dae-su Oh (Min-sik Choi) durante um curioso diálogo com um homem que parece depender do protagonista para manter-se vivo. A conversa aparece cortada no meio, e boa parte da história parece seguir a mesma lógica. Quando voltamos um indeterminado período de tempo, somos apresentados a um irreconhecível, mulherengo e causador de problemas Dae-su. Se descontrolando diversas vezes enquanto aguarda em uma delegacia com seu amigo, mal conseguimos relacionar o pedaço de homem que vemos com sua versão mais velha, cansada e, o mais importante de tudo, determinada.
 

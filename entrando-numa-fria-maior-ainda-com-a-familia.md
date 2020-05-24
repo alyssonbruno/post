@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-07-01"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Entrando Numa Fria Maior Ainda com a Família"
-stars: "3/5"
 ---
 Filme um pouco mais recatado que os outros da série, traz piadas mais contidas, um senso mais família, com De Niro no automático e Ben Stiller pouco inspirado em suas caretas.
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-21"
-title: "Eu Prometo Ser Sensato"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Eu Prometo Ser Sensato"
 ---
 No começo de Eu Prometo Ser Sensato testemunhamos o último desastre de Franck, um diretor de teatro completamente fora de controle. Não é uma situação engraçada, mas trágica, para o elenco, o público e ele mesmo. E este ironicamente é o resumo do filme inteiro de Ronan Le Page: sem sentido, sem paixão e sem controle. Não há nada neste filme que você irá sentir falta quando ele acabar.
 

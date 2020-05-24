@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-06-15"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Face do Mal"
-stars: "4/5"
 ---
 O que faz um terror eficiente? Uma história convincente ou sustos convincentes? No caso de A Face do Medo, seus sustos pré-adolescentes com cortes bruscos e o volume do som aumentado é tão descartável quanto qualquer outro filmeco de terror do nosso tempo, assim como os efeitos digitais tão bonitos que perdem sua razão de existir. Porém, sua história nos convida a olhar para o sobrenatural como uma possibilidade mais aterrorizante do que os próprios fantasmas que rondam uma casa recém-habitada por uma família (e lá vamos nós para o clichê).
 

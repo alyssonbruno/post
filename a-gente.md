@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-09-05T17:32:54
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Gente"
-stars: "4/5"
 ---
 Um bom resumo para o inusitado "A Gente", que chega quatro anos atrasado aos cinemas, é: a história de um carcereiro competente demais para o cargo. Tão competente que virou cineasta, e aqui volta à sua antiga profissão, além de dirigir, roteirizar, filmar, montar e produzir o documentário, demonstrando (mais uma vez) a situação muitas vezes insalubre com que os agentes penitenciários trabalham, e concluindo uma trilogia pessoal do cineasta.
 

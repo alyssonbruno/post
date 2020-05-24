@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-09-15T21:13:15
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Onde Está Segunda?"
-stars: "2/5"
 ---
 Hoje em dia até os títulos dos filmes encomendados pela Netflix são ruins. E nesse caso não há erro: esse filme é muito ruim. Não ruim de trash (para se divertir), nem ruim de estilo (para ficar com ódio). Ruim de você não sentir nada, mesmo.
 

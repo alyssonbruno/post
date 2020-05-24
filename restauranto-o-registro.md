@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2010-02-08"
-title: Restaurando o registro
 tags: [ "draft",  ]
+title: Restaurando o registro
 ---
 Algumas ferramentas viram essenciais quando o importante é tempo. As minhas favoritas são: Visual Studio e batch. Com esses dois eu faço virtualmente qualquer coisa que preciso em pouquíssimo tempo. É lógico que, na ausência dessas, alternativas são bem-vindas, como Notepad++, viM, grep, cygwin.
 

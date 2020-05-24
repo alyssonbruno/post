@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-07-28"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Regular Show"
-stars: "3/5"
 ---
 Regular Show consegue contar seus episódios em apenas dez minutos. Isso em uma história quase sempre dotada de uma criatividade sem limites onde figuras impossíveis surgem para finalizar as piadas com o toque final do absurdo necessário para finalizar histórias como essa. Confuso, mas é sempre assim.
 

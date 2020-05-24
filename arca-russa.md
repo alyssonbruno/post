@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-03-28"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Arca Russa"
-stars: "3/5"
 ---
 Arca Russa é uma experiência que, como cinéfilos que somos, devemos assistir para aprender o que uma técnica como o plano-sequência consegue em termos de narrativa.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-18"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Refém da Paixão"
-stars: "3/5"
 ---
 Kate Winslet e Josh Brolin são atores tão competentes que "Refém da Paixão" sai quase ileso de seu formato drama enlatado com situações previsíveis para tornar tudo um pouco mais tenso. Até Gattlin Griffith, que faz o jovem Henry, e que quando adulto é narrado por Tobey Maguire, consegue um desempenho interessante, e talvez tenha dado a sorte de pegar o personagem mais ou menos acompanhável. No entanto, a mãe amargurada Adele (Winslet) e o bom homem preso injustamente Frank (Brolin) são funções ingratas da dupla de atores veteranos, pois uma vez estabelecidos os estereótipos, eles nunca mudam.
 

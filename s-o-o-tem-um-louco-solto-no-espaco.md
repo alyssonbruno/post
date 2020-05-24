@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-01-23"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "SOS Tem um Louco Solto no Espaço"
-stars: "4/5"
 ---
 Entendendo o ridículo em potencial da saga idolatrada de George Lucas (Star Wars, para quem não sabe), a história de Spaceballs contém o mesmo pano de fundo só que trazendo à tona o mesmo padrão já visto centenas de vezes: uma princesa sequestrada, um casamento forçado, o anti-herói que se torna digno de seu amor e por aí vai a valsa. Economizando o personagem de Luke Skywalker colocando-o no papel do próprio anti-herói (o alter-ego de Hans Solo) fica fácil enxergar que já há gorduras no próprio roteiro do filme original.
 

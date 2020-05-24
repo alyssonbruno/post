@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-08-16"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Bronies The Extremely Unexpected Adult Fans of My Little Pony"
-stars: "3/5"
 ---
 Fiquei curioso a respeito desses fãs adultos de My Little Pony por dois motivos: primeiro um amigo meu (adulto, até mais velho) confessou sua adoração pelo desenho dos pôneis fofinhos. Ele assistiu pela primeira vez por conta de seu filho, mas ele mesmo conseguiu enxergar virtudes inimagináveis em um desenho para crianças. O segundo fato foi o lançamento da Netflix de um filme que já nomeia essa comunidade inusitada em um título à altura com "Bronies: The Extremely Unexpected Adult Fans of My Little Pony", o que praticamente explica todo o teor deste documentário de Laurent Malaquais (Men from Nowhere).
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-25"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Ascent"
-stars: "4/5"
 ---
 Aviso: este filme é na verdade um foto-film experimental. Ou seja, ele é constituído de uma série de fotografias, e tem uma narração em off. Alguns filmes na história do Cinema se saíram fabulosamente bem com esse estilo (como A Pista/La Jetée, curta que inspirou o longa de sci-fi Os 12 Macacos, de Terry Giliam).
 

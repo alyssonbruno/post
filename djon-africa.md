@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-07T14:18:19-03:00
-title: "Djon Africa"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Djon Africa"
 ---
 Djon Africa oferece ao espectador médio em sua camada principal, a "historinha", a aventura de Djon em busca de suas origens, em busca do pai. Mas apesar da atuação curiosamente familiar de Bitori Nha Bibinha em uma busca eterna não é isso o que torna o filme fascinante; é o que vem depois.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-12-10T14:11:47
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Batman: O Retorno"
-stars: "3/5"
 ---
 O tom gótico e fantasioso de Batman é algo a se considerar quando tentamos enxergar a lógica por trás dessas adaptações de Tim Burton para o Cinema. A nossa mente suscetível ao fantástico pode querer interpretar criaturas como Mulher-Gato ou Pinguim como criações semelhante a Homem-Aranha. Mas não se engane: são distúrbios psicológicos inseridos em uma distopia randiana onde os melhores são os piores. A máxima "dog eats dog" gera aberrações como Joker, Catwoman, Penguim e, claro, o Homem-Morcego.
 

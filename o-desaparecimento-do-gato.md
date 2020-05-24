@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-10-24"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "El gato desaparece"
-stars: "4/5"
 ---
 Diferente da ótica tão comum nos filmes de encarar a loucura como uma doença trágica, Carlos Sorín dedica seus esforços em sua nova película para entreter o espectador e deixá-lo ver com seus próprios olhos que a loucura, de uma maneira geral, pode estar em todos nós, da maneira mais corriqueira e cotidiana que for. De maneira brilhante, O Desaparecimento do Gato consegue transmitir essa sensação através de inúmeras facetas.
 

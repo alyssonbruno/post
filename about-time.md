@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "About Time"
-stars: "3/5"
-
 ---
 Uma comédia romântica, ou até mesmo um romance, hoje se pauta mais em seus personagens do que sua narrativa. Até grandes títulos desses gêneros -- como Harry e Sally ou filmes do Woody Allen -- não são nada originais em seu desenvolvimento e, principalmente, seu desfecho. Porém, como não amar personagens tão carismáticos às vezes criados por performances memoráveis e falas idem?
 

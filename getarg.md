@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: 2018-08-30T14:41:33-03:00
-title: "GetArg: the ultimate badass argv/argc parser"
 tags: [ "draft",  ]
+title: "GetArg: the ultimate badass argv/argc parser"
 ---
 Sim, eu acho que já resumi o suficiente meu parseador de argv/argc no meu último artigo sobre o tema. Sim, eu também acho que a versão com STL bonitinha (mas ordinária). A questão agora não são as dependências, mas o uso no dia-a-dia: precisa ter o argc nessa equação?
 

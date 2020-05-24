@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
-date: "2014-11-09"
-tags: [ "draft", "movies" ]
 count: 2
-title: "O Livro da Vida"
+date: "2014-11-09"
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "O Livro da Vida"
 ---
 Essa é a estreia em longas do diretor Jorge R. Gutierrez, que já trabalhava no setor de animação e foi escalado pelo produtor Guilhermo del Toro para contar uma lenda mexicana através de uma história que usa duas camadas: a guia de um museu decide "ensinar uma lição" a um grupo de crianças por serem... mimadas? Não ficou muito claro o objetivo dessa ideia, que nem é tão relevante para a história, exceto em algumas intervenções aqui e ali.
 

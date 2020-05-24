@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-01-17"
+stars: "4/5"
 tags: [ "draft", "series", "animes" ]
 title: "One Punch Man: Wanpanman"
-stars: "4/5"
 ---
 One Punch Man pode muito bem ser uma série de uma piada só. E ela está no título. Entre todos os poderosos heróis que salvam cidades com nomes do alfabeto e de todas as criaturas malignas das profundezas da Terra, Saitama é uma pessoa comum que decidiu ser um herói por diversão. Ele treinou muito. Não, você não entendeu: ele treinou muito mesmo. Tanto que é o mais poderoso dos heróis, mesmo que ninguém acredite nele. Seu maior poder? Um soco. O homem de apenas um soco.
 

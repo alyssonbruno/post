@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-12-15"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Lamento"
-stars: "3/5"
 ---
 O Lamento é um terror coreano, e só essa descrição seria o suficiente para chamar a atenção de qualquer fã de terror que se preze. Afinal de contas, terrores asiáticos já são de praxe as melhores fontes de medo humano, e geralmente vem acompanhados de lendas sempre um pouco pesadas demais, como se pode comprovar através de "O Chamado", "Espíritos - A Morte Está ao Seu Lado", "Medo", e "O Hospedeiro" (que é muito mais um drama).
 

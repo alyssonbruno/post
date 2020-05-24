@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-12-16"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Fabuloso Destino de Amélie Poulain"
-stars: "5/5"
 ---
 A edição em Blu-Ray dO Fabuloso Destino de Amélie Poulain é uma pequena jóia. A qualidade da imagem do filme é impresionante. Todos os detalhes que faz qualquer cinéfilo de carteririnha vibrar estão lá: fotografia, direção de arte, trilha sonora. Com uma TV decente o Home Video pode te entregar (quase) a mesma sensação de ter participado de uma das sessões mágicas em que esse filme foi exibido.
 

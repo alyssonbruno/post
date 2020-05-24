@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-10-21"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Lado a Lado"
-stars: "3/5"
 ---
 Lado a Lado coloca a questão do formato digital no cinema exatamente como defende o título: uma alternativa para a arte que, assim como o colorido, o som e o 3D, talvez tenha ganho não uma ameaça, mas uma ferramenta.
 

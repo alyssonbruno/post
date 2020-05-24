@@ -1,8 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-07"
-title: "Seleção de Filmes da 43a MostraSP"
 tags: [ "draft", "events", "lists" ]
+title: "Seleção de Filmes da 43a MostraSP"
 ---
 Foi divulgada a lista dos filmes para a mostra desse ano. Já conheço alguns diretores por filmes anteriores.
 

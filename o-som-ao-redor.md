@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-01-14"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Som ao Redor"
-stars: "4/5"
 ---
 O Som ao Redor não é o tipo de filme que a gente consiga descobrir através da sua história qual o tema e a opinião do diretor sobre o que ocorre na tela. A coisa toda está mais como um espelho, onde nossa observação dos fatos e a sua interpretação  sobretudo moral  é que irá inserir um significado. Mesmo assim, dadas as devidas proporções, todo filme possui essa liberdade de interpretação. Do contrário, nem existiria crítica, pois todas as respostas estariam no filme, e não haveriam perguntas.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-11-27T19:05:55
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Visages, Villages"
-stars: "3/5"
 ---
 Visages, Villages é um filme fácil de assistir. Se trata de um documentário road-movie com um artista jovem cuidando do projeto de uma artista experiente. Ambos se respeitam e estão juntos pelo mesmo objetivo: viver.
 

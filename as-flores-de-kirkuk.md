@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-10-25"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "As Flores de Kirkuk"
-stars: "3/5"
 ---
 A aparente originalidade desse filme situado na história do Iraque sob o comando do ditador Saddam Hussein, que promoveu uma matança de povos que não apoiavam seu regime, reside no seu diretor italiano e em sua estrutura formulaica, que lembra romances novelescos, mas que aparece erroneamente embutido em uma atmosfera de drama e desolação.
 

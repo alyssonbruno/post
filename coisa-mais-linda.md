@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-04-15T23:59:50-03:00
-title: "Coisa Mais Linda"
-
-tags: [ "draft", "series" ]
 stars: "3/5"
+tags: [ "draft", "series" ]
+title: "Coisa Mais Linda"
 ---
 Essa é uma série brasileira vintage que se passa em um Rio de Janeiro que parece feito em computador, com fundos de cenários que se parece com a lista de papéis de parede do Windows, com filtros exagerados que lembram a primeira vez que a TV Globo botou as mãos em full hd e com aquele saudosismo dos anos 90 a respeito dos anos 50.
 

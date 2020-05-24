@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-01-05"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Assassina"
-stars: "4/5"
 ---
 Esta é uma dica para os fãs de adaptações live-action de animes, para os fãs de filmes de lutas marciais sem sentido e para os fãs da cultura milenar do Oriente. A estilização por si só gera resultados bonitos, impressionantes e que entretem momentaneamente. É seguindo a contramão que A Assassina estiliza seu retrato perene de um momento na história da China para atingir não a beleza pela beleza, mas a introspecção do espectador em um mundo que não existe mais, mas que em algum momento do tempo era vívido, colorido e rico nas mentes das pessoas.
 

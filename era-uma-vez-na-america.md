@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-04-02"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Era Uma Vez na América"
-stars: "5/5"
 ---
 Esse é o filme que o diretor Sergio Leone escolheu fazer em vez da proposta da Paramount para que ele dirigisse O Poderoso Chefão. Baseado no romance The Hoods, de Harry Grey, ele tentou convencê-lo a filmar por muito tempo, até que Grey cedeu após assistir a Trilogia dos Dólares (e gostar). Ambos passaram mais de uma década conversando para que o diretor conseguisse entender o espírito norte-americano através dos olhos do escritor. A longa produção gerou seis horas de filmagens (já editadas) que foram recusadas pela produtora e viraram 4 horas e meia, que em sua versão para os EUA foi ironicamente mutilada em 139 minutos. Este texto diz respeito à versão lançada em Cannes, com 229 minutos de duração, e facilmente encontrada no aplicativo Popcorn Time.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-07-31"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Apenas o Fim"
-stars: "3/5"
 ---
 Geralmente as condições em que ocorrem a produção de um filme não importam muito, e servem somente a título de curiosidade. Nesse caso, o diretor (e roteirista?) Matheus Souza, estudante de cinema ainda, conseguiu com a ajuda dos colegas o dinheiro necessário para realizar este longa ainda com 19 anos, o que se tornou um exercício de cinema no mínimo competente.
 

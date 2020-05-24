@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-06-11"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Plano B"
-stars: "2/5"
 ---
 O produtor e diretor de TV Alan Poul resolve fazer este seu único longa para o Cinema que se transforma em uma mesmice sem tamanho. E olha que em questão de comédias românticas, mesmice já é a regra.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-08T20:47:51-02:00
-title: "Homem Livre"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Homem Livre"
 ---
 Durante praticamente toda a duração de Homem Livre um pensamento inquieto não deixava de passar pela minha cabeça: quem diabos respeita alguém chamado Hélio Lotte? Bom, Hélio foi um músico famoso com esse nome, o que já levanta suspeitas de que há algo errado nesse filme. Depois descobrimos que ele cometeu um assassino e saiu aparentemente intacto da prisão. Ou seja, sem traumas sexuais. Eu nunca esperaria tamanha dignidade de um Hélio Lotte.
 

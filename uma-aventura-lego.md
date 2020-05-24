@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-03-03"
 review: [ "2015", "2016", "2019" ]
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Uma Aventura LEGO"
-stars: "5/5"
 ---
 Eis um filme que constrói sua história em um universo de bonecos e peças montáveis que juntos somam todos os clichês possíveis e imagináveis do gênero aventura. Partindo dessa premissa tímida para um filme onde "Tudo é Incrível" talvez seja pretencioso demais, mas não para um ser cheia de sonhos, medos e desejos que se misturam para contar uma história jamais vista: a que sai da cabeça de uma criança.
 

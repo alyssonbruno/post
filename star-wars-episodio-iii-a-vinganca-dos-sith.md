@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-06-12"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Star Wars Episódio III A Vingança dos Sith"
-stars: "4/5"
 ---
 A impressão que temos ao assistir o último capítulo da nova saga criada por George Lucas é que este preparou os dois filmes iniciais tão somente para ter a chance de produzir este terceiro, tamanho o peso narrativo que o diferencia dos seus iguais.
 

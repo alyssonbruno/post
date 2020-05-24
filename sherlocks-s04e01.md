@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-04-07"
+stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Sherlock - A Noiva Abominável"
-stars: "5/5"
 ---
 Como li em algum lugar, ser fã da série Sherlock é aguardar ansiosamente por um ano três episódios que terminam em um fim-de-semana. Depois disso, mais um ano (ou dois) de espera interminável.
 

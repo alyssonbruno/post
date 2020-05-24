@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-05-30"
+stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Tal Mãe, Tal Filha"
-stars: "2/5"
 ---
 Tal Mãe, Tal Filha supostamente é uma comédia, mas há poucos momentos em que peguei dando risada. Por outro lado, houve vários momentos que observei, atônito, o quão baixo uma comédia consegue ir. E mesmo assim não funcionar.
 

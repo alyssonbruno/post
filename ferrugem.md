@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-08-27T16:41:25-03:00
-title: "Ferrugem"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Ferrugem"
 ---
 Ferrugem tem a ambição de tratar de um tema sensível, mas ele o faz de maneira tão sutil que sua mensagem se perde na tradução. Sua produção está equivocada, pois torna seus cenários tão higienizados que o resultado é um melodrama esquecível antes que sua segunda parte termine.
 

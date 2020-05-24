@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-14"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Mais Forte que o Mundo: A História de José Aldo"
-stars: "4/5"
 ---
 Este é um filme que se apaixona por várias coisas ao mesmo tempo. Em algumas delas há sempre o risco de ter ido longe demais. Em outras é o praticamente essencial para a história que está sendo contada.
 

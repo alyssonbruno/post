@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-11T15:05:12-03:00
-title: "Cães de Aluguel"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Cães de Aluguel"
 ---
 Há uma entrevista no Blu-Ray do filme em que Michael Madsen (Mr. Blonde) comenta quando Kirk Baltz (policial Marvin Nash) pediu para colocá-lo no porta-malas do carro de Madsen e dar uma volta no quarteirão para estudo de personagem (o personagem de Baltz entraria em cena saindo desse porta-malas). Madsen concorda. O carro usado no filme é dele, mesmo. Ele sai pelo quarteirão, coloca uma música no rádio e se empolga. Roda várias quadras além do quarteirão. Para em um Taco Bell. Pede um lanche e um refrigerante. "Sem fritas", confessa, não querendo inventar nenhuma mentira. Ele aumenta o som do rádio para que os gritos de Baltz não chamassem a atenção e alguém ligasse para a policia. Ele come o lanche e volta ao set, abrindo finalmente o porta-malas. Madsen diz: "Se filmássemos naquele momento, com a cara que ele fez ao sair, teria sido muito melhor". Provavelmente seria. Mas o que importa perceber aqui não é o perfeccionismo com que algumas cenas poderiam ficar, mas como os atores já estavam envolvidos até os ossos nesse projeto antes mesmo de começar.
 

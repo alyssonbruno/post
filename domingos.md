@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
-title: "Domingos"
-stars: "4/5"
 date: "2011-11-28"
+stars: "4/5"
 tags: [ "draft", "movies" ]
+title: "Domingos"
 ---
 Parafraseando o Chefe Gusteau de Ratatouille, "qualquer um pode dirigir", ou seja, o bom diretor pode vir de qualquer lugar. Dessa vez veio de Maria Ribeiro, a Rosane esposa do Capitão Nascimento em Tropa de Elite, que faz aqui um apanhado brilhante de gravações, depoimentos e tomadas capturadas durante o convívio com o cineasta Domingos de Oliveira que buscam ilustrar e homenagear a pessoa e o diretor/ator/roteirista, ao mesmo tempo que mostra seus inúmeros trabalhos no cinema e teatro.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-03-05"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Logan"
-stars: "4/5"
 ---
 O diretor e roteirista James Mangold apresenta um fechamento de personagem que soa estranho aos fãs da Marvel mais coloridos e menos afoitos com a dura realidade da vida: pessoas morrem nesses filmes.
 

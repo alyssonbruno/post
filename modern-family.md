@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-08-04"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Modern Family - Primeira Temporada, Episódios 1 ao 5"
-stars: "3/5"
 ---
 Família Moderna é uma série que explora justamente o conceito que seu título sugere. Há um casal gay que adota uma criança estrangeira, há a imigrante nova que casa com o velho rico, que tem um filho que é mais maduro que o próprio velho. Há o casal americano padrão -- para preencher a cota, supostamente -- e basicamente é isso. Engraçadinho, sitcom, não sabemos se a ideia era retirar estereótipos ou reafirmá-los. Ou talvez tirar sarro de quem considera isso a vanguarda.
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-28"
-title: "Romeu + Julieta"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Romeu + Julieta"
 ---
 Leonardo Di Caprio e Claire Danes se beijam muito nessa adaptação cinematográfica de Shakespeare que faz cair a ficha do que era esta peça na época do dramaturgo: um romance adolescente que desperta as rixas de duas tradicionais famílias.
 

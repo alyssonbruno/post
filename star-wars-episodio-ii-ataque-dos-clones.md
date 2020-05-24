@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-05-29"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Star Wars Episódio II Ataque dos Clones"
-stars: "5/5"
 ---
 A República começa a perder a força, e o desespero pela resolução da crise no Senado faz com que forças especiais sejam entregues ao Chanceler Palpatine. Como podemos ver, a história caminha em ritmo adequado para o ponto de encontro com o antes chamado Guerra nas Estrelas e rebatizado para Episódio IV.
 

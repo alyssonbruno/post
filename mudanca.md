@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2011-02-07"
-title: Mudança
 tags: [ "draft",  ]
+title: Mudança
 ---
 
 Desde que comecei a programar profissionalmente, lá por volta de 2001, sempre estive envolvido com uma ou duas empresas de Segurança da Informação, na época uma promissora carreira, com direito a hacking, engenharia reversa e outras diversões. Até programar por programar valia!

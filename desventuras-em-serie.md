@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-11-29"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Desventuras em Série"
-stars: "4/5"
 ---
 Ninguém escuta as crianças. Essa é a premissa básica que torna possível toda a série de situações mortais em que três jovens órfãos ficam à mercê de um cruel parente distante em busca da herança dos afortunados Baudelaire.
 

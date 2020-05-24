@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-10-24"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Circle"
-stars: "4/5"
 ---
 Circle é um trabalho minimalista que resume o sistema de votos através de uma alegoria simplista, mas eficiente: alienígenas adbuzem 50 pessoas e as colocam dispostas em um círculo. Elas não podem sair de seus lugares nem tocar as pessoas ao lado, pela pena de serem mortas por um raio que sai do meio do círculo. Ah, mais um detalhe: de tempos em tempos uma pessoa é morta, escolhida através de todos.
 

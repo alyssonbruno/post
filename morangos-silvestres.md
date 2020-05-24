@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-01-05"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Morangos Silvestres"
-stars: "4/5"
 ---
 Os filmes de Ingmar Bergman tem um efeito hipnótico que é difícil se desvencilhar. Pelo menos para mim. Todo filme que assisto dele, quase morro de sono.
 

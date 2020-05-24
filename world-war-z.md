@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-09-23"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "World War Z"
-stars: "4/5"
 ---
 Mais um filme de zumbi? Sim e não. World War Z está mais para o primeiro filme empolgante de fato sobre uma epidemia mundial. Estrelado por Brad Pitt, esse filme de catástrofe consegue chamar a atenção quase todo o momento, seja para seu lado bom ou ruim.
 

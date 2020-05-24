@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2018-12-30
+stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Westworld S02 E01-02"
-stars: "4/5"
 ---
 Estava com saudade de voltar a escrever sobre Westworld. Agora comecei a ver a segunda temporada, os dois primeiros episódios, já que a temporada acabou. É curioso como o jogo de expectativas não funciona muito bem com uma série que praticamente arrasou logo em sua primeira temporada, que merece ser vista e revista algumas vezes. No entanto, é preciso ser mente aberta para aos poucos compreender o que os criadores da série pretendem.
 

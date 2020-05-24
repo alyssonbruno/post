@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-04-14"
+stars: "5/5"
 tags: [ "draft", "series", "animes" ]
 title: "Madoka Magica"
-stars: "5/5"
 ---
 A revisita a este animê que para mim ainda é meu favorito -- pela originalidade e pela fuga do lugar-comum e dos roteiros fáceis que a maioria das adaptações dos quadrinhos japoneses são submetidos -- foi feita em apenas uma noite. Mais de quatro horas depois posso reafirmar com convicção: é uma obra ousada para seu formato tanto em história quanto na direção/edição/arte. Desafia o espectador a esquecer os detalhes centrais de uma história que vai se abrindo muito lentamente, e sua força é sentida exatamente por esse cuidado em cada detalhe.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-02-12"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota Dinamarquesa"
-stars: "3/5"
 ---
 Quantas vezes uma pessoa aguenta receber o diagnóstico errado do problema de sua vida e perceber que está apenas se enganando em um mundo que não está pronta para recebê-la?
 

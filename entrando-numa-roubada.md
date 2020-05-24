@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-08-23"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Entrando Numa Roubada"
-stars: "3/5"
 ---
 Uma comédia mista, cuja criatividade consegue protagonizar pelo menos um momento icônico (no deserto), está cheio de galhofas pretensiosas envolvendo filmes de faroeste Sergio Leoleano espalhadas em uma história que diverte pelo seu elenco, mas falha lamentavelmente no drama que procura mesclar e substituir o humor.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-08-09T23:43:21
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Jantar"
-stars: "4/5"
 ---
 O Jantar é um filme difícil de ver. Ele é tenso, coloca seus nervos à flor da pele, discute temas difíceis e ainda por cima possui um elenco afiado em encarnar personagens difíceis de engolir em uma discussão de fachada que revela mais sobre o espectador que está assistindo do que sobre aquelas pessoas tentando encontrar consenso onde não existe nenhum.
 

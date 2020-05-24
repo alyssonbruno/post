@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-02-27"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Deadpool"
-stars: "4/5"
 ---
 A fórmula Marvel de produzir super-heróis enlatados é tão maldita que só um filme como Deadpool, que brinca com toda a produção desses mesmos enlatados, para conseguir se desvencilhar, ainda que parcialmente, dos seus outros filmes lançados a balde.
 

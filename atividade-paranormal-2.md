@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-11-07"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Atividade Paranormal 2"
-stars: "3/5"
 ---
 Assim como o primeiro filme, essa continuação tenta passar a impressão documental através de uma mensagem da produtora agradecendo os envolvidos pelas cenas que veremos a seguir. Apesar desse aviso deixar sua devida pulga na orelha, não é uma solução que por si só baste, dependendo principalmente da competência da narrativa em introduzir a sensação de que o que estamos vendo são filmagens realizadas de forma caseira e que relatam acontecimentos verdadeiramente inexplicáveis.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-10"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Enterrado vivo"
-stars: "4/5"
 ---
 O trabalho final em cima de um filme de um cenário só evoca uma trilha de suspense dos anos 60, além de ter seu design gráfico lembrando pequenos caixões que vão descendo a tela.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-12-17"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Quatro Amigas e um Casamento"
-stars: "3/5"
 ---
 Parece que a "moda" iniciada por Missão Madrinha de Casamento (Paul Feig, 2011) está gerando seus primeiros frutos. Esse "Quatro Amigas..." possui o que faltava nas comédias românticas e que pode reinventar o gênero nos próximos anos: mulheres independentes e protagonistas.
 

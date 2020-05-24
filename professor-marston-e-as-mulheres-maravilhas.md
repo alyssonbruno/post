@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-17"
-title: "Professor Marston e as Mulheres-Maravilhas"
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "Professor Marston e as Mulheres-Maravilhas"
 ---
 Este é um filme que não entende muito bem seu papel no mundo. Ele quer afirmar que não há nada de errado em um pai e duas mães constituírem família, mas toda essa compreensão sobre formas diferentes de amar não serve para compreender que o resto do mundo não é mal, mas apenas vive em sua própria época, seguindo seus próprios valores.
 

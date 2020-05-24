@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-07-02T18:46:29-03:00
-title: "Jornada da Vida"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Jornada da Vida"
 ---
 Omar Sy já é considerado um deus na França e um ator de sucesso no mundo todo. Em Jornada da Vida ele interpreta ele mesmo em uma versão chapada, contemplativa, que quer ser aquele protagonista em busca de suas origens, mas sem o peso das decisões dos seus antepassados.
 

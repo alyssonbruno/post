@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-12-09"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "The Pleasure Garden"
-stars: "4/5"
 ---
 Alfred Hitchcock começou sua carreira no cinema como desenhista de intertítulos, os letreiros de falas que aparecem quando um personagem diz algo importante nos filmes mudos. Este é seu primeiro filme longo na direção depois que as pessoas o notaram em seu curta-metragem Always Tell Your Wife. E para surpresa dos que dizem que este é o século das adaptações, a história do filme foi baseado em um romance.
 

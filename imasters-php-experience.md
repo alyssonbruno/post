@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: 2018-03-05T23:59:15-03:00
-title: "iMasters PHP Experience"
 tags: [ "draft", "events" ]
+title: "iMasters PHP Experience"
 ---
 Meu primeiro post no blog sobre PHP. Já programei alguma coisinha no passado e meu amigo Strauss fez o blogue dele todo em php, do zero. Sim. Programador de verdade ele.
 

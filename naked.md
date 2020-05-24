@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-08-14T20:48:15
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Naked"
-stars: "1/5"
 ---
 É possível imaginar que este seria um dos primeiros filmes da Netflix cujo roteiro está mais próximo de ter sido feito por Machine Learning do que por roteiristas humanos. Ele é esquemático, usa fórmulas antigas, consagradas ou comentadas por décadas. Apela para movimentos de câmera fáceis, sem construção de cena. A ação está toda pronta já em trabalhos como GTA. E GTA é "apenas" um video-game.
 

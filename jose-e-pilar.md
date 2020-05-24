@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
-date: "2010-11-05"
-tags: [ "draft", "movies" ]
 count: 2
-title: "José e Pilar"
+date: "2010-11-05"
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "José e Pilar"
 ---
 Este é um documentário que conta, com imagens caseiras e inusitadas em eventos públicos, os últimos anos do escritor português ganhador do prêmio Nobel José Saramago e sua esposa, Pilar. Por meio de uma semi-intrusão na vida alheia do casal, acompanhamos as viagens que ambos fizeram pelo mundo afora após ele ter ganho o prêmio.
 

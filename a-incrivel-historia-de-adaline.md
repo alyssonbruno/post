@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-11"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Incrível História de Adaline"
-stars: "3/5"
 ---
 A premissa por trás de "Adaline" é muito interessante, como toda ficção científica bem imaginada costuma ser. O filme, aliás, possui diversos pontos altos em sua história. Porém, o novelão romântico ao qual ele se entrega não deixa de incomodar durante todo o tempo, fazendo com que uma experiência fascinante vá aos poucos nos lembrando das velhas fórmulas de fazer romance com um drama genérico.
 

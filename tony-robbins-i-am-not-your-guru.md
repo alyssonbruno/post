@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-03-15"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tony Robbins: I Am Not Your Guru"
-stars: "3/5"
 ---
 Tony pode não ser nada diferente do clichê daqueles vendedores de aulas de auto-ajuda, daqueles que apresentam uma nova forma de terapia que une um pouco da psicologia que funciona (e não a que transforma seu analista em seu parasita) e da religião oriental e seus mantras apaziguadores do espírito humano. No processo, veremos momentos de pura catarse emocional de humanos auto-centrado. E milhares de dólares jorrando para as contas de quem entrega o que as pessoas mais desejam nesse começo de século: estar conectada com outras pessoas e si mesmas.
 

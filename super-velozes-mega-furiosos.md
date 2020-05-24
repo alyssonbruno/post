@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-05-11"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Super Velozes, Mega Furiosos"
-stars: "3/5"
 ---
 Super Velozes, Mega Furiosos é uma paródia de Velozes e Furiosos. Essa informação é tão irrelevante quanto o próprio filme, que brinca com os estereótipos dos atores da série e se esquece que a franquia já vem se tornando irrelevante sem precisar da ajuda de ninguém.
 

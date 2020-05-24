@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-02-17"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Best of Enemies"
-stars: "3/5"
 ---
 Curioso este filme ser tão recente, e sintomático também. Se Best of Enemies começa na ascenção de uma política conservadora e autoritária nos EUA, bem no meio de choques causados por segregação racial e pela guerra no Vietnã, a profecia do liberal Gore Vidal do "declínio do império" não poderia ser mais presente hoje em dia. O que ele não esperava é que esse declínio seria causado justamente pela esquerda que tanto defendia.
 

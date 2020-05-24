@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-11-06"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Planeta 51"
-stars: "3/5"
 ---
 A grande impressão ao assistir a introdução e o desenvolvimento de Planeta 51 é que, enquanto argumento, alguém lá no fundo pensou que poderia dar certo (talvez Joe Stillman, que aqui assina apenas como escritor, não roteirista). Talvez o fato de ter sido feito por uma produtora ainda sem veios artísticos (= experiência) para a animação e dirigido e co-dirigido por três pessoas sem muito currículo talvez tenha influenciado um pouco nos tropeços do desenvolvimento criativo da ideia e no uso funesto de trilhas sonoras batidas em sequências claramente não-merecedoras.
 

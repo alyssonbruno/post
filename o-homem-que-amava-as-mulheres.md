@@ -1,9 +1,9 @@
 ---
-date: "2020-05-04"
-title: "O Homem Que Amava as Mulheres"
-stars: "3/5"
 categories: [ "cinema" ]
+date: "2020-05-04"
+stars: "3/5"
 tags: [ "draft", "movies" ]
+title: "O Homem Que Amava as Mulheres"
 ---
 Truffault, cineasta francês, começa bem essa comédia/drama sobre um homem apaixonado por pernas femininas e que não consegue resistir a tentar ser um Don Juan de Paris. As mulheres simplesmente se apaixonam pelo seu lindo e grande nariz, e vamos acompanhando sua história póstuma ao mesmo tempo que descobrimos ele ser o autor de um livro cujo nome é o mesmo do filme.
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-20"
-title: "O Dorminhoco"
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "O Dorminhoco"
 ---
 Essa é uma das comédias pastelão dirigida por Woody Allen, como Tudo o Que Você Sempre Quis Saber Sobre Sexo e Tinha Medo de Perguntar e Um Assaltante Bem Trapalhão. Particularmente não sou muito fã dessa fase inicial do diretor, e nesse caso não é diferente. É uma comédia escrachada com ideias soltas e um roteiro que apenas nos leva em direção às piadas. Mas como isso é Woody Allen ainda resta uma certa textura no final das contas.
 

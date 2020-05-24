@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-01-24"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Cliente"
-stars: "4/5"
 ---
 Os filmes de Joel Schumacher como Ninguém é Perfeito e esse O Cliente primam por chamar a atenção do espectador para o aspecto humano da trama. Aqui, um garoto e seu irmão caçula presenciam um suicídio e têm que arcar com as consequências desse fato judicialmente. Mas não é só isso. A pedra fundamental da trama é a visão de uma criança e do que ela pode fazer para ajudar o irmão em estado catatônico e a mãe com problemas financeiros, além de um passado conturbado com seu pai alcoólatra. O garoto é vivido com competência ímpar por Bred Renfro com 10 anos, um achado do diretor e que, depois de papéis de pouco destaque, teve um fim trágico morrendo de overdose aos 25.
 

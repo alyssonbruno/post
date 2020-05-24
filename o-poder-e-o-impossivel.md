@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-12-09T01:24:13
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Poder e o Impossível"
-stars: "4/5"
 ---
 Esse é um filme que teria de tudo para não dar certo, ser clichezão, etc. Ele lembra 127 horas, mas enquanto James Franco não é um exemplo de empatia o ator Josh Hartnett atinge a glória ao nos preocuparmos com seu destino, mesmo que na neve ele seja um completo idiota.
 

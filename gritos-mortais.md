@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-12-10"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Gritos Mortais"
-stars: "3/5"
 ---
 Ele é um boneco assustador até parado, quem dirá movendo os olhos e a cabeça! O diretor do projeto, James Wan, não poderia ser outro senão o criador de Jogos Mortais, que inclui um boneco igualmente aterrorizante.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-title: "24 Frames"
-
-
-stars: "4/5"
 date: 2017-10-24T01:51:39
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
+title: "24 Frames"
 ---
 Eu sei, eu sei. 24 Frames pode não ser o melhor entretenimento para o espectador médio... não, "pode não ser" é um senhor eufemismo. Ele não é um entretenimento. Ponto. O novo filme de Abbas Kiarostami (Cópia Fiel, Um Alguém Apaixonado) vai além da própria linguagem cinematográfica começando do começo: o que é um frame? Você vai descobrir. Em 24 deles.
 

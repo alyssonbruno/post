@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-02-28"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Travelers"
-stars: "3/5"
 ---
 Viagem no tempo, física quântica, mulheres bonitas e gostosas: uma fórmula que geralmente merece dar uma olhada, para diversos fãs, de diferentes conteúdos. No caso da primeira temporada de Travelers, da Netflix, a química entre esses elementos oscila de maneira irregular, quase sempre frustrando ideias mais ambiciosas e quase sempre se rendendo ao juvenil politicamente correto. Quer dizer, no futuro os animais são nossos amigos e as pessoas passam mal em ver bacon? Fala sério!
 

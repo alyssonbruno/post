@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-01-07"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Dragão Chinês"
-stars: "3/5"
 ---
 The Big Boss, ou O Dragão Chinês (??), é um dos primeiros filmes de Bruce Lee no estilo Hollywoodiano, mas que mantém uma estrutura típica dos filmes de artes marciais: subir em escala até atingir o chefão.
 

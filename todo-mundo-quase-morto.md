@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-21"
-title: "Todo Mundo Quase Morto"
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "Todo Mundo Quase Morto"
 ---
 Sempre que amigos se reúnem para aquela cervejinha básica e começam a conversar sobre zumbis e cinema é inevitável que surjam várias piadas que parecem muito boas de se colocar em um filme. Shaun of the Dead é esse filme, que o diretor Edgar Wright estreou nos cinemas, e que comprova sua energia em dirigir comédias, além de como seu talento será melhor exposto em trabalhos posteriores.
 

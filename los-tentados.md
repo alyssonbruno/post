@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-10-26"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Los tentados"
-stars: "2/5"
 ---
 Primeiro longa do diretor Mariano Blanco, não existem muitas ideias a serem seguidas em Los Tentados, ou elas estão tão sutilmente colocadas ali que fica difícil encontrar base para qualquer tipo de interpretação.
 

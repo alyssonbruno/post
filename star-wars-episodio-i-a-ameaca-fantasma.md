@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-05-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Star Wars Episódio I A Ameaça Fantasma"
-stars: "3/5"
 ---
 Quando se mexe com algo sagrado como a trilogia clássica de Star Wars ou alguém está produzindo uma sátira ou essa pessoa é George Lucas. Por mais que os fãs apontem defeitos e/ou sugestões, o Criador da saga sempre teve palavra final. Portanto, não é de se admirar que a nova trilogia comece com seu roteiro, direção, e autoridade.
 

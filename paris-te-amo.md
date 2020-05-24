@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-22T16:26:46-03:00
-title: "Paris, Te Amo"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" ]
+title: "Paris, Te Amo"
 ---
 Este é um mega-projeto de cinema, com dezenas de diretores e roteiristas. Não há apenas o trabalho de compor os curtas, mas de juntá-los. Este é um filme com tantas visões diferentes que ele soa um pouco esquizofrênico. Mas como são todas visões mais ou menos alinhadas com o que a classe artista defende -- o que geralmente quer dizer a mesma coisa -- ele sobrevive ao pluralismo por causa da mesmice impregnada na mente de seus idealizadores.
 

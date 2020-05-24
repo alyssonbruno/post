@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-05-01T14:47:29-03:00
-title: "Acertando o Passo"
-tags: [ "draft", "movies" , "cinemaqui" ]
-
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Acertando o Passo"
 ---
 Não costumo chorar em filmes, ou costumava; hoje em dia a ironia e o sarcasmo dos jovens tomou meu coração. No entanto, em Acertando o Passo o choro vem fácil e natural em pelo menos dois momentos, momentos que considero dignos de se expressar além da admiração intelectual: quando pessoas agem de maneira altruísta, e o motivo não é porque é o certo a se fazer, mas porque é de seu feitio, é o que forma sua personalidade. Enfim, é o que os faz seres humanos que vemos na tela.
 

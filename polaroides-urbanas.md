@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-04-27"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Polaróides Urbanas"
-stars: "4/5"
 ---
 O único exemplo cinematográfico de Miguel Falabela como diretor demonstra o talento de seu idealizador no formato tão conhecido por ele e praticado por anos a fio: o teatro.
 

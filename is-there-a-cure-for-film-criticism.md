@@ -1,8 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: "2019-11-17"
-title: "Is There a Cure for Film Criticism? by Pauline Kael (excerpts)"
 tags: [ "draft", "essays" ]
+title: "Is There a Cure for Film Criticism? by Pauline Kael (excerpts)"
 ---
 Retirado do blog Keeping My Brain Alive.
 

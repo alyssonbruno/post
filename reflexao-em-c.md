@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2008-06-30"
-title: Reflexão em C++
 tags: [ "draft",  ]
+title: Reflexão em C++
 ---
 O termo e conceito de "reflection)" (reflexão), muito usado em linguagens modernas, é a capacidade de um programa de observar e até de alterar sua própria estrutura. Bom, isso você pode ler na Wikipédia. O interessante é o que podemos usar desse conceito na linguagem C++.
 

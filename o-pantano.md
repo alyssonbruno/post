@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-17T16:01:39-03:00
-title: "O Pântano"
-tags: [ "draft", "movies" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" ]
+title: "O Pântano"
 ---
 É daqueles filmes intimistas que fala sobre a família em tempos bucólicos, sem maldade, com geladeira velha e matriarca que não para de beber. O que deu de errado com essa família de classe média baixa?
 

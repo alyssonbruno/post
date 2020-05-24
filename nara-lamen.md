@@ -1,9 +1,9 @@
 ---
 categories: [ "blog" ]
 date: "2019-08-21"
-title: "Restaurante Nara Lámen"
-tags: [ "draft", "food" ]
 stars: "4/5"
+tags: [ "draft", "food" ]
+title: "Restaurante Nara Lámen"
 ---
 Quando for pela primeira vez no Nara Lámen, peça apenas o Shyo Lámen Nara. Apenas isso. E aprecie sem pressa.
 

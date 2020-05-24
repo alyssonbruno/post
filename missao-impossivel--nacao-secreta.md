@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-11-22"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Missão: Impossível - Nação Secreta"
-stars: "5/5"
 ---
 É brilhante e até comovente perceber como o gênero de espionagem moderna que corre nas veias dessa franquia se atualiza a cada novo trabalho, e como "Rogue Nation" se sai infinitamente melhor que o último James Bond de Daniel Craig ("Spectre"). Mesmo em momentos óbvios como a "missão impossível" tradicional de todo filme o filme consegue manter a tensão e sua eficácia, marca de um filme verdadeiramente competente em seu gênero: quando sabemos o que vai acontecer, e mesmo assim funciona maravilhosamente bem.
 

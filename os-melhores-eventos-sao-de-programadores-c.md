@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2015-04-04"
-title: Os melhores eventos são de programadores CCPP
 tags: [ "draft", "ccppbr" ]
+title: Os melhores eventos são de programadores CCPP
 ---
 Olá! Se você veio aqui para um flame war, sinto desapontá-lo. Esse título foi criado apenas para chamar atenção =)
 

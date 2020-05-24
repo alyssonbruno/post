@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-11-09"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Reino dos Gatos"
-stars: "3/5"
 ---
 Assim como em Mundo dos Pequeninos, aqui os estúdios Ghibli fazem o que a Disney/Pixar começa a copiar: pequenas produções sem história desenvolvida para Cinema, mas que ganha a simpatia por usar os mesmos traços conhecidos de produções mais pomposas, como as dirigidas por Miyazaki.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-04-16"
+stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Better Call Saul - Terceira Temporada, Episódio 1: Mabel"
-stars: "5/5"
 ---
 Better Call Saul está de volta. E como sempre é um prazer acompanhar os trabalhos de Mike Ehrmantraut. Sim, ele é o herói desse episódio piloto. Interpretado por Jonathan Banks como sempre, a direção de Vince Gilligan explora como sempre a persona de Saul Goodman, retomando o que vimos nos episódios anteriores, além de entregar um pouquinho do futuro Saul em seu finale pós-Breaking Bad.
 

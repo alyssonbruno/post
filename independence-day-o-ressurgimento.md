@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-14"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Independence Day: O Ressurgimento"
-stars: "2/5"
 ---
 Mais um remake que uma continuação. Infestado de momentos, diálogos e situações idênticas ao original, "Independency Day: Resurgence" se rende à fórmula que o tornou uma das farofas mais divertidas e rentáveis da década de 90.
 

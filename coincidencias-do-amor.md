@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-05-16"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Coincidências do Amor"
-stars: "3/5"
 ---
 Kassie (Jenifer Aniston) deseja ser mãe, mas não possui nenhum parceiro nem deseja ter um, se contentando com os ombros amigos de Wally (Jason Baterman, de Juno), que sempre está por perto. Porém, sua idade avançando a deixa preocupada a ponto de pensar em ter o filho por conta própria, usando o já não tão modernoso método de inseminação artificial. Para isso, decide procurar um candidato que se encaixe em seus padrões de homem bem-sucedido (Patrick Wilson, em uma aparição apagada) e anuncia em uma festa que será fecundada pelo esperma do tal sujeito que será, acreditem, gerado naquela mesma noite durante a festa.
 

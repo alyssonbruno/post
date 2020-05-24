@@ -1,10 +1,10 @@
 ---
 categories: [ "cinema" ]
 date: 2018-05-24T22:41:19-03:00
-title: "The Room"
-tags: [ "draft", "movies" ]
 review: [ "2020" ]
 stars: "1/5"
+tags: [ "draft", "movies" ]
+title: "The Room"
 ---
 Este é um review encomendado pelos meus amigos, que insistiram que eu deveria ver e revisar este surpreendente jovem clássico. Sim, é claro que eu já sabia se tratar de um daqueles filmes famosos por estar em muitas listas de piores filmes já feitos, mas apesar de eu já ser um pouco fã do gênero trash acredito que eles conseguiriam muito mais a minha atenção se dizessem que você nunca viu nada igual. E é a mais pura verdade. E digo mais: talvez eu nunca tenha visto nada igual dentro do próprio filme, onde os personagens mudam de ideia e de humor a toda hora.
 

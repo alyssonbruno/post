@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-10-02T21:55:47
+stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Entre Irmãs"
-stars: "2/5"
 ---
 Entre Irmãs é um filme de época que parece feito também em outra época. Uma época mais ingênua, onde filmes como esse não seriam tão clichês, tão bregas. Infelizmente, para o público de hoje, clichê e brega é exatamente o que ele parece.
 

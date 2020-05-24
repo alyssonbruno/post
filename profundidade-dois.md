@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-21"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Profundidade Dois"
-stars: "3/5"
 ---
 Um documentário que é uma peça de museu. Fala sobre um massacre "de guerra" feito em civis perpetrado pelos capangas psicopatas de um presidente. Bom, o que há de novo? 100% dos massacres são assim.
 

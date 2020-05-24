@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-27T16:34:38-03:00
-title: "Batman Begins"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Batman Begins"
 ---
 Batman Begins hoje é óbvio, mas para entender a verdadeira força desse reboot você precisa relacionar com um outro filme chamado Batman e Robin. Assista esse. Eu espero. Esse é o tamanho do gap que se formou entre as duas franquias.
 

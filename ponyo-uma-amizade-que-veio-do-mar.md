@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-06-30"
 review: [ "2013" ]
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Ponyo Uma Amizade que Veio do Mar"
-stars: "4/5"
 ---
 Até uma animação infantil e ingênua como Ponyo, de Hayao Miyazaki, consegue nos fazer pensar em vários temas ao mesmo tempo. Se em um primeiro plano é uma aventura ecológica, onde o desrespeito do homem pelo meio ambiente é colocado em xeque quando Ponyo  um pequeno peixe filho de um pai controlador e sua mãe-natureza  decide se tornar humano e acidentalmente inicia um novo ciclo de crescimento marítimo que pode acabar com a predominância dos homens (nos mares e na Terra), em um segundo plano é um filme sobre aceitarmos o diferente. O respeito aqui faz rima com amor incondicional, onde pode-se até especular que esse amor ao diferente pode vir de qualquer lugar, até de minorias como homossexuais.
 

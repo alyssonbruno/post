@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-12-16T13:48:30-02:00
-title: "Christiane Amanpour: Sex and Love Around the World"
-
-tags: [ "draft", "series" ]
 stars: "2/5"
+tags: [ "draft", "series" ]
+title: "Christiane Amanpour: Sex and Love Around the World"
 ---
 Esta é uma série movida por um sentimento. O sentimento de superioridade do Ocidente, de suas liberdades e sua forma de enxergar o mundo. Todo o resto está errado, está oprimindo e está sendo comandado pelo patriarcado. Exceto os muçulmanos, claro. Eles são bonzinhos.
 

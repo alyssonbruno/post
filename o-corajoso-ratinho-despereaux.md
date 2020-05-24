@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-02-20"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Corajoso Ratinho Despereaux"
-stars: "3/5"
 ---
 Essa animação de 2008 passou meio que despercebida dos cinemas, apesar de possuir uma invejável direção de arte. Narrando uma fábula ocorrida na França antiga que relaciona sopa, princesas e ratos (dividindo-se em camundongos e ratazanas), o principal fator que move o filme é a pseudo-grandiosidade da história, onde um simples e pequeno camundongo recebe a missão de acabar com o luto interminável do rei, causado tempos atrás por um acidente causado por uma ratazana. A grande sacada da história é que o Despereaux do título é um camundongo que, além de ter duas gigantescas orelhas, diferente de todos os outros, nunca sente medo. Esse traço de sua personalidade irá permitir que ele transite entre os três mundos (dos humanos, das ratazanas e dele mesmo) e junte as peças da fábula.
 

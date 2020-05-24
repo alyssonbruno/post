@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-10-27T18:39:12
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Terra Selvagem"
-stars: "4/5"
 ---
 Terra Selvagem é o melhor filme da carreira de Jeremy Renner, que já possui alguns trabalhos bem interessantes, mas nunca talvez tão intensos e compenetrados como esse. E isso dentro de um filme redondíssimo, que atravessa eventos que poderiam render vários clichês e desvia de todos eles pela sua qualidade narrativa e construção de atmosfera. E, claro, por Jeremy Renner.
 

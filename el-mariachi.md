@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-02-26"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Mariachi"
-stars: "4/5"
 ---
 A estreia de Robert Rodriguez (Sin City, Machete) foi com este El Mariachi, que lhe custou, de acordo com a lenda, $7000, gastos quase todo para o filme da câmera.
 

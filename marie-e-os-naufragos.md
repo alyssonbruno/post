@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-28"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Marie e os Náufragos"
-stars: "4/5"
 ---
 Um filme que atravessa o indie usando uma metalinguagem Kaufmaniana, descobrindo seus personagens no percurso, realizando uma trama eficiente que, por mais absurda que seja, mantém sempre o interesse do espectador.
 

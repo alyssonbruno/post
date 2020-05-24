@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-10-16T19:39:46
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "My Little Pony: O Filme"
-stars: "3/5"
 ---
 "My Little Pony: O Filme" continua sendo tudo que os fãs de My Little Pony poderiam querer mais um pouco. E estou falando até dos fãs adultos da série de animação. Applejack, Rainbow Dash e suas amigas continuam usando o poder da amizade para enfrentar todos os perigos e transformar seus inimigos em leais aliados.
 

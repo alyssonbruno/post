@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-07-01T15:53:00-03:00
-title: "Tig Notaro: Happy to Be Here"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Tig Notaro: Happy to Be Here"
 ---
 Eu não sei como era a performance da comediante de standup Tig Notaro antes dela contrair uma doença séria, perder a mãe, terminar seu relacionamento na semana seguinte e desenvolver um câncer. Mas eu sei que graças a esses eventos e à sua coragem e dedicação ao humor, o show que ela fez neste momento de sua vida pode figurar tranquilamente na lista dos mais poderosos, inesquecíveis e memoráveis da história da humanidade.
 

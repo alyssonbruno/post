@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-03-09"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Esposa de Mentirinha"
-stars: "3/5"
 ---
 "(...) o filme se baseie provavelmente em um fim-de-semana que ele mesmo tirou com seus amigos (...)"
 

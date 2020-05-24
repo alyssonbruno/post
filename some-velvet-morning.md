@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-11-17"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Some Velvet Morning"
-stars: "4/5"
 ---
 Este filme independente de baixo orçamento comprova como o catálogo da Netflix reserva algumas ótimas surpresas onde menos se espera. Protagonizado por atores secundários, este trabalho do diretor e roteirista Neil LaBute parece extremamente amador quase todo o tempo. Exceto pela reviravolta que o espera.
 

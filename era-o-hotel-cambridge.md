@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-03-10"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Era O Hotel Cambridge"
-stars: "4/5"
 ---
 Era o Hotel Cambridge é um documentário que tenta se estruturar como ficção. Sua heroína é uma personagem da vida real. A mescla entre real e o faz-de-conta funciona como catalisador das transformações sociais e um retrato dramático da vida de pessoas que são excluídas de um populismo político que durou uma década e encontrou seu merecido fim: escassez, caos e violência.
 

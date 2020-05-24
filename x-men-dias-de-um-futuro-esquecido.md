@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-05-26"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "X-Men Dias de um Futuro Esquecido"
-stars: "4/5"
 ---
 A franquia X-Men parece ter chegado a algum tipo de saturação nesse "Dias de um Futuro Esquecido" onde o diretor Bryan Singer, que estreou a série e sua continuação, parece recontar momentos históricos da luta entre humanos e mutantes quando, mais uma vez, mutantes pacíficos e mutantes violentos se reúnem.
 

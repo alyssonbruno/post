@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-07-06"
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Transformers O Lado Oculto da Lua"
-stars: "1/5"
 ---
 É muito difícil para quem começa a estudar aos poucos os segredos do cinema descobrir o que faz um filme ruim. Apenas o fato de não gostar do que se vê não é argumento satisfatório para entender quais mecanismos estão ali (ou não) para sabotar por completo uma experiência cinematográfica tão bem sucedida tecnicamente, como para mim foi esse Transformers 3.
 

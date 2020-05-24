@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-01-14"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Viúvas"
-stars: "3/5"
 ---
 Projeto menor do diretor Marcos Carnevale (Elsa e Fred), Viúvas possui o seu núcleo na história de Elena (Graciela Borges), que perde o marido depois de um infarto. Fica conhecendo assim a sua amante, Adela (Valeria Bertuccelli), muito mais jovem e inexperiente com seus sentimentos. Unindo a vida pós-marido de ambas através de uma última promessa feita pela esposa, a sensação constante é de que ao tentarmos conhecê-las melhor existe um sentimento de repulsa por mulheres tão egoístas (cada uma à sua maneira).
 

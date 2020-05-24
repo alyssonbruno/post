@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-07-28"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "As Strippers Zumbi"
-stars: "2/5"
 ---
 Até um filme amador com a premissa de strippers que são infectadas por um vírus desenvolvido pelo governo Bush e que transforma pessoas em zumbis pode ter algo de bom. E há. Em determinado momento da "trama", uma zumbi que lê Nietche (!) se lembra de um momento em que dormia em cima da neve e observada as estrelas. Agora, já morta, se considerava parte daquele universo inanimado e infinito, e tudo fazia sentido agora. Essa passagem tão existencialista e profunda parece destacada de todo o resto do recheio de zumbis mal-formados, danças eróticas com peitos lambuzados de sangue e muita violência exacerbada e sem sentido. Mesmo assim, naquele porão sujo e mal iluminado onde as meninas realizam suas danças por uns trocados fáceis, parece coisa de gênio.
 

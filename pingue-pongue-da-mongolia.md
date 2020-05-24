@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-17"
-title: "Pingue-Pongue da Mongólia"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Pingue-Pongue da Mongólia"
 ---
 Não me lembro se já havia assistido a esse filme. São tantos trabalhos semelhantes que se passam em regiões distantes do planeta e que costumam passar na Rua Augusta, em São Paulo, e eu assistia tantos com minha esposa naquela região que, sinceramente, se eu já passei por esse filme, tive as mesmas sensações que tive hoje: um frescor de vida.
 

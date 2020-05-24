@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-10-02"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Um Método Perigoso"
-stars: "3/5"
 ---
 Cronenberg, um diretor geralmente fascinante (Terapia de Risco), por algum motivo, dirigiu um filme burocrático que conta a história de amizade entre Sigmund Freud (Viggo Mortensen) e Carl Jung (Michael Fassbender) como um documentário da BBC. No meio envolve a russa judia Sabina Spielrein (Keira Knightley), de paciente para amante e posteriormente médica.
 

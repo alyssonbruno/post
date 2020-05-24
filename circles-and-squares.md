@@ -1,8 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: "2019-11-17"
-title: "Circles and Squares"
 tags: [ "draft", "essays" ]
+title: "Circles and Squares"
 ---
 Retirado do blog Keeping My Brain Alive.
 

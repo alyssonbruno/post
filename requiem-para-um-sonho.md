@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-04-29T10:49:00-03:00
-title: "Requiém Para Um Sonho"
-
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Requiém Para Um Sonho"
 ---
 Eu nunca me decepciono (pelo menos por enquanto) com Darren Aronofsky. Em "Réquiem Para Um Sonho" há essa forte mensagem anti-drogas, realizada com propriedade, com uma textura pesada e indossociável da própria natureza de um ser humano que não se valoriza. É um filme depressivo, mas que ao mesmo tempo nos faz refletir sobre nossos próprios vícios no dia-a-dia. E se você acha que é apenas contra drogas ilegais, pense de novo e responda a si mesmo: o que você faz para fugir da sua realidade?
 

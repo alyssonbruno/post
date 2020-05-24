@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2010-04-21"
-title: Por que Long Pointer
 tags: [ "draft",  ]
+title: Por que Long Pointer
 ---
 Esse artigo continua a explicação sobre os typedefs arcaicos, já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para minha pupila que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
 

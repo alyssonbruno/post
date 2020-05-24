@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-12T12:24:10-02:00
-title: "Homem-Aranha no Aranhaverso"
-
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Homem-Aranha no Aranhaverso"
 ---
 Lá vamos nós de novo. Era uma vez um garoto... ou garota... que foi picadx por uma aranha... ou porco... e se transformou em uma japonesa de anime... ou um rapaz do Brooklin. Não, pera. Ah, você entendeu.
 

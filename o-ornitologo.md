@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-03-22"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Ornitólogo"
-stars: "3/5"
 ---
 Cada diretor tem seu Holy Motors (Leos Carax, 2012) que merece. No caso do diretor português João Pedro Rodrigues, O Ornitólogo é uma história com uma estrutura igualmente coesa mas um final hermético e inacessível, tal qual não a arte cinematográfica, mas a mente religiosa.
 

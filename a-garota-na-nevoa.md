@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-06T16:27:11-02:00
-title: "A Garota Na Névoa"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "A Garota Na Névoa"
 ---
 Uma garota desaparece em meio à névoa. Surge um inspetor em cena e começam as investigações, sob aquela trilha sonora dramática que todos conhecem. Aliás, alguns thrillers policiais costumam cheirar a clichê desde o primeiro momento até seu final. A Garota Na Névoa não é exceção. Porém, o diretor/roteirista/romancista Donato Carrisi sabe disso e usa esses clichês de maneira distorcida, chamando nossa atenção para detalhes que não costumam ganhar o foco nessas histórias. E é isso a grande reflexão que o filme nos tem a oferecer.
 

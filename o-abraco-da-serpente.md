@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-02-18"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Abraço da Serpente"
-stars: "4/5"
 ---
 O Abraço da Serpente é uma viagem cósmica através da descendência de todos os homens. Razão e tradição se digladiam para contar uma história que atravessa o senso da individualidade sem perder o senso da responsabilidade. E, sim, é também sobre índios.
 

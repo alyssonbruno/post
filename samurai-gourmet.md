@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-04-16"
+stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Samurai Gourmet"
-stars: "4/5"
 ---
 No meio de tantas séries televisivas sobre cozinhar, eis uma série sobre degustar. Samurai Gourmet é baseado em quadrinhos e mantém seu personagem-título sob controle criativo das ótimas expressões do ator Naoto Takenaka. Ele se aposentou recentemente e irá agora explorar diferentes restaurantes, bares e cafés, revivendo os velhos dilemas que clientes desses lugares possuem. Nos simpatizamos com Takeshi Kasumi porque, assim como ele, ficamos sem jeito de reclamar quando a comida está ruim, ou quando pessoas barulhentas ou mal-educadas desrespeitam o ritual de uma refeição.
 

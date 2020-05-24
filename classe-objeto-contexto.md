@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2016-01-10"
-title: "Classe, objeto, contexto"
 tags: [ "draft",  ]
+title: "Classe, objeto, contexto"
 ---
 Para entender conceitos simples em C++, como métodos de uma classe, ajuda muito seguir o raciocínio dos programadores C e como eles lidavam com o tipo de problema que C++ resolve elegantemente implementando um novo compilador com uma nova linguagem.
 Tomemos, por exemplo, métodos. Um método é uma função chamada dentro de um contexto. Qual o contexto? O objeto. Ou seja, uma instância específica de uma classe, que é um molde para se fazer alguma coisa.

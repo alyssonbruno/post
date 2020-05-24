@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-18"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "As Três Idades"
-stars: "4/5"
 ---
 Three Ages é o primeiro longa-metragem de Buster Keaton, um dos comediantes mais geniais do início do Cinema, se não um dos mais geniais do Cinema em si. Diretor, ator, produtor e roteirista, Keaton sempre com seu jeito sisudo conquistava o público como resultado indireto de sua competência em narrar suas aventuras em diferentes histórias e, ao contrário de Charles Chaplin, com diferentes personagens.
 

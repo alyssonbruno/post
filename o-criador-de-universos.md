@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-10T18:26:38-03:00
-title: "O Criador de Universos"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
-
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "O Criador de Universos"
 ---
 O Criador de Universos (El Creador de Universos no original) em seu próprio título já revela a petulância de um mini diretor caseiro. E a primeira cena já revela a picaretagem de alguém que não quer ir pra escola. A análise da criação de um filme é a melhor parte, e a criação de seu roteiro a pior. Infelizmente o filme nos mostra muito da pior parte e muito pouco da melhor.
 

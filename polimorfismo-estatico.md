@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2009-07-10"
-title: Polimorfismo estático
 tags: [ "draft",  ]
+title: Polimorfismo estático
 ---
 Para explicar polimorfismo, nada como ver as coisas como elas eram. Se você fosse um programador C de vinte anos atrás e criasse as seguintes funções:
 

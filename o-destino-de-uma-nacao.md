@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
+date: 2018-02-26T23:07:18
 details: "Darkest Hour (2017), escrito por Anthony McCarten, dirigido por Joe Wright, com Gary Oldman, Lily James, Kristin Scott Thomas."
 stars: "4/5"
-title: "O Destino de uma Nação"
-date: 2018-02-26T23:07:18
 tags: [ "draft", "movies" ]
+title: "O Destino de uma Nação"
 ---
 Esta é a versão cinematográfica de um momento na história da Inglaterra que talvez lendo os livros não tenha tanto apelo emocional quanto um Gary Oldman incorporando totalmente o tom feroz, bonachão e icônico de Sir Winston Churchill, que abraça na marra o espírito inglês de sobrevivência (ou insanidade). Se isso não for patriotismo, nada mais será.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-07-22"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Beijos e Tiros"
-stars: "4/5"
 ---
 Kiss Kiss Bang Bang trabalha em muitas vertentes. Soando fictício a partir da narração onisciente do ex-ladrão e aspirante a ator Harry Lockhart (Robert Downey Jr.), que é ao mesmo tempo o protagonista, ainda consegue uma boa dose de realismo através dos acontecimentos absurdos que se somam durante as investigações de um crime do qual é testemunha enquanto estuda seu papel em um filme com a ajuda do detetive real Gay Perry (Val Kilmer). Somado a isso, Harry volta a encontrar sua amiga e paixão velada de infância Harmony Faith Lane (Michelle Monaghan). Tudo isso, acredite ou não, consegue o seu lugar na história com uma direção e montagem competentes o suficiente para não tornar tudo mais confuso do que já é.
 

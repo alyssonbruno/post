@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-06-10"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Florence - Quem é Essa Mulher?"
-stars: "4/5"
 ---
 "Florence - Quem é Essa Mulher?" é uma ode à mediocridade. Ele brinca com analogias que fazem todo o sentido do mundo hoje em dia, quando mega-produções são "proibidas" pelos fãs de serem criticadas por gente especializada, e embora muitas pessoas acabem de fato gostando do resultado dessas produções, embora muitas vezes pelos motivos errados. Afinal de contas, quem nunca deu risada em uma cena da série Transformers, ou até desses terrores enlatados como a interminável série Atividade Paranormal?
 

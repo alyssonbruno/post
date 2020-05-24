@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-06-13"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Difícil Arte de Amar"
-stars: "3/5"
 ---
 Um roteiro e um romance de Nora Ephron (Julie & Julia, Mens@gem pra Você, Sintonia de Amor, A Feiticeira...) e uma direção de Mike Nichols (Closer, A Gaiola das Loucas) conseguem dar o tom mais que adequado para que uma jovem Meryl Streep, mas já ganhadora de um Oscar por "Kramer vs Kramer", conseguisse dar espírito para Rachel, uma jornalista de meia-idade que após o divórcio teme por um novo casamento, mas que mesmo assim se entrega sem receios aos sentimentos pelo também jornalista Mark (um já velho Jack Nicholson), que possui fama de solteirão e não se ater por muito tempo à mesma mulher.
 

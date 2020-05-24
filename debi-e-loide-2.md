@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-12-10"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Debi e Lóide 2"
-stars: "3/5"
 ---
 Jim Carrey e Jeff Daniels finalmente conseguiram realizar o remake do seu clássico de comédia e os irmãos Farrely estão dirigindo -- do original de 1994 e de "Quem Vai Ficar com Mary?", Passe Livre, "Eu, Eu Mesmo e Irene" e tantos outros.
 

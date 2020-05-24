@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2009-12-14"
-title: Devaneio nerd rápido sobre aniversários
 tags: [ "draft",  ]
+title: Devaneio nerd rápido sobre aniversários
 ---
 Hoje não é aniversário do blogue. É meu. Há exatos (sic) trinta anos nascia eu, essa pessoa que vos fala. Legal, não?
 

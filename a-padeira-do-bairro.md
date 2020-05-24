@@ -1,10 +1,10 @@
 ---
-date: "2020-05-19"
-title: "A Padeira Do Bairro"
-stars: "3/5"
 categories: [ "cinema" ]
-tags: [ "draft", "shorts" ]
+date: "2020-05-19"
 draft: "true"
+stars: "3/5"
+tags: [ "draft", "shorts" ]
+title: "A Padeira Do Bairro"
 ---
 Este curta de Éric Rohmer veio de brinde no DVD de A Carreira de Suzane, mas é até bem longo, com 20 minutos de duração. É uma sessão dupla, praticamente, pois com a atração principal tendo menos de uma hora é natural assistir esse em seguida.
 

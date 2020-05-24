@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-07-04"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Fala Comigo"
-stars: "4/5"
 ---
 Fala Comigo é um diálogo não apenas entre pessoas, mas entre diferentes máscaras da sociedade. Ele desafia de maneira incisiva nossos conceitos sobre o que é "normal" reinterpretando a realidade para dentro das portas de algumas casas.
 

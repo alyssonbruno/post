@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-01-09"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Toy Story"
-stars: "5/5"
 ---
 Achei melhor do que as vezes anteriores que tinha assistido. A direção se esforça ao enfocar a ação e o uso de ângulos criativos que inibem a ainda falta de tecnologia que torna as texturas simplórias, apesar de bem trabalhadas. A dublagem nacional mais uma vez empolga, com menção honrosa ao Sr. Cabeça de Batata.
 

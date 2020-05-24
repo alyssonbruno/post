@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-01-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "The Fundamentals of Caring"
-stars: "3/5"
 ---
 A Netflix tem um algoritmo de sua enorme base de dados para criar conteúdo novo. Deve funcionar mais ou menos assim: "pai que perdeu o filho e que agora terá uma provação/redenção; misturar com gente em cadeira de rodas (porque está na moda); usar road movie". E pronto. Está criado um filme com esses elementos básicos, atores quase desconhecidos em uma direção e roteiro encomendados.
 

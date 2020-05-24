@@ -2,9 +2,9 @@
 categories: [ "cinema" ]
 date: "2010-12-20"
 review: [ "2019" ]
-title: "Fôlego"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Fôlego"
 ---
 Em um período mais inocente da minha vida de cinéfilo Kim Ki Duk estava entre os poucos dos meus diretores favoritos, em uma lista que hoje em dia está esparsa demais para fazer algum sentido. Mas o diretor coreano continua sendo para mim um exemplo de contar histórias para chamar a atenção do seu público, sempre utilizando o chamariz das situações bizarras que nos prende e nos impede de desgrudar os olhos da tela até o final do filme.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-04-20"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Actores S.A."
-stars: "2/5"
 ---
 Uma comédia argentina com um roteiro até que interessante visto de fora, mas de dentro é uma bagunça. Possui uma história que gira em torno do salvamento de um teatro ao mesmo tempo que constrói a relação do casal protagonista, ambos se relacionando através de coincidências absurdas. A ideia dos atores para conseguir dinheiro é aceitar qualquer trabalho, mesmo fora dos palcos. Porém, não é isso o que atores já fazem? Ainda mais os decadentes? Qual seria a grande ideia para este filme?
 

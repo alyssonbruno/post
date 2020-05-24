@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-title: "La muerte de Pinochet"
-
-stars: "3/5"
 date: "2011-10-24"
+stars: "3/5"
 tags: [ "draft", "movies" ]
+title: "La muerte de Pinochet"
 ---
 O superzoom inicial das rugas (passado) e dos lábios (testemunho) das pessoas entrevistadas no documentário sobre o ditador sanguinário possuem dois motivos igualmente inteligentes e controversos: primeiro, impede que olhemos diretamente para os que dizem ter um profundo sentimento de admiração e orgulho por um ser responsável por uma das ditaduras mais cruéis que já se ouviu falar, o que evita nossa repulsa imediata por essa gente; segundo, admite que o testemunho dessas pessoas é fiel e honesto, dito diretamente de suas bocas, que muitas vezes sofreram inconscientemente os infortúnios de um regime que, para elas, não tem qualquer relação com o amado general.
 

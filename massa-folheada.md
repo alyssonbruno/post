@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
-title: "Receita: Massa Folheada Caseira"
-tags: [ "draft", "food", "recipes" ]
 date: 2019-06-18
+tags: [ "draft", "food", "recipes" ]
+title: "Receita: Massa Folheada Caseira"
 ---
 Quantidade: 600g
 

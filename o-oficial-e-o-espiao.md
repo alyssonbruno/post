@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-12"
-title: "O Oficial e O Espião"
-tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies", "cinemaqui" ]
+title: "O Oficial e O Espião"
 ---
 O Oficial e O Espião é mais um filme do diretor Roman Polanski que, muito semelhante a O Escritor Fantasma, caminha por becos tortuosos e claustofóbicos para que se encontre a verdade. Nos faz pensar se a verdade vale tanto assim.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2015-11-28
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "História de Horror Americana - Coven"
-stars: "3/5"
 ---
 Já havia falado que American Horror Story consegue impressionar pelos seus quesitos técnicos, a criação de seus personagens e seu aspecto gore que consegue preencher tudo que conhecemos de terror Hoolywoodiano (incluindo o subgênero trash). Porém, uma coisa que a série definitivamente não consegue é criar e consolidar histórias que sejam mais do que um passatempo conhecido como novela. Não há profundidade dramática em AHS, apenas a profundidade de seus objetos cortantes na carne humana.
 

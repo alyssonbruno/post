@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-08-20"
+stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Conexão Escobar"
-stars: "5/5"
 ---
 Conexão Escobar volta a trazer Bryan Cranston em um papel memorável, mas mais do que isso, esse é um filme construído totalmente em cima de expectativas. Ele vai subindo aos poucos no alto escalão da máfia de cocaína e assim como O Poderoso Chefão e Scarface ele possui seu universo próprio. Porém, este também é um filme pautado em cima da biografia de Robert Mazur, ex-agente federal de combate ao tráfico de drogas, e por isso merece ainda mais crédito a criação dessa rede tensa e complexa que vive à mercê da lei.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-11-21"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Economia do Amor"
-stars: "4/5"
 ---
 A Economia do Amor, trocadilhos à parte, é também um filme econômico em sua produção. E é quando a arte encontra os benefícios da crise europeia, tanto no assunto quanto no orçamento.
 

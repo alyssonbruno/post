@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-10-19"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Michelle e Obama"
-stars: "4/5"
 ---
 
 Se Frank e Claire Underwood da série House of Cards seriam o exemplo de "casal perfeito" entre os políticos que anseiam o poder a qualquer preço, a impressão que fica após assistir "Michelle e Obama" é que eles seriam o exato contra-exemplo, pois tanto ela quanto ele irradiam a energia positiva e generosa de quem está honestamente disposto a ajudar o próximo. Isso, é claro, levando em conta que o filme está narrando os primeiros passos do casal em direção a uma união que passará por décadas de vida política, o que poderá mudá-los de forma que se aproximem do casal de "arquitetos do poder" da Netflix.

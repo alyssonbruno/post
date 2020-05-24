@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-29"
+stars: "3/5"
 tags: [ "draft", "shorts" ]
 title: "Kung Fury"
-stars: "3/5"
 ---
 Este curta (média?) metragem mistura anos 80, raptors, cop-raptor, arcades, Hitler, hackerismo, gostosas medievais, lasers, Thor, Kung-Fu, viagem no tempo, uma profecia e esse é apenas o começo de uma salada que apela para o absurdo usando efeitos digitais grotescos que se tornam caricatos e conseguem manter pelo menos meia-hora de um sentimento de confusão, identificação e êxtase juvenil. Afinal de contas, em que universo paralelo você pensou que veria um dinossauro lutar contra uma água dourada nazista?
 

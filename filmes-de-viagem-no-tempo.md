@@ -1,8 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: "2019-11-20"
-title: "Quais filmes de viagem no tempo vale a pena assistir?"
 tags: [ "draft", "lists" ]
+title: "Quais filmes de viagem no tempo vale a pena assistir?"
 ---
 
 A saga original de Marty McFly tentando alterar o destino de sua família através de um único acontecimento gira em torno mais da questão humana de podermos testemunhar a adolescência de nossos próprios pais e entender se suas críticas quando adultos são válidas ou estamos repetindo ciclos eternamente. Além disso é um filme divertido do começo ao fim.

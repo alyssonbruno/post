@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-06-09"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Namorados Para Sempre"
-stars: "5/5"
 ---
 O relacionamento entre Dean e Cindy mostrado pelas lentes de Derek Cianfrance oscila entre o peso da rotina do dia-a-dia e a leveza de quando se conheceram, tudo mais ou menos se equilibrando em um retrato intimista e não-romantizado de como é a relação de qualquer casal na vida real.
 

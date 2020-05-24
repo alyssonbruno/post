@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-11-08"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "007 Operação Skyfall"
-stars: "5/5"
 ---
 Skyfall volta a abraçar a mitologia 007 criada em sua era clássica e ao mesmo tempo discute o futuro de um personagem retrô ? mas com estilo ? que mesmo 50 anos depois ainda consegue viver aventuras que apesar de conter ação descerebrada possui um fio condutor na história que mesmo não sendo original ou tendo momentos brilhantes ganha corpo pelo seu conjunto da obra.
 

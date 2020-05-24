@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-02-14"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Madrugada dos Mortos"
-stars: "5/5"
 ---
 Queria comparar algum filme de zumbis que não fosse de George Romero ou comédia (Zumbilândia, Meu Namorado é um Zumbi) e nem tão dramático/ação (World War Z), mas que carregasse aqueles símbolos do velho Cinema de Romero no melhor estilo A Noite dos Mortos-Vivos. E eis que finalmente vi esse Madrugada dos Mortos, de Zack Snyder (do interessante Sucker Punch, do sensacional Watchmen e do infelizmente medíocre Homem de Aço).
 

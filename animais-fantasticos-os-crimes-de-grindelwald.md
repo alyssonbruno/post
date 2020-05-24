@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-12-07T21:32:00-02:00
-title: "Animais Fantásticos: Os Crimes De Grindelwald"
-
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "Animais Fantásticos: Os Crimes De Grindelwald"
 ---
 Antes que me esqueça: não há animais fantásticos nesse filme que justifique seu título. Ou se há, então toda a magia da ambiguidade do primeiro e encantador filme se desfez na primeira cena. Sabe, aquela ambiguidade entre os humanos serem animais também... ah, esqueça. Este não é um filme de sutilezas. Ele vai direto ao ponto: ele quer nos dividir e lançar suas asinhas políticas em um movimento supostamente anti-nazista. Quer coisa mais anti-harry-potterana que querer meter política nua e crua em um universo cheio de maneiras melhores de dizer a mesma coisa?
 

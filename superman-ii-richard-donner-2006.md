@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-09-19"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Superman II"
-stars: "5/5"
 ---
 Richard Donner's cut é superior à versão original não por causa da inspiração original da história. Isso é besteira, pois o roteiro já havia sido mastigado inúmeras vezes, ao ponto de ter sido dito que não havia nem mais um palavra de Mario Puzzo (que havia escrito ambos os originais). Além disso, o próprio original foi modificado para encaixar o final da rotação da Terra que seria usado apenas em sua continuação e por um motivo mais legítimo (Zod e sua trupe teriam destruído boa parte do planeta).
 

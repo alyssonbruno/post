@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-03-23"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Profissional"
-stars: "5/5"
 ---
 Quando descobrimos que Luc Besson escreveu e dirigiu "Léon", ou O Profissional, é de ficar boquiaberto como o diretor perdeu a mão por tantos anos, acertando aqui e ali somente (Joana dArc é um ótimo exemplo).
 

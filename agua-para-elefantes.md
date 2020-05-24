@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2012-08-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Água para Elefantes"
-stars: "3/5"
-
 ---
 Uma história tão inspirada como essa, que consegue relacionar os sentimentos descontroláveis do dono de um circo da década de 30 com seus animais e seu sentimento de posse não só para com eles, como para seus funcionários e sua própria esposa, mereceria um elenco melhor escolhido. Não me levem a mal: Christoph Waltz é o máximo, apesar de com um personagem não tão redondo quando o impagável Coronel Hans Landa no Bastardos Inglórios. Porém, aqui a figura de August é mais sombria e menos irônica, e os trejeitos de Waltz deflagram essa discrepância. A mesma coisa com a não-tão-linda-como-é-sugerida Marlena/Reese Whitherspoon, que possui os mesmos trejeitos de tantas comédias românticas e não transparece a figura ingênua e dócil que sugeriria sua personagem.
 

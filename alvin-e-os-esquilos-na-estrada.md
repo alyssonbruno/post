@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-01-10"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Alvin e os Esquilos: Na Estrada"
-stars: "2/5"
 ---
 Como sempre uma boa ideia desperdiçada, a série dos esquilos cantores vai de mal a pior, restando quase apenas seus protagonistas encantadores e coreografias vazias, o que não basta para tornar um filme bom. Consegue no máximo defesas do tipo "mas eles são tão fofinhos" e "as cenas deles cantando são tão boas".
 

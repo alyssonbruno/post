@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-08-31"
 review: [ "2016" ]
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Planeta dos Macacos A Origem"
-stars: "4/5"
 ---
 Esse texto não é indicado para os que já viram algum filme da série Planeta dos Macacos, iniciada em 68. (Na verdade, nem o atual de 2011: leia depois de assistir.)
 

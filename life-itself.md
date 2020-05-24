@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-03-22"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Life Itself"
-stars: "4/5"
 ---
 Life Itself é uma experiência divertida e monótona ao mesmo tempo. Divertida porque acompanhamos a vida de Rober Ebert -- um dos críticos mais famosos e conceituados no mundo, falecido em 2013 -- desde quando começou a escrever. E o sujeito era um... como dizer isso sem soar xulo? Porra-loca. Estava sempre no bar, saía com mulheres não-convencionais na maioria das vezes, e virou um alcóolatra crônico. Ou seja: o estereótipo de um escritor bem-sucedido.
 

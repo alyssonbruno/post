@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-27"
-title: "Jalla! Jalla!"
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "Jalla! Jalla!"
 ---
 Filmes independentes como esse do diretor estreante Josef Fares pode ter muitos defeitos na produção que soam ridículos na tela. Um ritmo esquisito, cortes abruptos, péssimo casting, posição da câmera de vídeo caseiro e trilha sonora brega. Diferente das produções caras, de estúdio, com grandes astros, não há muito a perder, exceto a reputação de seu diretor, que a essa altura da carreira está próxima de zero.
 

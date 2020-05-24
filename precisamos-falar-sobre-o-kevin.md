@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-12-30"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Precisamos Falar Sobre o Kevin"
-stars: "5/5"
 ---
 Precisamos Falar Sobre o Kevin aborda de maneira surpreendente e inovadora o ponto de vista não de Kevin, um menino problemático que se tornará na sua adolescência autor de uma tragédia, mas o drama de sua mãe, chamada Eva de maneira significativa  a que deu à luz Caim, o primeiro assassino do mundo bíblico  e interpretada por Tilda Swinton de maneira brilhante e sem qualquer reservas.
 

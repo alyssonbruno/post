@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-09-28T19:04:03-03:00
-title: "De Volta ao Jogo"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "De Volta ao Jogo"
 ---
 Um drama pessoal que escala em uma espiral de violência e poder em um universo que caminha confortavelmente entre realismo e absurdo. O drama de perder a esposa doente depois de abandonar o trabalho que dava significado a sua vida é um realismo pesado. Roubarem seu carro e matar o cachorro que a esposa lhe deu como último presente é de um absurdo dilacerante que motiva qualquer um a sair em busca de vingança. E se você é John Wick isso significa uma sentença de morte para muita gente.
 

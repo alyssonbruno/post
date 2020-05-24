@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-08-28"
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "O Concurso"
-stars: "1/5"
 ---
 Este é mais um dos filmes bobos, praticamente sem graça e datados da Globo Filmes. O Concurso continua fazendo piadas no melhor/pior estilo A Praça é Nossa ou Zorra Total. Pior: sequer tem vergonha de usar um fiapo de história que apenas serve para juntar situações entre humoristas se fazendo de atores com personagens tipicamente rasos.
 

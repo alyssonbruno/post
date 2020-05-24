@@ -1,12 +1,10 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2014-12-18"
 review: [ "2015" ]
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "As Férias do Pequeno Nicolau"
-stars: "4/5"
 ---
 O créditos iniciais de "As Férias do Pequeno Nicolau" usam uma sequência de cartões postais sendo girados, o que está longe das encantadoras dobraduras que vimos no primeiro filme. Porém, as comparações negativas com o original param por aí: a segunda aventura com o personagem dos livros infantis consegue manter a divertida brincadeira do mundo imaginado pelas crianças em alto nível e ainda acerta em cheio em suas comparações com o mundo dos adultos sem nunca soar inadequado para seu público mais jovem; uma rara ocasião hoje em dia para os pequeninos irem ao cinema assistir uma não-animação que guarda muito da sua estética cartunesca.
 

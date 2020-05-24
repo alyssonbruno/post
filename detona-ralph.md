@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-12-30"
+review: [ "2016" ]
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Detona Ralph"
-stars: "4/5"
-review: [ "2016" ]
 ---
 Detona Ralph é daqueles filmes que apelam para o saudosismo dos mais velhos  e do seu choro fácil  mas não deixa de lado a história, aproveitando ao máximo o tema que tanto desperta fascínio hoje em dia para os quarentões e trintões que jogavam aqueles joguinhos de fliperama com um ou dois botões.
 

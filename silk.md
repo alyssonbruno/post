@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-01-18"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Silk"
-stars: "2/5"
 ---
 Esse drama-romance se passa no século 19, onde viajar pelo mundo não era agradável, nem rápido, nem seguro. A forma com são retratadas as longas viagens que o protagonista (Michael Pitt) faz em busca de ovos do bicho-da-seda pela África e, principalmente, pelo Japão, são o ponto forte da trama.
 

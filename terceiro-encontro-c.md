@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2008-01-22"
-title: Terceiro encontro C++
 tags: [ "draft", "ccppbr" ]
+title: Terceiro encontro C++
 ---
 Nesse último sábado aconteceu, como previsto, o terceiro encontro de usuários/programadores C++. Foi um sucesso bem maior que o esperado, pelo menos por mim e pelas pessoas com quem conversei. A organização foi fantástica, e o patrocínio muito importante, o que deu abertura para pensamentos mais ousados sobre o futuro de C++ no Brasil. Foi gerada uma lista de resoluções para o futuro (que começa hoje), onde pretendemos, inclusive, fazer reuniões no mesmo estilo trimestralmente.
 

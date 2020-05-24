@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-11-02"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Morte lhe Cai Bem"
-stars: "4/5"
 ---
 Comédia da sessão da tarde feita nos anos 90, era um filme engraçadinho com efeitos visuais de espantar. Hoje se transformou em uma surpreendente crítica aos cosméticos e uma direção extremamente inspirada de Robert Zemeckis (O Voo), que já naquela época prezava pelo controle e expressão do tom do filme através dos nada sutil enquadramentos.
 

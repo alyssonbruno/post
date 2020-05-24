@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-02T21:26:40-03:00
-title: "Um Amor Inesperado"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Um Amor Inesperado"
 ---
 Um Amor Inesperado, apesar de ser falado em espanhol, apesar de ser argentino, apesar de ter Ricardo Darín, é, antes de tudo, uma comédia romântica. E que muito se aproxima das hollywoodianas, daquelas que não possuem profundidade o suficiente para fazer pensar sobre relacionamentos como algo mais geral, mais reflexivo. O maior erro em ver esse filme é supor que por conta de ser cinema argentino com Darín deve ser algo muito acima da média.
 

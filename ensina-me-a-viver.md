@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-11-27"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Ensina-me a Viver"
-stars: "4/5"
 ---
 Harold é um garoto problemático para sua idade. Obcecado em fingir suicídios e sentindo prazer em frequentar enterros, não possui outra pretensão na vida. Introspecto e de poucas palavras, o uso de músicas existencialistas em torno dos seus atos aprofunda ainda mais seus sentimentos.
 

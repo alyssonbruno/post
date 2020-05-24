@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2008-05-19"
-title: Busca do Google com atalhos
 tags: [ "draft",  ]
+title: Busca do Google com atalhos
 ---
 Eu adoro atalhos de teclado. Desde meus primeiros anos usando computadores, atalhos têm se tornado minha obsessão. Sempre faço minha pesquisa pessoal de tempos em tempos, colecionando e usando novos atalhos descobertos. Por um bom tempo eu evitei ter que usar o mouse, treinando-me para lembrar de todas as seqüências de teclas que conhecia.
 

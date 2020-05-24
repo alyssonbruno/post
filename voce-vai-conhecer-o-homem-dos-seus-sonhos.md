@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-11-26"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Você Vai Conhecer o Homem dos Seus Sonhos"
-stars: "3/5"
 ---
 Personagens que Allen adora colocar em cena: a cartomante que faz papel de psiquiatra, a velhinha que procura uma cura para sua tensão pós-separação, o ex que está velho demais para recomeçar e acreditar ter o gene da longevidade, o escritor fracassado de um sucesso só, casado com a consultora de artes em um casamento que logo, logo, irá se abalar, e a noivinha pronta para sair do casamento.
 

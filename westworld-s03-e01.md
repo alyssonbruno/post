@@ -1,9 +1,9 @@
 ---
-date: "2020-04-28"
-title: "Westworld S03 E01"
 categories: [ "cinema" ]
+date: "2020-04-28"
 stars: "3/5"
 tags: [ "draft", "series" ]
+title: "Westworld S03 E01"
 ---
 Não há muitos motivos por trás de quem deseja assistir à continuação de uma série como Westworld. Exceto a falta do que fazer, talvez. As ambições da série terminaram na primeira temporada e agora ela se estende pelas suas ideias que deixaram de ser filosoficamente ambiciosas e passaram a retroalimentar o sistema moralista vigente. A introdução do novo personagem da classe trabalhadora interpretado por Aaron Paul (ótimo casting) e a vida lá fora, com seus arranha-céus ecologicamente corretos, seriam motivo suficiente para assistirmos a mais uma série com computação? Esses jardim suspensos da Babilônia futuristas lembram e referenciam o império bizantino, tanto em seu esplendor quanto sua grande derrocada.
 

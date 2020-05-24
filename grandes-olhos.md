@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-05-02"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Grandes Olhos"
-stars: "3/5"
 ---
 Olhos Grandes é uma incursão do diretor Tim Burton por um universo já existente, o que se por um lado favorece seu lado de direção de arte a exagerar um conteúdo já determinado, por outro lado limita sua capacidade de fazer o mesmo com seus personagens, que soam irreais em uma história baseada em fatos reais.
 

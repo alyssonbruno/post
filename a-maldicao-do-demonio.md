@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-08-11"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Maldição do Demônio"
-stars: "4/5"
 ---
 Acabei assistindo este pequeno clássico de terror italiano em inglês (na Netflix americana), mas pouco se perde quando vemos que o visual arrebatador de sombras e efeitos até que competentes (ainda hoje) consegue subverter o sensual para o escatológico com uma facilidade que parece torná-los indissociáveis. Quer mais terror que isso?
 

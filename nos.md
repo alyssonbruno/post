@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-12"
-title: "Nós"
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Nós"
 ---
 > "Portanto, assim diz o Senhor: Eis que trarei sobre eles mal, de que não poderão escapar; e, se clamarem a mim, não os ouvirei."
 

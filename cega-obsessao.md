@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-07"
-title: "Cega Obsessão"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Cega Obsessão"
 ---
 Houve nas décadas de 50 e 60  dois grandes e importantes movimentos no cinema mundial que chacoalharam as estruturas do que poderia ser mostrado na tela: o nouvelle vague francês e as pornochanchadas brasileiras. A união desses dois mundos no japão gerou filmes de horror eróticos reciclados do autor Edogawa Ranpo (1894-1965) e seus mistérios de ficção que lidavam com o bizarro.
 

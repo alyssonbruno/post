@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-03-27"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Albert Nobbs"
-stars: "4/5"
 ---
 Não é uma discussão de gêneros, mas da estreiteza da alma humana. Albert Nobbs se torna um personagem de tragédia anunciada, mas nunca deixa de ser fascinante através da pele de uma Glenn Close obstinada em entregar uma figura que teve uma vida tão desesperada, e por tanto tempo, que se acostumou em viver presa em sua jaula do dia-a-dia, enquanto ajunta pacientemente centavos e xelins para uma dia viver a vida que lhe fora negada desde a infância. 
 

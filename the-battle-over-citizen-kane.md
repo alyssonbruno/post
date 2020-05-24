@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-01"
-title: "The Battle Over Citizen Kane"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "The Battle Over Citizen Kane"
 ---
 Se Cidadão Kane, de 1941, caiu no esquecimento do grande público por tanto tempo, The Battle Over Citizen Kane, de 1996, veio reavivar a fogueira das vaidades de dois gigantescos egos lutando por seu lugar ao sol em uma poderosa Hollywood, palco de contradições desde seu nascimento.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-10-24"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Jitters"
-stars: "3/5"
 ---
 Da minha limitada (põe limitada nisso) experiência, o que já vi do cinema islandês é que ele foca muito na relação e nas descobertas dos seus jovens, e este, acredite, não foge nem um pouco da fórmula. Apresentando desde o início a descoberta de um jovem de ser gay, esse pequeno segredo dele permeia todo o longa, servindo de contraponto com a relação dos outros personagens e seus anseios. Por exemplo, a melhor amiga desse jovem, encontra suporte em seu jeito doce, mas, equivocada, não sabe se está afim dele ou não.
 

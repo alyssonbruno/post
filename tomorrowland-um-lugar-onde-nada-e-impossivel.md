@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-11-23"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tomorrowland: Um Lugar Onde Nada é Impossível"
-stars: "3/5"
 ---
 Um "A Corrente do Bem" atualizado a nível tecnológico, inserido em uma aventura onde pessoas voam, coisas voam e a NASA é uma expansão da Disney. Ou seria o contrário?
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-08-10"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Marcas do Passado"
-stars: "2/5"
 ---
 Basicamente temos a história de um vendedor (Guy Pearce) que, ao consultar um vidente em uma estrada longe de tudo põe à tona sua consciência sobre fatos do passado que levaram seu amigo a ser preso. Isso faz com que o sujeito reavalie sua própria ambição descontrolada.
 

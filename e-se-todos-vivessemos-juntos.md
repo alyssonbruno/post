@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-10-21"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "E se Vivêssemos Todos Juntos?"
-stars: "3/5"
 ---
 "E se todos vivêssemos juntos" parte do princípio que se eu apresentar as características que definem cada um dos simpáticos velhinhos que protagonizam essa comédia poderia me livrar de qualquer compromisso narrativo e simplesmente criar situações engraçadas, livre das amarras de discutir uma questão importantíssima na Europa de hoje: a terceira idade se tornando uma maioria ativa e, se bobear, economicamente mais ativa.
 

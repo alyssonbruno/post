@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-09T12:08:39-03:00
-title: "Amor, Morte & Robôs"
-
-tags: [ "draft", "series" ]
 stars: "4/5"
-
+tags: [ "draft", "series" ]
+title: "Amor, Morte & Robôs"
 ---
 Love, Death + Robots é aquela série de animação que faz nós, nerds da primeira geração de vídeo games, com seus quadrados e retângulos de 16 cores que viram exploradores na selva (Pitfail, estou olhando para você) vibrarem como aquele personagem de Detona Ralph vibrou quando viu quanta resolução havia no rosto de sua amada.
 

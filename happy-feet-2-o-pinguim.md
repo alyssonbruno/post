@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-04"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Happy Feet 2 O Pinguim"
-stars: "2/5"
 ---
 Era de se esperar uma queda básica na qualidade narrativa do original Happy Feet, de 2006. Na época pegando carona no belíssimo documentário do ano passado, A Marcha dos Pinguins, o filme traçava um paralelo do que aconteceria se um dos filhotes da espécie apresentasse uma característica... inusitada. No caso, todos os pinguins da raça Imperador são exímios cantadores, enquanto o filhote diferente gostava de sapatear. Ambas as características suportaram números de encher os olhos e os ouvidos, com performances de cair o queixo, com destaque absoluto para Somebody to Love (Queen).
 

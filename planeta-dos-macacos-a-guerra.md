@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-19T12:05:46-02:00
-title: "Planeta dos Macacos: A Guerra"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Planeta dos Macacos: A Guerra"
 ---
 É impressionante a qualidade constante dessa nova trilogia. Planeta dos Macacos: A Guerra mantêm as mesmas virtudes técnicas e narrativas de seu antecessor (Planeta dos Macacos: O Confronto) e segue a mesma história do filme inicial que é o mais fraco de todos, mas se ancora na força de sua ideia e nas referências ao "Planeta dos Macacos" original (aquele com Charton Helston).
 

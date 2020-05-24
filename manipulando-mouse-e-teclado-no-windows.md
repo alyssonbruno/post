@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: 2018-07-04T13:44:40-03:00
-title: "Manipulando Mouse e Teclado no Windows"
 tags: [ "draft",  ]
+title: "Manipulando Mouse e Teclado no Windows"
 ---
 Uma forma extremamente bem comportada que o Windows tem para manipular entrada de mouse e teclado são as funções API BlockInput/SendInput [1][2]. Enquanto uma bloqueia todos os eventos de input vindo de todos os lugares do sistema, o outro consegue enviar inputs apenas por software. Imagine a peça que você pode pregar em seus amigos.
 

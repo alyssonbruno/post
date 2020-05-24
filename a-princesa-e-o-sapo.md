@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-12-09"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Princesa e O Sapo"
-stars: "3/5"
 ---
 Última animação em 2D da Disney e primeira princesa negra, a ideia que a produtora norte-americana de animações quis passar foi de uma mulher independente, Tiana (Anika Noni Rose), que sonha em construir um restaurante que era um sonho do seu finado pai. Ela mora em Nova Orleans, e possui uma amiga branca, Charlotte (Jennifer Cody), que, rica, sonha em se casar com um príncipe.
 

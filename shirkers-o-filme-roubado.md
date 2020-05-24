@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-09T11:54:24-02:00
-title: "Shirkers: O Filme Roubado"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Shirkers: O Filme Roubado"
 ---
 Uma garota queria muito fazer um filme. Ela acaba o tornando realidade, mas ele é roubado pelo próprio diretor. Décadas depois ela nunca mais fez nada relacionado a cinema, e chega a hora dela rever esse frustrante episódio de sua vida da única forma que é possível: fazendo outro filme.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-03-26T22:17:35-03:00
-title: "O Mecanismo"
-tags: [ "draft", "series" ]
-
 stars: "2/5"
+tags: [ "draft", "series" ]
+title: "O Mecanismo"
 ---
 Desde Narcos fica claro que Padilha não está bem. Acostumado a tentar chocar a sociedade usando detalhes sutis da realidade mais estranha que a ficção (Tropa de Elite, Tropa de Elite 2, Robocop (2014)), o diretor erradicado do Brasil por conta de ameaças à sua integridade e de sua família por conta de um possível Tropa de Elite 3, sua série "O Mecanismo" tenta resgatar o patriotismo brega de um brasileiro que já se esqueceu faz tempo o conceito de patriota, permeado de uma onda direitista extremamente brega. Se a esquerda sabe ser populista com a classe de um pedreiro, a direita consegue passar vergonha até quando está falando sério.
 

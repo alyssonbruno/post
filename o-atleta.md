@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-11-04"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Atleta"
-stars: "5/5"
 ---
 O filme começa com a luz do sol, tão presente durante o longa, se transformando na luz do projetor de cinema. Esse projetor fará parte do final, quando voltamos para o mesmo close no início. As tomadas iniciais dele chegando ao interior da Etiópia apresentam uma largura de campo estrondosa, exatamente para dar a impressão de grandeza e imensidão que não acaba mais nas planícies do país de origem, e da região, do corredor. Aliás, esse detalhe pode ser visto no belíssimo zoom out dele correndo do lado de um desfiladeiro. Aos poucos esse desfiladeiro vai sumindo e dando lugar à planície.
 

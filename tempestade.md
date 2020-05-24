@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-21"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tempestade"
-stars: "3/5"
 ---
 Este é um filme leve, com uma história simples e e fácil de digerir. Há algum simbolismo por trás do enredo, mas a falta de força dessas pessoas em tomar as rédeas de suas vidas é deprimente. É a típica história de "não somos donos do nosso destino" com uma pitada do ataque ao dinheiro. Uma conversa velha reciclada em um filme tão bem feito quanto descartável, já que não tem nada a dizer.
 

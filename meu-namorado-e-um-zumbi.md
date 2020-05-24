@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-02-14"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Meu Namorado é um Zumbi"
-stars: "4/5"
 ---
 R (Nicholas Hoult) é um zumbi, mas isso não evita que ele pense e avalie suas ações. Comer cérebros, por exemplo, é quase uma necessidade, pois R não pode dormir e sonhar, mas através dos cérebros dos humanos ele consegue visualizar as memórias da vida que acabou de matar e, assim, se sentir vivo novamente por alguns momentos.
 

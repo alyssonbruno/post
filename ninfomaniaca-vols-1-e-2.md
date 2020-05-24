@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2016-06-06"
+stars: "4/5"
 tags: [ "draft",  ]
 title: "Ninfomaníaca Vols 1 e 2"
-stars: "4/5"
 ---
 Um estudo de personagem puro. A revisão de ambos os filmes, estreando agora na Netflix brasileira, revela que não há de fato uma história amarrada, onde uma coisa leva a outra. A única coisa que move Joe são as coincidências e as variações de sua libido. A curiosidade do filme é mais sobre esse universo, e menos sobre suas memórias.
 

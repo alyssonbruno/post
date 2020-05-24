@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-10-13"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Goonies"
-stars: "3/5"
 ---
 "'Um grupo de meninos embarcam em uma aventura após encontrar o mapa de um suposto tesouro escondido.' É com esse argumento simples que se constrói um dos filmes mais empolgantes e divertidos dos anos 80. De fato, a união do roteirista Chris Columbus (O Enigma da Pirâmide), do diretor Richard Donner Superman: o Filme e do idealizador Steven Spielberg (precisa dizer algo?) deve ter produzido uma espécie de esfera criativa nunca antes vista, e que até produz ecos na filmografia contemporânea, em que o exemplo mais recente é o filme-homenagem Super 8, de J.J. Abrams."
 

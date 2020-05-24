@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-02-12"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "LEGO Batman: O Filme"
-stars: "4/5"
 ---
 Dos mesmos "mestres construtores" de Uma Aventura LEGO, este Lego Batman vem para iniciar uma franquia já sugerida no original. E vira um dos melhores filmes de Batman sobre filmes de Batman já idealizados por uma criança!
 

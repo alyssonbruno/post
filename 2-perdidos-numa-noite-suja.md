@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-06"
-title: "2 Perdidos Numa Noite Suja"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "2 Perdidos Numa Noite Suja"
 ---
 Este filme é baseado em uma peça antiga de Plínio Marcos, mas isso você já sabe nos primeiros minutos da trama, que se passa com duas pessoas que ficam paradas no mesmo lugar falando muitas coisas da vida. Ou seja: teatro. Este também é um remake, pois a peça original também originou um filme de 1971 com o mesmo nome, dirigido por Braz Chediaz. De qualquer forma, este é um filme não-cinema, cujo objetivo é apenas nos fazer refletir sobre a vida.
 

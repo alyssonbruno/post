@@ -1,9 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2017-02-13"
-title: "Convertendo Windows de UEFI para MBR"
 tags: [ "draft",  ]
-
+title: "Convertendo Windows de UEFI para MBR"
 ---
 Quando você pesquisa sobre isso no Google o que mais encontra é ferramentas "gratuitas" que prometem fazer a conversão ou algo do gênero. No entanto, há um procedimento simples em que o próprio Windows pode corrigir os problemas oriundos da conversão do boot UEFI/GPT. Depois, é claro, que você usar uma outra ferramenta esperta open-source =)
 

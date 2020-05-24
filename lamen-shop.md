@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-08-08T22:40:22-03:00
-title: "Lámen Shop"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Lámen Shop"
 ---
 Lámen Shop é um filme sem roteiro. O que praticamente diz tudo o que você precisa saber sobre os defeitos incorrigíveis de um filme onde o espectador não consegue enxergar o que move seu protagonista, nem qual o grande conflito que ele tenta resolver durante uma história que foi feita para chorar (e consegue), mas que não entrega profundidade alguma nesse choro.
 

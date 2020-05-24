@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-05-28"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Fome de Poder"
-stars: "4/5"
 ---
 Esta é a história do primeiro fast-food do mundo, o famigerado McDonald's, ou a história de como uma rede de restaurantes se torna um império imobiliário. Todos os eventos baseados em fatos reais está disponível em "The Founder", ou a péssima tradução "Fome de Poder", com um tom excessivamente dramático e com a alma de um Michael Keaton que desde Birdman parece usar seu ego fora do controle para papéis megalomaníacos.
 

@@ -1,8 +1,8 @@
 ---
-date: "2020-04-26"
-title: "Aproveitando Fermento Natural"
 categories: [ "blog" ]
+date: "2020-04-26"
 tags: [ "draft", "food", "recipes" ]
+title: "Aproveitando Fermento Natural"
 ---
 Parei de cultivar fermento natural todos os dias. O objetivo era observar as mudanças nos diferentes regimes de alimentação e temperatura. Porém, o descarte de fermento é absurdamente grande e não sabia o que fazer com ele.
 

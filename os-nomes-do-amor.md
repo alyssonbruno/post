@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-12"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Os Nomes do Amor"
-stars: "4/5"
 ---
 Ele, um esquerdista especialista em epidemias nos animais. Ela, uma libertária tão libertária que às vezes se esquece de colocar a roupa para sair de casa. Ambos, uma relação que mescla tanto as visões políticas quanto sexuais da França atual. Porém, mais importante, levanta a sensível questão da imigração, que vem engrossando caldo desde o movimento anti-terrorista liderado pelo governo Bush e evidenciado na crise europeia.
 

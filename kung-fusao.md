@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-10-06"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Kung-Fusão"
-stars: "4/5"
 ---
 Após uma revisita ao filme-gêmeo de Shaolin Soccer, ambos exploram esse conceito do Kung-fu extrapolado ao cotidiano, a sensação é de um frescor de ingenuidade e violência comparados a Kick Ass (e não me admiraria que este fosse inspirado naquele). Só pelo fato da violência existir com mortes e essas mortes serem relevantes para estabelecer o peso da tensão em um filme que obviamente é uma comédia já mereceria créditos de sobra.
 

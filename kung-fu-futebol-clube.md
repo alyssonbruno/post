@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-09-07"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Kung-Fu Futebol Clube"
-stars: "4/5"
 ---
 Shaolin Soccer é uma "versão beta" do hilário Kung-Fusão, mas é muito mais coerente em sua proposta de usar o Kung-Fu como uma forma de todas as pessoas melhorarem o que quer que façam no dia-a-dia através dessa arte milenar chinesa. Coerente, mas não menos confusa: apresentando personagens de maneira mais ou menos aleatória, e com o desafio de montar um time de futebol com personagens obviamente simplistas (o gordo, o fumante, o magro, etc), os únicos que parecem ter um pouco mais de polimento no roteiro são as versões original e nova da lenda conhecida como "Pé de Ouro": pernas dotadas de uma força descomunal que chutam bolas (e qualquer outra coisa) com força desproporcionalmente absurda. (Ah, sim, claro, e o interesse amoroso do herói.)
 

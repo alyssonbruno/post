@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-03-28"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Atividade Paranormal Tóquio"
-stars: "3/5"
 ---
 Verdade seja dita: os asiáticos sabem fazer terror como nunca.
 

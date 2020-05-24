@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2007-09-20"
-title: "A mobilidade das variáveis no printf"
 tags: [ "draft", "ccpp" ]
+title: "A mobilidade das variáveis no printf"
 ---
 O printf (e derivados) tem sérios problemas por conta de sua falta de tipagem. Não vou aqui dizer que cout é a alternativa óbvia e melhorada porque não é. Mas isso é uma discussão que eu não deveria começar aqui. E não começarei. Portanto, ignorem essa linha =).
 

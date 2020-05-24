@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-09-18T21:47:41
+stars: "3/5"
 tags: [ "draft", "series", "animes" ]
 title: "Death Note: Notas da Morte"
-stars: "3/5"
 ---
 Esta série japonesa se estende por mais tempo do que devia e não entende todo o seu potencial narrativo. Esta é uma história que possui altos e baixos em torno de uma ideia poderosa, e arrisco dizer que seus altos superam seus baixos. Mas sua conclusão é clichê, comercial demais para sentir-se o peso do que estava sendo discutido.
 

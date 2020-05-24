@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-05-21"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Fúria de Titãs"
-stars: "3/5"
 ---
 Fúria de Titãs busca ser uma superprodução sobre deuses e humanos, mas falha miseravelmente em sua abordagem 3D, especialmente em suas transições, onde um bebê no barco parece distorcido ou a aparência de Hades quando este aparece entre os humanos.
 

@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-11-06"
 review: [ "2014" ]
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Palhaço"
-stars: "5/5"
 ---
 É muito difícil escrever sobre filmes ruins, atacando às vezes sem sentido (aparente) e muitas vezes com uma visão precipitada ou exacerbada. Por outro lado, falar de um filme virtuoso em tantos aspectos como é o caso de O Palhaço pode ser uma atividade prazerosa e ao mesmo tempo um ato de injustiça: por deixar tantos detalhes do lado de fora.
 

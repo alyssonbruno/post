@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-05-22T17:52:58-03:00
-title: "Desejo de Matar (1974)"
-tags: [ "draft", "movies" ]
-
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Desejo de Matar (1974)"
 ---
 O primeiro Desejo de Matar, de 1974, teve a censura nos cinemas colocada em 14 anos. O novo Desejo de Matar, com Bruce Willis, com uma história muito próxima (e sem peitinhos) saiu nos cinemas com censura 18 anos. Não imagino dado mais relevante para a mudança da cultura americana nas últimas décadas, onde sua população mudou de donos do próprio destino para cordeirinhos prontos para se deixar açoitar por criminosos de qualquer espécie pelo bem do pacifismo irracional e auto-destrutivo.
 

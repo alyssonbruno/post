@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
-title: "Receita: Bolo de Fubá"
-tags: [ "draft", "food", "recipes" ]
 date: 2019-09-08
+tags: [ "draft", "food", "recipes" ]
+title: "Receita: Bolo de Fubá"
 ---
 
 Ingredientes: 1 Copo e meio de farinha de trigo comum (copo de 250 ml, copo de requeijão), 1 Copo e meio de fubá, 4 ovos inteiros, uma pitada de sal, 1 copo e meio de açúcar, 1 Copo de leite, 1 Xícara de óleo (200 ml), 1 Colher das de sopa super cheia de margarina, 1 Colher das de sopa de fermento químico.

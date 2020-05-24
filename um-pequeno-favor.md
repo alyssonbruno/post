@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-02T14:09:58-02:00
-title: "Um Pequeno Favor"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Um Pequeno Favor"
 ---
 Minha colega de profissão no CinemAqui, Mariana González, me recomendou Um Pequeno Favor o chamando de "quase uma versão comédia doida de Garota Exemplar". E agora me sumiram melhores palavras para definir esse filme de Paul Feig. Mas eu vou tentar.
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-16"
-title: "Sedução"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Sedução"
 ---
 É um filme saudosista filmado nos anos 90 sobre a queda da ditadura espanhola dos anos 30. Ele celebra o amor livre, o laicismo e todas as esperanças do que ainda acham que a República é a solução de todos os males da humanidade. Mas ele o faz de maneira charmosa, sensual e verdadeiramente humanista. É uma comédia sobre amor e sexo, e por isso mesmo está infestado de comentários políticos. Não é na propaganda que se esconde o inimigo, mas nas entrelinhas. Mas não se preocupe, leitor de extrema direita, há mulheres para todos os gostos aqui.
 

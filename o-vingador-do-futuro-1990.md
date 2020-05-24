@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-11-04"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Vingador do Futuro"
-stars: "4/5"
 ---
 Roteirizado por Ronald Shusett e Dan O'Bannon, duas figuras envolvidos desde o início na série Alien, a história digerida pelo visceral Paul Verhoeven consegue a proeza de ser um filme e tanto de ação e se basear em uma premissa que  diferente do remake recente  consegue se tornar ambígua até o final: tudo que estamos vendo é de fato real ou é apenas um sonho implantado pela companhia que leva o título original?
 

@@ -2,9 +2,9 @@
 categories: [ "cinema" ]
 date: "2012-01-15"
 review: [ "2019" ]
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Depois da Vida"
-stars: "4/5"
 ---
 Pense rápido: se você morrer hoje escolha de toda sua vida apenas uma memória para guardar para toda a eternidade. No filme de Hirokazu Koreeda, o mundo pós-vida possui um sistema de acompanhamento das pessoas que recentemente faleceram e cujo objetivo é exatamente esse.
 

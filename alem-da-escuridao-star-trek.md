@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-06-17"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Além da Escuridão Star Trek"
-stars: "5/5"
 ---
 Vendo a nova aventura dos Trekkers e revendo o genial reboot de J. J. Abrams (2008/9) fica claro que cada um é a metade de um todo maior, que poderiam ser mais enxutos (assim como Kill Bill) e que juntos seriam um excelente estudo de personagem. Ainda assim, separados, se transformam em duas aventuras físicas e mentais (essa nem tanto) ótimas em si mesmo, embora perigosamente esquecíveis para os não-fãs.
 

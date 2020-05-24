@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-22T12:00:55-03:00
-title: "Ghost World: Aprendendo a Viver"
-tags: [ "draft", "movies" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" ]
+title: "Ghost World: Aprendendo a Viver"
 ---
 Duas garotas se formam no colégio. Uma encara a realidade, arruma um emprego e vai morar sozinha. A outra é a de artes. É aí que o filme começa.
 

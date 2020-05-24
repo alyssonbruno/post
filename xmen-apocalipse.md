@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-06-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "X-Men: Apocalipse"
-stars: "3/5"
 ---
 O clássico problema da ótima direção não salvar um roteiro ruim. E, neste caso, o roteiro consegue construir a história mais fraca desde que "X-Men: O Filme" (do mesmo Bryan Singer, em 2000) deu à luz à série.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-10-05"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Samurai X 1: O Filme"
-stars: "2/5"
 ---
 Em um momento do filme um personagem fala: "Me mate", no que o outro responde: "Morra". Logo depois, algúem diz: "Seja bem-vindo de volta", no que o outro responde: "Estou de volta". Acredito que isso sirva para demonstrar um dos grandes erros em Samurai X 1: O Filme: sua redundância. Com uma duração de duas horas e 14 minutos, o diretor Keishi Ohtomo (Samurai X 1: O Filme, Samurai X 2: O Inferno de Kyoto, Samurai X 3: O Fim de Uma Lenda... "Samurai X 4: Antes do Início"?) parece ter se empolgado um pouco demais com o personagem nascido dos mangás (e posteriormente anime).
 

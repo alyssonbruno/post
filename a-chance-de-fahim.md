@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-05"
-title: "A Chance de Fahim"
-tags: [ "draft", "movies", "cinemaqui" ]
 stars: "2/5"
+tags: [ "draft", "movies", "cinemaqui" ]
+title: "A Chance de Fahim"
 ---
 A Chance de Fahim chega como um drama preguiçoso em que a notícia de jornal acaba sendo mais empolgante do que um filme inteiro. Fahim Mohammad, um garoto de Bangladesh, chega com sua família em Paris foragido de sua terra natal e suas habilidades em jogar xadrez o ajudam a se estabelecer no novo país. A versão cinematográfica diminui seus personagens para que eles se encaixem no único interesse do diretor e roteirista Pierre-François Martin-Laval: uma mensagem social sobre refugiados.
 

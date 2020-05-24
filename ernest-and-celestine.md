@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-06-04"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Ernest and Célestine"
-stars: "3/5"
 ---
 É um desenho de 2012, indicado ao Oscar de 2014, que estreou na Netflix esse mês (2015). Falado em francês e dirigido por três pessoas, o filme parece possuir um maior poder de marketing do que de contar uma história diferente do que o velho clichê "eles vivem em mundos diferentes". Contudo, é bem desenhado, mantendo suas virtudes em seu toque artístico.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-06-14"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Príncipe da Pérsia As Areias do Tempo"
-stars: "3/5"
 ---
 Inspirado pelo post recente do Daniel Quadros, um programador como eu, mas que gosta de se aventurar em outras áreas (como eu), resolvi publicar minhas impressões sobre esse filme de 2010, que assisti no cinema com o meu antigo caderno de anotações (hoje aposentado até segunda ordem). Minha ideia era apenas praticar minha sensibilidade sobre a sétima arte, mas aos poucos estou organizando os textos da época.
 

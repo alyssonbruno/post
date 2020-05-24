@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-05-23"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Alien: Covenant"
-stars: "3/5"
 ---
 É muito bom poder assistir um terror espacial novamente. Reviver o pouco do brilho da tripulação original de Alien. Eu faria isso facilmente pela vida toda. E depois do infelizmente medíocre Prometheus, é possível quase perdoar as pequenas falhas de "Alien: Covenant,", a segunda aventura dessa nova fase que pretende se estender pelo menos mais um episódio.
 

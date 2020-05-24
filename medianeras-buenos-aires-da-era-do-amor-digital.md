@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-09-11"
 review: [ "2013" ]
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Medianeras Buenos Aires da Era do Amor Virtual"
-stars: "3/5"
 ---
 Estreia de Gustavo Taretto na direção de longas, Medianeras inicia já com uma proposta criativa e que funciona muito bem: com dois narradores em off, temos a impressão de assistir a dois filmes interlaçados que aos poucos se aproximam, o que por si só já revela muito sobre as ideias por trás da história. 
 

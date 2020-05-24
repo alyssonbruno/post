@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-24"
-title: "Amor à Flor da Pele"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Amor à Flor da Pele"
 ---
 Wong Kar-Wai é um cineasta que não gosta de roteirizar seus filmes. Ele prefere ir apalpando e sentindo até onde pode ir a exploração de um tema. Por isso mesmo ele é exímio diretor de curtas, principalmente de TV. Curtas expressam bem sua opinião sobre Cinema: momentos que serão eternizados pelo audiovisual.
 

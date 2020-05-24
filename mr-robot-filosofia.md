@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-08-28T19:17:19
+stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Filosofia De Mr Robot"
-stars: "5/5"
 ---
 Então eis que ergue-se um mundo niilista, até um pouco absurdista, onde o controle é uma ilusão. O sonho de garoto de salvar o mundo encontra novos significados do que é mundo e do que é salvar. Elliot não é apenas multifacetado pela figura de sua família; ele É sua família. E não apenas isso, mas consequência do próprio mundo que ele deseja salvar. Há desafios hercúleos em sua jornada, que parecem intransponíveis para nós, mortais. O que dirá , então, para um hacker esquizofrênico.
 

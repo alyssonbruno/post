@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-01-24"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Celebridades"
-stars: "4/5"
 ---
 O que dizer da fase Woody Allen onde ele se propôs a produzir um filme por ano e consegue reunir um elenco tão afiado que conseguem desempenhar papéis que, mesmo longe do seu brilhantismo, participam do universo do diretor de maneira tão orgânica? Temos aqui dois "Allens": o escritor/roteirista Lee Simon (Kenneth Branagh), que possui sua baixo autoestima como gancho de todos os seus fracassos, e sua mulher, a professora Robin Simon (Judy Davis), cuja transformação à base de neurose e uma boa dose de sorte a torna a heroína às avessas da história.
 

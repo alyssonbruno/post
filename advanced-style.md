@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-10-25"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Advanced Style"
-stars: "4/5"
 ---
 A partir do blogue do fotógrafo Ari Cohen, que iniciou este projeto de registrar as mulheres mais idosas e mais bem vestidas das ruas de Nova Iorque, o filme de Lina Plioplyte esbanja charme, espiritualidade e uma energia sobrenatural vinda da vida de sete senhoras que usam a moda e outras artes como expressão de suas avançadas vidas com um toque de humor e leveza que raramente encontramos no fim da vida. Nenhuma delas aparente as idades que têm, e é por isso que o filme faz questão de dizê-las a cada nova apresentação. A lucidez em se expressar, verbal e visualmente, além das reflexões muito bem-vindas sobre o que é este último passo em suas vidas, transforma uma experiência sem quase nenhum foco em um passeio glorioso pelo significado de viver tanto tempo e ainda descobrir mais vida na próxima esquina.
 

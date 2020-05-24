@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-04-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Jumper"
-stars: "3/5"
 ---
 Em vários momentos de Jumper, principalmente na sua conclusão, podemos quase sentir o desperdício quase completo de uma boa ideia para um filme mais intrigante do que se transformou na realidade.
 

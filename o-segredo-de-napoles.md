@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-23T21:37:56-02:00
-title: "O Segredo de Nápoles"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "O Segredo de Nápoles"
 ---
 O Segredo de Nápoles possui uma atmosfera de mistério junto de um drama pessoal que desafia nossa percepção da realidade, e seria ingênuo de nossa parte considerar verdade apenas o que pode ser provado. Afinal o que sabemos da vida está fadado a falhas e incertezas de nossa percepção.
 

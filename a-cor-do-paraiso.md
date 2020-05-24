@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-18"
-title: "A Cor do Paraíso"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "A Cor do Paraíso"
 ---
 Mohammad é um menino cego que precisa frequentar uma escola para deficiente que fica no fim do mundo, na cidade de Teerã. Ou seria o fim do mundo onde ele mora? Contextualizado no Irã, esta fábula escrita e dirigida por Majid Majidi, assim como ele fez em Filhos do Paraíso aborda personagens limitados, pobres de espírito, mas não tendo escolha exceto tendo que viver como cada um de nós.
 

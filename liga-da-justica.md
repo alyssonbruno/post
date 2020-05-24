@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-11-24T19:14:37
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Liga da Justiça"
-stars: "2/5"
 ---
 Há alguns bons minutos no começo de Liga da Justiça onde eu gostaria muito de voltar a ser criança e vibrar vendo Mulher Maravilha, Batman e Flash juntos! Esses bons minutos, no entanto, passam logo, e no lugar vemos exatamente 120 minutos de uma obra sem começo nem fim, visualmente e narrativamente confusa, barulhenta e com uma miscelânea de cores que não combinam muito bem juntas. A colagem de Mulher-Maravilha dentro de um cenário, ambos com cores bem díspares, é o que representa para mim a união entre milhões sendo gastos em uma produção que parece sempre barata demais.
 

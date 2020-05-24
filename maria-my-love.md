@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-11-01"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Maria My Love"
-stars: "3/5"
 ---
 Geralmente um filme costuma martelar constantemente um conceito qualquer por um motivo qualquer. No caso desse Maria My Love, projeto independente filmado em um discutível digital (mas "assistível"), o amadorismo no uso do foco aparentemente é o tal conceito, pois pode-se perceber na insistência irritante de nunca manter a lente focada em qualquer que seja o motivo, personagem ou objeto.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-03-01"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Love - Primeira Temporada"
-stars: "3/5"
 ---
 O que significa se relacionar? Por que para algumas pessoas isso funciona tão bem, enquanto para outras é como dirigir um trator esmagando todos os corações pelo caminho?
 

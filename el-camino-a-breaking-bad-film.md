@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-26"
-title: "El Camino: A Breaking Bad Film"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "El Camino: A Breaking Bad Film"
 ---
 Aaron Paul é um ótimo ator, mas isso podemos dizer de qualquer um do elenco de personagens de Breaking Bad, a série mais relevante da última década da TV americana. Através da escolha de elenco e da direção coletiva de uma equipe coesa e competente em manter o design de produção da série em evidência, ainda que deixando escapar seus estilos pessoais, nós nos acostumamos a esperar nada menos do que o estado da arte em narrativas que falam de assuntos mais profundos que sua superfície pop.
 

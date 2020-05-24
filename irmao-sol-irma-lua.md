@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-28T13:43:08-02:00
-title: "Irmão Sol, Irmã Lua"
-
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Irmão Sol, Irmã Lua"
 ---
 Este filme é uma descrição sincera e pura da epifania que São Francisco de Assis teve no momento-chave de sua vida. Mas se acompanharmos a história em todos os seus detalhes, você também poderá concluir que quando um maluco aleatório surgia nos tempos antigos alguns acreditavam ser um sábio, e a roda da história não consegue desprovar o que é provado por revelação. Então temos o seguinte dilema que Franco Zeffirelli nos entrega aqui: seria Francisco o cristão mais lúcido que já pisou nesta terra (com os pés descalços) ou o maluco mais bem-intencionado que já se teve notícia?
 

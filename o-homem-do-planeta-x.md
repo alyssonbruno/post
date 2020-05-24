@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-03-04"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "O Homem do Planeta X"
-stars: "2/5"
 ---
 Esse é um trash dos anos 50 no sentido mais típico da palavra. Tentando criar uma atmosfera de tensão ao incluir um alienígena cujas intenções não são conhecidas em torno de homens com objetivos bem distintos entre eles  um repórter, um cientista e um ganancioso  O Homem do Planeta X se esquece de incluir também explicações mais verossímeis para sua história, mesmo se tratando de uma época onde a ingenuidade reinava no Cinema.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-11-26"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Senna"
-stars: "5/5"
 ---
 De que são feitos os heróis? Como uma pessoa cresce internamente e transparece externamente, para o resto do mundo, como alguém que faz a diferença; tanto profissional, quanto moralmente?
 

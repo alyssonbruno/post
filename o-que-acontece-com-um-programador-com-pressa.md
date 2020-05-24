@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2008-10-05"
-title: O que acontece com um programador com pressa
 tags: [ "draft", "essays" ]
+title: O que acontece com um programador com pressa
 ---
 Eu já sabia, mas é lógico que não ia falar.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-06-14"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Encantada"
-stars: "4/5"
 ---
 Encantada inicia com um desenho de conto de fadas genérico, cuja introdução apenas serve para nos habituarmos com aquele mundo e a sua dinâmica. A largura da tela diminui sutilmente e faz-se a transição para o mundo real, mais amplo, na própria visão da princesa Giselle.
 

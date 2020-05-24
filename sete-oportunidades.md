@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-17"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Sete Oportunidades"
-stars: "5/5"
 ---
 Seven Chances é um filme de uma hora de Buster Keaton que mais uma vez consegue a proeza de contar uma história datada, fútil e banal da maneira mais prosaica, mais hilária e mais movimentada possível.
 

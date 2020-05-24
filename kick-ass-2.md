@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-03-10"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Kick Ass 2"
-stars: "2/5"
 ---
 Tudo que o original tinha de divertido e tenso -- a violência exacerbada envolvendo crianças e a própria realidade da loucura que é ser um jovem vigilante -- foi retirado nessa continuação, que soa mais como uma produção Marvel. Afinal, é isso o que o público hoje se contenta em ver: baixos riscos, altas expectativas.
 

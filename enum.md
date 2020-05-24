@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2010-05-31"
-title: Enum
 tags: [ "draft",  ]
+title: Enum
 ---
 Padrão C (ISO/IEC 9899:1990)
     

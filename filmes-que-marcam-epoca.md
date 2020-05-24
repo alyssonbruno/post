@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-02"
-title: "Filmes Que Marcam Época"
-tags: [ "draft", "series" ]
 stars: "3/5"
+tags: [ "draft", "series" ]
+title: "Filmes Que Marcam Época"
 ---
 Esta série Netflix que acompanha a tendência do Brinquedos Que Marcam Época empolga por trazer o making off de trabalhos consagrados que hoje são reconhecidos como clássicos pelo grande público. Começa com os filmes Dirty Dancing: Ritmo Quente, Os Caça-Fantasmas, Duro de Matar e Esqueceram de Mim. Eu comecei vendo este último, que passa por toda a história necessária sob os olhos dos entrevistados que faziam parte do elenco de produção e que toparam participar da série. Os que não toparam ficam no vácuo, são citados de passagem e inseridos por colagem.
 

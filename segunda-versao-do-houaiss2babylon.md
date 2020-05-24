@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2008-07-14"
-title: Segunda versão do Houaiss2Babylon
 tags: [ "draft",  ]
+title: Segunda versão do Houaiss2Babylon
 ---
 Depois de vários comentários (na época que o saite tinha comentários) de pessoas tendo problemas em converter seus dicionários Houaiss para o formato Babylon, resolvi criar vergonha na cara e dar uma pequena melhora na versão beta do conversor.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-28T15:44:08-02:00
-title: "Mens@gem Para Você"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Mens@gem Para Você"
 ---
 20 anos depois, essa revisita a Mens@gem Para Você demonstra que este filme bonitinho continua bonitinho. E hoje ele é nostálgico. Nos mostra a conexão discada da AOL que os nova-iorquinos mais abastados tinham na época. Mostra Nora Ephron filmando espaços na própria Nova York que ela estava morrendo para filmar. Por fim, mostra dois atores conhecidíssimos de comédia romântica fazendo mais um filme juntos. Adivinha qual dos dois continua fazendo filmes? Acertou: o homem.
 

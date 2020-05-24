@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-03-21"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Fonte da Vida"
-stars: "5/5"
 ---
 Darren Aronofsky em Noé nos apresenta uma visão gnóstica da Bíblia e das crenças antigas, mas esse é apenas um pedaço da ambição desproporcional vista em Fonte da Vida, um filme que tenta sem sucesso (felizmente) unir ciência e misticismo em uma busca por conhecimento que ultrapassa limites da realidade, seja através da ficção de um romance espanhol ou pela abstração de nossa própria vida na Terra através de um sábio solitário tentando descobrir a combinação que nos trará vida eterna.
 

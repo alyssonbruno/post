@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-11"
-title: "Chernobyl"
-tags: [ "draft", "series" ]
 stars: "4/5"
+tags: [ "draft", "series" ]
+title: "Chernobyl"
 ---
 Um russo tudo fala na frente de um gravador. Em inglês. Ele prepara seis fitas cassete e deixa em um local premeditado para não serem descobertas pela KGB. Logo em seguida se mata. O clima de conspiração em plena União Soviética não impressiona mais. Na verdade é até esperado. Só não é esperado que russos falem em inglês.
 

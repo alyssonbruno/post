@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-12"
-title: "From Beijing with Love"
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "From Beijing with Love"
 ---
 Stephen Chow é o ator e diretor de trabalhos como Kung-Fu Futebol Clube e Kung Fusão. Nesta paródia de James Bond, em que ele faz um trocadilho do título original de Moscou Contra 007 (From Russia with Love), é possível identificar vários elementos trazidos dessa união do país do kung-fu com brincadeiras estilo Austin Powers (Mike Myers, 1997). Porém, mais do que isso, o grande legado deste filme é um gif animado em que uma mulher tenta usar uma arma e atira em si mesma duas vezes. Está pronto o meme de como é usar o código-fonte do colega.
 

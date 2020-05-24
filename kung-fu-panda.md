@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-12-14"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Kung Fu Panda"
-stars: "5/5"
 ---
 Po é um panda, portanto, gordo e lerdo. Ele vive em um vilarejo chinês em torno de uma montanha que hospeda os chamados cinco furiosos, mestres de kung fu que são animais que representam os diferentes estilos dessa arte marcial milenar: tigre, serpente, louva-deus, garça e macaco. Todos são aprendizes do mestre Shifu que, ironicamente também é um panda, mas uma espécie bem menor. Shifu, apesar de mestre, ainda é impulsivo e precisa dos conselhos de seu próprio mestre, uma tartaruga que parece ter vivido séculos. O orgulho de Shifu quando jovem o fez treinar um outro aprendiz que passou a usar suas habilidades pelo poder e não pelo conhecimento, desonrando o grande mestre e trazendo perigo para os inocentes habitantes do vilarejo, em sua maioria porcos e coelhos. Condenado a uma prisão de segurança máxima, sempre há o risco que ele busque vingança e consiga o segredo mais desejado por todos os lutadores: como se tornar o Dragão-Guerreiro, a escala máxima do kung fu e ambição de todos os aprendizes.
 

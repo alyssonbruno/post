@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-06-04"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Golpista do Ano"
-stars: "4/5"
 ---
 Um filme com estilo episódico (fade out em vários momentos), narração em off de um protagonista que supostamente está morto (acho que já pensaram nisso antes...) e invencionices demasiadas com a câmera, muitas vezes na mão. Apesar de ter tudo para dar errado, O Golpista do Ano apresenta Jim Carrey, Ewan McGregor e até Rodrigo Santoro em personagens que acompanham as personas dos atores, mas desafiam a realidade dos eventos (sim, o filme é baseado em alguns fatos em torno da figura de Phillip Morris).
 

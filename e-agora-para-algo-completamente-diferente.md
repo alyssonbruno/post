@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-12"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "E Agora para Algo Completamente Diferente"
-stars: "3/5"
 ---
 Esse filme é uma compilação de quadros do programa televisivo do grupo de humoristas Monty Pyhton, e por incrível que pareça o conjunto da obra é menor do que a soma das suas clássicas piadas, talvez por não ser um filme de verdade e por exagerar o bizarro e surreal.
 

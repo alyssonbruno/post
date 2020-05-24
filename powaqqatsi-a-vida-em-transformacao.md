@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-28T22:50:53-03:00
-title: "Powaqqatsi - A Vida em Transformação"
-
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Powaqqatsi - A Vida em Transformação"
 ---
 Powaqqatsi é o filme do meio da trilogia Qatsi, uma série documental não-narrativa produzido e dirigido por Godfrey Reggio com a trilha sonora encantadoramente repetitiva de Philip Glass. O filme tem sido promovido pelos diretores Francis Ford Coppola e George Lucas, como sua capinha do DVD nos diz. O filme segue o estilo do documentário clássico Um Homem com uma Câmera, mas moderno, só que no bom sentido.
 

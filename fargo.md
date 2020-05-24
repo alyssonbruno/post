@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
-date: "2012-08-16"
-tags: [ "draft", "movies" ]
 count: 2
-title: "Fargo"
+date: "2012-08-16"
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Fargo"
 ---
 É muito simples entrar em uma comédia-thriller dos irmãos Coen. Há dois princípios extremamente eficazes em Fargo: os diálogos que expõem desde o início o caráter de seus caricatos personagens  como ao apresentar em uma inspirada conversa a maneira com que os dois capangas (Steve Buscemi e Peter Stormare) contratados pelo hesitante Jerry Lundegaard (William H. Macy) irão efetuar o sequestro de sua mulher  e os ângulos inusitados de câmera escolhidos por Joel Coen que exaltam o clima surreal dos fatos que irão se sucedendo aos poucos  e para isso há tomadas belíssimas sobre uma neve que ofusca o resto da paisagem e dá preferência para que vejamos o que está de fato ocorrendo na pacata cidadezinha.
 

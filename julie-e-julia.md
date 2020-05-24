@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-20"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Julie e Julia"
-stars: "3/5"
 ---
 Paralelo interessante entre as duas histórias, não fica óbvio que passam em épocas diferentes, mas o espectador vai percebendo isso aos poucos. Interpretação de Meryl Streep fica sendo a principal, apesar da protagonista talvez não ser ela (será?).
 

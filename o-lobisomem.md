@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-11-25"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Lobisomem"
-stars: "3/5"
 ---
 Desde o início é possível perceber que a fotografia e a direção de arte usadas para narrar a lenda do homem que se transforma em "lobo", ou fera, é de uma beleza ímpar, estetizada ao máximo e que cobre os cenários de maneira quase onírica, já lembrando do caráter lendário do monstro em questão. No entanto, toda essa beleza acaba sendo desperdiçada em uma história pedestre, que transforma os personagens em meras caricaturas, e suas relações absurdas fazem cair abaixo o teor realista da trama.
 

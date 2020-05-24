@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-01-04"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Mentiroso"
-stars: "4/5"
 ---
 Jim Carrey é um comediante tão talentoso que, se inserido no projeto certo, pode render um filme que sem ele seria apenas um passatempo da sessão da tarde, mas com ele ganha contornos cartunescos que remetem o significado da história que acompanhamos para algo além do trivial.
 

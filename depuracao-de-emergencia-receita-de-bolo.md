@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2011-10-18"
-title: "Depuração de emergência com receita de bolo"
 tags: [ "debug", "windbg", "draft" ]
+title: "Depuração de emergência com receita de bolo"
 ---
 Continuando o papo sobre o que fazer para analisar rapidamente um crash no servidor com o pacote WinDbg, na maioria das vezes a exceção lançada pelo processo está diretamente relacionada com um acesso indevido à memória, o que tem diversas vantagens sobre problemas mais complexos:
 

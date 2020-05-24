@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-16"
-title: "Eu Posso Ouvir o Oceano"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Eu Posso Ouvir o Oceano"
 ---
 Os Estúdios Ghibli criam personagens reais em cada trabalho porque há um pluralismo nas características desenvolvidas em seus personagens e nas situações que eles vivem e interagem ao longo do tempo que alcançam um nível de quase-vida. Somos quase capazes de reconhecer um ser humano completo, ou pelo menos seus anseios, ambições, medos e lembranças. O tempo e as memórias são elementos tão vitais para a equipe de desenhistas e roteiristas que eles criam uma linguagem especial apenas para expressá-los da melhor maneira possível.
 

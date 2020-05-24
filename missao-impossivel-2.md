@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-17T18:26:12-03:00
-title: "Missão: Impossível 2"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Missão: Impossível 2"
 ---
 Quem diria que Thandie Newton, da série Westworld, era uma Hunt Girl da segunda aventura da série? E ela está um pitelzinho. Sua função no filme é ser uma delícia linda, basicamente. Se observarmos ela e o número de câmeras olhando para seu lindo rosto (e corpo), muitos em câmera lenta, vamos aos poucos entendendo todas as falhas desse que é o pior filme de todos os outros até agora. Ele é farofa em um mal sentido, ele é datado em sua estética e lembra tudo de ruim que estava acontecendo com os filmes de ação depois do nerd Matrix chegar e roubar a cena.
 

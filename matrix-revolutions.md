@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-05-07"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Matrix Revolutions"
-stars: "5/5"
 ---
 Não é fácil lidar com a própria ignorância. Viciados em ciência e suas explicações muito boas para o nosso mundo, além do fato de nosso código genético conter uma necessidade incontrolável de extrair sentido para tudo, e portanto anseia por explicações a todo momento que não deixe margens para dúvida, muitas vezes nos esquecemos que na realidade há muito nela que é nossa interpretação. Podemos ter uma boa ideia do que ela significa para todos a todo momento, mas nunca a verdade completa do que isso significa para cada um de nós.
 

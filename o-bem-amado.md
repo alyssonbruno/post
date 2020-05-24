@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-07-24"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Bem Amado"
-stars: "4/5"
 ---
 O bom das produções brasileiras baseadas na literatura é que geralmente não se perde a essência da história em adaptações e temos um arsenal de ótimos atores para representar mais um exemplo de brasilidade cultural, comportamental e social.
 

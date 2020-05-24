@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-05-30"
+stars: "4/5"
 tags: [ "draft", "series" ]
 title: "House of Cards - Quinta Temporada, Episódio 1"
-stars: "4/5"
 ---
 House of Cards estreia novamente na Netflix em seu formato de praxe, com tramas interligadas que irão necessariamente desencadear no plano de dominação da família Underwood. Vemos uma breve e eficiente recapitulação de toda a saga e logo vamos nos acostumando novamente a ver os personagens se digladiado por um pouco mais dessa droga viciante que é o poder.
 

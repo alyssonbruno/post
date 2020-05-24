@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-04-15T21:12:02-03:00
-title: "The Handmaid's Tale (O Conto da Aia)"
-tags: [ "draft", "series" ]
-
 stars: "4/5"
+tags: [ "draft", "series" ]
+title: "The Handmaid's Tale (O Conto da Aia)"
 ---
 Esta série da Hulu pode ser vista como uma mini-aula de história e sociologia "a céus abertos". Começamos vendo uma família fugindo na floresta. Um pai, uma mãe e uma garota. Eles fogem das forças inexoráveis de um Estado autoritário (isso na prática, se você já assistiu filmes suficientes, quer dizer que a família acaba ali). São momentos fortes que sintetizam o significado do totalitarismo na vida das pessoas, quando o coletivo vale mais do que a própria unidade básica da sociedade: a família.
 

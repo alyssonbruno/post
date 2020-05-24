@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-09-18T21:32:29
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Pendular"
-stars: "3/5"
 ---
 Pendular possui alguns simbolismos, algum conflito, algumas situações. E nada disso parece fornecer pistas suficientes para entender o que está acontecendo. Bonito por bonito, temos uma obra vazia e incoerente. Justamente o que seus idealizadores parecem buscar. Uma das primeiras falas do filme deixam isso claro: "fxda-se a coerência".
 

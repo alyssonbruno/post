@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-08-17"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Quero Matar Meu Chefe"
-stars: "3/5"
 ---
 Muitas pessoas com certeza rirão das piadas sobre trabalho, sexo e racismo de Quero Matar Meu Chefe, tradução não-literal de Horrible Bosses (Chefes Horríveis, o que não melhora muito as coisas). Novo trabalho de Seth Gordon (Surpresas do Amor e umas pontas em The Office e Community), o longa reúne mais talentos cômicos do que supostamente ele conseguirá no resto de sua vida como diretor.
 

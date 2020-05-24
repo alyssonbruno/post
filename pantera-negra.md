@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-05-24T23:49:27-03:00
-title: "Pantera Negra"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Pantera Negra"
 ---
 Uma desgraça o que o Império Britânico fez com os povos colonizados da África. E agora, após assistir Pantera Negra, eu não consigo deixar de me lembrar desse sotaque britânico inconveniente de Chadwick Boseman, que soa tão fake, mas tão fake, que chega a ser mais fake que a própria historieta do filme sobre recursos trazerem tecnologia e sobre a riqueza ser um jogo de soma zero. Até quando serão contadas as lendas sobre economia folclórica ou dívida histórica para nossos filhos? É uma desgraça.
 

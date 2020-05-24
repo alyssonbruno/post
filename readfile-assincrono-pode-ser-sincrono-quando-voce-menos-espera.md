@@ -1,9 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2017-01-16"
-title: "ReadFile assíncrono pode ser síncrono quando você menos espera"
 tags: [ "draft",  ]
-
+title: "ReadFile assíncrono pode ser síncrono quando você menos espera"
 ---
 Ano passado tive alguns problemas em um projeto que se comunicava com um dispositivo em firmware pela USB. Estávamos utilizando uma biblioteca open source do GitHub que parecia estar bem testada e mantida. Porém, não exatamente para nossos objetivos.
 

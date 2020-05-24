@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2015-07-13"
-title: TDC 2015 No More
 tags: [ "draft", "events" ]
+title: TDC 2015 No More
 ---
 Eu represento o Grupo C/C++ Brasil. Sou um dos fundadores. A bem da verdade, todos que participam ativamente no Google Groups e/ou ajudam a organizar o nosso saite, e/ou ajudam a fortalecer a presença de uma comunidade C/C++ no país representam, em menor ou maior grau, a esse ideal que é: as linguagens C e C++ ainda são muito úteis na programação de uso geral, em cenários tão distintos e tão variados que fica difícil sequer listar onde elas são usadas sem parecer panelinha.
 

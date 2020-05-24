@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-04-16"
 review: [ "2013" ]
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Star Trek"
-stars: "5/5"
 ---
 
 Baseado em um seriado dos anos 60 escrito por Gene Roddenberry (1921-1991) onde a nave U.S. Enterprise comandada pelo Cap. Kirk explora o espaço e tenta manter a paz entre os Planetas Confederados, Star Trek já começa o projeto com um enorme desafio. Juntos, tanto a pressão dos fãs para que o reboot da saga seguisse os mesmos rumos da série original  focada no intelecto das situações  quanto a pressão comercial para que o filme não fizesse as pessoas acostumadas às explosões no espaço de Star Wars e derivados bocejassem na sala de projeção conspiravam para seu fracasso completo.

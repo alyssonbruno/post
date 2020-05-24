@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-09-04"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Carga Explosiva: o Legado"
-stars: "3/5"
 ---
 Após a morte do meu pai, uns 3/4 anos atrás, se tornou mais fácil para mim detectar aquele sentimento que une um ser humano e seu rebento (isso pelo menos do lado do rebento). Há algo invisível beirando a comunicação entre esses dois seres. É impossível detectar de forma objetiva, mas ele existe. Talvez mais forte para alguns, e irrelevante para outros.
 

@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2019-05-04"
 review: [ "2019" ]
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Passado"
-stars: "4/5"
 ---
 O grande problema quando um relacionamento acaba é que, apesar de tentarmos com sinceridade seguir em frente com nossas vidas, a memória do tempo vivido com a outra pessoa existirá para sempre. Quando Rímini (Gael García Bernal) e Sofia (Analía Couceyro) se separam, mesmo que civilizadamente, algo parece impedir que Sofia aceite essa nova realidade. E este é um filme cuja expressão "peso do passado" realmente se sente.
 

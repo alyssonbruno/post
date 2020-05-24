@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-10-01"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Comer Rezar Amar"
-stars: "3/5"
 ---
 Julia Roberts é Liz Gilbert, uma mulher desiludida com o casamento em que vive e que busca em uma viagem pelo mundo (na verdade, Itália e Índia) se "reconectar" ao mundo. É através desse "objetivo" que vemos a personagem vivenciar momentos de puro êxtase turístico, em um filme que claramente apresenta as locações com esse propósito.
 

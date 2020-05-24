@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-12-07T01:12:59
+stars: "1/5"
 tags: [ "draft", "series" ]
 title: "13 Reasons Why"
-stars: "1/5"
 ---
 Essa novelinha pré-adolescente consegue ser bem irritante às vezes. Não é uma produção barata nem tosca. Muito pelo contrário. Há muitas virtudes narrativas em um trabalho que parece descartar apenas uma virtude dentre as que escolheu: coerência. E é através dessa "pequena" falha que podemos concluir que, apesar de tecnicamente interessante e artisticamente bonito, "13 Reasons Why" é uma merda colossal que revela que esta geração tem pouquíssimas chances de sobreviver a eles mesmos.
 

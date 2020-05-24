@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-06-19"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Orange is the New Black - Segunda Temporada"
-stars: "3/5"
 ---
 Criado por Jenji Kohan, de Weeds e The Stones, com base nas memórias da detenta Piper Kerman, Orange Is the New Black começou em sua primeira temporada como a história de uma nova detenta (Piper Chapman, Taylor Schilling) condenada por tráfico de drogas junto com sua amante, Alex Vause (Laura Prepon). A série se focou mais nas diferenças entre a vida livre e o cárcere privado no meio de mulheres mais ou menos perigosas e carentes. Se transformando agora na segunda temporada em um "Oz de Calcinha", Chapman já está integrada ao sistema, então resta à série revisitar como o sistema funciona, pelo menos com cenas mais leves e mais sentimentais. Afinal de contas, elas são mulheres!
 

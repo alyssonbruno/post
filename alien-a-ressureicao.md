@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-12"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Aliens A Ressueição"
-stars: "4/5"
 ---
 Dando continuidade ao "terror biológico" iniciado pelo antecessor Alien³, quando um cachorro foi infectado por um alien que ganha suas feições ao nascer, o novo filme da franquia reabre a caixa de Pandora se aproveitando da discussão contemporânea de clonagem e "ressuscitando" a Tenente Ripley através de amostras de seu sangue já modificado pelo seu parasita espacial.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-12-23"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Pulp Fiction Tempo de Violência"
-stars: "5/5"
 ---
 Segundo trabalho de Quentin Tarantino (Cães de Aluguel, Kill Bill), Pulp Fiction é seu filme com o roteiro mais intenso, e talvez um dos melhores representantes do seu gênero no quesito introduzir perigosos criminosos em seu dia-a-dia.
 

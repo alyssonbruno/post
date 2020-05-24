@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-03"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Sete Homens E um Destino"
-stars: "4/5"
 ---
 Um filme do velho oeste que é um remake do clássico de Akira Kurosawa, Os Sete Samurais, que acabou virando também meio um clássico. Sua estrutura é poderosa, mexe com heróis incidentais que resolvem salvar uma vila de camponeses das garras do Estado... quer dizer, de uma gangue de bandidos que rouba parte da produção de alimentos para eles próprios sobreviverem. É uma história que mexe com o teatral, mas que mantém sua tensão como todo bom e velho faroeste.
 

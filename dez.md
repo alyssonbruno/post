@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-31T13:12:35-03:00
-title: "Dez"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Dez"
 ---
 Limitados pela visão do banco do motorista e do passageiro de um carro acompanhamos uma mulher em sua nova vida. Divorciada com um filho que não a apoia ela conversa com algumas pessoas. O filme é tão realista que perde a graça na segunda ou terceira conversas de "Dez" que o diretor Abbas Kiarostami quer nos mostrar, divididas por um contador regressivo super-brega.
 

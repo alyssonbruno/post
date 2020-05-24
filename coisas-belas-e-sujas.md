@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-04-30"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Coisas Belas E Sujas"
-stars: "4/5"
 ---
 No começo, assistimos à rotina de Okwe (Chiwetel Ejiofor) em seus inúmeros empregos, incluindo taxista clandestino no aeroporto e recepcionista de um sombrio hotel nos subúrbios de Londres. O clima opressivo e pessimista apenas aumenta conforme a história se desenrola, e a única esperança de paz parece residir nas gavetas do IML, junto do único amigo de Okwe. Vemos tudo sob o ponto de vista de Okwe, o que não é necessariamente uma coisa boa.
 

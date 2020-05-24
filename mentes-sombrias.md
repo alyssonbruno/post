@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-08-06T15:48:41-03:00
-title: "Mentes Sombrias"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Mentes Sombrias"
 ---
 Mentes Sombrias é uma distopia adolescente que entende a mente jovem como Goonies, mas que se recusa a amadurecer como Conta Comigo. Ambos os filmes citados são ótimas referências para onde este filme/saga poderia caminhar, mas apesar do ótimo começo ele nunca se aprofunda, deixando no lugar o já conhecido efeito Marvel, a produtora imbatível de histórias que se mantêm coesas pela característica peculiar de nunca terem um fim.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-04-20T20:54:59-03:00
-title: "O Homem Que Copiava"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "O Homem Que Copiava"
 ---
 A sinopse do IMDB diz assim: "André, relatively poor, falls in love with Silvia, a neighbor whom he spies with a telescope." Relatively poor é o que me chamou a atenção, pois isso diz muito sobre o filme. Que é relativamente excelente.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-09-07"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Star Trek: Sem Fronteiras"
-stars: "3/5"
 ---
 O reboot megalomaníaco da série de filmes inspirada pela série televisiva nerd dos anos 60 está com muita bala na agulha para poder gastar e pouca vontade de arriscar. Isso quer dizer que o novo filme com Capitão Kirk e Spock tem basicamente o mesmo enredo do filme anterior (Além da Escuridão) tirando a emoção.
 

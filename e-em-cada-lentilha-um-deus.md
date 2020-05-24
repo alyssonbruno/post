@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-21"
-title: "E Em Cada Lentilha Um Deus"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "E Em Cada Lentilha Um Deus"
 ---
 Em cada lentilha um Deus mostra como é difícil manter uma narrativa em documentários sem roteiro. Esse é um deles. Acompanhamos as memórias e reflexões sobre Luis, um roteirista que ajuda o irmão e o primo a escrever um livro sobre a culinária do restaurante da família. Nessa viagem culinária nosso único guia são os pratos do "L'Escaleta".
 

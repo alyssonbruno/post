@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-02-22"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Silêncio"
-stars: "4/5"
 ---
 Martin Scorsese volta ao tema religioso depois de longo hiato (seu último foi A Última Tentação de Cristo, na década de 80) em uma obra que lida com sofrimento cristão em um nível quase que metafísico. Para isso viajamos ao Japão feudal e a miséria de um povo, onde encontraremos padres jesuítas dispostos a tudo para converter fiéis, mesmo que estes fiéis e os próprios padres estejam sendo sumariamente torturados e executados.
 

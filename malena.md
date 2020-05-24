@@ -1,10 +1,10 @@
 ---
 categories: [ "cinema" ]
 date: "2014-02-05"
-title: "Malena"
-tags: [ "draft", "movies" ]
-stars: "5/5"
 review: [ "2019" ]
+stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Malena"
 ---
 Não é preciso tornar a mulher uma vítima da sociedade para fazer uma crítica social, mas o diretor de Cinema Paradiso o faz com tanta paixão pelo lúdico, pelo erótico e pelo que significa ser italiano, essa cultura controversa com traços que trazem um misto de vergonha e identidade, que Malena vira um hino sobre a impotência de indivíduos frente à pressão da massa, seja político ou social. E tudo através dos olhos de um garoto sem ele perceber o que isso significa. Ou pelo menos a esperança do longa é que no final ele saiba pelo quê essa mulher passou.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-12-19"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Liv e Igmar Uma História de Amor"
-stars: "3/5"
 ---
 Com certeza o diretor/roteirista Dheeraj Akolkar conhece a fundo o estilo dos filmes do diretor clássico sueco Ingmar Bergman, pois produziu um documentário que reflete exatamente a cinegrafia do autor e utiliza como pano de fundo seu romance e amizade com sua principal atriz: Liv Ullmann.
 

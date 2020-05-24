@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-08-08"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Warcraft: O Primeiro Encontro de Dois Mundos"
-stars: "4/5"
 ---
 Warcraft consegue manter o tema de estratégia de guerra do jogo viva no filme; de quebra, exibe um dos melhores efeitos visuais do ano. Não aquele que impressiona por impressionar, mas o que está a serviço da narrativa. E com uma história para contar, ainda consegue estar à altura dos melhores trabalhos da produtora desse e outros games. A Blizzard, pelo jeito, não se cansa de impressionar.
 

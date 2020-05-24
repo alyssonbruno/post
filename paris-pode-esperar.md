@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-05-31"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Paris Pode Esperar"
-stars: "3/5"
 ---
 Você gosta de comer? Eu adoro. Se você gosta de gastronomia e viagens há uma grande chance de apreciar Paris Pode Esperar, que nos apresenta algumas atrações que podem ser vistas e degustadas próximas do caminho entre Cannes e a capital francesa. Claro que você deverá ir sem pressa e com um guia que conheça os prazeres da boa vida. O guia de preferência deverá ser francês.
 

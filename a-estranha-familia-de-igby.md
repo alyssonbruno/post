@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-10"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Estranha Famíllia de Igby"
-stars: "4/5"
 ---
 Uma comédia estranhona que começa meio morna demais, parecendo justamente parecer apenas isso -- estranhona --, mas que depois de sua introdução sem ritmo nos apresenta de verdade seus personagens, sua história, sua essência. Então se torna um palco para brilhantes atuações, além de um laboratório de pequenas experimentações na direção. Amparado sobre um roteiro denso, mas nem tanto, com diálogos que poderiam figurar facilmente em um livro ou peça, A Estranha Famíllia de Igby nos leva a concluir que muitos começos desastrosos podem enganar à primeira vista e entregar momentos que nunca esperaríamos de um gênero como esse.
 

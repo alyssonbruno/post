@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-03-17"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Rocky - Um Lutador"
-stars: "5/5"
 ---
 O primeiro Rocky, o projeto de estreia de Sylvester Stallone, hoje poderia até soar como piegas. Porém, sua sinceridade em sua história, mesmo que ela seja piegas, o coloca acima de classificações. É um filme de sobrevivente. Um marco no Cinema acima de sua pieguisse. Sua luta final é coreografada, editada e ritmada de uma maneira a se tornar a "luta do século", mas não é isso o que a torna especial, mas toda a história que a carrega.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-title: "Pa-dak pa-dak"
-
-stars: "2/5"
 date: "2012-10-23"
+stars: "2/5"
 tags: [ "draft", "movies" ]
+title: "Pa-dak pa-dak"
 ---
 Padak, primeiro trabalho do diretor Lee Dae Hee, não cria uma história muito envolvente, mas possui um arco que chega a ser angustiante e libertador. Basicamente acompanhamos as tentativas frustradas de uma cavala (uma espécie de peixe) em tentar escapar de um aquário de um restaurante de frutos do mar. Há muito diálogo e pouca ação. Quando há ação, a animação peca por recorrer aos mesmos movimentos vistos.
 

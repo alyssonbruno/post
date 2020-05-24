@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-20"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Greater Things"
-stars: "4/5"
 ---
 Este é um filme que possui poucos diálogos, o que o torna o mais cinematográfico possível. Isso quer dizer que o que vemos e o que ouvimos consegue passar a mensagem. E muitas vezes a mensagem é formada pelo que não vemos e não ouvimos.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-07-04"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Pinguins do Papai"
-stars: "3/5"
 ---
 Sinopse: A vida de um homem de negócios começar a mudar após ele herdar de seu pai seis pinguins. Conforme ele avança em sua vida pessoal, sua vida profissional começa a despencar.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-05-14"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Hairspray Em Busca da Fama"
-stars: "3/5"
 ---
 Há uma mensagem muito bela em Hairspray, sobre o fim da guerra inter-racial ocorrida nos EUA na década de 60. Aliada a danças empolgantes e teatrais, nos leva a concluir tristemente que sua moral pertence ao mundo dos sonhos, da dança. E é na dança que está a maior virtude e o maior defeito desse filme.
 

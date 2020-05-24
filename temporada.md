@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-11T11:48:52-02:00
-title: "Temporada"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Temporada"
 ---
 O filme "Temporada" é um retrato natural do cotidiano de uma cidade e sua cultura sob o ponto de vista de um ser humano em mudança. Mudança de cidade, de postura, de atitude. Pode chamar de redescoberta ou "cair na real". Pode chamar de fantasia ou crítica social.
 

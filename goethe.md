@@ -1,8 +1,8 @@
 ---
-date: 2019-09-08
-title: "Goethe"
 categories: [ "blog" ]
+date: 2019-09-08
 tags: [ "draft", "quotes" ]
+title: "Goethe"
 ---
 > Não basta saber: temos que aplicar. Não basta querer: temos que fazer.
 

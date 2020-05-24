@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: 2018-08-21T23:17:26-03:00
-title: "Meu Novo Parseador de Argc Argv"
 tags: [ "draft",  ]
+title: "Meu Novo Parseador de Argc Argv"
 ---
 Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map nem string. Isso quer dizer que minha função bonita e completa de parseamento de argumentos argc/argv não pode ser usado. Essa é uma má notícia. A boa notícia é que achei uma forma muito mais simples e à prova de falhas de fazer isso. Quer ver?
 

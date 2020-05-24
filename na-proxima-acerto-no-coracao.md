@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-06-08"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Na Próxima, Acerto no Coração"
-stars: "4/5"
 ---
 "Na Próxima..." é uma imersão quase que completa na vida de um psicopata. Seria muito melhor se fosse completa. Infelizmente, mais uma vez, Guillaume Canet encara retratar um crápula da vida real, e a âncora dos fatos como estão nos depoimentos das pessoas envolvidas segura parte da poesia implícita nos momentos mais reflexivos de um thriller bem movimentado.
 

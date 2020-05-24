@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-05"
-title: "Viver Para Cantar"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Viver Para Cantar"
 ---
 Viver Para Cantar é inspirado livremente no documentário A Folk Troupe (Gang Zhao, 2013), que conta a história real desse grupo tradicional de ópera chinesa lutando para continuar apresentando peças milenares em um espaço condenado pelas autoridades. A ficção de Johnny Ma alimenta a mesma tradição da ópera chinesa, mas a atualiza para o tempo das cidades chinesas crescendo, se modernizando e demolindo todos os valores culturais de uma nação.
 

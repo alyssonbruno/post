@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
-title: "Leituras"
-tags: [ "draft", "reading" ]
 date: 2019-09-16
+tags: [ "draft", "reading" ]
+title: "Leituras"
 ---
  - 12 Regras para a Vida, de Jordan Peterson, é o livro contemporâneo mais relevante que andei lendo (não que eu leia muito). Diz sobre como cuidar de sua própria vida através de regras embasadas em ciência e tradição.
  - A Linguagem de Programação C, de K&R, é clássico absoluto da área.

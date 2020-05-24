@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-02-16"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Jovem Rainha"
-stars: "3/5"
 ---
 A Jovem Rainha tem vários assuntos para tratar durante o conturbado reinado da rainha Cristina no império sueco do século 17, mas não parece conseguir se adequar ao tom mais apropriado. Se em alguns momentos gera o humor incidental da típica loucura dos monarcas, em outros tenta puxar a grandiosidade dos acontecimentos históricos, e no meio do caminho flerta perigosamente com um episódio de seriado de TV.
 

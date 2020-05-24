@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-04-02"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Thor"
-stars: "2/5"
 ---
 Não há nada para se ver em Thor. É bobinho, está na direção automática e possui uma fotografia e uma trilha sonora que combinam com sua falta de personalidade. Ou seja, a Marvel pode levar a sério seus cronogramas e personagens, mas não o Cinema em si.
 

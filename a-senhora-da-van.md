@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-19T23:17:48-03:00
-title: "A Senhora Da Van"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "A Senhora Da Van"
 ---
 Se um escritor com material tão vasto no cinema quanto Alan Bennett não conseguiu construir a partir de suas memórias de morar 15 anos ao lado de uma senhora sozinha e sua van uma história que possua camadas, quer dizer que este não é um filme que deveria existir. Mesmo se você tiver Maggie Smith (da série Harry Potter) no elenco.
 

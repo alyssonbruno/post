@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2017-06-27"
-title: "Confirmation Theory: Hume's Refutation of Induction"
 tags: [ "draft", "reading", "philosophy" ]
+title: "Confirmation Theory: Hume's Refutation of Induction"
 ---
 Este recorte se trata da explicação do filósofo Michael Huemer sobre a "refutação" de Hume sobre indução. De acordo com Huemer, "Hume's 'refutation' of induction essentially goes as follows:"
 

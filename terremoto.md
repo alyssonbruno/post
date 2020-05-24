@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-08"
-title: "Terremoto"
-tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies", "cinemaqui" ]
+title: "Terremoto"
 ---
 Terremoto é sobre o sensível balanço entre nossas vidas em ordem e o caos violento da natureza com que temos que conviver. Seria este um alerta ecológico ou um filme-catástrofe? Ele consegue ser os dois, e evita tomar um caminho ou outro por definitivo. E esse é o seu valor, que se mede pela quantidade de passos de distância dos filmes-catástrofe norte-americanos.
 

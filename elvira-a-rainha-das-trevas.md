@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-11-08"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Elvira A Rainha das Trevas"
-stars: "3/5"
 ---
 Aquela comédia sessão da tarde, leve e despretensiosa, que consegue ser digerida passo-a-passo sem maiores problemas. Esse modo inofensivo de Elvira é provavelmente seu ponto mais fraco.
 

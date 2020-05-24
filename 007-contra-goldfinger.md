@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-11-11"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "007 Contra Goldfinger"
-stars: "4/5"
 ---
 Primeiro filme da série com o diretor Guy Hamilton, que faria muitos mais, esse James Bond segue um ritmo mais pausado de início, o que permite um acompanhamento melhor da trama. Por outro lado, preso ao modo didático, pode soar um pouco decepcionante no final. O vilão Auric Goldfinger (Gert Fröbe) é um dos mais lembrados talvez pelo seu plano mais ambicioso: tornar inutilizável todo o ouro das reservas norte-americanas e como consequência multiplicar o valor do seu. É curioso também notar relação aparentemente amistosa entre Goldfinger e o agente britânico, onde até golfe jogam juntos (e seu capanga coreano mudo, Oddjob, é uma diversão à parte).
 

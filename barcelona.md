@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-18T21:37:16-03:00
-title: "Barcelona"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Barcelona"
 ---
 Barcelona é um filme que se insere em um momento político tenso na cidade-título e extrai momentos brilhantes acima da média em seu texto e em suas gags visuais. Ele mostra uma dupla de primos que moram juntos saindo e se envolvendo com lindas garotas espanholas, mas seu sub-texto é tanto político quanto um leve e agradável estudo de personagem. É um filme engraçado, mas para se rir com a mente, não com o estômago.
 

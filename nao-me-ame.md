@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-24"
-title: "Não me Ame"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Não me Ame"
 ---
 Não me Ame é cinema experimental, e eu admiro isso. Porém, seus símbolos vão se multiplicando a cada diálogo em um ritmo indecifrável, e isso não tem perdão.
 

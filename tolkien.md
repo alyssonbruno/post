@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-14T20:22:23-03:00
-title: "Tolkien"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Tolkien"
 ---
 Historicamente falando, podemos dizer que "Tolkien" não é uma biografia sobre o escritor de Hobbit, da saga O Senhor dos Anéis e de Silmarillion. O J.R.R. Tolkien retratado no filme, como os fãs poderão facilmente apontar, é um delírio imaginado por pessoas com pesada carga ideológica. Esta é a explicação mais plausível para esse trabalho censurado, que bloqueia a característica primordial deste autor: sua devoção ao cristianismo. (E isso sem comentar sua postura política extremamente anti-autoritária, tendendo eventualmente ao anarquismo.)
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-03"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Megamente"
-stars: "3/5"
 ---
 Uma troca de papéis eficiente que faz repensar a dicotomia do bem contra o mal, ainda mais que hoje em dia, em que mais pessoas se livram das superstições antigas (religiões) que pregam essa dicotomia como algo inerente à existência, o filme transporta essa realidade para uma animação leve, mas que esconde algum drama mais complexo existencial.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-16"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Peppa Pig"
-stars: "3/5"
 ---
 Eis um desenho que preza por histórias sucintas, rápidas e simples, ligeiramente divertidas e que estão atreladas ao fato da família principal ser constituída de porcos.
 

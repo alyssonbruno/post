@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-07-21"
+stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Pixels"
-stars: "2/5"
 ---
 Alguém aqui sabe o que quer dizer a palavra pixel? Bom, meu histórico em programação de computadores me permite conhecer este e outros termos nerds em detalhes, mas se você acha que irá obter seu significado assistindo ao novo filme de Adam Sandler assinado por Chris Columbus, não perca seu tempo. Porém, se você gosta de histórias simplistas que apesar de simplistas não se justificam, uma ou outra sequência de ação que não te fará temer pelos personagens, mas que em compensação é levemente divertida ou engraçadinha, e, por fim, um ou outro efeito visual que sob a ótica "Transformers" de enxergar a realidade é só o que importa nessa vida, Pixels é justamente o que você precisa. E aos megabytes.
 

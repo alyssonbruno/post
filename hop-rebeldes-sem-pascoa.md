@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-05-01"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Hop Rebeldes sem Páscoa"
-stars: "3/5"
 ---
 A cada cinco minutos do filme, a cada cena obviamente maquiada e implantada na narrativa da maneira mais artificial possível, eu me fazia uma nota mental que dizia sempre a mesma coisa: "É um filme feito pra Páscoa; pra ESSA Páscoa".
 

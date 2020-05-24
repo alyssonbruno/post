@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-17T18:29:31-02:00
-title: "Ugly Delicious"
-
-tags: [ "draft", "series" ]
 stars: "3/5"
+tags: [ "draft", "series" ]
+title: "Ugly Delicious"
 ---
 O chef de cozinha David Chang é o astro dessa série criada por ele. Ela segue um caminho documental bem-humorado, com montagens bem conduzidas e a captura de momentos hilários entre Chang e seus amigos conversando sobre... adivinhou: comida.
 

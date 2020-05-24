@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-10-29"
 review: [ "2014", "2019" ]
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Hanami Cerejeiras em Flor"
-stars: "5/5"
 ---
 Hanami conta a história de um casal que mantém uma vida pacata no interior da Alemanha enquanto mantém uma relação distante com seus três filhos  especialmente o caçula, que vive em Tóquio. O sonho da esposa é poder visitá-lo, pois, além da saudade, é visivelmente encantada pela cultura japonesa, como pode-se perceber pelos detalhes de decoração da casa deles e pelo seu interesse no butô, uma espécie de dança teatral que utiliza a expressão do corpo e seu efeito na sombra formada pelos movimentos.
 

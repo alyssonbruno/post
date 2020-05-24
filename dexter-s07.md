@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-11-09"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Dexter - Sétima Temporada"
-stars: "3/5"
 ---
 Dexter Morgan é um ser humano buscando seu lugar no mundo. O fato dele ser um sociopata e um serial killer é o que torna sua história mais... profunda. No entanto, fora isso, somos como ele, procurando se encaixar em um mundo que muitas vezes não faz sentido.
 

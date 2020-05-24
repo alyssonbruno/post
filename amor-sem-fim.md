@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-06-13"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Amor Sem Fim"
-stars: "4/5"
 ---
 Filme que revisita os clichês estilo Diário de uma Paixão sob a ótica contemporânea. Foca principalmente no jogo de forças entre pai e filha, mas se estende desnecessariamente ao final repetindo a mesma dinâmica já vista durante o filme.
 

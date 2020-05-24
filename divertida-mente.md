@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-06-24"
 review: [ "2016", "2019" ]
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Divertida Mente"
-stars: "4/5"
 ---
 Divertida Mente é um sinal de que Disney/Pixar, apesar de às vezes parecer que está saindo dos trilhos, produzindo mais e mais continuações e se transformando em uma franquia comercialmente poderosa enquanto artisticamente repetitiva, dessa vez arrisca pra valer, apostando em uma versão de Ela (Spike Jonze, 2013) para o público infantil, destrinchando as emoções que nos formam de uma maneira que dificilmente você verá em produções do gênero.
 

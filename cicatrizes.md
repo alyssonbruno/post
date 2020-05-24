@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-12"
-title: "Cicatrizes"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Cicatrizes"
 ---
 Em um ano, há mais de 500 crianças desaparecidas na Sérvia, mas essa é uma banal estatística exibida nos créditos finais de Cicatrizes, prêmio do público no Festival de Berlim e agora na Mostra de São Paulo. Ela não nos diz nada sobre as famílias que aguardam eternamente por essas crianças. E o que dirá, então, dos que vivem um luto que pode não ter acontecido.
 

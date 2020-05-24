@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-05-26"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Chappie"
-stars: "3/5"
 ---
 Chappie, novo filme de Neill Blomkamp (Distrito 9), é bonitinho, todo cool, e tenta trazer a África do Sul, país-natal do diretor, sob os holofotes de mais uma ficção científica. E mais uma vez, inevitavelmente vem a questão social, pobreza, violência. Nesse sentido, há muito o que se comparar com Robocop, e Blomkamp sabe disso e nem tenta disfarçar que um de seus robôs é uma homenagem/cópia do robô do final do primeiro filme.
 

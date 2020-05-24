@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-12-24"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Terapia de Risco"
-stars: "4/5"
 ---
 Me impressionei pela atuação de Rooney Mara (a Lisbeth Salander de Os Homens que Não Amavam as Mulheres) e sua construção de um personagem frágil mesmo que insensível. Os problemas de depressão de Emily são tão óbvios em seus olhares abaixados, esguios, em sua fala mansa e cansada, que tudo isso parece convincente demais.
 

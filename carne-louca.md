@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
-title: "Receita: Carne Louca"
-tags: [ "draft", "food", "recipes" ]
 date: 2018-09-28 
+tags: [ "draft", "food", "recipes" ]
+title: "Receita: Carne Louca"
 ---
 
 Ingredientes: Para a carne 1kg de lagarto, 1 cebola grande, 2 folhas de louro, 4 dentes de alho, 1 colher rasa de sete pimentas ou jamaica ou outra. Para o molho 1kg de tomate, 2 cebolas grandes, pimentão.

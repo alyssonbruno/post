@@ -1,9 +1,9 @@
 ---
-date: "2020-05-13"
-title: "Pretérito Perfeito"
-stars: "1/5"
 categories: [ "cinema" ]
+date: "2020-05-13"
+stars: "1/5"
 tags: [ "draft", "movies" ]
+title: "Pretérito Perfeito"
 ---
 Filme de diretor millennial sobre puteiro carioca icônico, visto por ele como peça de museu, um local cultural. Gustavo Pizzi não sabe nada da vida e não consegue nem boas tomadas, nem boa edição e muito menos uma história. Ele consegue alguns frequentadores antigos para dar seu depoimento, mas não aproveita o tempo deles para contar uma história. É um documentário feito para TV, ou para ninguém.
 

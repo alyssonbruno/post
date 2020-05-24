@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-05-16T18:18:48-03:00
-title: "Thi Mai: Rumo ao Vietnam"
-tags: [ "draft", "movies" ]
-
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Thi Mai: Rumo ao Vietnam"
 ---
 Este filme feministinha dirigido por Patricia Ferreira e escrito por Marta Sánchez (deu pra notar? ambas são mulheres!) irá trazer boas risadas. Sabe por quê? Porque este trio de mulheres (e um gay!) irão viver altas aventuras nesta terra inexplorada do Vietnã, onde comunistas vivem bem usando capitalismo para se curar de suas duas guerras. E de quebra um sistema de adoção de criancinhas que parece projeto (sem fins lucrativos) da família Pitt/Jolie. Foi muito machista da minha parte colocar o sobrenome do homem primeiro?
 

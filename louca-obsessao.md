@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-02-09"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Louca Obsessão"
-stars: "5/5"
 ---
 Baseado em um romance de Stephen King, este thriller do início da década de 90 que apresenta Kathy Bates como Annie Wilkes, a fã obsessivo-compulsiva que tem a "sorte" de resgatar o seu escritor favorito de um acidente de automóvel. Isolados pela neve, ela tem a chance de cuidar de Paul Sheldon (James Caan) enquanto ele se recupera. A mesma sorte não possui Sheldon, cuja editora acabou de publicar o último livro da série com a personagem Misery (o título original do filme) em que a mata.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-19T17:14:38-03:00
-title: "Toy Story 4"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Toy Story 4"
 ---
 Toy Story 4 é a quebra de uma trilogia, e isso é ótimo. Chacoalhando um pouco o universo dos brinquedos mais queridos do Cinema, esta aventura possui duas virtudes bem-vindas dos longas da Pixar: boas ideias e mudanças de personagens.
 

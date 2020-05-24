@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-01-15"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Jane Eyre"
-stars: "5/5"
 ---
 Enquanto Jane Austen (Orgulho e Preconceito) escrevia sobre a sociedade britânica com uma vivacidade e energia encantadoras, Charlotte Brontë parece ir no exato oposto com Jane Eyre, um romance extremamente pesado, que encontra nos drama do destino um fiapo de misticismo assombrando uma Inglaterra que parece estar à beira do seu declínio.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2018-12-30
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Westworld"
-stars: "3/5"
 ---
 Eu fui programado para escrever esse texto? Posso responder, na melhor das hipóteses, que eu estar escrevendo este texto é consequência da soma das minhas ações. No entanto, volta outra pergunta no lugar: eu fui programado para executar tais ações?
 

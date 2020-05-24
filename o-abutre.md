@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-04-30"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Abutre"
-stars: "5/5"
 ---
 Uma fase estupidamente frutífera de Jake Gyllenhaal, que fez com o diretor Denis Villeneuve em 2013 dois filmes muito interessantes: Os Suspeitos e O Homem Duplicado e que agora faz o seu terceiro papel completamente diferente. Não se poderia dizer diferente de Dan Gilroy, que trabalhou em roteiros de filmes curiosos como Gigantes de Aço, mas que aqui estreia na direção de uma história que ele mesmo escreveu e que ultrapassa o limite do óbvio para se emaranhar em uma discussão acalorada, divertida e abrangente sobre a mídia sensacionalista.
 

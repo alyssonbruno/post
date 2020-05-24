@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-03-14"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Mistério da Rua 7"
-stars: "3/5"
 ---
 Mensagem de cunho católico no mesmo molde de O Nevoeiro, porém, determinado a sacrificar a história pelo bem de um contra-ataque nada elegante?
 

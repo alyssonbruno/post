@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-02-13"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Pagando Bem Que Mal Tem"
-stars: "2/5"
 ---
 Embora Seth Rogen possua um carisma que transforma as piadas de sua boca, por mais insossas que sejam, como a coisa mais divertida do mundo, o fato é que "Pagando Bem" mal consegue se segurar em sua narrativa confusa e embaraçosa.
 

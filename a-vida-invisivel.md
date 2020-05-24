@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-19"
-title: "A Vida Invisível"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "A Vida Invisível"
 ---
 A Vida Invisível é um retrato tão fiel e acolhedor de um Brasil patriarcal que em alguns momentos ele corre o risco de estar fazendo apologia, simplesmente por recorrer às nossas memórias afetivas e culturais de uma época, e memórias não funcionam em termos de boas ou ruins. Todas elas são uma mistura só, e o filme de Karim Aïnouz demonstra isso com elegância e sem discurso fácil.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-12-09T22:42:16
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Com Amor Van Gogh"
-stars: "4/5"
 ---
 O que foi feito neste Loving Vincent é um trabalho curioso, quase fascinante e que merece uma visita pelo menos. Eles pegam a história em torno da morte do pintor moderno Vincent Van Gogh e montam um thriller no estilo Agatha Christie, meio teatral e meio noir, mas com toques artísticos e dramáticos porque se trata da história de um artista renomado. A grande propaganda deste filme é que todos os seus quadros foram "pintados à mão", no mesmo estilo do pintor, o que torna o filme um trabalho adaptado da obra do artista. É um trabalho de fundo verde e de 100 pintores. Algo único, com certeza. Mas uma obra de arte?
 

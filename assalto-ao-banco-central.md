@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-08-23"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Assalto ao Banco Central"
-stars: "2/5"
 ---
 Assalto ao Banco Central está longe de ser o filme insuportável pintado pela crítica. Porém, o que é mais importante: Assalto é um filme que decepciona em todos os gêneros que tenta se inserir.
 

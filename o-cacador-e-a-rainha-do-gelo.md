@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-07-01T18:29:57-03:00
-title: "O Caçador e a Rainha do Gelo"
-
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "O Caçador e a Rainha do Gelo"
 ---
 Continuação previsível, baixo orçamento, mas mantém o mesmo universo e alguns efeitos bem impressionantes. A história central é poderosa, pesa no final, mas todo o resto é um passeio monótono, pois praticamente tudo é previsível.
 

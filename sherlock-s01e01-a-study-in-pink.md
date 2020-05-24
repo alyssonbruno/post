@@ -1,9 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: 2018-01-25T00:06:49
-
-tags: [ "draft", "series" ]
 stars: "4/5"
+tags: [ "draft", "series" ]
 title: "Sherlock Temporada 1, Episódio 1: A Study in Pink"
 ---
 Um estudo em rosa. A segunda visita a este episódio é mais lenta. Estamos sendo apresentados a Sherlock Holmes, Dr. Watson e como esta série atualiza o formato de histórias clássicas da dupla já imortalizada nos cinemas e na literatura. E o resultado não poderia ser melhor. Cortes ligeiros da mise en scene pela metade criam transições elegantes entre cenários. O uso da tecnologia da internet e dos celulares está totalmente integrado à história. E, de uma maneira meticulosa, engrenada, a edição e a trilha sonora embalam diálogos memoráveis desde o começo:

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-10"
-title: "Brinquedo Assassino"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Brinquedo Assassino"
 ---
 Brinquedo Assassino é, acredito, o que os fãs no fundo sempre desejaram: serem surpreendidos por quão ruim este filme pode continuar sendo. Até porque o original nunca foi considerado exatamente um clássico. Usando um boneco medonho e sustos infantis para mostrar sangue sendo jorrado, "Chucky" e suas continuações sempre foram uma brincadeira de mal gosto que referencia outros trabalhos de terror (estes, sim, clássicos). Seu novo filme homenageia este legado que fritou o cérebro de muitos jovens grudados na TV de tubo da sala, o único recurso de entretenimento solitário e sedentário da época. Bons tempos.
 

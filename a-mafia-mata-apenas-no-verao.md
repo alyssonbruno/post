@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-04-10"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Máfia Mata Apenas no Verão"
-stars: "3/5"
 ---
 Um filme político disfarçado de comédia com crianças. De quebra, usa o velho clichê de inserir acontecimentos reais sobre a máfia de Palermo, mortes reais, dentro de um romance, tentando ligá-lo, mas sem muito grude. Falta alguma originalidade no contexto dessa história.
 

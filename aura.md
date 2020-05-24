@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-27"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Aura"
-stars: "5/5"
 ---
 Aura é um filme sobre um taxidermista -- uma pessoa dedicada a empalhar animais -- que é seguro sobre sua profissão e sobre como faria um assalto a banco, mas inseguro sobre todo o resto: não mataria um animal a sangue-frio na floresta, não consegue se relacionar com sua esposa, não entende como falar a verdade pode ferir pessoas. A grande lição do filme é como as coisas na teoria podem ser de um jeito, mas na vida real, os tons são infinitamente mais complexos. Seu título remete à situação de alguém que sofre de epilepsia, que de acordo com o protagonista, é um estado onde não há opção do que fazer, e isso é, de acordo com ele, perfeito por não haver escolha a se fazer.
 

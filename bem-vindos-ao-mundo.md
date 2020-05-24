@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-10-22T21:49:27
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Bem Vindos Ao Mundo"
-stars: "3/5"
 ---
 Kristen Wiig é uma mestre da comédia física. Aqui ela faz uma protagonista bipolar que ganha na loteria e escala rapidamente seu distorcido mundo em uma versão com muito dinheiro. É possível dar boas risadas de sua performance, que consegue não apenas convencer, mas deixar uma pulga atrás da orelha: esta é uma comédia ou um drama?
 

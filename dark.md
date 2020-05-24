@@ -1,9 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: 2018-01-30T19:52:28
-
-tags: [ "draft", "series" ]
 stars: "3/5"
+tags: [ "draft", "series" ]
 title: "Dark"
 ---
 Mais uma produção enlatada da Netflix, mas dessa vez as pessoas falam alemão. É um conto alemão, em uma cidadezinha no interior da Alemanha, com muitos jovens em um colégio e uma fotografia sombria. Um prefácio anuncia que acontecimentos fantásticos irão ocorrer (Stranger Things feelings). Esses acontecimentos irão mexer com nossa noção do tempo. E de fato mexem: ao final do primeiro episódio de 50 minutos a sensação é ter visto um filme de três horas onde nada acontece.

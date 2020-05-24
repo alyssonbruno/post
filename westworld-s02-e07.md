@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2018-12-30
+stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Westworld S02 E07"
-stars: "5/5"
 ---
 Eis o melhor episódio até agora de toda a série. Ele possui a garra da ação contida em uma história cheia de ideias cujas conclusões não são entregues, mas discutidas, o que torna a desorientação espacial e temporal também no campo das ideias, mas mesmo sem termos a exata compreensão do que está acontecendo não nos perdemos. Isso é sci fi no seu máximo filosófico. Talvez nem 2001 tenha ido tão longe.
 

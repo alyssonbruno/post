@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-14"
-title: "Hannah e Suas Irmãs"
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Hannah e Suas Irmãs"
 ---
 Terminar um filme do Woody Allen como Hannah e Suas Irmãs é voltar a ter esperança na humanidade. Não que o filme tenha essa mensagem, mas é que seu diretor e roteirista demonstra um conhecimento tão absurdo da alma humana que é como se você não estivesse mais sozinho no mundo. Como se alguém finalmente desse o sinal de vida: "Eu existo. E eu sei como tudo isso é tão sem sentido."
 

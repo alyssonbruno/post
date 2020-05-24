@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-03-14"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Poder sem Limites"
-stars: "4/5"
 ---
 Entrando na onda dos filmes gravados como documentários, só que sem os problemas técnicos presentes no gênero, como a qualidade de vídeo, Poder Sem Limites explora a descoberta de três jovens de uma caverna escondida dentro de um buraco e que acaba lhes dando poderes tele cinéticos. Os motivos para isso nunca são revelados, pois o objetivo do longa é mostrar os rapazes explorando esse poder gradativamente, e como cada um deles o usa de forma particular.
 

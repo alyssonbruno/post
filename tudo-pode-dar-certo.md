@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-04-30"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Tudo Pode Dar Certo"
-stars: "4/5"
 ---
 A imprevisibilidade e a forma como tudo o que acontece em torno da história é a síntese do próprio filme, onde o caos (e o nosso conhecimento sobre) bate de frente com nossas crenças. Obviamente, por se tratar de um filme de Woody Allen, tudo isso será devidamente criticado através do seu protagonista com crises existenciais pós-divórcio. Uma prova de que ele é o sócia do diretor é que, apesar de refinado intelectualmente, o protagonista sente os mesmos sentimentos humanos, mas os expressa de maneira mais sutil, o que ao mesmo tempo torna-os mais evidentes ao espectador.
 

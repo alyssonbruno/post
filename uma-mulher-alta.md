@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-06"
-title: "Uma Mulher Alta"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Uma Mulher Alta"
 ---
 Uma Mulher Alta é uma incursão estranha nas mentes e corações dos russos pós-guerra. Com a economia destruída e as relações sociais radicalmente alteradas, o filme de Kantemir Balagov realiza uma obra que parte da intimidade do triângulo amoroso mais bizarro que você verá esse ano para nos revelar as idiossincrasias que emergem de uma sociedade sem amor.
 

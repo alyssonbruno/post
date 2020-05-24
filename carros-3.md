@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-07-08"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Carros 3"
-stars: "3/5"
 ---
 Carros 3 consegue meio que comprovar que a Pixar continua com sua crise de criatividade, mas que isso não é motivo para fazer filme ruim. Então eles abraçam o convencional com carinho, amadurecem mais uma série (depois de Toy Story) e fazem de tudo para não estragar o passeio. Mas como quem não arrisca não petisca esta é mais uma aventura morna no campo das ideias e da emoção de um estúdio que era sinônimo de momentos icônicos do Cinema em forma de computação.
 

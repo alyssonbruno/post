@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-02-07"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Miseráveis"
-stars: "3/5"
 ---
 Baseado em uma peça musical (que é baseado no clássico literário de Vitor Hugo), a história de Os Miseráveis se passa na França pós-revolução e gira em torno de Jean Valjean (Hugh Jackman), um ex-prisioneiro que foi condenado por ter roubado um pão e que cumpriu pena por 19 anos. Os destinos de diversos personagens se encontram com Valjean, inclusive Javert (Russell Crowe), o inspetor que cuidava das galés onde realizava trabalhos forçados, e Fantine (Anne Hathaway), mãe da pequena Cosette (Amanda Seyfried crescida) e que faz de tudo para sustentar a filha, inclusive chegando a se prostituir.
 

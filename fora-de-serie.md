@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-09T12:19:04-03:00
-title: "Fora de Série"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Fora de Série"
 ---
 Fora de Série é tudo o que eu queria ver no cinema em termos de comédia: algo engraçado (por favor), empolgante, inteligente, atualizado e que não espera que os espectadores sejam idiotas para que o filme funcione.
 

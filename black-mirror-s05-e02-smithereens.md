@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-14T14:23:24-03:00
-title: "Black Mirror S05 E02 Smithereens"
-tags: [ "draft", "series" ]
 stars: "4/5"
-
+tags: [ "draft", "series" ]
+title: "Black Mirror S05 E02 Smithereens"
 ---
 Eu sei, eu também gostava da versão futurista do Black Mirror, e acredito que eles continuarão a produzir episódios sobre o daqui a pouco tecnológico que nós tanto anseiamos como tememos. Porém, de vez em quando é de muito bom tom lembrar que coisas horríveis podem acontecer com a tecnologia que já temos hoje, nos alertando sobre o que preferimos ignorar: não são robôs dominando o mundo o grande medo de nossa evolução, mas humanos se comportando como robôs.
 

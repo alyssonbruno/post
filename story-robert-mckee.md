@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
-title: "Story, by Robert McKee"
-tags: [ "draft", "books" ]
 date: 2019-09-08
+tags: [ "draft", "books" ]
+title: "Story, by Robert McKee"
 ---
 
  - An archetypal story creates settings and characters so rare that our eyes feast on every detail, while its telling illuminates conflicts so true to humankind that it journeys from culture to culture.

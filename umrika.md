@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-28"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Umrika"
-stars: "4/5"
 ---
 Este é um drama bem construído que envolve uma família indiana e as dores da separação e da ilusão entre eles. Às vezes apela demais para a emoção (principalmente no final), mas em sua maioria é uma trama bem desenvolvida e que merece o título de um indie que não parece indie, pois foge das fórmulas mais comuns e acaba caindo em um pesado sonho indiano pautado no americano. Ou deveria dizer umrikaniano?
 

@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2009-04-17"
-title: A sala da fila das threads
 tags: [ "draft",  ]
+title: A sala da fila das threads
 ---
 Quando falei sobre a fila das threads, e como cada thread espera pacientemente em uma fila até chegar sua vez de ser atendida no guichê das CPUs, também vimos como é fácil fazer caquinhas em um programa que roda paralelamente duas threads ou mais.
 

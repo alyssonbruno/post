@@ -1,10 +1,10 @@
 ---
 categories: [ "cinema" ]
 date: "2015-07-26"
-title: "O Conto da Princesa Kaguya"
-tags: [ "draft", "movies" ]
-stars: "5/5"
 review: [ "2020" ]
+stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "O Conto da Princesa Kaguya"
 ---
 Uma aventura narrada por traços que revelam o que mais importa em seus personagens: o "eu" interior, ou seja, as expressões que os tornam tão únicos quanto complexos. Porém, nunca simplificados, mesmo se tratando de um conto. Aliado a isso, uma música de poucos toques usada nos momentos exatos transforma a experiência em uma imersão completa na moral milenar oriental. Em suma: um desenho imperdível para adultos (e talvez assustador para crianças, mas ainda assim arriscaria levá-las...).
 

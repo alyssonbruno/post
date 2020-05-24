@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-04-24"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Vida"
-stars: "3/5"
 ---
 Esta é uma releitura de "Alien, o Oitavo Passageiro" que parece mais realista, ou pelo menos mais próxima de nossa realidade. De toda forma, ela apresenta duas mudanças principais. Primeiro retira aquela impressão de que um alienígena está sendo propositadamente mal, já que analisa com muita propriedade que toda vida tem que matar para continuar vivendo. Segundo, não conseguindo conter o terror dentro da faceta dramática e grandiosa do enredo, o filme vai apelando pontualmente para o trash de bom orçamento, até se entregar de vez ao caricato. Isso gera surpresas na medida em que um filme decide fazer pouco dele mesmo pelo bem da brincadeira. Mas não é tanta surpresa se considerarmos que um dos primeiros diálogos cita o filme A Noite dos Mortos Vivos um clássico terror de zumbis.
 

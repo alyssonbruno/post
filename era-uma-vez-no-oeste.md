@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-10-31"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Era Uma Vez no Oeste"
-stars: "5/5"
 ---
 Era Uma Vez no Oeste parece ser a tentativa de Sergio Leone de fazer o "Grande Cinema", tornando todas as cenas costumeiras de seu faroeste mais solenes, lentas e cerimoniosas. Isso explica a trilha-comentário do músico Ennio Morricone, que oscila elegantemente entre toda essa solenidade e o pitoresco, com direito a pausa em uma música que lembra o cavalgar e que serve de tom cômico.
 

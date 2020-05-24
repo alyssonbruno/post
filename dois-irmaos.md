@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-10-08"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Dois Irmãos"
-stars: "4/5"
 ---
 O maior mérito da direção deste filme é deixar a história fluir sem interferências, dando vazão a ambas às interpretações, ambas dignas, apesar de gerarem efeitos diversos.
 

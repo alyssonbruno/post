@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-10-24T02:12:31
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Otherlife"
-stars: "3/5"
 ---
 A protagonista de Otherlife parece bem bonitinha. Tem olhos claros. Ela coloca um líquido negro nos olhos das pessoas, e muito mais nela mesma. É um composto de nanotecnologia que apresenta um programa que te leva aos sonhos mais malucos. Por que malucos? Porque tem bugs, seu bobinho!
 

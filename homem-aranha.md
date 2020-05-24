@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-07-28"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Homem-Aranha"
-stars: "4/5"
 ---
 Construído como um clássico fortemente inspirado em Super-Homem de Richard Donner, o debut de Sam Raimi peca por imitação enquanto acerta em todo o resto. "Com grande poder vem grandes responsabilidades" diz menos sobre o garoto picado por uma aranha e mais sobre o homem que o dirige.
 

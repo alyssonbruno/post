@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-20T14:27:48-02:00
-title: "O Operário"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "O Operário"
 ---
 O Operário é daqueles filmes que apesar de ser um thriller caminha bem no drama, e isso funciona na primeira vez que você assiste, sem saber por que o personagem de Christian Bale não consegue dormir, quanto na segunda vez, quando você já pode se interessar em aspectos mais sutis do excelente roteiro.
 

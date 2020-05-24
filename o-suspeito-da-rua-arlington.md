@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-04-10"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Suspeito da Rua Arlington"
-stars: "4/5"
 ---
 Esse é um filme morno que escapa da mediocridade em seus minutos finais, quando o seu final surpreendente te faz repensar toda a história, achar alguns furos (bem óbvios) e terminar ainda com um saldo positivo. "É, tem furos, foi um desenvolvimento medíocre, mas faz pensar em um bocado de coisas". Entre filmes que são ótimos de assistir e ótimos de esquecer e filmes que são razoáveis mas vão te deixar pensando por um bom tempo neles, prefira os últimos.
 

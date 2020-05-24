@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2008-07-16"
-title: O caso da função de Delay Load desaparecida
 tags: [ "draft",  ]
+title: O caso da função de Delay Load desaparecida
 ---
 Todos os projetos do Visual Studio 6 estavam compilando normalmente com a nova modificação do código-fonte, uma singela chamada a uma função.aspx) da DLL iphlpapi.dll. No entanto, ainda restava a compilação para Windows 95, um legado que não era permitido esquecer devido ao parque antigo de máquinas e sistemas operacionais de nossos clientes.
 

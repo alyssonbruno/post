@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-22"
-title: "Alva"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Alva"
 ---
 Alva nos captura desde o começo como um documentário sobre a vida de uma pessoa pacata que parece inofensiva, mas vai no decorrer de sua duração nos mostrando o ponto de vista de alguém que vive dentro de cada um de nós, ainda que não saibamos disso. E melhor prova disso é nós torcermos por este personagem, inconscientemente, apenas porque começamos o filme simpatizando com sua rotina.
 

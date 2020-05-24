@@ -1,8 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: "2015-02-17"
-title: "Como é escolher um filme pelo trailer"
 tags: [ "draft",  ]
+title: "Como é escolher um filme pelo trailer"
 ---
 O que está passando esse fim-de-semana? Que tal dar uma olhada nos trailers para escolher?
 

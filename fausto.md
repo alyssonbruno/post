@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-07-27"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Faust"
-stars: "5/5"
 ---
 Novo filme de Aleksandr Sokurov, mestre em expor a alma humana de uma maneira não-convencional ? vide "Mat i Syn" ou "Moloch" ?, Fausto transforma a lenda do homem e do romance homônimos em um apanhado dramático que, coeso em sua história principal, nunca nos revela o suficiente para se tornar a velha história clichê do homem que venda a alma ao diabo para obter conhecimento. Pelo contrário: ousado em sua estrutura, subverte a lenda e consegue transplantar sua visão de maneira igualmente satisfatória.
 

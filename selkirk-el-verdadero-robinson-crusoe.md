@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-title: "Selkirk el verdadero Robinson Crusoe"
-
-stars: "3/5"
 date: "2012-02-15"
+stars: "3/5"
 tags: [ "draft", "movies" ]
+title: "Selkirk el verdadero Robinson Crusoe"
 ---
 Impressionante essa animação argentina sobre o livro de Robinson Crusoé que, salvo alguns momentos difíceis tecnicamente, possui efeitos e direção dignos de outras produções mas conhecidas, como Wallace e Gromit (que também estreia recentemente com um filme de piratas).
 

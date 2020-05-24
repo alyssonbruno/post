@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-02-17"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Lion: Uma Jornada Para Casa"
-stars: "4/5"
 ---
 Este é o filme indicado ao Oscar por fazer chorar. E por falar de um caso real, emocionante, e por falar sobre miséria e como os brancos são privilegiados. Se for um branco que fala inglês, então, nem se fala: a maioria do filme é falado em inglês.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-01-15"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Tomboy"
-stars: "4/5"
 ---
 Tomboy de início possui uma inusitada premissa: narrar a vida e as dificuldades de Laure, uma garota que, andrógina, possui a aparência de menino. Focando-se nisso de maneira sutil, ainda que nos deixe perceber as intenções e pensamentos da jovem Laure, ainda que sem diálogos, o filme faz questão de sempre nos fornecer aconchego externo, de forma que nunca nos sentimos realmente desamparados pela condição da garota, que possui pais compreensivos e atenciosos, além de uma adorável irmã mais nova.
 

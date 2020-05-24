@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2011-07-26"
-title: Depuração de emergência
 tags: [ "draft",  ]
+title: Depuração de emergência
 ---
 O programa está rodando no servidor do cliente, que é acessível por sessão remota do Windows, mas de repente ele capota. Existem aí duas possibilidades fora o debug remoto (que, nesse caso, não é possível):
 

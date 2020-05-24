@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-04-16T22:53:45-03:00
-title: "The IT Crowd"
-tags: [ "draft", "series" ]
-
 stars: "4/5"
+tags: [ "draft", "series" ]
+title: "The IT Crowd"
 ---
 Já tentou desligar e ligar o computador de novo? Você sabe o que é IT? Se a resposta para essas perguntas foram sim então talvez você goste dessa série de comédia britânica que apela para quadros que fogem um pouquinho da realidade, mas que continua nos lembrando como é o ecossistema do pessoal de suporte.
 

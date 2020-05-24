@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-07-05"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Julho Agosto"
-stars: "3/5"
 ---
 O clima de um filme como "Julho Agosto" não poderia ser melhor para as férias de meio do ano. Aliás, poderia sim: nós aqui do Brasil poderíamos ter verão, e não inverno, nessa época. Infelizmente todo o calor e o frescor do filme ficam congelados junto com nossas mãos. Mas se você pelo menos estiver bem agasalhado é bem provável que irá conseguir ao menos sentir o coração derreter levemente diante dos acontecimentos inusitados que permeiam essa família moderna francesa.
 

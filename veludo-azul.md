@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-01-14"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Veludo Azul"
-stars: "5/5"
 ---
 Esse filme nos deixa a dúvida se ele é doentio ou se ele apenas reflete a doença no mundo. Não é de hoje que se acredita que violência é um sintoma da necessidade de controle de um indivíduo sobre outro. Muitas vezes isso assume o caráter sexual. E se adicionarmos uma moral nesse ingredientes, religiosa ou não, é óbvio que ela julgará como uma coisa mau e perversa.
 

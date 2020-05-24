@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-03-11"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Filhos do Paraíso"
-stars: "4/5"
 ---
 Existe algo que vale a pena em Filhos do Paraíso. Se você notar, de repente acompanhamos uma história que não tem nada de original ou espetacular. Mas acompanhamos atentos. Existe algo de mágico em entrar dentro da vida dessa família. De entender seus conflitos, seu modo de viver e o problema que a perda de um par de sapatos representam.
 

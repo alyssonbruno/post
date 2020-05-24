@@ -1,9 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: 2018-01-30T19:30:18
-
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
 title: "Garoojigi"
 ---
 Este filme tem uma história tão ruim, mas como ela é baseada em um "conto antigo" (que nunca existiu) nos faz pensar que isso é coisa do pessoal das antigas, um bando de malucos onde fazer sexo com uma ursa pode salvar uma aldeia da infertilidade. E como não dar risada de um filme supostamente erótico onde vemos meia-dúzia de peitos e nenhum órgão reprodutor?

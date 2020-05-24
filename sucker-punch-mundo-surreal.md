@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-03-29"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Sucker Punch Mundo Surreal"
-stars: "3/5"
 ---
 Cenas de ação cheias de adrenalida e perfeição técnica, uma fotografia e direção de arte extremamente competentes e uma trilha sonora que parece que foi feita para cada cena.
 

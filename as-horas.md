@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-24T19:28:42-03:00
-title: "As Horas"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "As Horas"
 ---
 Um filme é depressivo e te deixa depressivo. Ele foi bem sucedido como um filme? Não para mim. Eu não li nenhum dos livros e não gosto muito desse filme. Dizem que foi uma excelente adaptação. Bom, ele conta várias histórias de gente depressiva em épocas e lugares diferentes e em alguns momentos as histórias se juntam. Mas seus personagens e suas histórias são tão depressivos que quem se importa?
 

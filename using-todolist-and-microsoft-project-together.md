@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2010-04-10"
-title: Using TodoList and Microsoft Project together
 tags: [ "draft", "tools", "english" ]
+title: Using TodoList and Microsoft Project together
 ---
 The next article about bits is still in the oven. Taking vacation (40 days) had drop me out of ideas! At the moment, I can explain the tips and tricks using  TodoList to manage my team and synchronize my tasks in a Microsoft Project timesheet.
 

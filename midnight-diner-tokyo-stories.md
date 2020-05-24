@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-23"
+stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Midnight Diner: Tokyo Stories"
-stars: "4/5"
 ---
 Como uma versão japonesa, mas mais folclórica e... gastronômica? de Easy (série da Netflix sobre desembaraçar relacionamentos), Midnight Diner é fofo, pois apela para o jeito animê do japonês se comportar (e os atores colaboram, vivenciando personagens impossivelmente agradáveis), e um passatempo curioso. Parece que quanto menos sabemos dos detalhes da vida dessas pessoas fictícias, mais emblemática se torna a história, e mais torcemos para que tudo dê certo. Uma série que evoca esses sentimentos do seu espectador não pode ser tão ruim assim.
 

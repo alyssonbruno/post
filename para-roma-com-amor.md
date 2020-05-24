@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-07-03"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Para Roma com Amor"
-stars: "4/5"
 ---
 Quais diretores você conhece que conseguem fazer o velho clichê da "pessoa engasgando com o copo na mão ao ver cena inusitada" funcionar novamente? Eu conheço um: Woody Allen.
 

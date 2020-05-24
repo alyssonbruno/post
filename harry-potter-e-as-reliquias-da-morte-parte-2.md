@@ -1,10 +1,10 @@
 ---
 categories: [ "cinema" ]
-review: [ "2019" ]
 date: "2011-07-22"
+review: [ "2019" ]
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Harry Potter e as Relíquias da Morte Parte 2"
-stars: "5/5"
 ---
 Prólogo
 Um filme que carrega o peso de uma saga que dura quase dez anos merece um final, no mínimo, apropriado. Felizmente, nas mãos do visualmente habilidoso David Yates, essa premissa é cumprida com louvor.

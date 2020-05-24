@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-05-27"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Tempo de Despertar"
-stars: "4/5"
 ---
 Robin Williams é sempre Robin Williams. Felizmente, esse fato não é o suficiente para estragar um filme que se esforça de maneira tocante ao tentar estabelecer uma conexão entre quem assiste e o drama dos pacientes que, sem se mover por décadas, conseguem experimentar milagrosamente uma janela de normalidade.
 

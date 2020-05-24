@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-07-11T15:02:20-03:00
-title: "Uma Casa à Beira Mar"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Uma Casa à Beira Mar"
 ---
 O filme chama Casa à Beira Mar no Brasil (assim como seu nome internacional), mas seu nome original é "A Villa". E a vila do filme é o centro do mundo. Pelo menos do ponto de vista francês. Ela é um microcosmo que fala sobre família, política, vida e morte. É um filme que lamenta pelo presente, mas que também se enxerga no passado, sob a forma de culpa. No começo é possível que você imagine se tratar de um filme leve sobre o assunto, ou que talvez chame os fantasmas do clássico Era Uma Vez em Tóquio, que é uma história família que possui um fundo dramático, universal e nada leviano. Muitos devem concordar. E este filme tem tudo para sê-lo. Menos pela profundidade. Isso porque ele é ingênuo demais. E esse, ironicamente, é o real problema de nossa geração.
 

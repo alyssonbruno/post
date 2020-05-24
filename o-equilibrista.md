@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-03-02"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Equilibrista"
-stars: "5/5"
 ---
 O Equilibrista é um trabalho fascinante de documentário porque explora de diversas maneiras o uso da câmera, montagem e roteiro para conseguir trazer a atenção do espectador no seu máximo em torno de um projeto que poderia muito bem virar uma reportagem sem graça de cinco minutos em um telejornal qualquer.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-02-15"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Dirty Dancing Ritmo Quente"
-stars: "4/5"
 ---
 Para os filhos da década de 50/60 a era Disco representou uma mudança radical de apreciar música. Essa mudança não ocorreu obviamente apenas na música, mas na maneira de pensar e agir, sobretudo na adolescência, época conturbada tão bem representada nos trabalhos de John Hughes (Curtindo a Vida Adoidado, O Clube dos Cinco).
 

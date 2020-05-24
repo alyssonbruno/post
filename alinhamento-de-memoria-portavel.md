@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2008-06-18"
-title: Alinhamento de memória portável
 tags: [ "draft",  ]
+title: Alinhamento de memória portável
 ---
 Como vimos durante o seminário CCPP, o alinhamento de memória pode ser problemático durante momentos críticos, como migração de plataforma (16 para 32 bits) e de ambiente (compilador novo). A forma como a memória é alinhada influi diretamente em algoritmos de criptografia, por exemplo, fazendo com que o que funcionava antes não funcione mais sem mexer uma única linha de código. Eu já vi isso. E isso não é bom.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-08-17"
+stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Loucas de Alegria"
-stars: "5/5"
 ---
 Loucas de Alegria, apesar do título e das protagonistas com problemas psicológicos, é um retrato realista e encantador sobre amizade incondicional, mesmo que sua amiga tenha impulsos suicidas ou tenha cara de pau de aplicar golpes por onde quer que passe. Em seu momento mais lúdico ele homenageia "Thelma & Louise", o clássico de Ridley Scott, o que, naquela altura da campeonato, é uma das licenças poéticas mais bem-vindas e muito apropriada.
 

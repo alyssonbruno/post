@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-08-22"
 review: [ "2012" ]
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Como Enlouquecer seu Chefe"
-stars: "3/5"
 ---
 Depois de ter visto Como Matar seu Chefe, resolvi rever o que eu considero uma versão melhorada (ou mais profunda) da questão do "Dilbert Life Style", que é esse Como Enlouquecer seu Chefe, ou mais corretamente no original, Office Space (Ambiente de Escritório?).
 

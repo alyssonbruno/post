@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-05"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Os Excêntricos Tenenbaums"
-stars: "4/5"
 ---
 Esse é um filme sobre família desajustada, feito ainda em uma época onde filmes sobre famílias desajustadas ainda instigavam o interesse do público Tênis Verde. Até porque, geralmente, essas histórias eram perfeitas para produções independentes de baixo orçamento. Dessa premissa saíram pérolas como Pequena Miss Sunshine, alguns anos depois.
 

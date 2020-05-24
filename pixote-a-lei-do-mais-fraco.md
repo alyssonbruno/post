@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-07"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Pixote: A Lei do Mais Fraco"
-stars: "5/5"
 ---
 O menino Fernando Ramos da Silva fez sua estreia no Cinema interpretando uma figura parecida com a realidade em que vivia: Pixote, um garoto que precisa cheirar cola para fugir da realidade em que vive.
 

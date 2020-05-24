@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-25"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Deu a Louca nos Nazis"
-stars: "3/5"
 ---
 Uma comédia, ou suposta comédia, sobre nazistas que fogem para a Lua no final da guerra e vivem lá planejando um ataque à Terra, até que dois astronautas, sessenta anos depois, voltam a pisar em solo lunar e um deles se torna cobaia para experimentos de um cientista maluco nazista. Infelizmente esse rapaz é negro.
 

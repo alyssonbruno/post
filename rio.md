@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-04-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Rio"
-stars: "3/5"
 ---
 Mais um filme visto em castelhano. Tenho a dizer que os dubladores argentinos são tão competentes quanto os nossos, e acompanhar a trajetória de Blu por Rio de Janeiro, sob o ponto de vista dos portenhos, foi mais uma experiência pra vida cinematográfica.
 

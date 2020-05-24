@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-08-06T16:00:33-03:00
-title: "Merlí"
-
-tags: [ "draft", "series" ]
 stars: "3/5"
+tags: [ "draft", "series" ]
+title: "Merlí"
 ---
 Merlí de Héctor Lozano segue uma cartilha de novela moderada, onde seus personagens nunca se transformam em algo diferente do que são, mas coisas do cotidiano acontecem a eles para movimentar uma história em torno de um professor de filosofia.
 

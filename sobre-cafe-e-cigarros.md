@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-20"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Sobre Café e Cigarros"
-stars: "3/5"
 ---
 Esse é um filme extremamente deprimente, pelas características dos cenários, pela estática das cenas, pela conversinha dos personagens, pelo princípio que os personagens principais, de fato, são os nomes do título.
 

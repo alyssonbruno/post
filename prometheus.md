@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-06-19"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Prometheus"
-stars: "3/5"
 ---
 Como fã convicto da série Alien, desde seu Oitavo Passageiro ao controverso A Ressurreição, tenho autoridade não apenas como estudioso de Cinema mas como fã estudioso de considerar o novo trabalho de Ridley Scott como uma involução não apenas da série, mas do gênero de ficção científica/terror como um todo.
 

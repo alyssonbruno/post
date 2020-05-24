@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-04-18"
+stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Ninguém Entra, Ninguém Sai"
-stars: "2/5"
 ---
 Assistir a "Ninguém Entra, Ninguém Sai" é embarcar em uma viagem para a comédia brasileira dos anos 90. Porém, também é uma maneira divertida de referenciá-la, já que ninguém espera uma comédia anos 90 nos dias atuais. Há claramente uma ambiguidade entre o retrógrado e o apenas grotesco, e no meio de tudo isso atuações e participações especiais que, para bem ou para mal, remetem a figurinhas da televisão, do cinema e da internet.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-03-24"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Inside Llewyn Davis Balada de Um Homem Comum"
-stars: "5/5"
 ---
 Os irmãos Coen (Onde os Fracos não Têm Vez, Fargo) são mestres em contar histórias prosaicas e mergulhar fundo nas sensações que estas geram, sempre de uma forma estilizada e com uma fotografia impecável (Bravura Indômita, O Grande Lebowski) que evoque o ambiente onde se situa a ação. Esse "Inside Llewyn Davis - Balada de Um Homem Comum" não foge à regra e se torna a partir da transformação em ficção da nada incomum história do músico folk Dave Van Ronk um verdadeiro estudo de personagem.
 

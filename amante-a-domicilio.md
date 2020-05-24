@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-05-08"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Amante a Domicílio"
-stars: "3/5"
 ---
 Woody Allen está de volta nas telonas, mas não como diretor. Aqui ele faz o papel de um cafetão que começa a agenciar seu ex-funcionário após o fechamento de sua loja de livros raros. Na verdade, depois de tantos anos, ele é mais do que ex-funcionário: é família. Isso aparentemente não interfere nos interesses comerciais do personagem de Allen, e aí está a primeira piada judia do filme.
 

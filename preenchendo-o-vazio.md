@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-10-16"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Preenchendo o Vazio"
-stars: "3/5"
 ---
 Uma fuga de nossa cultura vigente às vezes faz bem. Curioso constatar que, mesmo imersos na rotina, crenças e cânticos da religião judia ortodoxa, os mesmos dramas humanos se configuram.
 

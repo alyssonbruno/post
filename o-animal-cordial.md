@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-08-01T16:22:57-03:00
-title: "O Animal Cordial"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "O Animal Cordial"
 ---
 O Animal Cordial é um laboratório humano. Seu título já é uma contradição em termos, e durante todos os tensos 93 minutos do filme vamos encontrando o animal dentro do homem, mas nunca o cordial. Isso porque vivemos em tempos estranhos, onde a imaginação sobre o ódio atinge níveis utópicos, e nos transforma em indivíduos lutando por um espaço.
 

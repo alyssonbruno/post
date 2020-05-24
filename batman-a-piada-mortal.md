@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-08-07"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Batman: A Piada Mortal"
-stars: "3/5"
 ---
 A relação entre Coringa e Batman sempre foi um ponto alto do universo do herói, como vimos em Dark Knight (Christopher Nolan, 2008). Em "A Piada Mortal", uma graphic novel específica de 1988, roteirizada por Alan Moore e ilustrada por Brian Bolland, essa relação já havia sido explorada de uma maneira bem peculiar.
 

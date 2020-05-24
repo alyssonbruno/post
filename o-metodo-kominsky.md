@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-12-08T18:23:33-02:00
-title: "O Método Kominsky"
-
-tags: [ "draft", "series" ]
 stars: "3/5"
+tags: [ "draft", "series" ]
+title: "O Método Kominsky"
 ---
 Essa nova criação de Chuck Lorre (Big Bang: a Teoria, Dois Homens e Meio) consegue elencar os excelentes Michael Douglas e Alan Arkin em plena forma, mas não parece dar lhes personagens dignos de suas performances. A série não parece muito certa de si se pretende seguir uma linha mais humorística ou dramática. Com certeza não consegue fazer os dois. Isso é para poucos, e do jeito que está o piloto já parece uma bagunça.
 

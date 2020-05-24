@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-04-27"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Minha Versão do Amor"
-stars: "5/5"
 ---
 Paul Giamatti é uma das melhores surpresas que se poderia esperar desse início de século para o cinema. Sempre envolvido em história no mínimo curiosas (Sideways) e em no máximo transcendentais (Sinédoque), temos aqui um conjunto das duas coisas espelhadas em um personagem desde os primeiros minutos de projeção que nos fascina pela sua mente conturbada e sua alma acuada, tão humano quanto qualquer um de nós foi em um dado período da vida.
 

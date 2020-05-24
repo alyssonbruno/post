@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-08-25T22:52:16
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Vigilante do Amanhã: Ghost In The Shell"
-stars: "3/5"
 ---
 Scarlett Johansson possui uma beleza natural que encanta tanto pela beleza quanto pelo natural. E nem ela parece conseguir trazer algo de novo ao remake ocidental live-action de um dos trabalhos filosoficamente mais ambiciosos dos últimos tempos. E se nem ela consegue, não serão efeitos digitais nem diálogos em inglês que o farão.
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-30"
-title: "Greta"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Greta"
 ---
 "Greta Garbo, quem diria, acabou no Irajá" foi uma peça escrita e encenada pela primeira vez em 1972, em plena ditadura militar. Tendo inúmeras versões pelas décadas, o pano de fundo sempre foi uma comédia que lida com a relação conturbada entre um enfermeiro idoso gay que traz para sua casa um imigrante inocente que não tem onde morar. O diretor Armando Praça não como os gays ainda são retratados na versão de 2008 e dez anos depois nasce "Greta", um filme livremente inspirado no texto de Fernando Mello.
 

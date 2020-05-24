@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-20"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Matrix"
-stars: "5/5"
 ---
 Animes, quadrinhos, Kung-Fu, filosofia, tecnologia: Que filme conseguiria compor, de forma inquestionável, esses universos tão grandiosos quanto diferentes entre si?
 

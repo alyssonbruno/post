@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: 2019-03-09T00:21:54-03:00
-title: "Free Pascal e VS Code"
 tags: [ "draft",  ]
+title: "Free Pascal e VS Code"
 ---
 Agora que o VS Code é a ferramenta universal para todas as plataformas e linguagens imagináveis, acreditem ou não, há até plugin para Pascal. Ao instalar a extensão mantida por Alessandro Fragnani você recebe o intelisense e algumas dicas durante erros de programação.
 

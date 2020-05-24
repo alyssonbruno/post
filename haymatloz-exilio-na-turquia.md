@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-31"
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Haymatloz - Exílio na Turquia"
-stars: "1/5"
 ---
 Este é um documentário quase televisivo, descritivo, que não tem praticamente nada a falar. Burocrático do começo ao fim, tem por objetivo uma homenagem aos professores expulsos da Alemanha Nazista que lecionaram em Istambul, na Turquia, além de alguns na Suíça. Seus filhos e netos voltam, então, às origens e o que vemos acaba por aí.
 

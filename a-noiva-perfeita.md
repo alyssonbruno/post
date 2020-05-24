@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-02-20"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Noiva Perfeita"
-stars: "3/5"
 ---
 Luis Costa (Chabat) é um solteirão que vive com a mãe e suas inúmeras irmãs e que não deseja se casar tão cedo, apesar de já estar na casa dos 30. Pressionada pela família, que não aguenta mais os mimos que ele recebe, ele tem que encontrar uma pretendente o quanto antes. Não aguentando tanto assédio, resolve então "contratar" uma noiva para estragar o casamento e lhe dar um tempo de sossego.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-11-30"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Clube de Compras Dallas"
-stars: "5/5"
 ---
 Nós, libertários, somos frequentemente acusados de não termos coração quando dizemos que as pessoas deveriam ser livres para buscar sua própria felicidade, mesmo que isso implique que os mais desafortunados tenham que se virar muito mais. No entanto, quando esse pensamento chega no sistema de patentes estadunidense, mais especificamente as drogas que tentam amenizar a dor e prolongar a vida de pessoas com HIV/AIDS, torna-se claro que a manipulação estatal nunca teve por princípio a busca da felicidade.
 

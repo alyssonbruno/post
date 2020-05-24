@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-29T13:20:20-02:00
-title: "Os Especialistas"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Os Especialistas"
 ---
 Jason Stahan, Robert de Niro e Clive Owen na capa deste DVD. Parece um filmão de ação para mim. Bom, nem tanto. De Niro fica quase o tempo todo preso, Owen está com um bigodinho mequetrefe e apenas Stahan salva o dia. E bem mais ou menos. Há duas explosões no filme todo.
 

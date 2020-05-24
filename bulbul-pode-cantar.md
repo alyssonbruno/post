@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-23"
-title: "Bulbul Pode Cantar"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Bulbul Pode Cantar"
 ---
 Este filme se chama Bulbul Pode Cantar, porque é a única coisa de divertido que ela pode fazer com a aprovação da sociedade em que vive. Infelizmente, ela não consegue cantar direito em público, se sente envergonhada. E é aí que começa mais um drama de valores de uma sociedade oprimindo as mentes jovens deste século.
 

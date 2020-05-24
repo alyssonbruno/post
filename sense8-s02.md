@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-06-17T22:37:47-03:00
-title: "Sense8 S02: Amor Vincit Omnia"
-
-tags: [ "draft", "series" ]
 stars: "3/5"
+tags: [ "draft", "series" ]
+title: "Sense8 S02: Amor Vincit Omnia"
 ---
 O cancelamento da série Sense8 pela Netflix nos apresentou um exemplo muito óbvio de como séries bem-feitas não podem funcionar como filmes, pois foram concebidas para expandir o seu mundo personagem a personagem, caso a caso. Quase como uma novela bem feita. E no caso do delírio criativo, poético e existencial de Lana Wachowski, mais do que nunca.
 

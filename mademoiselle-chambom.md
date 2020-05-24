@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-05-14"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Mademoiselle Chambon"
-stars: "4/5"
 ---
 Mademoiselle Chambon é daqueles filmes um tanto naturalistas, em que você precisa prestar atenção, mas não muita, para perceber a relação sutil entre os personagens, e os acontecimentos poderiam ter sido narrados de eventos da vida real e não soariam fantásticos. A bem da verdade, o núcleo narrativo do filme de Stéphane Brizé com certeza já deve ter acontecido na realidade uma série de vezes. A virtude do filme é conseguir representar isso sem escandalizar em demasiado, se focando nos personagens.
 

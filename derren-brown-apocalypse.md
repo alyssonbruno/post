@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-12-16T13:57:13-02:00
-title: "Derren Brown: Apocalypse"
-
-tags: [ "draft", "series" ]
 stars: "4/5"
+tags: [ "draft", "series" ]
+title: "Derren Brown: Apocalypse"
 ---
 O que você faria se acordasse em um apocalipse zumbi? Esta minissérie, que começa com uma história em dois capítulos de 45 minutos, explora essa abordagem usando uma cobaia em torno de uma produção que mistura o melhor da edição televisiva de séries como The Walking Dead e um roteiro que se assemelha a um jogo, mas que por contar com uma pessoa que vive isso de verdade, está anos à frente de qualquer tentativa de dramatizar os quadrinhos da série famosa de Frank Darabont.
 

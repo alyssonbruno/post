@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-12-04"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Killa"
-stars: "3/5"
 ---
 Killa é um drama indiano de uma criança e se passa em uma cidadezinha, girando em torno das amizades do garoto na escola. É pesadamente regional, necessário ter um pouco de conhecimento dos costumes de lá, e o próprio drama é desenvolvido pelo diretor Avinash Arun de uma maneira hermética, quase impossível de tirar alguma moral, parecendo aqueles filmes que são sobre uma experiência sem maiores consequências. Felizmente, em seu terceiro ato, lá no finalzinho, ganhamos algo. O arco está cumprido.
 

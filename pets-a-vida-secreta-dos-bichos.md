@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-09-11"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Pets: A Vida Secreta dos Bichos"
-stars: "3/5"
 ---
 O estúdio responsável pelo Meu Malvado Favorito e Os Minions agora vem reciclar sua biblioteca de criaturas e vai explorar justamente mas uma coisa que humanos acham uma fofura: animais domesticados.
 

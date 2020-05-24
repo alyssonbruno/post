@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-04-27"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "As Mães de Chico Xavier"
-stars: "2/5"
 ---
 Como grande sucesso do primeiro longa metragem que mostra a vida do famoso espírita Chico Xavier, vemos uma tentativa de realizar uma franquia com um seriado de televisão e, agora, com histórias alternativas que giram em torno dos poderes do aclamado médium.
 

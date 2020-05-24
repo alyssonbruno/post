@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-31"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Tudo Sobre Minha Mãe"
-stars: "5/5"
 ---
 Tudo Sobre Minha Mãe é o exemplo perfeito sobre a que veio Almodóvar. Com uma sensibilidade ímpar para contar os dramas das mulheres, o diretor-roteirista emplaca uma história cheio de reviravoltas e sobre diversas mulheres e suas vidas, mas que gira principalmente em torno de Manuela (Cecilia Roth), uma enfermeira que é mãe de um filho de 18 anos que mantém um mistério acerca de seu pai, mas que possui em comum sua obsessão pelo enredo da peça Um Bonde Chamado Desejo, onde se identifica com Stella, uma personagem dominada e abusada pela figura masculina. Cenas da peça são mostradas conforme a narrativa do próprio filme avança, enriquecendo a história principal.
 

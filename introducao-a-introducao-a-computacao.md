@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2014-07-01"
-title: Introdução à Introdução à Computação
 tags: [ "draft", "reading" ]
+title: Introdução à Introdução à Computação
 ---
 
 O livro começa lá nos primórdios da informação, antes mesmo da humanidade. Sim, pois informação não necessita sequer de um ser sensciente para ser transmitida e utilizada, como já foi comprovado através de nosso código genético, o agora-popular-por-causa-do-ratinho DNA. Uma informação codificada intrinsecamente no processo de reprodução das células de um ser vivo. Um computador orgânico!

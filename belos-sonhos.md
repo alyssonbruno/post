@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-12-19"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Belos Sonhos"
-stars: "4/5"
 ---
 Belos Sonhos é uma verdadeira homenagem e uma investigação sobre essa relação tão íntima, possessiva e determinadora de caráter entre uma criança e sua mãe italiana, a figura eterna da mama. Sutil e visual, se transforma em um trabalho equilibrado, embora intenso, como todo bom filme italiano deve ser.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-02-22"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Amor em Sampa"
-stars: "3/5"
 ---
 Há algo de muito brega, amador e piegas nessa comédia romântica que, seguindo os passos de Simplesmente Amor, tenta relacionar diferentes relacionamentos, e seguindo os passos de Nova Iorque Eu Te Amo, tenta relacionar todos eles em torno de uma cidade (nesse caso, a megalópole São Paulo).
 

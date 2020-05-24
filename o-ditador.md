@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-09-06"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Ditador"
-stars: "4/5"
 ---
 Sacha Baron Cohen possui o melhor de duas comédias que particularmente gosto muito: a com estilo pastelão e a com piadas ácidas, de um humor negro que só é permitido pelas cenas absurdas que sugerem que devemos suprimir nosso sistema moral por cerca de uma hora e meia.
 

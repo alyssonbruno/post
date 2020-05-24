@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-03-10"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tiempos Felices"
-stars: "3/5"
 ---
 Este é o clichê versão argentina daquela comédia onde o namorado quer se separar mas não consegue dizer para a namorada. A partir daí você já deve conseguir concluir que verá aquela velha cena dele imaginando que está se separando e as possíveis reações da sua ex-amada.
 

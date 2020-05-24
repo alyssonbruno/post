@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-09T12:54:07-03:00
-title: "Como Vender Drogas Online (Rápido)"
-
-tags: [ "draft", "series" ]
 stars: "3/5"
+tags: [ "draft", "series" ]
+title: "Como Vender Drogas Online (Rápido)"
 ---
 Esta série pisca para os nerds. A geração X (é essa mesmo? Fxda-se) não quer nada da vida e o Zuckerberg da Alemanha resolve vender drogas na darkweb apenas por um motivo: bxcxta.
 

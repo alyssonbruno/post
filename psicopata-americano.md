@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-02-26"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Psicopata Americano"
-stars: "5/5"
 ---
 Existem vários exemplos de serial killers organizados na literatura e no cinema/tv, como Kevin Costner em Mr. Brooks (Instinto Secreto) e o mais famoso Michael C. Hall como Dexter Morgan. Porém, pouco se vê dos assassinos que são facilmente pegos exatamente porque não possuem disciplina e ordem: matam as pessoas de qualquer forma. Não possuem método: possuem impulso.
 

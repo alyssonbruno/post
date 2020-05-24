@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-11-07"
-title: "Irreversível"
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Irreversível"
 ---
 Irreversível é essa experiência angustiante que vai desconstruindo uma história simples através dos seus momentos mais tensos. "O tempo destrói tudo" é o seu lema, e este é um filme que destrói o tempo antes que ele nos destrua.
 

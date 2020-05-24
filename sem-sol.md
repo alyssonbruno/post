@@ -1,9 +1,9 @@
 ---
-date: "2020-04-26"
-title: "Sem Sol"
-stars: "1/5"
 categories: [ "cinema" ]
+date: "2020-04-26"
+stars: "1/5"
 tags: [ "draft", "movies" ]
+title: "Sem Sol"
 ---
 Sem sol e sem sentido. Este longa de Chris Marker é sobre um francês enxergando o mundo à sua maneira: injusto e caótico. A única coisa que ele não enxerga é a tamanha pretensão na cabeça de um francês.
 

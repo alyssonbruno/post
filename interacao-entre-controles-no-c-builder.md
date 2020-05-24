@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2007-12-05"
-title: Interação entre controles no C++ Builder
 tags: [ "draft",  ]
+title: Interação entre controles no C++ Builder
 ---
 
 Para essa proeza precisaremos de:

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-08-27"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Um Lugar Chamado Notting Hill"
-stars: "4/5"
 ---
 Está é uma história estilo conto de fadas, em que uma famosa atriz, inalcançável pela maioria dos mortais, acaba visitando um pequeno bairro de Londres (o Notting Hill do título) e conhece o dono de uma loja de livros de viagem (e é curioso que provavelmente ela deve ter viajado para muitos dos lugares descritos nos livros de suas estantes) e vivem um inusitado romance.
 

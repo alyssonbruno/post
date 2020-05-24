@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-11-29"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Bonequinha de Luxo"
-stars: "3/5"
 ---
 Curiosamente esse filme ficou conhecido como um clássico, ainda que tenha traços de um verdadeiro cult, tanto pela sua excentricidade quanto pela direção inusitada de Blake Edwards (A Pantera Cor de Rosa), que ilustra a vida de Holly Golightly de uma maneira quase surreal.
 

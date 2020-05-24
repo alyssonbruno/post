@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-12"
-title: "Os Falsários"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Os Falsários"
 ---
 Os Falsários é uma história real embutida em um drama sobre a moral e o fazer certo, mesmo que arriscando sua própria vida. E não há cenário mais propício para se desenvolver uma trama como essa do que nos limites do homem: a guerra.
 

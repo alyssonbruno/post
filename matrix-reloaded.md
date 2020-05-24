@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-05-06"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Matrix Reloaded"
-stars: "4/5"
 ---
 Justiça seja feita: Matrix Reloaded é um esforço monumental dos irmãos (ou irmãs) Wachowski e o produtor Joel Silver em expandir e comentar o universo criado em seu antecessor, "Matrix". O filme e o roteiro tentam instigar a todo momento o espectador a pensar fora da caixa. Usa metáforas com o mundo dos computadores e argumenta tanto de maneira mística quanto filosófica. Exibe momentos cinematográficos exuberantes, muitas vezes apenas "porque sim", mas pelo menos nunca deixa de cuidar que pop, cult e intelectual caminhem juntos.
 

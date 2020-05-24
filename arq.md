@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-04-01"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "ARQ"
-stars: "3/5"
 ---
 ARQ é mais um experimento em filmes de viagem no tempo. Produzido pela Netflix e escrito/dirigido por Tony Elliott (Orphan Black), ele nos leva em uma história que mexe com "loops" temporais que se tornam eficientes como um thriller e um filme de ação estilo videogame. Porém, ele não consegue transparecer tanta complexidade assim conforme nos acostumamos com suas regras e entendemos que o roteiro no fundo não passa de uma ideia para um jogo de computador.
 

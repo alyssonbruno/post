@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-05-09"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Paradise Now"
-stars: "3/5"
 ---
 Não é o fato de um filme contar a história de um homem-bomba sob seu ponto de vista, algo incomum para o Ocidente, que ele se torna automaticamente uma ótima referência ao tema. Contudo, quando esse ponto de vista está embebido em melancolia e ressentimentos de uma infância que não conheceu uma realidade diferente do inferno da Guerra (inclusive com a perda do pai causada diretamente por esta), é aí que começamos a analisar se o projeto de fato merece crédito.
 

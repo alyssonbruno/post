@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-06T23:27:11-02:00
-title: "Clímax"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Clímax"
 ---
 Eu me mantenho em forma o suficiente para subir escadas sem cansar e não ser um total vexame na cama. E posso dizer para família e amigos que cuido de minha saúde, em corpo e espírito. Como costumam dizer, eu me preocupo com meu bem estar. Mas quem são esses jovens de corpos sarados, e por que há tanta mágoa em seus corações? A mente e o corpo são uma unidade. Um templo. Assim como a escola é um templo do conhecimento. E quando se profana esse templo tudo é permitido. Mas nada nos convém.
 

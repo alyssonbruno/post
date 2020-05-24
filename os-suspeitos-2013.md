@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-10-25"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Os Suspeitos"
-stars: "5/5"
 ---
 O cansaço, desânimo e um envolvimento ilimitado na busca de duas meninas desaparecidas é o que forma a base de Os Suspeitos, mantida todo o tempo por três pilares fundamentais: o detetive e o pai incansáveis formam dois deles; a direção impecável de Denis Villeneuve (do excelente Incêndios) no desenvolvimento da trama forma o terceiro.
 

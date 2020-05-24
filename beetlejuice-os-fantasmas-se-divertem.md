@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-06T20:28:49-03:00
-title: "Beetlejuice: Os Fantasmas Se Divertem"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Beetlejuice: Os Fantasmas Se Divertem"
 ---
 Se vocês assistiram Uma Aventura Lego 2 recentemente, podem confiar na opinião do Batman: Michael Keaton está ótimo em Beetlejuice.
 

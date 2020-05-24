@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-07-01"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Além da Vida"
-stars: "3/5"
 ---
 Para quem não havia assistido o trailer do novo trabalho de Clint Eastwood (Menina de Ouro), tem a impressão que os conflitos do primeiro ato são apresentados de uma maneira mais impactante do que um drama seria capaz. Como o exemplo mais marcante, escolho a situação em que se encontra Marie LeLay (Cécile de France), uma jornalista de sucesso e que passa o momento mais claustrofóbico do longa.
 

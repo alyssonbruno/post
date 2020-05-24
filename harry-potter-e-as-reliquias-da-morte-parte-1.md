@@ -1,10 +1,10 @@
 ---
 categories: [ "cinema" ]
-review: [ "2019" ]
 date: "2010-11-19"
+review: [ "2019" ]
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Harry Potter e as Relíquias da Morte Parte 1"
-stars: "5/5"
 ---
 A sensação do final é de que poderíamos muito bem assistir muito mais. Isso porque, com transições equilibradas entre cenas de ação e de reflexão, as quase duas horas e meia não soam cansativas durante a experiência, que é ao mesmo tempo empolgante e visualmente emocionante.
 

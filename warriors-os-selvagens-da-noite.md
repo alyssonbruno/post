@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-08-02"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Warriors Os Selvagens da Noite"
-stars: "5/5"
 ---
 Filmado claramente como um filme de batalhas do Império Romano  a la Spartacus, Ben-Hur e tantos outros  nossa visão é forçada a enxergar aquelas gangues de rua como exércitos a defender seu território, o que é fascinante por si só, pois embute em nossa mente o mesmo perigo de morte que exércitos "tradicionais" teriam em zona inimiga.
 

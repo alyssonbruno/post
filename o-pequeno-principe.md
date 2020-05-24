@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-08-29"
+stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Pequeno Príncipe"
-stars: "5/5"
 ---
 Algumas pequenas obras de arte vestem tão bem sua roupagem temática que conseguem pegar, por exemplo, um velho livro infantil, já amado e idolatrado por todos, até com filmografia já pronta, e ainda assim atualizar, expandir e enriquecer sua história, seu mundo e seus complicados conceitos. Mais uma vez. Uma atitude das mais nobres, diga-se de passagem, já que consegue nos remeter ao problema atual do amadurecimento precoce de nossas crianças, além de se encaixar na tendência mundial contra a padronização de comportamento.
 

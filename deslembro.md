@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-03T14:01:13-03:00
-title: "Deslembro"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Deslembro"
 ---
 Deslembro começa deslumbrando com seu nome, um trocadilho simpático e até poético sobre o desmembramento de uma família, o esquecimento de quem fomos e as ambiguidades dos idiomas românicos, como o português, o francês e o espanhol.
 

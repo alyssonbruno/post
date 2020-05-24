@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-05-10"
+stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Segunda Chance"
-stars: "5/5"
 ---
 A diretora Susanne Bier já nos mostrou um debate ético arrebatador em Depois do Casamento. Agora em Segunda Chance o dilema moral, como ideia, é muito maior, e dificilmente há um momento no filme que é possível relaxar de tanta tensão. Os closes nos atores são constantes e a câmera na mão deixa tudo mais imediatista. Se há momentos de calmaria, é porque Bier escolhe nos brindar de tempos em tempos com a visão da água tocada pelo vento, ou o céu pelos pássaros.
 

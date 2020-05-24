@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-29"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Oito Odiados"
-stars: "3/5"
 ---
 Se há um motivo para a existência de Os Oitos Odiados é dar o mais que merecido Oscar para o compositor Ennio Morricone. No entanto, esse prêmio negado ao músico de trilhas icônicas como Os Intocáveis, Era Uma Vez na América e Cinema Paradiso irá agora figurar como o mesmo Oscar negado a Martin Scorsese em toda sua carreira até Os Infiltrados: longe de ser o melhor trabalho; apenas um prêmio de consolação.
 

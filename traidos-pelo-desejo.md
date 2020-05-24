@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-23T11:46:10-03:00
-title: "Traídos pelo Desejo"
-
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Traídos pelo Desejo"
 ---
 Vou ser sincero com você, caro leitor. E explícito. Se aguente, são minhas memórias. Quando eu assisti esse filme pela Videoteca da Folha, uma coleção de Fitas VHS lançado aos domingos, eu me lembro claramente de um pintão surgindo na pequena tela de tubo. Não porque foi traumático, nem porque foi excitante, mas principalmente porque este é o momento em que para o personagem de Stephen Rea o futuro perfeito que ele havia imaginado simplesmente virou de cabeça pra baixo.
 

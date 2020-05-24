@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-04-24"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Sete Psicopatas e um Shih Tzu"
-stars: "4/5"
 ---
 Você irá rir pelos motivos errados. Este é um filme que apresenta a realidade de um escritor de Hollywood quando ele decide escrever um roteiro com sete psicopatas e zero violência. Não há a menor surpresa que ele não irá conseguir.
 

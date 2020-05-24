@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-15T16:08:47-03:00
-title: "Poderia Me Perdoar?"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Poderia Me Perdoar?"
 ---
 Baseado em uma história real. Isso é o que lemos no começo de "Poderia Me Perdoar?", seguido de uma história que talvez fosse difícil de engolir se não nos fosse informado que tudo aquilo (ou boa parte) aconteceu.
 

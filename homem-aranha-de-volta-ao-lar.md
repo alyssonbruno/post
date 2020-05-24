@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-07-09"
+revison: ['2017-08-03']
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Homem-Aranha: De Volta ao Lar"
-stars: "3/5"
-revison: ['2017-08-03']
 ---
 A re-re-estreia do Homem-Aranha em filme solo -- dessa vez no insosso universo dos Vingadores -- é uma divertida abordagem de um Peter Parker jovem e sem traumas (ou seja: sem Uncle Ben) que atualiza o personagem para uma época pressionada pela gangue do politicamente correto, mas também pela geração do bom humor, das ações sem consequências, do "Homem-Aranha do YouTube". Este é um filme definitivamente para assistir com pipoca, do lado dos filhos, sem estar muito preso aos detalhes que destoam dos gibis.
 

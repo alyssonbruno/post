@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-12-09"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Estados Unidos Pelo Amor"
-stars: "4/5"
 ---
 É curioso como em "Estados Unidos Pelo Amor" -- novo trabalho do diretor (e roteirista) Tomasz Wasilewski -- o destino de cada personagem termina necessariamente em um drama, mas que nunca é suficientemente trágico. Pelo menos não para as mulheres envolvidas em quatro histórias que se cruzam em um vilarejo na Polônia na época comunista. Este é acima de tudo um filme sobre um grito silencioso na imensidão do horizonte.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-04-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Invasão do Mundo Batalha de Los Angeles"
-stars: "3/5"
 ---
 Cloverfield abriu o portal de obras de ficção filmados em estilo documental, mesmo em uma produção cara e mais aprimorada que o experimento primordial de Bruxa de Blair.
 

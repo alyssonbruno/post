@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-03-11"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Atrás da Porta"
-stars: "3/5"
 ---
 Dirigido e escrito por István Szabó a partir de um romance de Magda Szabó (nenhuma relação) da década de 80, Atrás da Porta é parte ficção, parte biográfico. Como filme, se transformou em uma experiência simpática com um elenco harmonioso (e a sempre versátil Helen Mirren), mas que parece não encontrar amparo em seu roteiro e direção. Há qualidades na produção, e o diretor muitas vezes parece ensaiar qualquer coisa fora do convencional (como a tempestade e as passagens em flashback fantasiosas). No entanto, todo momento que achamos encontrar o fio da meada ele nos escapa, deixando-nos em companhia de uma história pra lá de clichê, que infelizmente precisa lidar com o lugar-comum e parece não fazer esforços para se desvencilhar do previsível.
 

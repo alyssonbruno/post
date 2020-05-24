@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2008-06-04"
-title: Launchpad e a democracia do código-fonte
 tags: [ "draft", "git" ]
+title: Launchpad e a democracia do código-fonte
 ---
 Após a publicação dos projetos que ando mexendo no próprio saite do Caloni.com.br, recebi uma enxurrada de downloads e quase atingi meu limite de fluxo mensal no provedor.
 

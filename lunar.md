@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-10-06"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Lunar"
-stars: "4/5"
 ---
 Três anos. Apenas isso, e termina o contrato entre Lunar, uma corporação que domina o ramo de energia na Terra, e Sam (Sam Rockwell), o trabalhador solitário da estação de coleta de Hélio 3 na Luz. Como única companhia, Sam dispõe de GERTY (Kevin Spacey), um computador que reconhece a voz e o sentimento do astronauta. Em "Lunas", curiosamente, a única voz amiga do ser humano é um programa cibernético.
 

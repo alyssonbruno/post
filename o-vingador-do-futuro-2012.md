@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-09-05"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Vingador do Futuro"
-stars: "3/5"
 ---
 Chega a ser impressionante a capacidade do diretor Len Wiseman (da "saga" Anjos da Noite/Underworld) em empregar sequências de ação descerebradas mas completamente extasiantes. Durante as quase duas horas de projeção somos jogados em uma realidade sci-fi não apenas verossímil, mas igualmente surreal. A direção de arte de Patrick Banister (Sucker Punch, Mandando Bala, Blade: Trinity) recria o mundo do original com Arnold Schwarzenegger no mesmo clima arrebatador que os efeitos visuais da época causaram.
 

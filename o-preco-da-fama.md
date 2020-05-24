@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-09-24"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Preço da Fama"
-stars: "3/5"
 ---
 No começo de "O Preço da Fama" somos avisados de que a história se baseia em fatos verídicos. O fato em si foi o roubo do caixão de Charles Chaplin, na Suíça (sua morada por 25 anos), por dois imigrantes desempregados, e a posterior tentativa de resgate. No entanto, os detalhes em torno desse único fato são aumentados em doses desproporcionais pela imaginação do curioso diretor Xavier Beauvois.
 

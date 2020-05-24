@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-07-28"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Amantes Passageiros"
-stars: "3/5"
 ---
 Almodóvar volta às suas origens das divertidas comédias dramáticas voltadas para personagens homossexuais, videntes e todo o tipo de intriga novelesca. Aliás, a diferença vital entre novelas televisivas e Almodóvar é que este conta uma história como ninguém (e geralmente assina o roteiro).
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-06-20"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Cirque du Freak O Aprendiz de Vampiro"
-stars: "3/5"
 ---
 Darren (Massoglia) é um garoto estilo certinho, mas é amigo do problemático Steve (Hutcherson). Ambos acabam indo a um circo de horrores e lá conhecem um homem misterioso, Lasten Crepsley (Reilly), que se revela um vampiro secular. Após uma série de eventos, como o título já denuncia, Darren será obrigado a deixar sua vida normal e se tornar seu assistente. Porém, para complicar as coisas, ele irá descobrir que existem algumas escolhas a ser feitas no mundo dos vampiros.
 

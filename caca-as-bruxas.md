@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-02-05"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Caça às Bruxas"
-stars: "3/5"
 ---
 Nicholas Cage estreia mais um filme com feitiçarias. Depois do inofensivo Aprendiz de Feiticeiro, podemos considerar Caça como uma versão inserida histórica e politicamente em um contexto mais sério: a campanha das Cruzadas da época medieval e o extermínio de centenas (milhares?) de mulheres acusadas de bruxaria, enquanto a famigerada Peste matava 75% da população.
 

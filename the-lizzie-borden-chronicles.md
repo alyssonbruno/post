@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-05-20"
+stars: "2/5"
 tags: [ "draft", "series" ]
 title: "The Lizzie Borden Chronicles (piloto)"
-stars: "2/5"
 ---
 Juro que esperava peitinhos. Uma série com a sempre "interessante" Christina Ricci (A Família Addams ou... O Oposto do Sexo?) sempre promete algo assim. Ela como a assassina sanguinária Lizzie Borden, então...
 

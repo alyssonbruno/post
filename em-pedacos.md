@@ -1,9 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: 2018-01-30T17:55:35
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Em Pedaços"
 ---
 Não parece haver pior dor da perda do que quando uma mãe perde seu filho. E não parece haver sentimento maior de impunidade do que quando sabemos que algo não está certo e vai ficar dessa jeito mesmo. Esses dois sentimentos extremamente pesados estão misturados no ótimo Em Pedaços, que captura uma história de violência do cotidiano de hoje e a torna visceral do começo ao fim.

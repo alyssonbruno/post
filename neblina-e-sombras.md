@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-15T22:20:45-02:00
-title: "Neblina e Sombras"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Neblina e Sombras"
 ---
 A sombra e a neblina são os lugares perfeitos para Woody Allen perambular. É nessa incompreensão charmosa do caos que este filme vai se desenrolando quase que ao acaso. Não há culpados, apenas desavisados. Nós não sabemos do que o universo e um serial killer são capazes. Mas Allen está aqui para ajudar, dando um novo e merecido destino aos que não se importam em viver a vida, por mais nebulosa que ela seja.
 

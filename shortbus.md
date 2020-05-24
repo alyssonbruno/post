@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-29"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Shortbus"
-stars: "3/5"
 ---
 Um indie por natureza, apresentado em uma Nova Iorque de maquete com textura surreal, colorido todo o tempo com uma extensa e agradável trilha sonora, protagonizado por atores em sua maioria completos desconhecidos e, para salpicar ainda mais, recheado de cenas de sexo reais, por casais, trios e grupos inteiros.
 

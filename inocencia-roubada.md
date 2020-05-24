@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-07-01T19:01:49-03:00
-title: "Inocência Roubada"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Inocência Roubada"
 ---
 Inocência Roubada conta um trauma de uma moça que começa na infância. Ela é abusada pelo melhor amigo de seus pais, e só consegue se expressar a respeito em sua dança. Essa dança é o que nos leva para o consultório de sua psicóloga. Tudo está mesclado na história porque a vida de uma pessoa não é apenas um evento: é ela completa. É um filme sobre a importância de nos expressarmos, no melhor e pior, para o bem e para o mal, pois é o conjunto o que nos define.
 

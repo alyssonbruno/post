@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-01-11"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Blackfish: Fúria Animal"
-stars: "5/5"
 ---
 Blackfish expõe como nunca a ignorância humana aliada à sua arrogância em se achar superior a qualquer outra espécie animal com quem compartilhamos o planeta. Porém, melhor do que isso, entrega um dossiê rico em imagens e depoimentos que fluem dinamicamente em torno da história do parque de entretenimento Sea World, relatando diferentes mortes de treinadores por quatro décadas até o fatídico assassinato anunciado da carismática treinadora Dawn Brancheau pela baleia Tilikum.
 

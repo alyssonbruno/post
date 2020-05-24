@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2015-10-28"
-title: "Indexando símbolos com rapidez"
 tags: [ "draft",  ]
+title: "Indexando símbolos com rapidez"
 ---
 Trabalhar com inúmeros projetos de diferentes clientes e diferentes binários pode ser uma loucura. Quando o mundo é Windows, algumas medidas precisam ser padronizadas para evitar a perda de informação durante todo o processo de desenvolvimento, testes, deploy e manutenção.
 

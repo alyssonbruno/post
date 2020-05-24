@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2008-09-23"
-title: Windows Jobs com Completion Port
 tags: [ "draft",  ]
+title: Windows Jobs com Completion Port
 ---
 Ou "Como esperar o término de todos os processos-filho criados a partir de um conjunto de processos".
 

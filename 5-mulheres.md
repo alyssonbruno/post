@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-25"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "5 Mulheres"
-stars: "3/5"
 ---
 Este supostamente é um thriller, mas se confunde tanto com uma comédia, e é também um drama que vai adocicando demais, tornando o conjunto nenhum bom representante de nenhum gênero. Pelo menos há um entretenimento inteligente acontecendo, o que já torna a experiência menos tortuosa.
 

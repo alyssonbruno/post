@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-07-20"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Spartacus"
-stars: "5/5"
 ---
 O primeiro filme de Stanley Kubrick. Kirk Douglas, produtor executivo, substituiu o diretor original, Anthony Mann, após a primeira semana de filmagens. Nessa época Kubrick contava 30 anos de idade, e apesar de ter feito já 4 produções, nenhuma com uma grandiosidade como essa. E o mais impressionante em todo o filme é esse tom épico, com quadros que evocam claramente outro clássico, de Cecil B. DeMille: Os 10 Mandamentos. Vemos a multidão de escravos rebeldes crescendo, formando acampamentos, atravessando vales gigantescos apenas com a vontade de ser livre.
 

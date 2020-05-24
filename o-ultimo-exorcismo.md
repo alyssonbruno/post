@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-09-24"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Último Exorcismo"
-stars: "4/5"
 ---
 Esse é "O Exorcista" invertido. Aqui o padre, que na verdade é tipo um reverendo de sua religião, possui suas dúvidas com respeito a Deus, e usa a religião como um meio de ganhar a vida. Reflexo exato do atual status das religiões polêmicas, que as usam também como um meio de se proliferarem, o próprio padre afirma que o principal é fazer as pessoas abrirem a mão, pois não se vive só de fé.
 

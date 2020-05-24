@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-25"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Cada Um Na Sua Casa"
-stars: "4/5"
 ---
 "Home" não tem coragem suficiente para elevar todas suas ideias à terceira potência, mas pelo menos evita ser engraçadinho demais e consegue colocar uma história em um patamar digno. Levando a atual tendência de questionar a autoridade e de se preocupar com o próximo, conhecemos uma raça alienígena que segue um líder (Steve Martin), nos mesmos moldes do rei Julian de Madagascar, e se descaracteriza a partir de um guia informal de como devem se comportar (leia-se "socialismo"), independente do que realmente achem.
 

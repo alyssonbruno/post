@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-18T11:47:52-02:00
-title: "Oito Mulheres e Um Segredo"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Oito Mulheres e Um Segredo"
 ---
 Oito Mulheres e Um Segredo entretém como seus antecessores, graças mais ao seu elenco que está em harmonia de interpretações. Aliás, a parte mais inacreditável do filme é entender como tantas mulheres juntas conseguem se dar bem.
 

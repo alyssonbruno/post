@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-22"
-title: "Ecos"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Ecos"
 ---
 Ecos pode ser muito chato para algumas pessoas e fascinante para outras. É um filme feito de pequeníssimos momentos que não significam nada sozinhos, mas que pela sua soma geram uma sensação de existência. E é bom existir.
 

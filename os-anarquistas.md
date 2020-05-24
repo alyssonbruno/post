@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-05-14"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Os Anarquistas"
-stars: "3/5"
 ---
 Uma névoa cinzenta cobre a fotografia de Os Anarquistas, um filme que trata mais da desesperança de um grupo revolucionário à margem de qualquer comparação do que a possibilidade de vitória.
 

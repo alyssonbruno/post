@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-09-19"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Família Addams"
-stars: "3/5"
 ---
 Com uma Direção de Arte e um elenco afinadíssimo que recria as mesmas piadas e o clima humor negro do antigo seriado da década de 60, A Família Addams possui em seu núcleo Mortiça Addams (Angelica Huston), uma matriarca sedutora que consegue convencer acima de tudo pelos seus esforços de manter a hegemonia da secular família. Que é, aliás, uma família das menos convencionais possíveis: os dois filhos vivem brincando de um torturar o outro e o pai diverte-se com brincadeiras de sedução e luta esgrima (usando espadas reais) com seu contador.
 

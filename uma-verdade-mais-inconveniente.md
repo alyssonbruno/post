@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-10-20T21:47:12
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Uma Verdade Mais Inconveniente"
-stars: "3/5"
 ---
 Se você já viu Uma Verdade Inconveniente, Oscar de melhor documentário de 2006, provavelmente vai se sentir em casa com essa continuação. Ela é espalhafatosa, desinformativa e um apelo à emoção. Mas isso não é nenhuma novidade para você. Conhecida por jogar números estatísticos como forma de combate, o folheto de propaganda na forma de documentário continua balançando ao vento para quem quiser e quem não quiser ver. E como os voluntários de programas sociais que vemos na Avenida Paulista, há a sensação que mais do mesmo não irá resolver o problema. Exceto que agora a calçada ficou um pouco menos agradável de se andar.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-16"
+stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Breaking Bad - Segunda Temporada"
-stars: "5/5"
 ---
 Temporada S02 revista. Alguns sentimentos mistos. A saga do Walter White ganha alguns contornos novelísticos, mas a paixão cromática do diretor de fotografia é contagiante do começo ao fim. Não me lembro de nenhum episódio onde não estivesse procurando nos cenários e figurino a presença das cores verde, amarelo, azul e roxo; pior: agora temos um novo tom que começa a despontar: o cinza/preto.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-06-26"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Palavrões"
-stars: "3/5"
 ---
 Tão diferente que perde o foco. Porém, é um "indie" no conceito básico dessa nova categorização: muitas das coisas que vemos em Palavrões dificilmente estaria em uma produção hollywoodiana.
 

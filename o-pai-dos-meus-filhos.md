@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-06-12"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Pai dos Meus Filhos"
-stars: "3/5"
 ---
 A diretora-roteirista Mia Hansen-Løve consegue prender a atenção mesmo em um filme cujo assunto fica vago do começo ao fim. O mais irritante, contudo, em O Pai dos Meus Filhos, é a maneira covarde com que ele flerta com o nosso próprio sentido de narrativa.
 

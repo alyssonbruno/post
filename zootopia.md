@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-02"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Zootopia"
-stars: "4/5"
 ---
 Direita x Esquerda? Opressores x Oprimidos? Predadores x Presas? A imbecilidade dos liberais americanos apenas compete com sua genialidade nesse novo filme da Disney, que explora um tema político em um filme para crianças que possui 2 ou 3 piadas bem pontuais, mas que no fundo é muito mais para adolescentes e com conteúdo adulto.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-08-12T21:01:40-03:00
-title: "Shiki Oriori: O Sabor da Juventude"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Shiki Oriori: O Sabor da Juventude"
 ---
 Este é um filme que dá sono. Aliás, estes são três curtas. Que dão sono. Mas apesar dos bocejos e das pescadas, há algo de muito bonitinho acontecendo em Shiki Oriori, lançada pela Netflix que se orgulha em anunciar que é do mesmo estúdio de Your Name, o ultra-pop sucesso de Makoto Shinkai. Aqui nós temos três diretores diferentes trazendo uma percepção temática parecida entre as três histórias: a nostalgia de algo perdido em nossa juventude e que na fase adulta bate à porta.
 

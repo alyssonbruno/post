@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-05-29"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Alice Através do Espelho"
-stars: "3/5"
 ---
 A deturpada, mas heroica, Alice da Disney. Nem podemos compará-la com o desenho icônico dos anos 50, onde a mocinha era bem próxima de sua irmã literária dos livros de Lewis Carrol. Aqui e em seu predecessor caça-níqueis em 3D do diretor "dark" Tim Burton, Alice é essa feminista tímida que ganha bilheteria aos poucos no cinema hollywoodiano. Passados seis anos desde a primeira produção, já vemos rapidamente o que mudou no panorama comercial da produtora depois de sucessos como Encantados, Frozen e até Star Wars.
 

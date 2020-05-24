@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-11-02"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Bravura Indômita"
-stars: "5/5"
 ---
 Com uma trilha sonora repetitiva, mas leve o suficiente para não soar dessa forma, temos a caracterização de um tema, assim como Morricone fez com Três Homens em Conflito, mas sem todo o espetáculo.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-09-16"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Pele de Vênus"
-stars: "4/5"
 ---
 Finalmente chega no Brasil "A Pele de Vênus", filme de 2013 do diretor Roman Polanski e que lembra bastante Lua de Fel ao falar das complexidades da relação entre os sexos, principalmente sobre dominação de um sobre outro.
 

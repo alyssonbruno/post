@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-08-05"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Viagem Para Agartha"
-stars: "3/5"
 ---
 Makoto Shinkai -- diretor/roteirista de inúmeros curtas (alguns na Netflix brasileira) -- é chamado constantemente de "O Novo Miyazaki", em referência ao animador e fundador dos estúdios Ghibli. Curiosamente o próprio Miyazaki é chamado de "Walt Disney do Japão". Mais curioso ainda é que Miyazaki, enquanto idealizador, se preocupa muito com a mãe-natureza em seus filmes, que é quase um personagem à parte (seja ela natural, como em Ponyo, ou sobrenatural, como em A Viagem de Chihiro). Já em Viagem Para Agartha, um filme sobre um mundo exótico dentro da Terra, Shinkai parece muito mais preocupado com o interior dos seres humanos que retrata, já que o filme parece um eterno questionamento sobre a nossa dor -- muitas vezes eterna -- que sentimos quando perdemos alguém querido.
 

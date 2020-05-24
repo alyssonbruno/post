@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-17"
-title: "Filhos da Dinamarca"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Filhos da Dinamarca"
 ---
 Filhos da Dinamarca junta o tema óbvio do momento político atual de extremos com uma pesada dose de drama shakespeariano, e para isso nada como estar na Dinamarca. E há algo de podre nesse reino.
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-29"
-title: "Lost Holiday"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Lost Holiday"
 ---
 Lost Holiday engana a princípio, pois lembra aqueles filmes de conclusão de curso ou independentes estadunidenses que usam como muleta a estranheza de personagens para levar uma história nem tão inspirada adiante. Porém, a estreia dos irmãos Matthews na direção (e no roteiro) aos poucos se desdobra em uma trama inteligente justamente por não se colocar em evidência. É na estranheza de seus personagens, ou em sua banalidade, que se esconde a alma de um filme que soa inseguro o tempo todo, mas que tem todas suas amarras sob controle.
 

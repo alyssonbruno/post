@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-03-13"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Demi-soeur"
-stars: "4/5"
 ---
 Essa comédia francesa com certeza segue o molde do estereótipo... "comédia francesa". Fala sobre amor em família, personagens cativantes e transformações de caráter.
 

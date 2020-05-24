@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-09-24"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Gente Grande"
-stars: "3/5"
 ---
 As piadas do filme parecem internas e da vida real ("você aumentou o número do sutiã?", pergunta Sandler para seu amigo recém-chegado que aparentemente engordou mais que ele, ou "dessa vez vc trouxe a mãe", se referindo ao cachorro em seu carro), ou, pior: elas foram achadas pelo google. No entanto, aparentemente os realizadores do filme acham elas estupidamente engraçadas, pois estão sempre inseridas em momentos de clímax.
 

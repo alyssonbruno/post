@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-06-16"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Homem que Sabia Demais"
-stars: "4/5"
 ---
 Para Hitchcock, aparentemente, não houve nenhum outro trabalho de destaque antes de O Homem que Sabia Demais. Digo pelos famosos títulos de Psicose, Janela Indiscreta e Os Pássaros. Até porque, de acordo com o IMDB, Hitchcock começou sua carreira em 22, o que quer dizer que temos aí cerca de 12 anos de amadurecimento do uso de sua técnica indiscutivelmente coesa em sua capacidade de gerar tensão.
 

@@ -1,9 +1,9 @@
 ---
 categories: [ "blog" ]
 date: "2019-08-17"
-title: "Restaurante Jojo Ramen"
-tags: [ "draft", "food" ]
 stars: "2/5"
+tags: [ "draft", "food" ]
+title: "Restaurante Jojo Ramen"
 ---
 Localizado fora do circuito dos lámens, o Jojo tem tudo o que um millenial precisa para ser feliz: lámen (que tá na moda), fila (que nunca sai de moda) e pessoas comentando o tempo todo, no melhor/pior estilo de paulista, em como é bom esse lugar.
 

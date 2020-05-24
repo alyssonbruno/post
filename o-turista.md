@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-02-20"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "O Turista"
-stars: "2/5"
 ---
 Há filme que enriquecem ainda mais em uma revisita (O Sexto Sentido, Donnie Darko, Cidade dos Sonhos). Porém, ter um segredo final que pode mudar tudo o que vínhamos assistindo desde o início nem sempre se revela uma boa ideia (Os Esquecidos, A Caixa, A Passagem). Infelizmente, O Turista se encaixa nessa segunda situação.
 

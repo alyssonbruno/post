@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-22T19:29:20-03:00
-title: "O Silêncio dos Outros"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "O Silêncio dos Outros"
 ---
 O Silêncio dos Outros é um documentário necessário, mas com final amargo quando constatamos o quão dura e lenta é a luta por justiça.
 

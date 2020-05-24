@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-31"
-title: "Adeus à Noite"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Adeus à Noite"
 ---
 Catherine Deneuve está fazendo cada vez mais papéis em que sua idade e sua persona inspiram sabedoria, mas em Adeus à Noite essa sabedoria é impotente e deslocada.
 

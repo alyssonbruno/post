@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-06-23"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Quebrando o Tabu"
-stars: "3/5"
 ---
 Existem filmes que não são apenas interessantes de se assistir como mais uma manifestação de arte. Os documentários, por natureza, quase sempre tentam nos envolver em algum tipo de realidade que, por muitas vezes não fazer parte da nossa, é preciso ser escancarada e dissecada da maneira como os idealizadores do projeto acreditam ser importante.
 

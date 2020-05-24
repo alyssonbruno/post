@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-02-16"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Cinquenta Tons Mais Escuros"
-stars: "2/5"
 ---
 Eu não sei se a bronca pela série de filmes com Christian Grey e Anastácia Steel (esses nomes são bons, não?) é porque as feministas ficam com nojo de um casal normal, com problemas como todo mundo, e com preferências sexuais particulares (como todo mundo) ou elas abraçaram, assim como os conservadores, a noção patética que existe apenas uma forma de ser feliz, e ela não pode de maneira alguma ter relação com a vida de um bilionário de sucesso. Principalmente se ele trata suas mulheres como cãezinhos submissos. Se bem que, em se tratando de uma vida de luxo e segurança, qual o problema de dar alguns latidos e levar algumas palmadas de vez em quando?
 

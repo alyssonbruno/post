@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-30T09:49:41-03:00
-title: "Maus Hábitos"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Maus Hábitos"
 ---
 Às vezes fico na dúvida se gosto mais da fase do Almodóvar raiz ou nutella, mas revendo Maus Hábitos me dou conta que a versão raiz é muito mais atraente. É de baixo orçamento, mas mais despojada, onde ele fazia muito (e mais) com pouco.
 

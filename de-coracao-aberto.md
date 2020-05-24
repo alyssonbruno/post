@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-03-15"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "De Coração Aberto"
-stars: "4/5"
 ---
 Javier (Édgar Ramírez) é o cirurgião do hospital onde Mila (Juliette Binoche) trabalha. São marido e mulher. Ou melhor dizendo, mulher e marido. A impulsividade de Javier e sua dependência da mulher vão aos poucos se desenvolvendo pela diretora (e atriz) Marion Laine. Seu alcoolismo o afasta das operações, o que é o estopim para que sua impulsividade tome o controle não apenas de sua vida, mas de Mila. As coisas pioram quando descobrimos que ela está grávida. As decisões de Mila são sempre em função de Javier, que é uma bomba-relógio.
 

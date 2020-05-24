@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-15"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Travessia"
-stars: "5/5"
 ---
 A liberdade é uma coisa engraçada. Quando a perdemos através do medo, isso cria os mais diversos níveis de negação, fazendo-nos chegar ao cúmulo de aceitar o máximo de segurança pelo mínimo de liberdade, sendo que, ironicamente, acabamos perdendo ambos.
 

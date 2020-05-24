@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-01-20"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Ponte dos Espiões"
-stars: "4/5"
 ---
 Esse é um filme que carrega um conteúdo emocional graças ao seu diretor, mas uma história que é obviamente 100% sobre política. É sobre tempos mais sombrios do que os de hoje, a Guerra Fria, quando ignorar política poderia te levar à morte, seja ela física ou pública. Ser baseada em uma história real apenas eleva o roteiro a uma das melhores adaptações do ano.
 

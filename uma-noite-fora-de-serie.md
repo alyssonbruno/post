@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-04-22"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Uma Noite Fora de Série"
-stars: "3/5"
 ---
 Esse filme é uma bagunça de dois gêneros. Ele começa como uma comédia romântica um tanto dramatizada a respeito de como o tempo -- e filhos, e rotina, e a velhice -- desgasta um relacionamento. Há piadas com certeza inspiradas na vida real de alguns dos participantes na criação do filme, pois ele se alimenta do lugar-comum e consegue trazer simpatia para esse lado.
 

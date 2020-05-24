@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-10-20T20:02:54
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Human Flow"
-stars: "3/5"
 ---
 Human Flow é um documentário em seu formato clássico. Provavelmente as 300 horas de filmagens do projeto servirão de acervo sobre a grande imigração de nosso tempo. E provavelmente as pouco mais de duas horas de filme serão lembrados dessa forma, também.
 

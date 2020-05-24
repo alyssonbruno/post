@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-07-31"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Meia-Noite em Paris"
-stars: "4/5"
 ---
 Quando sabemos estar admirando o último enquadramento de meia-noite em Paris, é de doer o coração. O longa de Allen não só empolga, e muito, no início, como mantém suspenso o interesse pelos personagens (que não são poucos). Acredito que, se fosse possível, assistiríamos mais duas, três, ou até quatro horas de filmagem nesse universo criado por Allen.
 

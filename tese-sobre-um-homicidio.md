@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-23"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tese Sobre um Homicídio"
-stars: "3/5"
 ---
 Ricardo Darín é um advogado que dá aulas e testemunhou com seus alunos o corpo de uma garota assassinada na frente de sua sala de aula, na Universidade de Advocacia de Buenos Aires. Na véspera havia ido ao lançamento de seu livro, A Estrutura da Justiça, onde tem uma conversa curiosa com um dos seus alunos, filho de um amigo de longa data. O aluno comenta que sua teoria sobre a justiça é que qualquer um pode matar borboletas se não pertencer a um poderoso, já que a lei só existe para protegê-los. Agora, adivinhe qual o inseto que havia no pingente que estava no pescoço da garota assassinada?
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-02-27"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Em Nome do Pai"
-stars: "5/5"
 ---
 Em Nome do Pai é daquelas pérolas baseadas em fatos reais que funciona pelo emocional, mas também é um trabalho intimista que adentra o suficiente no lamaçal da "justiça" estatal para conseguir identificar o que critica sem desmerecer nossa inteligência.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-11-01"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Que Mal Eu Fiz a Deus?"
-stars: "3/5"
 ---
 Essa comédia francesa explora os estereótipos e o racismo de maneira quase inofensiva. No processo, joga algumas piadas de caráter duvidoso, mas em sua maioria oferece uma reflexão boba e superficial a respeito das rixas que as pessoas têm com as outras que tiverem outra origem e cultura.
 

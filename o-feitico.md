@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-22T12:57:59-03:00
-title: "O Feitiço"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "O Feitiço"
 ---
 Um épico em uma pequena história do século 20 no México. Pré-adolescentes descobrindo as delícias do sexo com mulheres maduras. A história econômica e política da região do ponto de vista dos trabalhadores. E tudo isso gira em torno de um suposto feitiço.
 

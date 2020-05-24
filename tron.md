@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-04"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tron Uma Odisséia Eletrônica"
-stars: "3/5"
 ---
 Mesmo assistindo hoje, 28 anos depois, Tron ainda parece um filme dedicado principalmente a vender video-games.
 

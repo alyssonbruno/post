@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-28"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Deus Não Está Morto"
-stars: "2/5"
 ---
 Nietzsche havia alertado aos pensadores mais livres já no século XVII: deus está morto. Hoje, de uma maneira irônica, um movimento encabeçado por cristãos anuncia aos quatro ventos: foda-se a lógica!
 

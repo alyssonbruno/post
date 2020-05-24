@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-11-30"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "The Unbelievers"
-stars: "2/5"
 ---
 Richard Dawkins e Lawrence Krauss são tratados como pop-stars durante suas inúmeras viagens ao redor do mundo em conferências científicas. Ambos são cientistas, mas, acima de tudo, possuem uma facilidade de comunicação com o público que permite que este receba informações dos últimos avanços científicos no formato que pessoas leigas entendam. No entanto, mais do que isso, ambos levantam a "bandeira ateia", um movimento anti-religião que na última década tem feito com que muitas pessoas se declarassem descrentes de qualquer mitologia ainda existente no mundo moderno, incluindo a existência de Deus.
 

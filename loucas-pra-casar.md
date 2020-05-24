@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-01-04"
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Loucas pra Casar"
-stars: "1/5"
 ---
 Dirigido e escrito como uma telenovela, Loucas Pra Casar tem uma boa ideia para uma peça de teatro (talvez até seja) e tenta esticá-la em um filme inteiro usando uma estrutura baseada em episódios descartáveis e bobos, tornando toda a experiência um exercício de futilidade com nenhuma tensão e zero carisma.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-02-14"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Será Que?"
-stars: "4/5"
 ---
 Uma comédia romântica de um diretor canadense com cheiro de humor britânico. A parte do humor britânico, obviamente, é o que torna tudo mais engraçado. Já chega de assistir àquelas ComRons que tentam blindar o amor contra piadas. Faça-me o favor: esses produtores ganham milhões em cima da reinvenção clichê de um sentimento falso responsável por distorcer boa parte da mente desses zumbis consumidores carentes.
 

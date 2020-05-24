@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-05-03"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Truman"
-stars: "3/5"
 ---
 Esse talvez seja um dos mais decepcionantes filmes com Ricardo Darín, mas não deixa de ser interessante em alguns momentos, como quando discute a diferença entre ser tratado como um ser humano ordinário e um ser humano moribundo.
 

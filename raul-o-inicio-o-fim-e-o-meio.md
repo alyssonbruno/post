@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-03-28"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Raul O Início o Fim e o Meio"
-stars: "5/5"
 ---
 Raul  o filme  é um tipo de experiência cinematográfica que faz pensar em muitas coisas, mas que ao mesmo tempo consegue extrair a essência do Maluco Beleza em todos os sentidos de sua vida e de sua filosofia. Dessa forma, temos um protagonista forte, ainda que ausente.
 

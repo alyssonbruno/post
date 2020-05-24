@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2020-03-17"
-title: "Projeto Hu Cpp: Not Fast Enough"
 tags: [ "draft",  ]
+title: "Projeto Hu Cpp: Not Fast Enough"
 ---
 Continuando minhas aventuras em tentar ser mais rápido que o Hugo, fiz uma versão que gera um html porco com os parágrafos obtidos no parser porco de markdown, rodando em cima dos meus 2740 posts. Este é o código novo:
 

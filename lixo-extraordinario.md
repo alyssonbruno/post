@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-01-30"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Lixo Extraordinário"
-stars: "5/5"
 ---
 O início e no programa do Jô possui um sentido maior por causa da mensagem de que, no final, o lixo de todas as pessoas que assistem a televisão vai parar no mesmo lugar?
 

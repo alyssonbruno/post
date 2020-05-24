@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-10"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Aliens 3"
-stars: "3/5"
 ---
 Oito anos após "Aliens, o Retorno" (James Cameron), continuação do original "Alien, o Oitavo Passageiro" (Ridley Scott), o Cinema mais uma vez revisita esse universo, dessa vez pela visão do ainda inexperiente David Fincher (Seven, Clube da Luta, A Rede Social), que não conseguiu enriquecê-lo à altura de seus antecessores, mas cria um drama que no mínimo aumenta um pouco nossa percepção a respeito da criatura.
 

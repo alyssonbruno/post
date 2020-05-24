@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-08-22"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Um Parto de Viagem"
-stars: "3/5"
 ---
 Aparentemente, alguém achou engraçado colocar Robert Downey Jr. (Homem de Ferro, Sherlock Holmes) e Zach Galifianakis (Se Beber, Não Case 1 e 2) contracenando um filme inteiro. De fato, o resultado foi, no mínimo, interessante. Engraçado, é discutível.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-05-04T23:51:41-03:00
-title: "Psychokinesis"
-tags: [ "draft", "movies" ]
-
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Psychokinesis"
 ---
 O cinema coreano é inventivo e espalhafatoso. Ou serão os próprios coreanos? Em Psychokinesis, o diretor do premiado Invasão Zumbi nos apresenta o que dificilmente Hollywood entende: que filmes de ação ficam melhores quando há um drama no meio. E nesse caso o drama é o elemento principal, tornando o herói do filme um super-herói no sentido literal da palavra. E apesar dos efeitos visuais serem desajeitados em algumas cenas, a alma do filme já é tão bem formada que dificilmente a magia se quebra; ela apenas se torna mais realista.
 

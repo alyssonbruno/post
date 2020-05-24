@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-11T23:22:06-03:00
-title: "Tokyo!"
-tags: [ "draft", "movies" ]
 stars: "5/5"
-
+tags: [ "draft", "movies" ]
+title: "Tokyo!"
 ---
 Só tem diretor foda nesse filme. Mas diretores foda podem fazer cagada de vez em quando. Felizmente não é o caso de "Tokyo!", que nos apresenta o tema cidade-título de uma maneira que Nova Iorque/Paris Eu Te Amo nem sonham em fazer.
 

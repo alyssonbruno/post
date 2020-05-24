@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-29"
-title: "Harry Potter e a Ordem da Fênix"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Harry Potter e a Ordem da Fênix"
 ---
 A série de filmes começa a parecer uma série televisiva, inchada para pouca recompensa no final do episódio. A suposta genialidade de J. K. Rowling em recriar a mitologia Star Wars acaba se tornando óbvia demais nesse episódio onde apenas pessoas específicas morrem para que haja algum peso dramático, e a dicotomia entre progressistas e conservadores seja novamente usada como uma óbvia alegoria em nosso século onde seguir as tradições é usado como a marca da besta.
 

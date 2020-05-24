@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-05T20:11:29-03:00
-title: "Sonhos"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Sonhos"
 ---
 Assisti a Sonhos, de Akira Kurosawa, dividido em dois. Minha esposa dormiu na metade. Eu avisei para ela que esse cineasta é lento.
 

@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2010-11-02"
-title: Então você ainda não usa controle de fonte?
 tags: [ "draft", "essays", "git" ]
+title: Então você ainda não usa controle de fonte?
 ---
 
 Não há nada de errado nisso. Projetos robustos com uma equipe moderada ¿ 5 a 10 programadores ¿ precisam desse tipo de organização, e tornam a resolução dos problemas do dia-a-dia mais problemática sem esse controle. A questão reside para o programador solitário ou a equipe minúscula ¿ 2 a 4 programadores. Esses geralmente questionam o custo-benefício de terem o trabalho de configurar e manter mais um sistema. Além disso, isso implica em uma mudança de grandes proporções em cada membro da equipe: uma mudança cultural.

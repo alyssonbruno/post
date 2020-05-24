@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-07-09T23:55:08-03:00
-title: "Cidadão Kane"
-
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Cidadão Kane"
 ---
 Cidadão Kane ainda é relevante esses dias? Votado por cinco décadas como filme mais influente pela associação de críticos mais respeitada do mundo, sendo desbancado finalmente por Um Corpo Que Cai, a única coisa que eu peço antes que você responda essa pergunta é: assista o filme sabendo que quase nenhuma de suas trucagens ou efeitos de montagem e mise en scene existiam antes dele, mas logo depois todos começaram a copiar.
 

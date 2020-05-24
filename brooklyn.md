@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-31"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Brooklyn"
-stars: "4/5"
 ---
 Aroma de série de TV. Acontecimentos espaçados em episódios, convenientemente movendo a história. Apesar disso, este é um filme que consegue dialogar o tema da imigração com uma sutileza ímpar ao lidar com o arco narrativo de sua heroína de maneira sóbria.
 

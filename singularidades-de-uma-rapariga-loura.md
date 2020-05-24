@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-05-29"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Singularidades de uma Rapariga Loura"
-stars: "2/5"
 ---
 O filme 9 - A Salvação se baseia em um curta anteriormente produzido. O resultado é que temos uma história curta o suficiente para ser contada em 10 minutos ser expandida em tediosos 79 minutos.
 

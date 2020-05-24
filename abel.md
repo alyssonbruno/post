@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2014-04-26"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Abel"
-stars: "3/5"
-
 ---
 Abel é um filme-fantasia que se deixa levar pela premissa que o garoto-título resgata a memória do pai ausente como sendo a dele mesmo. Aconteceu algo no passado que não sabemos  possivelmente o não-retorno do pai  que fez com que Abel fosse internado em um hospital e voltasse apenas dois anos depois com a mãe, seu irmão e sua irmã para uma casa em um condomínio abandonado.
 

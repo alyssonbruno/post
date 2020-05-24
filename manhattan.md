@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-05-20"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Manhattan"
-stars: "4/5"
 ---
 A fotografia e a música de Manhattan fazem todo o filme parecer uma poesia cinematográfica espontânea, quase uma vida alternativa dentro das telas, especificamente dentro daquela tela larga e magistralmente usada por Woody Allen e sua equipe para torná-la mágica independente da história que irá ser contada. A própria história começa com inúmeras tentativas de Isaac (Allen) iniciar seu livro com uma síntese sobre Nova Iorque e sua decadência cultural que, ainda que inevitável, consegue nos fascinar.
 

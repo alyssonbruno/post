@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-11-17"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Era Uma Vez em Nova York"
-stars: "4/5"
 ---
 A Imigrante é filmada como um épico, e apresenta, assim como Era Uma Vez Na América, um retrato depressivo e opressivo da imigração americana no começo do século 19. Além disso, não fornece muitos pontos de escape desse universo angustiante, se tornando portanto uma experiência pesada, ainda que bela e que figurada por grandes atores.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-02"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Eleição"
-stars: "5/5"
 ---
 Esse filme de Alexander Payne (Sideways, Os Descendentes) pode ter passado despercebido na época em que foi lançado, mas uma vez que você o assiste, seus detalhes políticos sórdidos irão infestar sua mente como nunca.
 

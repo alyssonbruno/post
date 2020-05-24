@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-12-30"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Mansão Mágica"
-stars: "4/5"
 ---
 Ultimamente venho revelando uma queda por animações (e filmes em geral) em que o roteiro não se esquece que está contando uma história que, apesar de existir seguindo as regras de seu próprio universo, existem regras. E essas regras, quando violadas, enfraquecem qualquer trama, seja realista ou não. Quando falamos de animações, essas regras geralmente são bem flexíveis, mas mesmo assim o Deus Ex Machina aparece no terceiro ato vez sim, vez não.
 

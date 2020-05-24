@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-15T14:40:43-02:00
-title: "Normandia Nua"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Normandia Nua"
 ---
 Normandia Nua é uma comédia dramática que tenta abordar vários temas sob vários pontos de vista ao mesmo tempo. Ela não nos faz pensar muito nos temas, já que a todo momento nos identificamos com esse ou aquele ponto de vista, mas traça um panorama surpreendentemente rico para uma história sem muitas pretensões.
 

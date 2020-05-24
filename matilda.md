@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-12-07T21:15:11-02:00
-title: "Matilda"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Matilda"
 ---
 Matilda passa na regra dos 15 anos. Se trata de um filme infantil, com premissas infantis, enxergadas do ponto de vista de uma criança. Mas, perdoem os maniqueísmos, é uma louvável lição sobre como quando as coisas certas acontecem nos ambiente errados.
 

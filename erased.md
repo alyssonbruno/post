@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-12-27T16:43:04
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Erased: Piloto"
-stars: "3/5"
 ---
 Esta é uma série fantástica baseada tão fortemente em um mangá e anime que ele pode ser o delírio do fã das obras originais ou atiçar a curiosidade do cinéfilo. Por que a curiosidade? Se observarmos os movimentos de câmera, a forma de disposição dos personagens e dos elementos em cena perceberemos que esta obra continua sendo um anime em forma.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-02-22"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mr. Turner"
-stars: "4/5"
 ---
 Luzes, câmera, ação. Para os pintores, especialmente para o excêntrico pintor britânico Joseph Mallord William Turner (Timothy Spall), o primeiro elemento da tríade cinematográfica também é o mais importante de uma das artes de onde se derivou a sétima. A luz, nunca levada em conta pelo público médio, é vital para a compreensão do que um quadro quer dizer, seja ele uma pintura de aquarela ou as paisagens estáticas do filme escrito e dirigido por Mike Leigh (O Segredo de Vera Drake).
 

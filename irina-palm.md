@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-17T16:12:08-03:00
-title: "Irina Palm"
-tags: [ "draft", "movies" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" ]
+title: "Irina Palm"
 ---
 Irina Palm se passa em uma cinzenta Londres, no mundo real. A história é sobre como a geração dos nossos avós precisam arregaçar as mangas enquanto nossos millenials ficam chorando em um canto, inconformados com tamanha injustiça no mundo onde as pessoas devem se sacrificar pelo que acreditam.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-02-29"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Spotlight: Segredos Revelados"
-stars: "4/5"
 ---
 Esse é um filme que foca obcecadamente em seus fatos. A ponto de sacrificar seus personagens. E tudo bem. O material de Spotlight é bom o suficiente para funcionar sem qualquer personagem de destaque, muito embora Mark Ruffalo quase consiga algo interessante.
 

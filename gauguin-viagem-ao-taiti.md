@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-08-17T15:41:02-03:00
-title: "Gauguin: Viagem ao Taiti"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Gauguin: Viagem ao Taiti"
 ---
 A passagem de Gauguin pela Polinésia não é apenas a história de um homem do mundo moderno indo resgatar sua origem selvagem, mas um artista buscando entender sobre as perdas envolvidas nesta transição.
 

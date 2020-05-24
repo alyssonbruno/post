@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-28"
-title: "O Amante"
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "O Amante"
 ---
 Eis um filme perfeito do início ao fim. Seu início é enfadonho e preguiçoso, mas no primeiro momento em que este milionário chinês e esta ninfeta europeia se encontram na cama de um quarto sujo de um bairro pobre e distante dos grandes centros, ele nunca mais volta a ser enfadonho.
 

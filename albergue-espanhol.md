@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-28T12:35:30-03:00
-title: "Albergue Espanhol"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Albergue Espanhol"
 ---
 Este é um guia de como fazer um filme sobre sensações da juventude, das relações entre conhecidos que com o tempo se tornam algo mais, algo etéreo, que gera sensações fortes; saudades que se carrega pra vida toda, familiaridade com um tempo que não voltará nunca mais.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-04T11:58:05-03:00
-title: "Ninguém Pode Saber"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Ninguém Pode Saber"
 ---
 Este é um filme baseado em fatos reais, mas eles se explicam tanto no começo sobre não ter certeza de como os fatos se desenrolaram que você poderia esperar um pouco mais de narrativa e dramatização em uma história com quatro crianças morando sozinhas em uma casa em Tóquio.
 

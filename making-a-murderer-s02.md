@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2018-10-31
+stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Making a Murderer S02"
-stars: "5/5"
 ---
 "Terminando quando o "filme" atinge o tempo presente, Making a Murderer é um projeto praticamente ainda em andamento, pois demonstra que há ainda pontas soltas e, pior, algo de podre no ar." Esse foi meu último parágrafo sobre a primeira temporada de uma série que influencia a vida real. Sim, pois a segunda temporada é praticamente impulsionada pela influência documentário na vida de Steven Avery e familiares.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-09-15"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Ring: O Chamado"
-stars: "4/5"
 ---
 Essa é a versão japonesa, que estreou dois anos antes do remake americano. Diferente de toda a pomposidade de sua cópia, e os efeitos sonoros enlatados de terrores hollywoodianos, este tem a rapidez de um thriller e a semi-profundidade de um drama. Possui um ritmo visual econômico e ágil, e uma conclusão factoide, o que o torna um exemplo de sua própria lenda.
 

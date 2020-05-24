@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-02-23"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "127 Horas"
-stars: "3/5"
 ---
 Com uma introdução em tela cortada em três partes, mostrando diversos cenários que evocam o dia-a-dia das pessoas e, principalmente, a correria dessas pessoas para quem o tempo é um bem cada vez mais escasso, o novo longa de Danny Boyle (Quem Quer Ser Um Milionário?) nos apresenta Aaron, sem muita distinção do resto da multidão. Na verdade, ele não é muito diferente de nenhum de nós.
 

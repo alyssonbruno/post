@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-07-04"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Crashing"
-stars: "3/5"
 ---
 Eu já falei que a filmografia britânica é obviamente superior aos puritanos estadunidenses, seja no cinema ou em séries de tv. E Crashing não é exceção. Aliás, além de regra, é uma prova que, por contraste, besteiras como How I Met Your Mother já se beneficiariam só de serem produzidas na terra da rainha. A desvantagem dos ingleses é que suas séries são curtas demais.
 

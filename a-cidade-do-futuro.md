@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-04-17T14:00:24-03:00
-title: "A Cidade do Futuro"
-tags: [ "draft", "movies" , "cinemaqui" ]
-
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "A Cidade do Futuro"
 ---
 Que trabalho lindo de direção este de A Cidade do Futuro. Ele guia seus atores não-atores para realizarem seus símbolos. Ele conta uma história sem precisar das falas. Em suma, ele não precisa do elenco para narrar, mas os utiliza como potência e movimento.
 

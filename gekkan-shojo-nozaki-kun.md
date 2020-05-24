@@ -1,9 +1,9 @@
 ---
-date: "2020-05-16"
-title: "Gekkan Shojo Nozaki Kun"
-stars: "3/5"
 categories: [ "cinema" ]
+date: "2020-05-16"
+stars: "3/5"
 tags: [ "draft", "series", "animes" ]
+title: "Gekkan Shojo Nozaki Kun"
 ---
 Assisti a esta série a temporada inteira. Me esforcei para não debochar do formato formulaico e em troca ganhei algumas piadinhas. Algumas muito engraçadas, e quase sempre trabalhando em cima do formato formulaico que citei.
 

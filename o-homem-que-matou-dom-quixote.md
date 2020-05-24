@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-26T00:42:13-02:00
-title: "O Homem Que Matou Dom Quixote"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "2/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "O Homem Que Matou Dom Quixote"
 ---
 O Homem que Matou Dom Quixote é péssima escolha de papel para Adam Drive, que não funciona na comédia física. Porém, pior ainda é a história sem pé nem cabeça do filme, que tenta achar sua desculpa através do espírito da obra-prima de Miguel de Cervantes. O resultado sai pior que o imaginado porque não esperamos que os ideais mais nobres do livro sejam usados como muleta narrativa. Ninguém iria tão baixo. Mas é exatamente o que esse filme faz.
 

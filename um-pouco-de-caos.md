@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-06-27"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Pouco de Caos"
-stars: "3/5"
 ---
 Um Pouco de Caos é um passeio tranquilo -- até demais -- no mundo da aristocracia francesa (embora todos falem inglês sem cerimônias) para fazer-nos apreciar a atmosfera dominante do blasé frente aos que ainda precisam lutar para serem aceitos na alta sociedade. Durante o processo, é tão óbvio que encontraremos um amor proibido que até isso se torna blasé.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-12-11T22:15:49-02:00
-title: "The Ballad of Buster Scruggs"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "The Ballad of Buster Scruggs"
 ---
 Jack London e Stewart Edward White foram famosos escritores de sua época, lá pelo final do século 19 até o início do 20. Eles assinam duas estórias dessa antologia em que apenas os irmãos Coen conseguem completar. E não apenas no roteiro, mas na direção, imortalizando essa antologia como se todos esses seis contos em conjunto estivessem sendo contados pela primeira vez. Mas não exatamente.
 

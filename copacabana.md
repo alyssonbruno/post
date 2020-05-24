@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-10-11"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Copacabana"
-stars: "5/5"
 ---
 O novo trabalho do diretor-roteirista Marc Fitoussi faz um paralelo entre o estado de espírito de uma pessoa e o lugar onde esta vive. Para chegar a seus objetivos, rege de maneira impecável uma história em que as apostas que uma pessoa precisa fazer para chegar aonde quer não estão relacionadas com sua situação aparente, mas muito mais com seu estado interior e sua capacidade de transformar o mundo ao seu redor.
 

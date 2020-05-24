@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-09"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Como Sobreviver a Um Ataque Zumbi"
-stars: "3/5"
 ---
 Mais um filme sobre zumbis que une o velho clichê da impopularidade de nerds -- nesse caso, escoteiros -- com uma daquelas aventuras juvenis que libera poucos peitinhos para muito sangue e tripas. Não há muito interesse no desenrolar dos personagens, nem se eles vão sobreviver (dica: vão) e muito menos o que começou tudo isso. Zumbis, jovens, e é isso.
 

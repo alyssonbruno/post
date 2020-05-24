@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-29"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Homem Irracional"
-stars: "3/5"
 ---
 O ritmo atual de Woody Allen em escrever e dirigir um filme por ano simplifica seus trabalhos, mas exatamente por isso permite-nos enxergar de maneira mais específica os assuntos que ele sempre deseja tratar. E no caso de O Homem Irracional, onde o protagonista é um professor de filosofia, o que tinha tudo para ser um tratado mais espesso e complexo sobre a natureza humana se transforma em um exercício leve e simples de entender.
 

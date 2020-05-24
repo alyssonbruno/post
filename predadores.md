@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-06-23"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Predadores"
-stars: "3/5"
 ---
 Último filme de uma longa série que envolve predadores e alienígenas, Predadores cria um ambiente hostil para humanos e uma trama suficientemente coesa para que tenhamos cenas de ação e tensão durante essa mini experiência dentro desse universo onde humanos são sempre caças, e os predadores, seus caçadores.
 

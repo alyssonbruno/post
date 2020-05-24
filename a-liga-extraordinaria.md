@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-01-01"
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "A Liga Extraordinária"
-stars: "1/5"
 ---
 O filme pretende contar a história de pessoas que, dotadas de alguma capacidade especial para sobreviver, são reunidos pelo Império Britânico para tentar evitar que seja instaurada uma possível guerra mundial, tentativas de um ganancioso sujeito que usa uma máscara e simula ataque entre nações. Isso na virada para o século XX em uma Era Vitoriana alternativa.
 

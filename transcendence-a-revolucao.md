@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-10-23"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Transcendence: A Revolução"
-stars: "4/5"
 ---
 Tecnologia, consciência, religião, internet, conectividade, ecologia, inteligência artificial, moral, ética, filosofia, existência, nanotecnologia, computação quântica, privacidade, realidade virtual: todos representados em Transcendence, primeiro trabalho de direção de Wally Pfister, fotógrafo habitual dos trabalhos de Christopher Nolan (que aqui assina a produção) e primeiro trabalho de roteiro de Jack Paglen, um roteiro que já figurava na Black List: a lista hollywoodiana dos roteiros famosos que nunca são produzidos.
 

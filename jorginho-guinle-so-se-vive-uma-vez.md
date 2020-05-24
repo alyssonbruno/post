@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-18T20:38:00-03:00
-title: "Jorginho Guinle - $o se Vive Uma Vez"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Jorginho Guinle - $o se Vive Uma Vez"
 ---
 Biografias costumam ser sobre pessoas que fizeram algo em suas vidas; algo que nós, meros mortais, consideramos fora do comum. "Jorginho Guinle - $o se Vive Uma Vez" conta a história de um playboy que viveu 88 anos sem nunca trabalhar. Bom, isso é fora do comum. A grande questão que paira no ar é: e daí?
 

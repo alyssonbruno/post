@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-01-23"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Boy Meets Girl"
-stars: "4/5"
 ---
 São filmes assim que me revelam como um cinéfilo ainda burro. Mesmo assim, tenho a ousadia de gostar de alguns deles, mesmo sem saber muito bem por quê.
 

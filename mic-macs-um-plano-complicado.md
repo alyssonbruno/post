@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-20"
 review: [ "2012" ]
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Micmacs Um Plano Complicado"
-stars: "4/5"
 ---
 A fotografia fabulosa de Amélie Poulain também cabe nessa fábula em que um homem, Bazil (Dany Boon), sofre uma dupla injúria em sua vida  a morte do seu pai por uma mina terrestre e uma bala em sua cabeça durante um tiroteio  e resolve se vingar de ambas com o mesmo plano.
 

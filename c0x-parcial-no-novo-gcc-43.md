@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2007-07-24"
-title: C++0x parcial no novo GCC 4.3
 tags: [ "draft", "ccpp" ]
+title: C++0x parcial no novo GCC 4.3
 ---
 A nova versão do GCC implementa em caráter de teste algumas novas características da nova versão da linguagem C++, que será lançada ainda nesta década (provavelmente em 2009). As novas funcionalidades são empolgantes e já fazem parte do imaginário dos programadores C++ já há algum tempo.
 

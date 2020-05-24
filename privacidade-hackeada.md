@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-03"
-title: "Privacidade Hackeada"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Privacidade Hackeada"
 ---
 "Se você manter sua mente suficientemente aberta, as pessoas irão jogar um monte de lixo dentro dela." - William A. Orton, empresário do século 19
 

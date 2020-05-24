@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-04-22T16:13:03-03:00
-title: "Necrópolis"
-
-tags: [ "draft", "series" ]
 stars: "3/5"
+tags: [ "draft", "series" ]
+title: "Necrópolis"
 ---
 Esta série é um bom exemplo de como fazer conteúdo engraçado sem pretensão alguma e um orçamento menor ainda que a pretensão e ficar bom. Bom, bom eu não diria. Ele fica exatamente como você esperaria que ficasse um vídeo com você e seus amigos em uma tarde preguiçosa e criativa.
 

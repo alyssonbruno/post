@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-22T22:45:45-02:00
-title: "Caminhos Magnétykos"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "5/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Caminhos Magnétykos"
 ---
 A esquerda política está bêbada e isso é ótimo. Em Caminhos Magnétykos a mistura de emoções através de uma distopia opressora nos oferece uma viagem extra-sensorial pelas perdas do passado e a esmagadora realidade do presente. Essa é a forma artística de uma ideologia conseguir se lamentar e se perguntar: onde foi que erramos?
 

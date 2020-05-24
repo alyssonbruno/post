@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-07-01T16:02:08-03:00
-title: "A Mulher Do Fazendeiro"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "A Mulher Do Fazendeiro"
 ---
 Hitchcock dirige aqui mais uma comédia de costumes sobre casamento, e extrai o drama do bom humor. Ele continua com suas trucagens já vistas em filmes anteriores, como movimentar a câmera em alguns momentos e aproximar-se dos personagens com cortes que abrem um plano mais fechado.
 

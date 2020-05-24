@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-03-04"
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Anjos da Noite"
-stars: "1/5"
 ---
 O primeiro filme da saga dos vampiros e lobisomems (não estou falando de Crepúsculo) pode conter um pano de fundo curioso e com potencial dramático para um ótimo filme. Infelizmente não é isso que acontece em Anjos da Noite, que se esforça como filme de drama e ação sem conseguir se sair bem em nenhum dos dois.
 

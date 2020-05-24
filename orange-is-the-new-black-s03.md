@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-06-19"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Orange is the New Black - Terceira Temporada"
-stars: "3/5"
 ---
 Orange is the New Black, apesar do título ultrapassado, ainda se mantém acima de sua irregular média. Digo irregular porque a série, apesar de possuir picos dramáticos e temáticos bem definidos, também possui os seus vales. Ou seja: se quiser aproveitar o que a série tem de bom, vai ter que aguentar muito lenga-lenga de mulher.
 

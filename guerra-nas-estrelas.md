@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-06-23"
 review: [ "2017" ]
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Guerra nas Estrelas (Star Wars Episódio IV: Uma Nova Esperança)"
-stars: "3/5"
 ---
 Sem modelos anteriores além dos arquétipos narrativos como a clássica jornada do herói, o primeiro Guerra nas Estrelas brilha pela sua produção inusitada. Flertando entre o trash e o onírico fantasioso precursor da era das superproduções, o trabalho de George Lucas transita sem avisar entre o risível e o épico. Ele pode ser entendido como a mescla perfeita que gera o pop, esse sentimento de auto-importância criado na base do berro que fascinou e fascina gerações.
 

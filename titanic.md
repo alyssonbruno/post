@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-09-17T23:22:45
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Titanic"
-stars: "5/5"
 ---
 Vinte anos depois revejo este drama épico de James Cameron. Na época em que estava em cartaz assisti umas cinco vezes, então sabia de todos os movimentos de câmera e diálogos de cor. Mas o que torna este filme um exemplo de Cinema em seu máximo, mesmo sendo extremamente brega?
 

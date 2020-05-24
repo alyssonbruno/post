@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-05-28T19:43:06-03:00
-title: "Mob Psycho 100"
-tags: [ "draft", "series", "animes" ]
-
 stars: "3/5"
+tags: [ "draft", "series", "animes" ]
+title: "Mob Psycho 100"
 ---
 Mob Psycho 100 sofre do mesmo problema de Death Note: a primeira metade é fascinante e a segunda metade é quase insuportável. Isso porque a grande sacada da série -- um paranormal super-poderoso que tem ambições onde o seu poder é inútil -- se trai totalmente em um momento onde seu irmão é envolvido na trama principal e todos os valores do protagonista são automaticamente descartados apenas por capricho de um roteiro que pega uma excelente ideia e transforma em mais uma daquelas aventuras com pessoas poderosas que falam demais. Não que você não tivesse visto isso antes em qualquer outro anime do passado.
 

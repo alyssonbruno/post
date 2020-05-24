@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-12-10"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Blue Jay"
-stars: "4/5"
 ---
 Antes eles imitavam o futuro. Hoje eles se reencontram e retornam ao passado. Um filme inteiro em preto e branco porque é sobre memórias. A beleza dos tons de cinza de um filme invocam a poesia da realidade. Porém, no paradoxo mais charmoso do Cinema, o p&b também torna a vida mais real.
 

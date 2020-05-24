@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-11-02"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Discurso do Rei"
-stars: "3/5"
 ---
 O uso de lente claustrofóbica para identificar o nervosismo e o sentimento de aflição do protagonista.
 

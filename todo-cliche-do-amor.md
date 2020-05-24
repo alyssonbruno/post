@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-04-09T16:17:32-03:00
-title: "Todo Clichê do Amor"
-tags: [ "draft", "movies" , "cinemaqui" ]
-
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Todo Clichê do Amor"
 ---
 Tenho o prazer desta vez de poder falar sobre um filme nacional que não dependeu de quaisquer incentivos públicos, produzido de forma completamente independente. E se fazer arte é um ato político, a produção de Todo Clichê do Amor diz muito mais sobre a época que vivemos do que qualquer manifestação na Paulista.
 

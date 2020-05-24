@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-01"
-title: "Os Dois Filhos de Joseph"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Os Dois Filhos de Joseph"
 ---
 É complicado fazer um filme sobre personagens que não despertam simpatia ou possuem qualquer virtude digna de ser observada. Nesse sentido, Os Dois Filhos de Joseph é uma produção que está todo o tempo à beira do esquecimento. Em alguns momentos nos preocupamos tão pouco com o destino dessa família que quase nos esquecemos que eles são o assunto do longa. Em outros, a eterna espera por algo que mude o destino estampado em seus genes gera a suspeita cada vez mais certeira de que este é um filme sobre o ciclo inescapável da natureza das pessoas.
 

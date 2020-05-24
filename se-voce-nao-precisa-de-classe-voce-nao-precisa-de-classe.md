@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: 2017-12-17T22:11:40-02:00
-title: "Se você não precisa de classe você não precisa de classe"
 tags: [ "draft",  ]
+title: "Se você não precisa de classe você não precisa de classe"
 ---
 Nos últimos dias me deparei com o seguinte (pseudo-)código:
 

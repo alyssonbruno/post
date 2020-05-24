@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2019-05-15"
 review: [ "2019" ]
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Star Wars: O Despertar da Força"
-stars: "4/5"
 ---
 Este reboot praticamente da saga vem com direito a todas as cotas possíveis e imagináveis. Daisy Ridley (mulher: check) faz a jedi que consegue fazer tudo em um episódio, desbancando Luke Skywalker e o resto da galáxia. John Boyega (negro: check) é um ex-stormtropper que possui o tom cômico que a série precisa, mas está cheio de draminhas pessoais e faz questão de envolver todos neles. Oscar Isaac tem essa faceta meio gay (check) e que eleva a ambiguidade entre triângulo amoroso e incesto do filme original para outro nível.
 

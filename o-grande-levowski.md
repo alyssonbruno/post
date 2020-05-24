@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-02-07"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Grande Lebowski"
-stars: "5/5"
 ---
 Um filme é basicamente contar uma história. A forma como você conta é que pode fazer toda a diferença entre um pedaço inútil de película (ou bits) ou um grande filme que, faça rir, faça chorar, mas, principalmente, faça pensar.
 

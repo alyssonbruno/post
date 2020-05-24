@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-17T17:22:23-02:00
-title: "Rock em Cabul"
-
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "Rock em Cabul"
 ---
 É curioso o resultado dessa comédia roteirizada por Mitch Glazer, que já está acostumado em elencar a persona de Bill Murray ("Os Fantasmas Contra Atacam", "A Very Murray Christmas"), e dirigido por Barry Levinson, que já está acostumado a dirigir Murray e outros famosos, além de ter uma cinegrafia conturbada, que vai de "Rain Main" e "O Enigma da Pirâmide" para "Esfera" e "A Revolta dos Brinquedos". Levinson não está acostumado a dirigir filmes ruins como esse, mas é Glazer que o entrega um material confuso, que se perde em suas premissas antes mesmo do segundo ato, e vai atravessando a vergonha alheia até não poder mais.
 

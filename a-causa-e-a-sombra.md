@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-31"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "A Causa e a Sombra"
-stars: "2/5"
 ---
 Um filme sobre as pessoas torturadas e presas pela ditadura no Brasil nas décadas de 60/70 que se esquece de avisar ao espectador qual era o grande medo da população e dos militares caso os "revolucionários militantes" chegassem ao poder. Na verdade, é pior, pois se ao menos o filme se mantivesse centrado apenas no aspecto humano seria minimamente interessante, além de servir de alerta sobre a falta de limites do Estado. Mas é claro que ele precisa pintar aquelas pessoas como verdadeiros mártires, algozes e inspiradores de justiça, o que explica parcialmente a motivação dessas pessoas (só queriam ajudar os miseráveis, claro) quando no fundo se tornaram terroristas quando descobriram que não havia concordância nos planos mais gerais de ataque a Brasília.
 

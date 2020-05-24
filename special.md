@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-04-24T21:29:48-03:00
-title: "Special"
-
-tags: [ "draft", "series" ]
 stars: "4/5"
+tags: [ "draft", "series" ]
+title: "Special"
 ---
 Ryan O'Connel criou e é o astro de sua própria série. Ele tem paralisia cerebral, é gay (pelo menos na série) e não tem vergonha de sair do armário. Por ser gay. Já por ser aleijado...
 

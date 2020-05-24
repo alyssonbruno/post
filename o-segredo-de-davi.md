@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-13T18:59:26-02:00
-title: "O Segredo De Davi"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "O Segredo De Davi"
 ---
 O Segredo de Davi é sobre um estudante de Cinema e sobre Cinema. Um dos poucos filmes de gênero que costumam sair em circuito comercial aqui no Brasil em um gênero que curiosamente até mantém seu público cativo através das décadas, mas que nunca se transformou em algo viável em terras tupiniquins. Agora nós temos uma produção brasileira de tirar o fôlego em todos os quesitos técnicos e narrativos, o que é uma ótima notícia. E apesar de flertar com os enlatados norte-americanos ele mantém seu charme local.
 

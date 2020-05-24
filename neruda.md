@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-12-12"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Neruda"
-stars: "3/5"
 ---
 "Neruda" é um drama poético com tons de comédia. Pois só a comédia para explicar uma história de perseguição onde nada acontece e onde seu protagonista vive para narrar o que não está acontecendo. Isso seria por si só uma péssima ideia para roteiro, um filme onde não acontece nada. Mas, estamos falando da vida de um poeta, que se define recusando qualquer definição minimamente coerente e que, por ser poeta, diz muitas coisas sobre coisa nenhuma.
 

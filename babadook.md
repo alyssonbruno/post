@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-01-22"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "The Babadook"
-stars: "5/5"
 ---
 É impressionante como tudo funciona em Babadook, e mais impressionante ainda sendo pertencente a um dos gêneros mais maltratados do Cinema atual no Ocidente: o Terror. Para tornar exponencial a minha surpresa, notei que a estrutura do filme é estupidamente simples e enxuta, se resumindo em pegar sua ótima premissa e desenvolvê-la ao máximo. Ainda é de brinde uma aula de Cinema.
 

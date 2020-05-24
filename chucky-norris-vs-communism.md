@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-03-26"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Chuck Norris vs. Communism"
-stars: "4/5"
 ---
 Não é nenhum segredo que para existir o comunismo em um mundo capitalista todas as barreiras precisam ser fechadas. Isso evita que a população faminta por recursos e ideias seja seduzida pelo caminho da liberdade e mantém o ditador da vez em posição mais confortável para espalhar suas mentiras. No caso da Romênia, no entanto, havia uma falha que foi se alastrando pelas duas décadas de regime totalitarista. Uma falha que apenas uma figura equivalente ao americano Chuck Norris em sua versão romena poderia explorar: o Cinema norte-americano.
 

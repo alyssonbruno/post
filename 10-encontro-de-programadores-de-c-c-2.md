@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2013-03-28"
-title: Décimo Encontro de Programadores de C e C++
 tags: [ "draft", "ccppbr" ]
+title: Décimo Encontro de Programadores de C e C++
 ---
 Ando tendo alguns problemas de postagem no meu blog, por isso o aviso não foi feito com mais antecedência. Peço desculpas aos organizadores do evento, pois sei que todo tipo de divulgação é útil.
 

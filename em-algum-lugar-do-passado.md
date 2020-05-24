@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-07-12"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Em Algum Lugar do Passado"
-stars: "5/5"
 ---
 Depois de décadas assistindo a Superman - O Filme, confesso que nas primeiras cenas de Em Algum Lugar do Passado foi difícil desassociar a figura de Christopher Reeve do kriptoniano mais famoso do Cinema. Felizmente, foi possível constatar que o talento de Reeve não se limita ao super-herói que eternizou. Digo mais: sua habilidade cômica ímpar é o que consegue balancear tão bem este drama, assim como foi no filme do homem de aço.
 

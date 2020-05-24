@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-26T18:50:13-03:00
-title: "Simplesmente Alice"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Simplesmente Alice"
 ---
 A primeira impressão deste filme é que muitas donas de casa gostariam de ter um Doutor Yang para se consultar. Woody Allen, para variar, joga várias ideias criativas em um único filme, que vai de chás milagrosos que fazem ter o dom do conhecimento e honestidade ou ficar invisível até ex-namorados como fantasmas conselheiros. A irmã de Alice é Dorothy e ambas vivem em mundos distintos. Não tenho certeza se os nomes dos personagens são uma coincidência ou um jogo de metalinguagem deste brilhante roteirista.
 

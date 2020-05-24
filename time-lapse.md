@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-04-04"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Time Lapse"
-stars: "3/5"
 ---
 Mais um filme de viagem no tempo. Dessa vez quem viaja é só a luz. Uma câmera tira fotos 24 horas no futuro e entrega para três jovens que perderam a capacidade do livre-arbítrio. Isso porque agora eles precisam reproduzir a foto tirada custe o que custar, se não quiserem morrer.
 

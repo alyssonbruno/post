@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-12-08"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Vida de Inseto"
-stars: "3/5"
 ---
 Historinha politicamente correta e chata da Pixar.
 

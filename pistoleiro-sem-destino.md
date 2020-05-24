@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-01-21"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Pistoleiro Sem Destino"
-stars: "4/5"
 ---
 Peter Fonda atuou em dezenas de filmes e dirigiu três. Homem sem destino é o primeiro deles, em que ele também atua. É um retrato honesto de um pedacinho do velho oeste, mas mostrado de maneira romantizada e uma inesquecível trilha sonora.
 

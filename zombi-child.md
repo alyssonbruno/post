@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-04"
-title: "Zombi Child"
-tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies", "cinemaqui" ]
+title: "Zombi Child"
 ---
 Das profundezas do meu inconsciente trasheiro, eu esperava, sinceramente, ver zumbis cinematográficos em Zombi Child, um filme que não desiste de apresentar sua "revelação final" mesmo que depois de quinze minutos de tela nós espectadores já soubéssemos qual é.
 

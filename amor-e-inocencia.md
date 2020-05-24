@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-04-27"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Amor e Inocência"
-stars: "5/5"
 ---
 Depois de acompanharmos as divertidas adaptações dos romances de Jane Austen (Razão e Sensibilidade, Emma, Orgulho e Preconceito), chegou a hora de vermos a história da própria Jane, e como ela se tornou a escritora dos romances de época.
 

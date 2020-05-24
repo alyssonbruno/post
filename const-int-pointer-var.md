@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: 2019-04-29T20:56:48-03:00
-title: "Const Int Pointer Var"
 tags: [ "draft",  ]
+title: "Const Int Pointer Var"
 ---
 A melhor forma de declarar variáveis ponteiros (constante ou não, mas segue o exemplo) é const int pointer var. Explicação:
 

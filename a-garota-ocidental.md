@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-06-21"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota Ocidental - Entre o Coração e a Tradição"
-stars: "4/5"
 ---
 Após acabar "A Garota Ocidental - Entre o Coração e a Tradição" há a sensação deste filme ser um remake. Isso porque a história que ele conta, inspirado livremente em fatos reais, infelizmente não é um caso isolado. O seu núcleo revela uma repetição de costumes que um certo povo mantém século a século, e mesmo que convenientemente auxiliado pela tecnologia da época, se mostra arcaico e anacrônico se comparado com os princípios mais básicos que temos hoje de direitos humanos.
 

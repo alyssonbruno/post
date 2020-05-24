@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-04-02"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Greve"
-stars: "4/5"
 ---
 A Greve é um belíssimo ensaio do crítico, montador, diretor, roteirista Sergei M. Eisenstein antes de sua dita obra-prima O Encouraçado Poremkin, do mesmo ano. Digno de nota, porém, é saber que é seu primeiro longa, e já nesse trabalho notam-se as invencionices e montagem usadas de maneiras tão originais quanto a novidade da sétima arte poderia desejar. Rodado sem diálogos, mas com uma trilha sonora que evoca a urgência e a dramaticidade dos acontecimentos, Eisenstein conta a história de uma greve entre operários usando para isso de 6 diferentes estágios, ou historietas, que didaticamente exploram a mente das massas pró-revolução.
 

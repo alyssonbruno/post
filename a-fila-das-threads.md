@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2009-04-07"
-title: "A fila das threads"
 tags: [ "draft",  ]
+title: "A fila das threads"
 ---
 Em um ambiente multithreading, diversas threads disputam "a tapas" a atenção do processador (CPU). Certo? Podemos dizer que, em um ambiente com muito processamento a realizar, de certa forma é isso que acontece. São threads e mais threads rodando um pedacinho de código cada vez que passam pelo processador.
 

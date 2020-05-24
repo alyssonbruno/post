@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
-date: "2014-03-07"
-tags: [ "draft", "movies" ]
 count: 2
-title: "Ela"
+date: "2014-03-07"
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Ela"
 ---
 Ela pode ser chamado de romance  mesmo que seja entre um ser humano e um sistema operacional  porque é basicamente um filme sobre relacionamentos. O roteiro e a direção de Spike Jonze (Quero Ser John Malkovich) entram fundo na questão "o que torna uma pessoa atraente para outra" desintegrando a parte material e se focando no mundo das ideias; quase que um Antes do Amanhecer futurista.
 

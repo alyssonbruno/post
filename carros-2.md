@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-07-20"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Carros 2"
-stars: "2/5"
 ---
 O ponto mais forte no longa original eram as ideias por trás do conceito de carros se comportando como humanos. E até os pequenos detalhes de produção, como o fato dos mosquitos voando serem pequenos carrinhos com asas, contribuíam para tornar aquele universo todo especial.
 

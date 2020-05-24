@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-09-29"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Romance à Francesa"
-stars: "4/5"
 ---
 Romance à Francesa é como se alguém pegasse um roteiro de Woody Allen (dos últimos anos, pelo menos), extraísse todo o pessimismo e trocasse por romantismo. Isso em uma época que, assim como A Comunidade, lutamos por entender, conviver e experimentar formas de amor que fujam do convencional.
 

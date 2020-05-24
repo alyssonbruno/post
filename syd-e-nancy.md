@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-22"
-title: "Sid e Nancy"
 stars: "5/5"
 tags: [ "draft", "movies" ]
+title: "Sid e Nancy"
 ---
 Todo o clima insano, niilista, absurdo e depressivo do movimento punk da época dos Sex Pistols você confere neste filme sobre o baixista da banda e sua amada. Esta é uma biografia maior que suas partes, pois a sociedade vista por estas pessoas se reflete no filme e na forma com que seus heróis se enxergam.
 

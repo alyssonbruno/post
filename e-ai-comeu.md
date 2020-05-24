@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-06-25"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "E Aí... Comeu?"
-stars: "3/5"
 ---
 Esse é o simpático terceiro filme de Felipe Joffily (Muita Calma Nessa Hora) que explora a opinião dos homens sobre o universo feminino. Nunca nos permitindo entender "o outro lado da história", participamos na maioria das vezes dos diálogos de Fernando (Bruno Mazzeo), Honório (Marcos Palmeira) e Fonsinho (Emilio Orciollo Neto) como se estivéssemos sentados juntos com ele na mesa de bar, servidos sempre por uma deliciosa gelada pelo garçom mais comedor (ou falador) do universo: Seu Jorge (Seu Jorge).
 

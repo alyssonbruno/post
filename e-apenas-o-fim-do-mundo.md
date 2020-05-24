@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-10-26"
+stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "É Apenas o Fim do Mundo"
-stars: "5/5"
 ---
 O cineasta Xavier Dolan é intenso e leva tudo do seu lado pessoal para as telas. Isso já ficou claro em Eu Matei a Minha Mãe e ainda mais claro em Amores Imaginários. Agora, em É Apenas o Fim do Mundo recebemos mais do mesmo, o que no caso se traduz em um filme também de cunho pessoal. E tenso até a morte. 
 

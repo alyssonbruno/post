@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-01"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Corra que a Polícia Vem Aí!"
-stars: "3/5"
 ---
 Nunca datado, mas um pouco óbvio. O primeiro filme da série do policial atrapalhado interpretado por Leslie Nielsen tem um bom coração, é cheio de piadas positivas, mesmo que envolva um homem ser amassado por um rolo compressor.
 

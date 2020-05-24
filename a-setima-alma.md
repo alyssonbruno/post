@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-14"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Sétima Alma"
-stars: "3/5"
 ---
 Aquela velha maldição que atordoa as pessoas de um vilarejo.
 

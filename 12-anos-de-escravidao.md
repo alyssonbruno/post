@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-03-19"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "12 Anos de Escravidão"
-stars: "5/5"
 ---
 Parece algo repetitivo fazer filmes sobre a escravidão, não? Bom, depende da abordagem. A direção certeira de Steve McQueen (Shame) consegue adaptar as memórias de Solomon Northup com precisão. Solomon foi um afro-americano nascido livre em Nova York de 1853 e que foi sequestrado e vendido como escravo na capital do país que se formava. O que está sendo mostrado não é exatamente um registro genérico sobre escravidão, mas uma reflexão profunda, bem ritmada e, sobretudo, um documentário de nossa época a respeito do que é ser um escravo.
 

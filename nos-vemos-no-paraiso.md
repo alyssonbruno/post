@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-06-29T15:43:23-03:00
-title: "Nos Vemos no Paraíso"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Nos Vemos no Paraíso"
 ---
 Nos Vemos no Paraíso tem a estrutura de um conto de fantasia, ou uma peça de teatro, mas consegue espaço para expandir timidamente sua história através de cores, arte, música e ação. Muita ação.
 

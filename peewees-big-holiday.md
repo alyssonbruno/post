@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-03-29"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Pee-wee's Big Holiday"
-stars: "2/5"
 ---
 Uma experiência lúdica que infelizmente se entrega ao televisivo. Pee-wee Herman já é um personagem conhecido, um misto cômico de Bob Esponja e Mr. Bean que não consegue desempenhar bem nenhuma dessas personas (e se pudesse, seria uma simples cópia) e o resultado é muitas vezes o inverso, tal qual aquele palhaço que vimos na infância e nos apavorou por noites seguidas em nossos piores pesadelos.
 

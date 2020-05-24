@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-11-04T00:05:03
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Olhando Para As Estrelas"
-stars: "3/5"
 ---
 Olhando para as Estrelas é um filme fofinho que não parece enxergar dificuldades, apenas facilidades. Com isso ele perde um potencial drama da vida real, ou troca pela visão de um mundo de sonhos, onde tudo é possível. Mas se tudo é possível tão "fácil" assim, qual a graça da conquista?
 

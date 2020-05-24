@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-11-27"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Divines"
-stars: "3/5"
 ---
 Eis mais um drama francês sobre a pobreza dos imigrantes e dos desprezados pelo sistema. Porém, este é o pano de fundo de uma história de uma amizade tocante entre duas amigas que compartilham tudo isso, e também uma pitada de romance porque... porque sim. Mas o rapaz é segurança de mercado e dançarino, o que já coloca um pouco de arte e a questão de gêneros na fórmula mágica esquerdista. Esse pessoal não perde tempo contando apenas um drama de cada vez.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2017-10-21T23:13:48
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "As Aventuras Do Capitao Cueca O Filme"
-stars: "5/5"
 ---
 As Aventuras do Capitão Cueca prova que no Cinema, dado qualquer conceito, ele pode ser explorado e se tornar um ótimo filme. Mesmo que este conceito envolva duas crianças criativas e zoeras que falam com o espectador, pregam todas as peças da escola e criem um super-herói em seus quadrinhos que não usa uma cueca por cima das calças, mas apenas a cueca.
 

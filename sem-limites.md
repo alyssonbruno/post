@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-03-19"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Sem Limites"
-stars: "3/5"
 ---
 Bradley Cooper protagoniza este filme de Neil Burger, provavelmente o melhor trabalho até aqui do diretor que já fez O Ilusionista, mas também Divergente.
 

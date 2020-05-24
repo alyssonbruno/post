@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-10-15"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Cegonhas - A História Que Não Te Contaram"
-stars: "4/5"
 ---
 Não se engane com a simplicidade deste filme (porque ele é bem simples). Seu jogo de cintura rápido, suas gags ligeiras -- metade ruim, metade interessante -- seus conceitos um tanto esquizofrênicos -- uma hora algo é importante, depois é outra, depois volta de novo -- e os diálogos expositivos de tudo que está acontecendo -- principalmente da boca do filho de um casal super-ocupado -- parecem obra de um amador. Parece tanto, mas tanto, que não é possível que ele seja. Há algo escondido nesse roteiro com uma produção de animação decente, com trilha grandiosa e fotografia competente. É um filme que parece zombar das produções Disneyanas, que insistem em mensagens de amor destacadas da realidade. E mesmo que você diga que os motivos por trás dessa atração é a fofura dos bebês, mesmo retirando-os de campo, fica difícil não gostar do resultado final.
 

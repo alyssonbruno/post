@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-10-09"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Eu Estava Justamente Pensando em Você"
-stars: "3/5"
 ---
 O amor está no ar, mas seus portadores estão com dúvidas existenciais, são espertos demais para senti-lo ou sofrem da doença do século: ansiedade.
 

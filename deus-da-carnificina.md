@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-10-07"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Deus da Carnificina"
-stars: "4/5"
 ---
 Deus da Carnificina só funciona tão bem porque as pessoas que nele estão continuam sendo elas mesmas até o fim, e usam personalidades extremamente triviais, que fazem parte do dia-a-dia de qualquer um (ainda mais nas infinitas discussões de internet). Não há seres complexos demais neste filme, mas ideias antagônicas construídas através de quatro performances que ecoam até a duração do próximo argumento. Não há agressão física que consiga se comparar a um embate de ideias que, diferente dessa, nunca termina quando um dos lados cai no chão.
 

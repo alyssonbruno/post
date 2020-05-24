@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-02-15"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "La prima cosa bella"
-stars: "5/5"
 ---
 Esse filme, junto com o recente cult Um Sonho de Amor, evidencia um Cinema Italiano mais interessante e inovador, ainda que mantenha sua clássica dramaticidade de novelão, estilo que paradoxalmente o acaba engrandecendo.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-02-14"
+stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "BugiGangue no Espaço"
-stars: "2/5"
 ---
 BugiGangue no Espaço é mais uma tentativa do cinema brasileiro -- e com dinheiro brasileiro -- nas animações e na tecnologia 3D. O resultado é mais um filme que mira na mediocridade para nunca sair dos trilhos. Sua falta de ousadia no roteiro só rivaliza com sua capacidade de referenciar obras muito mais ambiciosas como Star Wars, Star Trek, E.T.. Sua animação cartunesca não oferece quase nada que se destaque de qualquer vídeo do YouTube. E o seu humor pitoresco quase traz à tona o instinto nacional de ser o eterno cão vira-latas das super-produções.
 

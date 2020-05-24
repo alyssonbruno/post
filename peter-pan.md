@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-10-15"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Peter Pan"
-stars: "3/5"
 ---
 Há algo de mágico na direção de arte de Peter Pan, uma versão Live Action contando uma história estilo "Origins" do menino que não quer crescer. Navios voadores, sereias deslumbrantes, fadas minúsculas e brilhantes: tudo parece reluzir e impressionar no filme em uma versão grandiosa que consegue com sucesso flertar com detalhes do desenho original que o fez ser um sucesso (a fonte original mesmo remonta do começo do século passado, uma peça e um romance do escritor J. M. Barrie). Porém, por outro lado, ele se mantém próximo demais da cartilha de aventuras padrão para conseguir impressionar os espectadores mais atentos, se tornando inevitavelmente previsível, e por isso, tristemente enfadonho em sua estrutura narrativa.
 

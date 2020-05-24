@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-12-30"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Cidade de Deus"
-stars: "5/5"
 ---
 Nunca mais havia assistido Cidade de Deus depois de sua estreia no cinema, em 2002. Agora, treze anos depois e com 999 filmes no meu "currículo" de cinéfilo dedicado, escolhi esse filme para fazer o que meu amigo chamou de "Pelé das reviews". Portanto, esse é meu filme número 1000 do Cine Tênis Verde.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-05-11T12:06:28-03:00
-title: "Bicho de Sete Cabeças"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Bicho de Sete Cabeças"
 ---
 Para comemorar o dia anti-maniconial (que nominho desgraçado) nada como assistir Bicho de Sete Cabeças, que é baseado em um caso real de um jovem internado em um sanatório porque dava uns tapinhas na pantera.
 

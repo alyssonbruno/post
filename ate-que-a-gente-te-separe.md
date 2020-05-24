@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-02-26T23:54:25-03:00
-title: "Até que a Gente te Separe"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Até que a Gente te Separe"
 ---
 The Breaker Upperers é uma comédia neo-zelandesa, o que significa britânica, o que quer dizer que é um humor difícil de falhar. Sim, humor britânico está sempre acima do americano.
 

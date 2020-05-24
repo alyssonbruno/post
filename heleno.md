@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-01-20"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Heleno"
-stars: "4/5"
 ---
 Nada mais apropriado às vésperas da segunda Copa do Mundo no Brasil -- a primeira foi em 1950, para quem não se lembra -- para revermos a biografia de um jogador de futebol totalmente esquecido daquela época e de quebra entendermos um pouco como o processo de modernização do esporte retirou todo o romantismo de uma era e transformou os esportistas em meras figurinhas de um álbum prestes a expirar.
 

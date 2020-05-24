@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-19"
-title: "System Crasher"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "System Crasher"
 ---
 System Crasher evita a todo custo julgar sua jovem e impossível protagonista, mas não se pode dizer o mesmo dos espectadores, que saíram da sessão vociferando palavras de ordem e disciplina como solução para uma menina de uns 10 anos que com inteligência acima da média e ataques explosivos é uma versão em miniatura de uma delinquente juvenil. Mas a grande questão para quem quiser analisar além das emoções primárias que o filme evoca é sua camada imediatamente superior: quais os objetivos de um filme como esse?
 

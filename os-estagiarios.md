@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-03-07"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Estagiários"
-stars: "3/5"
 ---
 Não sei o nível de entrosamento de Vince Vaughn com os roteiros que participa, mas co-assinando a história do ótimo Separados pelo Casamento e os roteiros de Encontro de Casais e agora Os Estagiários me diz que pelo menos ele não se importa tanto quanto o egocêntrico Adam Sandler em proteger sua "imagem pública". Mas não se engane: seus personagens podem ser antipáticos em alguns momentos, mas sempre sairão por cima ou terão algo que ninguém tem. Nesse caso, a capacidade de ser um excelente vendedor.
 

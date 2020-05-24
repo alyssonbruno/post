@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-title: "Vai que dá Certo"
-
-stars: "3/5"
 date: "2013-04-08"
+stars: "3/5"
 tags: [ "draft", "movies" ]
+title: "Vai que dá Certo"
 ---
 O filme estrelado (e escrito) em partes pelo elenco do ótimo grupo de humoristas de internet Porta dos Fundos consegue ser engraçado em diversos momentos, apesar de seu tom morno durante quase todo o filme. O sucesso do humor é em boa parte devido ao carismático grupo, que naturalmente exibe um timing cômico de fazer inveja às produções da Globo Filmes. Porém, estamos falando de um filme longa metragem, e o que justamente deixa de ser engraçado é a história criada pelos três roteiristas, que se perde depois que do golpe a um carro forte arquitetado por quatro amigos de infância (e de pobreza) e por um primo de um dos integrantes.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-11-19"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Um Homem Misterioso"
-stars: "5/5"
 ---
 A quebra inicial do filme de romance com o casal juntos no quarto, íntimos, e o tiro que ele dá na cabeça da amante, além de impactante, dá o tom exato da vida desse homem do título, que deve sempre se manter fechado a relacionamentos. Cortes rápidos nas cenas de tiro, como o corte dele atirando no segundo sueco que aparece no filme, pelas costas, ou ele virando para atirar no seu contratante, essa cena sem corte. Sem contar as inúmeras vezes em que a neurose do personagem é transmitida diretamente para nós, como na cena da vespa estourando o escapamento, ou o livro caindo da cama no meio da noite, e até mesmo os pés do personagem no escuro, com ele deitado, deixam o espectador sempre em constante tensão. O primeiro diálogo com o padre, sobre o fato dele ser americano e fazer questão de esquecer o passado e tentar viver no presente, é emblemático e tão bem colocado, por possuir um significado oculto, que parece até feito de mentira. Mas convence.
 

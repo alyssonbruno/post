@@ -1,9 +1,9 @@
 ---
-date: "2020-05-04"
-title: "Jogo Duro"
-stars: "3/5"
 categories: [ "cinema" ]
+date: "2020-05-04"
+stars: "3/5"
 tags: [ "draft", "movies" ]
+title: "Jogo Duro"
 ---
 Antônio Fagundes está em todas as pornochanchadas. Está nessa daqui também, que peca por pouca putaria e muitas divagações sociais. Antes mesmo da Ancine já tínhamos que aguentar lenga-lenga pseudo-revolucionário no meio do tchaca-tchaca. Isso, sim, é uma putaria sem vergonha. Pior que isso só uma aula de história.
 

@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2009-08-17"
-title: What I've been doing in the last 10 years
 tags: [ "draft",  ]
+title: What I've been doing in the last 10 years
 ---
 This week I dedicate myself to update my resumè and I have the brilliant idea of put into it my technical historical, what resuming is a list of things I did or was involved with during my brief ten years stay in the programming world.
 

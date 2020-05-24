@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-12-20"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Concorrência Desleal"
-stars: "3/5"
 ---
 Mais um filme político de Scola. Dessa vez o foco da história é a concorrência entre um alfaiate e um lojista, que dividem a fachada de suas lojas e suas casas, a amizade de seus filhos menores e um romance entre seu filho e sua filha maiores. Possuem muitas coisas em comum, menos uma: uma família é de judeus; a outra, não.
 

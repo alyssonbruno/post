@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-09-11"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Smurfs"
-stars: "3/5"
 ---
 É difícil dizer isso, mas o filme dos Smurfs diverte bem mais que seu primo ilegítimo: Alvin e os Esquilos (e continuações). A ideia de pegar elementos de CG para fazer gracinhas junto com personagens de carne e osso (e cor de pele) quase sempre termina em tragédia premeditada, e isso explica em parte o desânimo dos meus amigos, que sequer cogitaram ir ver o filme nos cinemas.
 

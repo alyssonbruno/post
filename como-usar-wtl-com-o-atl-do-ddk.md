@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2008-10-15"
-title: Como usar WTL com o ATL do DDK
 tags: [ "draft", ]
+title: Como usar WTL com o ATL do DDK
 ---
 
 No entanto, num belo dia, qual não foi minha surpresa ao notar umas pastinhas chamadas atl21, atl30 e atl71 dentro da distribuição do WDK (o finado DDK, renomeado sabe-se-lá-por-quê)? Pelo visto, tem alguém arrastando coisa errada pra onde não devia nos instaladores de Seattle. Esses estagiários!

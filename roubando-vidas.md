@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-10-23"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Roubando Vidas"
-stars: "2/5"
 ---
 Esse é mais um thriller policial que envolve uma dupla de elementos que vem se tornando frequente: histórias previsíveis e Angelina Jolie. Nesse caso, Jolie é uma agente do FBI que precisa capturar um serial killer que rouba a identidade de suas vítimas.
 

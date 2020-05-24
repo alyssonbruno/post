@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-03"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Para Maiores"
-stars: "4/5"
 ---
 Um projeto que envolve diferentes diretores, roteiristas e atores em torno da comédia "nonsense" que tem algo a acrescentar (ou não) ao humor. O filme vem embalado em uma história central que envolve três jovens envolvidos em uma busca na internet por um filme proibido que se assistido pode causar um cataclisma mundial -- e que na verdade é uma pegadinha de Primeiro de Abril. Esse é o pano de fundo perfeito para jogar na tela vários curtas com temas bizarros que se aproveitam ou da comédia do absurdo ou, em alguns casos, de um caso de amor entre o surreal e o psicótico. De qualquer forma, o resultado de todas as experiências é frenético, empolgado e que fará pensar, nem que seja por 5 segundos.
 

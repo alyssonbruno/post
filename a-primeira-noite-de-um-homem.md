@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-06-16"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Primeira Noite de um Homem"
-stars: "5/5"
 ---
 Esse é um filme que possui a alma dos anos 60. Quebra de convenções por todos os lados, e um cuidado especial na condução de uma... quem diria, comédia romântica, em tons sortidos; pelo menos o suficiente para que não encaremos os detalhes inseridos na trama apenas como engraçados, mas também dramáticos; e fiquemos apreensivos pelo destino de um dos heróis mais icônicos e irônicos do Cinema: Ben Braddock.
 

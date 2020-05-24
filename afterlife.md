@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-04"
-title: "Afterlife"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Afterlife"
 ---
 Afterlife, filme do diretor/roteirista estreante Willem Bosch, é uma experiência leve, mas não divertida, pois usa sua leveza apenas para abordar temas delicados como morte de parentes e suicídio. Sua protagonista é Sam, uma adolescente de 16 anos, e para concebermos como uma história com adolescente e com esses temas delicados pode ser levada adiante sem se tornar um drama pesado passamos a entender por que a abordagem de Bosch é nos deixar à vontade desde o começo com a questão da morte, para logo depois explorar algo além da vida.
 

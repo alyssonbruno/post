@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-01-25T11:18:32-02:00
-title: "A Guerra dos Botões"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "A Guerra dos Botões"
 ---
 A Guerra dos Botões é um filme magnífico se você analisar apenas os seus melhores momentos: lúdicos, épicos, vivos! Porém, ao tentar juntá-los, Yann Samuell exagera no caos e transforma essa experiência como deve ser na cabeça de uma criança: há alguns flashes na memória inesquecíveis, mas é impossível se lembrar de todo o contexto.
 

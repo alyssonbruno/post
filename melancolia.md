@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-08-07"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Melancolia"
-stars: "5/5"
 ---
 (Spoilers liberados. Portanto, sugiro ler depois de assistir ao filme.)
 

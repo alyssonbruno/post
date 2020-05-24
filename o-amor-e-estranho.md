@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-01-06"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Amor é Estranho"
-stars: "4/5"
 ---
 Esse é um filme sabotado por sua própria doçura e leveza. E, mesmo assim, se não tivesse o seu final, poderíamos estar diante de um drama melancólico. Apesar de ter participações de outros personagens em pé de igualdade, a história principal gira em torno de George (Alfred Molina), Ben (John Lithgow) e o casamento dos dois: uma linda cerimônia que reuniu toda a família para celebrar uma união já existente há 40 anos. Infelizmente, ela é o estopim para os problemas que o casal terá que enfrentar.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-22T22:49:02-02:00
-title: "O Anjo"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "O Anjo"
 ---
 Muitas pessoas ao assistir a O Anjo talvez percam a essência do filme, talvez por causa do caminho empolgado deste arcanjo assassino. Mas se você reparar que não se trata de um filme com cenas fortes, ou pelo menos que não trata suas cenas fortes com o peso que costumam ter em outros filmes, verá a ironia fina da subjetividade máxima de um psicopata glorificado.
 

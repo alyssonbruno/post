@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-03-11"
+stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Beasts of No Nation"
-stars: "5/5"
 ---
 Beasts of No Nation é praticamente um documentário em forma de ficção. E só se trata de uma ficção porque sequer sabemos o país em que vive o pequeno Agu, interpretado por Abraham Attah, intenso e inesquecível. E, se formos ser sinceros, não saber onde se passa a ação é o menor dos detalhes de uma experiência que vai se tornando, assim como Attah, intensa e inesquecível, embora infelizmente.
 

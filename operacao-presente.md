@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-07-12"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Operação Presente"
-stars: "4/5"
 ---
 A nova animação da Sony parte para o óbvio gênero de filmes natalinos dessa época, mas faz bonito: Operação Presente subverte nossos conceitos do que é atualmente o natal, parte do ponto de vista do Papai Noel e seus elfos e acusa de maneira inteligente o modo superficial pelo qual muitos de nós enxergamos essa data que um dia foi muito especial.
 

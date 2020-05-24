@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-10-04"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Nona Vida de Louis Drax"
-stars: "4/5"
 ---
 Muito cuidado. A Nona Vida de Louis Drax, pela sua premissa, pode se disfarçar facilmente de algo mais bonitinho do que na verdade é. Conta a história de uma criança que vivia sofrendo acidentes trágicos durante toda a infância até ficar em coma no seu nono aniversário. Crianças em coma geralmente remetem a dramas onde os pais estão sempre presentes e a fé de todos colabora para o triunfo de sua recuperação. Aqui não há nada mais distante que isso.
 

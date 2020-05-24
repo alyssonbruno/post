@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2016-03-20
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "De Volta para o Futuro Parte III"
-stars: "5/5"
 ---
 Encerrando a trilogia da viagem no tempo, o diretor-roteirista Robert Zemeckis vai audaciosamente 100 anos atrás, no velho oeste, para buscar a aventura e a curva dramática de um personagem até então esquecido, mas vital para o sucesso da franquia: o cientista pseudo-maluco Dr. Brown (Christopher Lloyd). Mais audaciosamente ainda, fecha com chave de ouro uma das trilogias mais bem sucedidas do Cinema ao fazer referência à própria Sétima Arte ao brincar com figuras como Clint Eastwood. Alan Silvestri adapta sua música-tema e sua orquestração para a época, e as tomadas tomam um aspecto completamente inusitado do que poderia se esperar de um filme de ficção científica.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: 2017-08-24T17:47:41
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Dupla Explosiva"
-stars: "4/5"
 ---
 Dupla Explosiva pega carona na atmosfera cômica e absurda de Dois Caras Legais (Shane Black, 2016) e se dá muito bem com isso. O resultado é um filme de ação que consegue ser tenso com uma história que nos envolva, protagonizado por personagens carismáticos.
 

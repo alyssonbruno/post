@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-13"
-title: "As Invisíveis"
-tags: [ "draft", "movies", "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies", "cinemaqui" ]
+title: "As Invisíveis"
 ---
 As Invisíveis é uma dramédia alto astral com momentos comerciais que fez com que ele contratasse um batalhão de atrizes em moldes semelhantes à série Orange is The New Black, onde cada personagem tem suas idiossincrasias, enriquecendo e humanizando a história. Dirigido por Louis-Julien Petit, que já trabalhou na segunda e terceira unidades de vários filmes de Hollywood, este é um filme que mescla bem seu drama de "filme de arte" com seu lado mais blockbuster. E é isso o que fez com ele fosse um sucesso de público na França, não o fato de ser protagonizado por mulheres.
 

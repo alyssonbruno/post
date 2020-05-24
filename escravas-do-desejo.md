@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-20"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Escravas do Desejo"
-stars: "3/5"
 ---
 Assisti por completo Escravas do Desejo, uma história de vampiras lésbicas com um cunho erótico, mas que ao mesmo tempo evoca um clima de mistério.
 

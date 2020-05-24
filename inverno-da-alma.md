@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-01-30"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Inverno da Alma"
-stars: "4/5"
 ---
 O filme todo gira em torno da história da filha mais velha de uma família problemática que ainda por cima precisa encontrar o pai, pois este afiançou a casa onde moram e, se não comparecer ao tribunal no dia estabelecido, eles serão despejados.
 

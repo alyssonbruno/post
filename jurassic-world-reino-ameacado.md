@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-06-25T14:55:57-03:00
-title: "Jurassic World: Reino Ameaçado"
-
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "Jurassic World: Reino Ameaçado"
 ---
 O tema sério de Jurassic Park, sobre a responsabilidade do ser humano sobre o planeta, incluindo a própria natureza (uma mensagem bíblica contida em um livro de sci-fi?), já foi torcida e retorcida tantas vezes que hoje em dia só sai uma gotinha de arrepio. Há uma gotinha extra, de sangue, para a diversão inconsequente. É lá que estão os milhões gastos em produções como essas.
 

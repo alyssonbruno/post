@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-04-02"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Vencedor"
-stars: "4/5"
 ---
 O filme começa como um documentário, mas corta para outro documentário sobre o vício do irmão. Isso acaba derrubando nossa visão inicial, mas o tom documental dá realismo ao filme.
 

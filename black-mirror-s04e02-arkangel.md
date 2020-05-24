@@ -1,9 +1,8 @@
 ---
 categories: [ "cinema" ]
 date: 2018-01-12T01:19:37
-
-tags: [ "draft", "series" ]
 stars: "2/5"
+tags: [ "draft", "series" ]
 title: "Black Mirror - S04E02 - Arkangel"
 ---
 Talvez a história mais fraca de toda a série Black Mirror, Arkangel é o segundo capítulo da quarta temporada e fala sobre a relação entre mãe e filha. A mãe sofre um trauma no parto da filha e em quase perdê-la em um parque. Isso é o suficiente para que ela tenha incapacidade de comunicação com sua filha e utilize um mecanismo de monitoração extremamente controverso: ver e ouvir o que sua filha está fazendo.

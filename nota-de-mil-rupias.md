@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-04-16"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Nota de 1000 Rúpias"
-stars: "3/5"
 ---
 Um pequeno conto indiano em formato de filme, narrado quase como uma peça de teatro com enquadramentos poéticos e dramáticos no melhor estilo Central do Brasil, Nota de 1000 Rúpias caminha pelo inevitável drama do povo indiano e sua pobreza explorada ou subjugada pelos ricos e poderosos e corruptos políticos e seus asseclas, igualmente alheios à imoralidade de suas ações.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-15T16:01:58-02:00
-title: "Bohemian Rhapsody"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Bohemian Rhapsody"
 ---
 Há um momento em Bohemian Rhapsody em que teoricamente tudo funciona: o seu final. A atuação de Rami Malek, como Freddie Mercury, o vocalista irreverente e exótico da banda Queen, está em seu ápice; os efeitos visuais do estádio onde eles tocam funciona porque toca na relação de cumplicidade dos fãs com a banda; as pessoas mais importantes em sua vida pessoal se encontrado do lado do palco, acompanhando emocionados a performance de uma pessoa única e especial; o cantor/lenda reconhece suas origens e faz as pazes com sua família em um evento transmitido para o mundo inteiro. Se trata de uma cena de peso, único e que merece figurar nos momentos mais marcantes do Cinema em 2018. Mas como filme... bom, eu disse que ela funciona mais teoricamente; talvez para outro filme.
 

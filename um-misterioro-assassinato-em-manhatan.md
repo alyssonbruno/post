@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-05-14"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Um Misterioso Assassinato em Manhattan"
-stars: "3/5"
 ---
 Nova Iorque, chuva, assassinato e um filme de Woody Allen. Uma combinação que costuma ser fértil para o Cinema, seja pela inteligência e ironia das falas dos personagens, ou até mesmo pela situação que eles vivem. Aqui, temos o casal de meia-idade Larry e Carol Lipton (Allen e Keaton) que, após conhecerem um idoso e simpático casal, no dia seguinte presenciam a morte súbita da esposa, consequência de um ataque cardíaco.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-02-18"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Viagem"
-stars: "5/5"
 ---
 Há uma belíssima transição em A Viagem quando duas pessoas fogem de sua escravidão e procuram provar o seu valor enquanto ainda se acostumam com o recente status adquirido. A diferença poética dessa mudança de cena é que ela ocorre em espaço e tempo completamente díspars, mas compartilham dos mesmos sentimentos e ideais humanos: a luta pela liberdade.
 

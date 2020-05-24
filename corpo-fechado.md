@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-24"
-title: "Corpo Fechado"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Corpo Fechado"
 ---
 O que segura Corpo Fechado do começo ao fim é o seu tema, que se resume em uma pergunta, a mais instigante das perguntas: seriam os heróis dos gibis exageros do mundo real?
 

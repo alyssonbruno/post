@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2014-03-28"
-title: A moda agora é levar lambda na função
 tags: [ "draft",  ]
+title: A moda agora é levar lambda na função
 ---
 
 A nova moda de programar C++ nos últimos anos com certeza é usar lambda. Mas, afinal, o que é lambda? Bom, pra começar, é um nome muito feio.

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-13"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Quando Estou Com Marnie"
-stars: "4/5"
 ---
 Mais um dos filmes dos estúdios Ghibli (em que um dos fundadores é Hayao Miyazaki) que já estreou há mais de um ano no Japão e aqui custa a aparecer uma distribuidora decente. Aliás, vamos combinar: não existe distribuidora confiável em solo nacional.
 

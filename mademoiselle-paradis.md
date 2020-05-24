@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-04-26T15:52:51-03:00
-title: "Mademoiselle Paradis"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Mademoiselle Paradis"
 ---
 Mademoiselle Paradis segue a cartilha dos filmes de época, mas não deveria. O filme é muito mais do que isso, abordando temas como etiqueta e a dualidade entre ser medíocre em tudo ou sacrificar uma vida para ser algo pelo qual será lembrada.
 

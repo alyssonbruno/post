@@ -1,11 +1,10 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-01-30"
 review: [ "2014" ]
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Enrolados"
-stars: "3/5"
 ---
 A história clássica de Rapunzel é recriada com o novo senso se humor Disney/Pixar, em que o príncipe é um ladrão procurado, e a frágil princesa não é tão frágil assim. Temos aí os mesmos elementos que tornaram a Disney tão amada pelas crianças e adultos: números de música inspirados (com destaque para o bar do patinho) e uma história sem muitos conflitos e um final feliz.
 

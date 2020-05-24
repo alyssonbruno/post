@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-05T03:00:00-03:00
-title: "X-Men: Fênix Negra"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "X-Men: Fênix Negra"
 ---
 "X-Men: Fênix Negra" é uma grande metáfora de como ao ganhar poderes incontroláveis movimentos sociais como feminismo criam vítimas aleatórias por onde quer que passem com poder de ferir justamente os que te querem bem: os únicos amigos que aguentaram ficar perto de você.
 

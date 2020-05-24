@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-11-12"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Red Aposentados e Perigosos"
-stars: "3/5"
 ---
 O encontro de astros que não deu certo em Mercenários aqui fez um trabalho divertido e descartável. Principalmente com a participação de Malkovich e Helen Mirren, que criam personagens que entretem pelas suas vidas atuais sendo consequência da vida de assassinatos do passado.
 

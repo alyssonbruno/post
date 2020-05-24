@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-02T20:52:19-03:00
-title: "Uma Noite de 12 Anos"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Uma Noite de 12 Anos"
 ---
 Este é um filme tão necessário que parece que chega atrasado. Mas se formos pensar que nunca é bom fazer um filme sobre um presidente enquanto ele é presidente então chegaremos à conclusão que o timing, afinal de contas, não poderia ter sido melhor. José Mujica, ex-presidente do Uruguai, entrou e saiu do comando do país entre 2010 e 2015; o mesmo país onde foi preso e torturado, entre os anos 70 e 80. Ainda vivo, com 83 anos, sua idade avançada parece ser mais um indício de como ele e outros dois prisioneiros políticos conseguiram sobreviver tanto tempo sem perder a sanidade: a simples vontade de viver.
 

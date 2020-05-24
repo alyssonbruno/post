@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-04-12T18:09:00-03:00
-title: "Shazam!"
-
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Shazam!"
 ---
 O novo filme da DC, Shazam, tenta convencer seu público que moleques órfãos de 15 anos podem vencer um vilão adulto que quer o poder mágico mais que tudo na vida. A história começa com a origem desse vilão, que é a mesma do herói, em uma economia narrativa bem-vinda, pois já se vão dezenas de filmes de origens, todos muito parecidos e esquecíveis (dica: assista apenas o do Homem Aranha e seja feliz). Shazam tem o espírito da inovação, um super-herói mirim, no corpo do convencional, na pele do ator que faz a série Chuck, Zachary Levi, que funciona como comédia, mas não exatamente como um garoto de 14 pra 15 anos.
 

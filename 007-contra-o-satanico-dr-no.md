@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-11-10"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Satânico Dr. No"
-stars: "4/5"
 ---
 Depois de assistir e vibrar com o último 007, um dos melhores filmes do ano, nada como abrir minha coleção James Bond e iniciar minha revisão de toda a filmografia desse personagem que parece nunca cair em desuso. O primeiro filme é o 007 Contra o Satânico Dr. No ou, do original, simplesmente Dr. No.
 

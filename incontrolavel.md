@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-01-19"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Incontrolável"
-stars: "3/5"
 ---
 Ontem fui ver o novo filme de ação de Denzel Washington. É sobre um trem desgovernado e os esforços para segurar o bicho antes que ele destrua alguma coisa. Confesso que fiquei impressionado com a atuação acima de Denzel no papel de Frank, um condutor de trens de carga que trabalhou a vida toda nisso. Seu sotaque e seus gestos condizem de alguma forma com o personagem, enquanto seu companheiro de viagem Will (Chris Pine) fica com seus dramazinhos de família tão bobinhos que passam despercebidos.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2015-04-19"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Vida Privada dos Hipopótamos"
-stars: "4/5"
 ---
 Se eu te dissesse que vou te contar uma história incrível, que fez até que eu desistisse de um outro projeto na minha vida apenas para contá-la, você provavelmente criaria expectativas absurdas antes mesmo de eu começar a falar. Da mesma forma, a expectativa gerada no começo de "A Vida Privada dos Hipopótamos" apenas consegue fazer que você não saia muito satisfeito no final.
 

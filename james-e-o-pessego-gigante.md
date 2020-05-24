@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-12-30"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "James e o Pêssego Gigante"
-stars: "4/5"
 ---
 Antes de qualquer ataque óbvio ao roteiro formulaico e os personagens caricatos e unidimensionais, é melhor avisar: se trata de um filme Disney. Ou seja, o mau é mau, o bom é bom e não há praticamente nada que fuja do bê-a-bá dos estúdios "da moral e dos bons costumes". Dito isto, damo-nos por satisfeitos a inexistência de princesas e fadas.
 

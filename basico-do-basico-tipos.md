@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2008-12-12"
-title: 'Básico do básico: tipos'
 tags: [ "draft",  ]
+title: 'Básico do básico: tipos'
 ---
 Um tipo nada mais é que do que uma forma (ô) de bolo, que molda a memória como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito mais básico ainda.
 

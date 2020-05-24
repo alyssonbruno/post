@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-26T00:53:11-02:00
-title: "Better Call Saul S04"
-
-tags: [ "draft", "series" ]
 stars: "4/5"
+tags: [ "draft", "series" ]
+title: "Better Call Saul S04"
 ---
 Better Call Saul em sua quarta temporada segue o mesmo formato de todas as anteriores: é uma novela porque se estende demais -- as regras um pouco degastantes de uma série -- mas entrega o que promete mais uma vez: um protagonista um pouco mais próximo de se tonar o Saul Goodman que todos nós conhecemos de Breaking Bad.
 

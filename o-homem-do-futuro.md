@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-09-11"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Homem do Futuro"
-stars: "4/5"
 ---
 O novo longa de Cláudio Torres (dos divertidos A Mulher do Meu Amigo e A Mulher Invisível) flerta com mais um tema que faz parte do imaginário coletivo: quem nunca desejou mudar algo que fez no passado, principalmente se isso teve implicações negativas por toda sua vida?
 

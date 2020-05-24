@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-10-19"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Os Infratores"
-stars: "4/5"
 ---
 Os Infratores é um filme de gênero: de gângsteres, para ser exato. Se passa na época da lei seca, quando comercializar bebidas nos Estados Unidos era um crime punido severamente. Acompanhamos a narrativa em off de Jack (Shia LaBeouf), um dos três irmãos Forrest (Tom Hardy), Howard (Jason Clarke) e Cricket (Dane DeHaan). Juntos formam a família Bondurant, que através do controle da distribuição ilegal de licores criados de forma caseira administram sua influência no Condado de Franklin, uma região isolada vizinha de Chicago (que, não é preciso lembrar, foi a morada de Al Capone).
 

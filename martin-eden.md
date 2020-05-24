@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-06"
-title: "Martin Eden"
-tags: [ "draft", "movies", "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies", "cinemaqui" ]
+title: "Martin Eden"
 ---
 Martin Eden... Martin Eden... Martin Eden. Ouvimos esse nome tantas vezes neste filme que ele se torna inconfundível. Um nome que pode significar tantas coisas acaba se tornando indecifrável. No final ele se confunde com a espuma do mar. Nunca existiu este escritor, e nunca existirá, mas ele é a síntese de todos os que já existiram.
 

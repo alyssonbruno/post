@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: 2018-10-07
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Lobo de Wall Street"
-stars: "5/5"
 ---
 Assistir um filme do Scorsese, mesmo que acabou de estrear, é ser convidado para os anos 70. O que eu quero dizer com isso é que sexo, drogas, violência e moral serão mostradas sem aquele filtro horrível que infantiliza a nossa época. Curiosamente, se há uma característica que os "heróis" de O Lobo de Wall Street carregam em comum é a imaturidade. Porém, uma maturidade animalesca, que faz jus ao personagem-título.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-10-20"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Balconista"
-stars: "3/5"
 ---
 Primeiro longa do diretor Kevin Smith, O Balconista não poderia deixar de ter algo a mais dos outros filmes que o trouxesse para os holofotes. No entanto, quase 20 anos depois, ele permanece como um dos filmes esquecidos que não merece ser revisitado.
 

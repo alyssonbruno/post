@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-01-23"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Mercenários 3"
-stars: "3/5"
 ---
 A série Mercenários tem um objetivo bem claro e um público-alvo definido: os fãs dos filmes de ação dos anos 80, onde eu me incluo. Queremos ver esses caras de novo, de preferência todos juntos. Queremos a maior reunião de testosterona jamais feita. Queremos explosões, lutas e cenas de tirar o fôlego.
 

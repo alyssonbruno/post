@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-04-16"
+stars: "3/5"
 tags: [ "draft", "series" ]
 title: "The Sound of Your Heart - Primeira Temporada"
-stars: "3/5"
 ---
 Maeumui sori é uma espécia de sitcom e novela/série coreana que apela para o absurdo, peidos e quadrinhos mal desenhados. Ele é engessado em seu formato e simples em sua abordagem, e tenta concentrar o maior número possível de piadas escatológicas e familiares aos seus poucos personagens.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-01-14"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Casa da Rússia"
-stars: "3/5"
 ---
 Baseado no romance de John le Carré, um editor que teve a oportunidade de entrar em contato com um dos gênios da União Soviética logo após o processo de abertura política vira isca dos serviços secreto americano e inglês que precisam saber se a Rússia de fato está acabada como potência. O curioso aqui é o pano de fundo da situação, algo conhecido hoje em dia como a opinião pública pos-Fahrenheit, mas muito provavelmente na época controverso: caso a URSS estivesse de fato acabada o que seria da imponente e latente indústria armamentista americana?
 

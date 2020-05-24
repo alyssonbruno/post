@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-04-30T15:09:27-03:00
-title: "Longa Jornada Noite Adentro"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Longa Jornada Noite Adentro"
 ---
 Longa Jornada Noite Adentro possui um foco desde o início, que é justamente o título do filme: realizar um dos mais elaborados planos-sequência do cinema em 3D. Mas este não é um filme 3D, conforme anunciado em seu início. Há um momento em que, munidos de óculos 3D, devemos colocá-los, mas no meio da sessão, junto com o protagonista, e eis que assim o trabalho do diretor e roteirista Gan Bi começa a fazer algum sentido.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-03-13"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Birdman ou (A Inesperada Virtude da Ignorância)"
-stars: "5/5"
 ---
 Antes de falar sobre Bidman, vamos aproveitar para tirar um elefante branco da sala: o plano-sequência. O que são? O que comem? Como se reproduzem?
 

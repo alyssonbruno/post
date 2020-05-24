@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-04-04"
+stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Filhos de Bach"
-stars: "2/5"
 ---
 Filhos de Bach, uma co-produção entre Brasil e Alemanha, é um filme que tenta alçar voo muitas vezes, mas parece sempre ser sabotado por sua história episódica, que também é simplista e desonesta. Tudo pelo objetivo de tentar mostrar duas culturas bem diferentes entre si, além de uma aparente visão social.
 

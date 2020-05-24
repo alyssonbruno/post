@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-07-22"
+stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Viagem de Meu Pai"
-stars: "4/5"
 ---
 A Viagem de Meu Pai começa como um filme leve sobre as vicissitudes de envelhecer, mas aos poucos se transforma em um drama ambicioso em sua estrutura, pois transforma espectadores passivos em participantes da inevitável experiência do esquecimento de nossas próprias vidas.
 

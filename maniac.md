@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-09-30T22:13:19-03:00
-title: "Maniac"
-
-tags: [ "draft", "series" ]
 stars: "4/5"
+tags: [ "draft", "series" ]
+title: "Maniac"
 ---
 Dois estranhos se encontram casualmente. Ambos possuem traumas no passado. Um deles é curável, e o outro tem esquizofrenia. Ambos parecem pensar na mesma frequência e frequentam os mesmos sonhos gerados por computador. Ambientado em um mundo ligeiramente futurista e esquisito, com um toque de retrô, a série Maniac tem um quê estético (e temático) que aos poucos nos revela ser um sci-fi pautado em algumas ideias muito mais psicológicas e filosóficas que poderia-se esperar.
 

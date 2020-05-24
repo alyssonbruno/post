@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-10"
-title: "Loucademia de Polícia"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Loucademia de Polícia"
 ---
 Quem não se lembra dessa série de filmes que passava na Sessão da Tarde ad infinitum? Mahoney, Tackleberry, e tantos outros. As piadas certeiras. O Blue Oyster. E o melhor momento do original, quando o Comandante Lassard acredita que Carey Mahoney lhe pagou sexo oral. Ele vai furioso procurá-lo e diz ao Tenente Harris que ele fez algo muito ruim, no que o tenente pergunta a quem ele fez algo ruim e a cara do Comandante Lassard dizendo "eu não sei" é a melhor declaração pró-amor livre que você vai ver em um filme nos anos 80.
 

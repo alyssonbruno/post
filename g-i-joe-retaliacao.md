@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-04-04"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "G.I. Joe Retaliação"
-stars: "3/5"
 ---
 Na cena inicial de "G.I. Joe: Retaliação" (que nomezinho) o comandante de uma missão (Dwayne Johnson) que precisa adentrar uma zona militar da Coreia do Norte ao lado de uma guarita vigiada em uma quase total escuridão resolve derreter a cerca de arame e formar um círculo de fogo que provavelmente poderia ser avistado a uns dois quilômetros. Essa introdução espetacular do grupo de operações especiais secreta do governo norte-americano  os chamados G.I. Joes  é o bastante para termos certeza que nada do que aparecer diante de nós deve ser levado a sério.
 

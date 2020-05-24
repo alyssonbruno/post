@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-06-26"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Pi"
-stars: "4/5"
 ---
 Pi é uma viagem quase psicodélica ao âmago da questão: a linguagem do Universo é a Matemática. Extrapolando isso, mas ao mesmo tempo mantendo o suspense de que isso poderia ser real, enxergamos a insanidade através das lentes P&B saturadas de uma luta interminável entre fé, conhecimento e a pura ganância.
 

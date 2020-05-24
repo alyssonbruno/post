@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-20"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Cidade dos Sonhos"
-stars: "5/5"
 ---
 Um filme com história surrealista, pois os personagens mudam de identidade na metade final, e os nomes são trocados. Ainda a analisar (e talvez assistir de novo).
 

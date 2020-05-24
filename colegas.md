@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-07-28"
+stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Colegas"
-stars: "1/5"
 ---
 Vocês percebem o potencial dramático e narrativo de um filme que usa atores com Síndrome de Down para interpretar personagens com Síndrome de Down? Percebem? Porque talvez os idealizadores de Colegas não tenham tido essa mesma visão. Aliás, o lado comercial da empreitada pode ser a principal responsável por um amontoado de caos envolvido em uma história menos que clichê: simplesmente sem sentido.
 

@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: 2019-02-03T17:06:33-02:00
-title: "Why Facts Don't Change Our Minds"
 tags: [ "draft", "reading" ]
+title: "Why Facts Don't Change Our Minds"
 ---
 Você sabe como funciona um vaso sanitário? Tem certeza? Faça o experimento, então: descreva de maneira verbal todos os passos envolvidos no funcionamento de dar descarga em um vaso. Depois pesquise e verifique como ele realmente funciona. Compare a realidade com o seu achismo e exploda sua cabeça.
 

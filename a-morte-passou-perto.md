@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-10-19"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Morte Passou Perto"
-stars: "3/5"
 ---
 Primeiro longa de Kubrick é noir de linha de produção
 

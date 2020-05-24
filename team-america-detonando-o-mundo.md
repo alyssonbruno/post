@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-03-19"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Team America Detonando o Mundo"
-stars: "4/5"
 ---
 Assistir a "Team America" é como rever os velhos clichês de filmes de equipes de salvamento do mundo (onde o pior exemplo possível é "G.I. Joe - A Origem de Cobra"). As duas diferenças: protagonizados por marionetes e realizado pelos criadores de South Park. O que impressiona no projeto é como os enquadramentos, mudanças de foco e até a movimentação dos "atores" segue uma lógica batidíssima, mas é ao mesmo tempo tecnicamente primoroso e eficaz para a narrativa.
 

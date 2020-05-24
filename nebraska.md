@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-01-11"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Nebraska"
-stars: "5/5"
 ---
 Sejamos honestos: quase ninguém termina essa vida tendo valores que prestem. Quando eu digo valores, não me refiro apenas a dinheiro, mas valores morais, intelectuais, culturais. Muitas vezes não se trata de oportunidade: a grande maioria não faz questão. Woody Grant (Bruce Dern) recebe um desses anúncios pega-trouxas de "você pode ganhar um milhão" e decide ir pegar o dinheiro. O destino: Nebraska. Já no fim de sua vida, é tido como louco, mas antes que você conclua algo, esse não é daqueles filmes que te surpreendem no final, mas no começo e durante. Um road movie bem comportado.
 

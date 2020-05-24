@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-12-22"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tokyo Godfathers"
-stars: "3/5"
 ---
 Essa animação natalina japonesa segue os mesmos moldes do ótimo Paprika, também dirigido e escrito por Satoshi Kon e co-dirigido por Shôgo Furuya, que já havia trabalhado como animador em A Viagem de Chihiro (2001). Quando digo os mesmos moldes me refiro à caracterização exagerada e satirizada da realidade que cerca os personagens. As expressões de rosto absurdas, tão comuns no anime, aqui funcionam em parte pelo seu humor e não funcionam em parte pela sua dramatização exagerada.
 

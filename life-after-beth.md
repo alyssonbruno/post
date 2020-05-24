@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-08-07"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Life After Beth"
-stars: "3/5"
 ---
 Esse é um horror/trash-drama com grandes dificuldades em dizer quando devemos sentir algo e quando devemos dar risada. Seu momento máximo envolve as montanhas, um rádio e um fogão. Zumbis ainda podem render diferentes tons de filmes, mas nunca passarão de homenagens incidentais a George Romero.
 

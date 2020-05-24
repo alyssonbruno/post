@@ -1,9 +1,9 @@
 ---
-date: "2020-05-16"
-title: "Conto de Verão"
-stars: "3/5"
 categories: [ "cinema" ]
+date: "2020-05-16"
+stars: "3/5"
 tags: [ "draft", "movies" ]
+title: "Conto de Verão"
 ---
 Erik Roemher é o diretor dessa quadrilogia sobre relacionamentos, onde cada título se passa em uma estação do ano. O forte desses filmes é o quão realista é a abordagem. Ele nos coloca direto em cena, em um lugar movimentado com pessoas reais. Os cenários possuem vida porque não devem nada à própria vida lá fora. Seus personagens somos praticamente nós ou alguém que conhecemos que passou por algo parecido. É menos um roteiro e mais uma percepção sensível de relacionamentos humanos.
 

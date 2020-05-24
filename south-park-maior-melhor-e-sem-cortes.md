@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-11-02"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "South Park Maior Melhor e Sem Cortes"
-stars: "4/5"
 ---
 Não é nenhuma novidade que South Park preza pelo irreverente e polêmico em prol da comédia e, principalmente, na análise da estupidez humana (espectadores inclusos). No seu longa-metragem, portanto, nada muda. O diferencial é um frescor de piadas sobre os últimos acontecimentos no mundo que seriam feitas na versão televisiva de uma forma ou outra.
 

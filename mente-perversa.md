@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-12"
-title: "Mente Perversa"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "4/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Mente Perversa"
 ---
 Mente Perversa pode causar extremo desconforto a mentes mais sensíveis, mas é um filme da categoria necessário por vários motivos, sendo o principal deles fazer você pensar pelo ponto de vista de alguém cuja natureza o impede de viver plenamente. O motivo? Seria um crime horrível.
 

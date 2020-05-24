@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-02-26"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Outra História Americana"
-stars: "4/5"
 ---
 Este não é um filme sobre nazismo, mas sobre fanatismo. Pessoas fanáticas a respeito dos mais diversos assuntos: política, religião ou (coloque aqui sua doutrina). Quer assistir um filme sobre os males do fanatismo? Assista A Outra História Americana. É um filme didático, mas não explícito. Sua sutileza reside nas simples expressões do dia-a-dia como resposta a situações das mais prosaicas, como um almoço de família. Porém, a mensagem é clara.
 

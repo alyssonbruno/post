@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-11-17T18:18:34-02:00
-title: "Ace Ventura 2: Um Maluco Na África"
-
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "Ace Ventura 2: Um Maluco Na África"
 ---
 Jim Carrey está de volta em sua persona de detetive de animais para fazer todo tipo de piada politicamente incorreta na África. Agora ele precisa resgatar um animal sagrado da tribo dos... bom, quem se importa? É Carrey fazendo caretas e movimentos desengonçados que se desenvolvem bem como comédia, mas péssimo como história. Não se trata de um Carrey que se entrega de alma em um projeto coerente como Deby e Loide, mas somente um humorista fazendo humor de situações criadas especificamente para fazer rir, e não movimentar a história.
 

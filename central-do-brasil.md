@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-05"
-title: "Central do Brasil"
-tags: [ "draft", "movies" ]
 stars: "3/5"
+tags: [ "draft", "movies" ]
+title: "Central do Brasil"
 ---
 Eu acho que não gosto muito desses filmes de retomada. Prefiro as pornochanchadas, mais honestas, menos desconexas com a realidade. Esse filme estilizado ainda mantém um pé muito forte no "cinematográfico" de Hollywood, mas não apara as arestas de uma cópia do que considera ser cinematográfico.
 

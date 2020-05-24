@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-04-02"
+stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Lorax Em Busca da Trúfula Perdida"
-stars: "3/5"
 ---
 O Lorax parte de uma premissa bonitinha e se esquece que em um roteiro, mesmo de animação, há muito mais do que piadinhas isoladas e ótimos efeitos visuais. Tudo começa quando Ted, um jovem de 12 anos que mora em uma cidade feliz por ter conseguido dominar o plástico como solucionador de todos os problemas e evitar assim qualquer forma de vida exceto seus moradores, incluindo gatos e cachorros. Querendo conquistar a garota dos seus sonhos, ele parte em busca de uma jornada fora da cidade para conseguir o que não existe mais na paisagem de sua cidade: uma árvore.
 

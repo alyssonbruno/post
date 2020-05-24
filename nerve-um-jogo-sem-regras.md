@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2016-11-17"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Nerve: Um Jogo Sem Regras"
-stars: "2/5"
 ---
 Black Mirror é uma série que realiza com sucesso uma crítica à tecnologia atual e em um futuro próximo (e talvez distópico). E ela faz isso em episódios de uma hora, que de acordo com alguns espectadores da Netflix, é "tempo demais para contar uma história tão simples". Pois bem. Nerve vem à tona como uma versão para jovens em um longa metragem que tem tempo demais de tela para uma história boba e imprevisível porque, no fundo, ninguém se importa com o destino de seus rasos personagens.
 

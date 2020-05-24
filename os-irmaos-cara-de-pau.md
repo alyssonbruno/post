@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-03-30"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Os Irmãos Cara de Pau"
-stars: "5/5"
 ---
 Não se fazem mais filmes sem computadores, e isso pode ser uma coisa ruim. Os efeitos digitais invadem as telonas e as pessoas dessa geração mal percebem que estão olhando para pixels plásticos gerados em ambientes impossíveis. O velho acidente de carro capotando parece só existir agora "photoshopado" em inúmeras camadas de irrealidade.
 

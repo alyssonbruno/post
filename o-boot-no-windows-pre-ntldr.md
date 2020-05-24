@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2009-09-09"
-title: 'O boot no Windows: pré-NTLDR'
 tags: [ "draft",  ]
+title: 'O boot no Windows: pré-NTLDR'
 ---
 Conforme fui estudando para recordar os momentos sublimes do boot do Windows me deparei com o artigo mais "espetaculoso" de todos os tempos sobre esse assunto, parte integrante do livro Windows Internals e escrito pelo nada mais nada menos Mark Russinovich: Boot Process, no capítulo 5, "Startup and Shutdown".
 

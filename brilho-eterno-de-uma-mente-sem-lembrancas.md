@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-08-18T13:12:07-03:00
-title: "Brilho Eterno de uma Mente Sem Lembranças"
-
-tags: [ "draft", "movies" ]
 stars: "5/5"
+tags: [ "draft", "movies" ]
+title: "Brilho Eterno de uma Mente Sem Lembranças"
 ---
 Por que as pessoas hoje em dia estão tão ansiosas em ser felizes e se livrar rapidamente das partes ruins de um relacionamento em suas mentes? A pergunta que o roteirista Charlie Kaufman (Quero ser John Malkovich, Adaptação, Anomalisa) e seu parceiro de costume, o diretor Michel Gondry (Natureza Quase Humana, "Rebobine, por Favor", A Espuma dos Dias) fazem neste filme é: e se elas pudessem?
 

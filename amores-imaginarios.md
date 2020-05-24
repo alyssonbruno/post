@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-11-20"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Amores Imaginários"
-stars: "4/5"
 ---
 Primeiro trabalho de Xavier Dolan na direção/roteiro/atuação depois de chamar a atenção com Eu Matei a Minha Mãe, Amores Imaginários é sobre exatamente o que o título sugere: aquele sentimento de idolatria por uma pessoa que nunca é correspondido à altura, porque no fundo esse sentimento é puramente imaginário. É como uma paixão, em qualquer grau e gênero.
 

@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-10-18T22:29:59-03:00
-title: "Tragam a Maconha"
-
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
-
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "Tragam a Maconha"
 ---
 Este é um mockumentary engraçadinho, que não tem muitas pretensões de ser mais que isso. Talvez seja uma boa pedida entre sessões mais pesadas da Mostra de São Paulo para dar uma aliviada no meio de tantos dramas e críticas sociais e políticas, porque por incrível que pareça, este filme não tem nada disso.
 

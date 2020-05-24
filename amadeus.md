@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-03-13T18:51:32-03:00
-title: "Amadeus (versão do diretor)"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Amadeus (versão do diretor)"
 ---
 A grande sacada de Amadeus não é fazer uma biografia sobre Mozart estabelecendo o óbvio: ele foi um músico genial. Isso todos sabemos. O grande trunfo do filme de Milos Forman foi mostrar isso do ponto de vista de uma pessoa que desejaria mais que tudo em ser um Mozart, mas, como a maioria de nós, pobres mortais, teve que conviver com um fato amargo da vida: somos todos medíocres. Aliás, essa é a própria definição de medíocre. A média é o povão. O excepcional acontece de vez em quando.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-05-04"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "The Real St. Nick"
-stars: "5/5"
 ---
 Quando o filme se inicia, e não sabemos exatamente quem são aquelas crianças, é muito fácil confundi-las com uma situação comum que vemos todos os dias: crianças brincando de aventureiros. Porém, conforme adentramos no mundo lúdico, mas cruel, de suas realidades, a consciência pesa demais para um filme supostamente despretensioso. Mais interessante, porém, é constatar que as pessoas que as encontram imaginam o mesmo que nós imaginávamos minutos antes, o que não deixa de ser irônico e trágico, pois agora vemos que muito da vida passa na nossa frente sem sequer nos darmos conta. A nossa realidade, andando com pressa pela calçada, não enxerga muito além dela própria.
 

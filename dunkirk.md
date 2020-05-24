@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2017-07-25T11:23:01
+stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Dunkirk"
-stars: "5/5"
 ---
 Dunkirk é um considerável esforço técnico. São tiros disparados, bombas explodindo e hélices se mexendo a todo vapor, conduzidos com um naturalismo impressionante e uma trilha sonora soberba, no sentido pretensioso da palavra. O resultado é uma imersão realista sobre um evento histórico que parece trazer muito mais euforia e catarse do que melancolia pelas misérias da guerra.
 

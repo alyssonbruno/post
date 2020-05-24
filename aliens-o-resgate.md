@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2011-12-08"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Aliens O Resgate"
-stars: "5/5"
 ---
 James Cameron parece ter uma dedicação especial com as continuações. Tanto a série Alien quanto o Exterminador do Futuro (essa iniciada por ele mesmo) expandem seus universos justamente no primeiro sequel.
 

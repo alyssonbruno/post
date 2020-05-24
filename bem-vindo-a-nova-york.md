@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-09-11"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Bem-Vindo a Nova York"
-stars: "4/5"
 ---
 Devereaux, o personagem de Gérard Depardieu em mais um papel memorável, é um intelectual que está no topo da cadeia do mercado financeiro e que ainda é casado com uma esposa bilionária. Por onde passa espalha admiração. É um senhor fisicamente grande e desengonçado, mas educado e cordial. Fora isso é um pervertido sexual que simplesmente não consegue se controlar diante de uma mulher, e é isso que abala completamente as estruturas sociais de sua vida bem-sucedida.
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2010-08-08"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "A Lenda dos Guardiões"
-stars: "2/5"
 ---
 Mais um filme 3D que usa foco. Parece que ou a noção de ambiente tridimensional ainda não possui seu lugar no cinto de técnicas da narrativa moderna ou a tentativa de economizar nas filmagens em 2D acaba por gerar o mesmo filme passado por dois filtros distintos.
 

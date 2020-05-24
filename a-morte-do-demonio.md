@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-05-09"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Morte do Demônio"
-stars: "4/5"
 ---
 Um remake e uma revisita ao clássico trash da década de 80 (antes dirigido por Sam Raimi, o mesmo da trilogia Homem-Aranha), o longa de estreia de Fede Alvarez deixa a razão em segundo plano, mas por um motivo dos mais louváveis: tudo acontece tão rápido que se preocupar demais com isso tornaria a experiência intelectual demais. No fundo, queremos acreditar que tudo não passa de alucinações coletivas que logo irão se revelar uma fraude. Na verdade, rezamos por isso, pois a imersão ao horror da história é feito com tal profundidade que em determinados momentos fica difícil focalizar na tela o que está acontecendo.
 

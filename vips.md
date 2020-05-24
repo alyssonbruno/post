@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-03-04"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "VIPs"
-stars: "5/5"
 ---
 Quando vemos Wagner Moura descendo de helicóptero em uma festa de bacanas e logo em seguida em uma sala de aula imitando seu colega de classe temos em pouquíssimos minutos a exposição de todo o arco dramático de seu personagem. Essa economia ao contar a história de Marcelo permite que o espectador preste atenção a outros detalhes de sua vida, como sua relação com o "pai" ou sua busca por se tornar alguém diferente.
 

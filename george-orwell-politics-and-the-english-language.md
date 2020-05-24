@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: 2018-08-26T23:06:57-03:00
-title: "George Orwell: Politics and the English Language"
 tags: [ "draft", "reading" ]
+title: "George Orwell: Politics and the English Language"
 ---
 Politics and the English Language é um texto do George Orwell sobre como escrever de forma mais clara que os confusos escritores de nossa época. A língua inglesa era o que ele estava defendendo, não contra o empobrecimento como muitos eruditos, mas contra o seu uso por si mesma, tornando a mensagem, a coisa mais importante em um texto, secundário. Ao mesmo tempo ele, que é ídolo de vários movimentos totalitários, dá umas alfinetadas tão específicas nos "revolucionários" de hoje em dia que é merecida a citação. Vamos começar:
 

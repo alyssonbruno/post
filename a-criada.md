@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-11-26"
-title: "A Criada"
-tags: [ "draft", "movies" ]
 stars: "2/5"
+tags: [ "draft", "movies" ]
+title: "A Criada"
 ---
 Lento e cheio de detalhes revistos pelo menos três vezes, A Criada é um filme que se constrói apenas pelas suas reviravoltas. Isso suga a alma de seus personagens, e já não estamos mais interessados em suas vidas a partir da segunda cena. A não ser que você goste de tramas que sabe que haverá reviravoltas e elas são mais interessantes que a história em si.
 

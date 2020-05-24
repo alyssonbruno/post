@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2008-05-21"
-title: 'MouseTool: clique automático do seu rato'
 tags: [ "draft", "projects" ]
+title: 'MouseTool: clique automático do seu rato'
 ---
 Bem, como a maioria de você já sabe, eu realmente não gosto de mouses. Apesar disso respeito os usuário que usam-no e até gostam dele. Essa é a razão por que estou escrevendo mais uma vez sobre isso. Dessa vez, irei mostrar um programa que eu uso todos os dias: MouseTool, para os usuários que  não usam o mouse, mas gostam dele [1].
 

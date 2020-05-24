@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-15"
-title: "O Homem que Não Estava Lá"
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "O Homem que Não Estava Lá"
 ---
 Como o uso das cores no cinema hoje em dia é mais para distrair a atenção do espectador para o que realmente importa. Essas foram as palavras de Roger Deakins, diretor de fotografia deste filme dos irmãos Coen. Deakins está em seu primeiro longa-metragem totalmente em preto e branco e sua entrevista no DVD que assistimos tem mais de meia-hora falando sobre as especificidades do formato, a escolha do processo de revelação durante as filmagens e uma visão artística e pessoal de Deakins sobre o passado, o presente e o futuro da fotografia no cinema. O seu entrevistador estava mesmo inspirado.
 

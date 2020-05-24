@@ -1,8 +1,8 @@
 ---
 categories: [ "code" ]
 date: "2010-07-26"
-title: Breakpoints promíscuos
 tags: [ "draft",  ]
+title: Breakpoints promíscuos
 ---
 Ontem falei sobre como "brincar" com os breakpoints promíscuos, ou seja, aqueles que topam qualquer processo. Isso
 

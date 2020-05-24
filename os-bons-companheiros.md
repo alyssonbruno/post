@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2013-01-01"
+stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Os Bons Companheiros"
-stars: "5/5"
 ---
 A primeira sequência de Os Bons Companheiros começa com os personagens de Robert de Niro (James Conway), Ray Liotta (Henry Hill) e Joe Pesci (Tommy DeVito) tendo que parar o carro para dar fim ao corpo que ainda insistia em manter-se vivo no porta-malas. A violência gráfica com que isso ocorre é sanguinária tanto na luz quanto no ato que ocorre na traseira do veículo. Quando acompanhamos o crescimento de Henry entre os gângsteres e voltamos novamente a essa cena é como se fizéssemos já parte do grupo: da gangue e da família que estes formam.
 

@@ -1,8 +1,8 @@
 ---
 categories: [ "blog" ]
 date: "2008-04-23"
-title: 'CSI: Crashed Server Investigation?'
 tags: [ "draft", "essays" ]
+title: 'CSI: Crashed Server Investigation?'
 ---
 O artigo de Jeff Dailey em que ele compara a nossa atividade de "cientistas do debugging" com a atividade dos profissionais da análise forense é exatamente o que eu penso sobre nossa profissão. Freqüentemente assisto ao CSI: Las Vegas e mais freqüentemente ainda uso os métodos científicos empregados pela equipe de Gil Grissom para resolver os problemas mais escabrosos que podem ocorrer em um sistema.
 

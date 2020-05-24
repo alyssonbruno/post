@@ -1,8 +1,8 @@
 ---
-date: "2020-05-10"
-title: "O Bug Mais Bizarro Que Já Resolvi"
 categories: [ "code" ]
+date: "2020-05-10"
 tags: [ "draft", "debug" ]
+title: "O Bug Mais Bizarro Que Já Resolvi"
 ---
 Máquina IBM velha e empoeirada, criptografia blowfish, assembly 16 bits, programa residente e nenhum depurador funcionando. Tudo o que eu tinha era o conhecimento que ia adquirindo do sistema, e talvez um pouco de imaginação, naquela fatídica semana de abril de 2008. Isolado em uma sala, tudo que eu tinha em volta eram papéis com anotações que ia fazendo conforme observava algo que poderia ser uma pista. Qualquer coisa servia. Do outro lado da sala, uma estagiária recém-chegada na empresa observava de longe, talvez com uma certa curiosidade, talvez medo, aquele rapaz ligar e desligar um desktop empoeirado enquanto a cada vez que apertava o botão de Power ele olhava fixamente para a tela por uma, às vezes duas horas seguidas. Às vezes ele ficava a manhã inteira observando um único e singelo boot na câmera mais lenta possível. Cada mov demorava alguns minutos de reflexão.
 

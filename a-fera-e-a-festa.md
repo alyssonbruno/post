@@ -1,9 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-21"
-title: "A Fera e a Festa"
-tags: [ "draft", "movies" , "cinemaqui" ]
 stars: "3/5"
+tags: [ "draft", "movies" , "cinemaqui" ]
+title: "A Fera e a Festa"
 ---
 Este filme nos presenteia com uma visão do passado do cineasta que homenageia, Jean-Louis Jorges, cineasta da República Dominicana, e ao mesmo tempo nos faz pensar em cinema não apenas como uma história sendo contada, mas como uma visão muito particular da realidade.
 

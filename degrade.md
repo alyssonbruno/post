@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2017-05-19"
+stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Degradê"
-stars: "3/5"
 ---
 Degradê é um filme onde o seu começo é o melhor momento para suas personagens. E olha que nem é tão bom assim. Seguindo seu título à risca, a situação vai gradualmente de um dia quente e ensolarado para uma noite de pesadelos.
 

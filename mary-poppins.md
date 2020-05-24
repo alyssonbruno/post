@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2018-12-11T12:35:30-02:00
-title: "Mary Poppins"
-
-tags: [ "draft", "movies" ]
 stars: "4/5"
+tags: [ "draft", "movies" ]
+title: "Mary Poppins"
 ---
 Mary Poppins é um musical adorável que foi crescendo como um segundo clássico após Noviça Rebelde, ambos trabalhos fenomenais de Julie Andrews como a queridinha que canta e dança. Aqui sua persona é mais rígida, e tem tudo a ver com a história.
 

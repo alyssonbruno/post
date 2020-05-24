@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-07-28"
+stars: "5/5"
 tags: [ "draft", "series" ]
 title: "South Park"
-stars: "5/5"
 ---
 Comecei assistindo essa animação já "decanária" (10 anos?) recentemente através das temporadas disponíveis na Netflix brasileira. O resultado foi um entusiasmo tão grande e egoísta que praticamente parei o meu ritmo frenético de filmes para reservar boa parte dos meus fins de semana e noites para ir até o último capítulo disponível da versão dublada em português. Posso dizer que aprendi muito sobre a vida, o mundo, a sociedade, e mim mesmo. Cada episódio polêmico me fazia ler os detalhes sórdidos através da Wikipedia, como o clássico Trapped in the Closed, que praticamente me obrigou a rever o "episódio de despedida" de Isaac Hayes em sua versão original, um recorte hilário de dublagens passadas do ator/cantor.
 

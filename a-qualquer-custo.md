@@ -1,11 +1,9 @@
 ---
 categories: [ "cinema" ]
-
-
 date: "2016-12-08"
+stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Qualquer Custo"
-stars: "5/5"
 ---
 A Qualquer Custo, a despeito de ser dirigido por um inglês, é um filme o mais texano possível, no mal e no bom sentido, o que acaba se tornando aos poucos algo fenomenal, já que o estilo de vida do texano acaba meio que virando um personagem a mais, ainda que não exatamente personificado em ninguém em particular. Apesar disso, eu usaria como representante da hospitalidade texana uma garçonete de uma cidadezinha que atende dois "Texas Rangers" com um mau humor (ou a falta de) peculiar, avisando que todos os que vão em seu restaurante pedem T-Steaks com batata. A única liberdade de seus clientes é tirar do prato ou o milho ou a vagem do prato. Ah, e todos devem tomar chá.
 

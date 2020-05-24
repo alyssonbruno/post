@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2015-09-20"
+stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Advantageous"
-stars: "2/5"
 ---
 Este filme possui um conceito interessante com pouco substrato. São pessoas interagindo com uma pintura futurista ao fundo. Quando tudo termina, não há conflito, mas a concretização do que já se esperava no começo.
 

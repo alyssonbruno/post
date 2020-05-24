@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2012-10-25"
+stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Um Inferno"
-stars: "4/5"
 ---
 Inferno cresce bem, como qualquer trabalho de terror/suspense bem executado. O que fortalece o primeiro trabalho do diretor Tim Fehlbaum como trama, porém, é o uso sem ressalvas de um dos seus personagens mais importantes: o sol.
 

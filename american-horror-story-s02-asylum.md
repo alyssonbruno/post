@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-06-20"
+stars: "4/5"
 tags: [ "draft", "series" ]
 title: "História de Horror Americana - Asylum"
-stars: "4/5"
 ---
 A segunda temporada de American Horror Story utiliza outra história, outros personagens  com alguns atores da temporada anterior  e outros dramas. Porém, o que permanece marca registrada da série é a maldade. Não a maldade dos demônios espirituais que dominam as trevas, nem dos E.T.s (se há demônios, por que não aliens?) que nos tratam como ratos de laboratório. Essa maldade é fictícia, metafórica demais para que cause algum impacto além do gráfico. A maior maldade ainda continua sendo a do próprio ser humano. Essa é visível nos olhares da inveja, ódio, loucura, medo. É palpável em suas ações. Rotuladores como seres sociais por natureza, não haveria nada com maior senso de comunidade e solidariedade do que um asilo para deficientes mentais. No entanto, homenageando novamente outra grande obra cinematográfica (estou falando, claro, de Um Estranho no Ninho), o Asilo Briarcliff é um simulacro da nossa sociedade para o estudo da crueldade.
 

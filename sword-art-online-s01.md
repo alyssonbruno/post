@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
-
 date: "2014-04-16"
+stars: "4/5"
 tags: [ "draft", "series", "animes" ]
 title: "Sword Art Online - Primeira Temporada"
-stars: "4/5"
 ---
 O tema de mundos virtuais já tem mais de uma década, mas é a primeira vez que vejo ele ser explorado nos jogos online. Mais interessante, ainda, é construir uma história cujo pano de fundo é o lançamento de mais um RPG online a la "World of Warcraft"  com direito a versões beta, coleção de itens, aumento de experiência, novas habilidades  com a diferença que seu controle é exercido e sentido diretamente pelo cérebro dos jogadores atráves de um sensor na forma de capacete. O enredo principal: se os criadores de um jogo de realidade virtual conseguem controlar os sentidos de seus jogadores o que os impede de levar essa experiências às últimas consequências?
 

@@ -1,10 +1,9 @@
 ---
 categories: [ "cinema" ]
 date: 2019-06-21T18:20:34-03:00
-title: "O Círculo"
-tags: [ "draft", "movies" ]
 stars: "5/5"
-
+tags: [ "draft", "movies" ]
+title: "O Círculo"
 ---
 Uma sociedade realmente sexista existe no Irã e o diretor Jafar Panahi filma a opressão como um documentário em tempo real. É um plano-sequência com cortes. A transição de personagens apenas reforça a universalização da violência sistematizada contra as mulheres em mais um dia nessa sociedade que não tem como enxergar suas falhas assim como um peixe não enxerga a água em que vive.
 
