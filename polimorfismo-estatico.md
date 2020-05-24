@@ -4,7 +4,9 @@ date: "2009-07-10"
 tags: [ "draft",  ]
 title: "Polimorfismo estático"
 ---
-Para explicar polimorfismo, nada como ver as coisas como elas eram. Se você fosse um programador C de vinte anos atrás e criasse as seguintes funções:
+Para explicar polimorfismo, nada como ver as coisas como elas eram. Se
+você fosse um programador C de vinte anos atrás e criasse as seguintes
+funções:
 
     int soma(int x, int y);
     double soma(double x, double y);
@@ -25,12 +27,16 @@ Imediatamente o compilador iria acusar os seguintes erros:
     overload.c
 
     
-    overload.c(2) : warning C4028: formal parameter 1 different from declaration
-    overload.c(2) : warning C4028: formal parameter 2 different from declaration
-    overload.c(2) : error C2371: 'soma' : redefinition; different basic types
+    overload.c(2) : warning C4028: formal parameter 1 different from
+    declaration
+    overload.c(2) : warning C4028: formal parameter 2 different from
+    declaration
+    overload.c(2) : error C2371: 'soma' : redefinition; different basic
+    types
             overload.c(1) : see declaration of 'soma'
 
-Isso acontece porque em C os identificadores são únicos por escopo. Esse é o motivo por que o seguinte código também está errado:
+Isso acontece porque em C os identificadores são únicos por escopo. Esse
+é o motivo por que o seguinte código também está errado:
 
     int main()
     {
@@ -44,12 +50,16 @@ Isso acontece porque em C os identificadores são únicos por escopo. Esse é o 
 
     
     overload.c
-    overload.c(5) : error C2374: 'x' : redefinition; multiple initialization
+    overload.c(5) : error C2374: 'x' : redefinition; multiple
+    initialization
             overload.c(4) : see declaration of 'x'
 
-De volta aos anos 90, isso também está errado em C++. Até por uma questão de lógica: como o compilador pode saber a qual variável estamos nos referindo se usarmos o mesmo nome para duas delas?
+De volta aos anos 90, isso também está errado em C++. Até por uma
+questão de lógica: como o compilador pode saber a qual variável
+estamos nos referindo se usarmos o mesmo nome para duas delas?
 
-Só que existe um truquezinho para impedir essa ambiguidade quando falamos de funções: os parâmetros que ela recebe.
+Só que existe um truquezinho para impedir essa ambiguidade quando
+falamos de funções: os parâmetros que ela recebe.
 
     int soma(int x, int y);
     double soma(double x, double y);
@@ -57,7 +67,8 @@ Só que existe um truquezinho para impedir essa ambiguidade quando falamos de fu
     int main()
     {
         int zi = soma(2, 3); // dois tipos int: chamar soma(int, int)
-        double zd = soma(2.5, 3.4); // dois tipos double: só pode ser soma(double, double)
+        double zd = soma(2.5, 3.4); // dois tipos double: só pode ser
+        soma(double, double)
         return 0;
     }
     
@@ -66,19 +77,26 @@ Só que existe um truquezinho para impedir essa ambiguidade quando falamos de fu
 
     
     C:\Tests>cl /c overload.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 13.10.6030 for 80x86
+    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 13.10.6030
+    for 80x86
     Copyright (C) Microsoft Corporation 1984-2002. All rights reserved.
     
     overload.cpp
     
     C:\Tests>
 
-Isso permitiu que em C++ fosse criada a sobrecarga estática, que é exatamente isso: chamar a função não apenas de acordo com seu nome, mas também de acordo com sua assinatura, ou seja, o número e o tipo dos parâmetros recebidos. Chamamos de sobrecarga estática porque isso é feito apenas pelo compilador, não pesando em nada durante a execução do programa.
+Isso permitiu que em C++ fosse criada a sobrecarga estática, que é
+exatamente isso: chamar a função não apenas de acordo com seu nome,
+mas também de acordo com sua assinatura, ou seja, o número e o tipo dos
+parâmetros recebidos. Chamamos de sobrecarga estática porque isso é
+feito apenas pelo compilador, não pesando em nada durante a execução
+do programa.
 
 Entre seus usos mais comuns estão os seguintes:
 
     
-  * Ter funções com o mesmo nome mas que tratam de diferentes parâmetros;
+  * Ter funções com o mesmo nome mas que tratam de diferentes
+  parâmetros;
 
     
     * soma(int, int);

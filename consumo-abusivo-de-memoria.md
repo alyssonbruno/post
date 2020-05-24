@@ -4,7 +4,9 @@ date: "2012-05-19"
 tags: [ "draft",  ]
 title: "Consumo abusivo de memória"
 ---
-Era um belo dia em um ambiente de processamento fictício de filas fictícias e threads fictícias. Eis um belo código com filas, threads e processamentos feitos em stop-motion:
+Era um belo dia em um ambiente de processamento fictício de filas
+fictícias e threads fictícias. Eis um belo código com filas, threads
+e processamentos feitos em stop-motion:
 
     #include <windows.h> // critical section, create thread...
     #include <list> // nossa lista interna
@@ -18,28 +20,35 @@ Era um belo dia em um ambiente de processamento fictício de filas fictícias e 
         std::list<char*> items; // os itens!
     };
     
-    DWORD WINAPI InsertItems(LPVOID pvQueue) // insere, insere, insere....
+    DWORD WINAPI InsertItems(LPVOID pvQueue) // insere, insere,
+    insere....
     {
         Queue& queue = *(Queue*) pvQueue;
         for( int i = 0; i < 10 * 1000; ++i ) // 10k itens!
         {
             char* buffer = new char[queue.bufferSize];
-            memset(buffer, (int) (i % ('Z' - 'A')) + 'A', queue.bufferSize); // teoricamente de A a Z
-            buffer[queue.bufferSize - 1] = 0; // string C pra facilitar nossa depuração
+            memset(buffer, (int) (i % ('Z' - 'A')) + 'A',
+            queue.bufferSize); // teoricamente de A a Z
+            buffer[queue.bufferSize - 1] = 0; // string C pra facilitar
+            nossa depuração
             EnterCriticalSection(&queue.cs); // deixa eu entrar!
             queue.items.push_back(buffer);
             LeaveCriticalSection(&queue.cs); // deixa eu sair!
-            Sleep(10); // dá uma dormidinha (sempre menor dormidinhas do processamento)
+            Sleep(10); // dá uma dormidinha (sempre menor dormidinhas
+            do processamento)
         }
         return ERROR_SUCCESS; // "tá tudo certo!" (by Starcraft 2)
     }
     
-    DWORD WINAPI ProcessItems(LPVOID pvQueue) // processa, processa, processa...
+    DWORD WINAPI ProcessItems(LPVOID pvQueue) // processa, processa,
+    processa...
     {
         Queue& queue = *(Queue*) pvQueue;
         DWORD wait = 2;
-        Sleep(10000); // como um advogado oportunista, aguardamos por alguém pra processar
-        while( ! queue.items.empty() ) // agora vai até esvaziar o recinto
+        Sleep(10000); // como um advogado oportunista, aguardamos por
+        alguém pra processar
+        while( ! queue.items.empty() ) // agora vai até esvaziar o
+        recinto
         {
             EnterCriticalSection(&queue.cs); // deixa eu entrar!
             char* buffer = queue.items.front();
@@ -51,39 +60,58 @@ Era um belo dia em um ambiente de processamento fictício de filas fictícias e 
         return ERROR_SUCCESS; // "tá tudo certo!" (by Starcraft 2)
     }
     
-    int main(int argc, char* argv[]) // No princípio havia a pilha, quando Deus disse: 'int main!'
+    int main(int argc, char* argv[]) // No princípio havia a pilha,
+    quando Deus disse: 'int main!'
     {
-        static const size_t QUEUES_SIZE = 20; // número de filas sendo processadas
-        static const size_t QUEUE_ITEM_SIZE = 0x1000; // 1KB é o chunk alocado por item
-        static const DWORD WAIT_TIMES[] = { 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 1000 }; // alguém vai esperar demais
+        static const size_t QUEUES_SIZE = 20; // número de filas sendo
+        processadas
+        static const size_t QUEUE_ITEM_SIZE = 0x1000; // 1KB é o chunk
+        alocado por item
+        static const DWORD WAIT_TIMES[] = { 11, 12, 13, 14, 15, 16, 17,
+        18, 19, 20, 1000 }; // alguém vai esperar demais
     
         Queue queues[QUEUES_SIZE]; // as filas
-        HANDLE queueThreads[QUEUES_SIZE * 2]; // as threads que processam as filas
+        HANDLE queueThreads[QUEUES_SIZE * 2]; // as threads que processam
+        as filas
     
         srand((unsigned int)time(0)); // randomizemos tudo
     
         for( size_t i = 0; i < QUEUES_SIZE; ++i )
         {
-            queues[i].bufferSize = QUEUE_ITEM_SIZE + i; // para diferenciarmos as filas
-            queues[i].wait = WAIT_TIMES[ rand() % (sizeof(WAIT_TIMES) / sizeof(DWORD)) ]; // vamos esperar por... por quanto mesmo?
-            InitializeCriticalSection(&queues[i].cs); // deu crash em algumas situações em release (stl deveria ser thread-safe...)
-            queueThreads[i] = CreateThread(NULL, 0, InsertItems, &queues[i], 0, NULL); // criamos thread de inserção
-            queueThreads[QUEUES_SIZE + i] = CreateThread(NULL, 0, ProcessItems, &queues[i], 0, NULL); // criamos thread de processamento
+            queues[i].bufferSize = QUEUE_ITEM_SIZE + i; // para
+            diferenciarmos as filas
+            queues[i].wait = WAIT_TIMES[ rand() % (sizeof(WAIT_TIMES)
+            / sizeof(DWORD)) ]; // vamos esperar por... por quanto mesmo?
+            InitializeCriticalSection(&queues[i].cs); // deu crash
+            em algumas situações em release (stl deveria ser
+            thread-safe...)
+            queueThreads[i] = CreateThread(NULL, 0, InsertItems,
+            &queues[i], 0, NULL); // criamos thread de inserção
+            queueThreads[QUEUES_SIZE + i] = CreateThread(NULL, 0,
+            ProcessItems, &queues[i], 0, NULL); // criamos thread de
+            processamento
         }
     
-        WaitForMultipleObjects(QUEUES_SIZE * 2, queueThreads, TRUE, INFINITE); // espera a 'gaguera'
+        WaitForMultipleObjects(QUEUES_SIZE * 2, queueThreads, TRUE,
+        INFINITE); // espera a 'gaguera'
         return 0; // "tá tudo certo!" (by Starcraft 2)
     }
      
     
 
-Se olharmos de perto o processamento e a memória consumida por esse processo, veremos que no início existe um boom de ambos, mas após um momento de pico, o processamento praticamente pára, mas a memória se mantém:
+Se olharmos de perto o processamento e a memória consumida por esse
+processo, veremos que no início existe um boom de ambos, mas após um
+momento de pico, o processamento praticamente pára, mas a memória se
+mantém:
 
-Depois de pesquisar por meus tweets favoritos, fica fácil ter a receita para verificarmos isso usando nosso depurador favorito: WinDbg!
+Depois de pesquisar por meus tweets favoritos, fica fácil ter a receita
+para verificarmos isso usando nosso depurador favorito: WinDbg!
 
 windbg -pn MemoryConsumption.exe
 
-Achamos onde está a memória consumida. Agora precisamos de dicas do que pode estar consumindo essa memória. Vamos começar por listar os chunks alocados por tamanho de alocação:
+Achamos onde está a memória consumida. Agora precisamos de dicas do
+que pode estar consumindo essa memória. Vamos começar por listar os
+chunks alocados por tamanho de alocação:
 
     
     0:004> !heap -stat -h 0
@@ -98,14 +126,17 @@ Achamos onde está a memória consumida. Agora precisamos de dicas do que pode e
      1024 25e4 - 2639410 (32.89)
     ...
 
-O Top 3 é de tamanhos conhecidos pelo código, de 1024 a 1024 + QUEUESSIZE - 1. O de tamanho 1037, por exemplo, possui 0x25e5 blocos alocados. Vamos listar cada um deles:
+O Top 3 é de tamanhos conhecidos pelo código, de 1024 a 1024
++ QUEUESSIZE - 1. O de tamanho 1037, por exemplo, possui 0x25e5 blocos
+alocados. Vamos listar cada um deles:
 
     
     0:004> !heap -flt s 1037
      _HEAP @ 420000
      _HEAP @ 670000
      HEAP_ENTRY Size Prev Flags UserPtr UserSize - state
-     00558600 0221 0000 [00] 00558618 01037 - (busy)         <--- vamos usar esse primeiro mais tarde
+     00558600 0221 0000 [00] 00558618 01037 - (busy)         <--- vamos
+     usar esse primeiro mais tarde
      0055fd38 0221 0221 [00] 0055fd50 01037 - (busy)
      00561f48 0221 0221 [00] 00561f60 01037 - (busy)
      00565260 0221 0221 [00] 00565278 01037 - (busy)
@@ -120,7 +151,11 @@ O Top 3 é de tamanhos conhecidos pelo código, de 1024 a 1024 + QUEUESSIZE - 1
      00599a38 0221 0221 [00] 00599a50 01037 - (busy)
      0059de58 0(...)
 
-A listagem do depurador nos dá o endereço onde o chunk foi alocado no heap e o endereço devolvido para o usuário, onde colocamos nossas tralhas. Através de ambos é possível trackear a pilha da chamada que alocou cada pedaço de memória. Isso, claro, se previamente tivermos habilitado essa informação através do GFlags.aspx):
+A listagem do depurador nos dá o endereço onde o chunk foi alocado
+no heap e o endereço devolvido para o usuário, onde colocamos nossas
+tralhas. Através de ambos é possível trackear a pilha da chamada que
+alocou cada pedaço de memória. Isso, claro, se previamente tivermos
+habilitado essa informação através do GFlags.aspx):
 
     
     0:004> !heap -p -a 00558600
@@ -142,11 +177,14 @@ A listagem do depurador nos dá o endereço onde o chunk foi alocado no heap e o
      771e9ef2 ntdll!__RtlUserThreadStart+0x00000070
      771e9ec5 ntdll!_RtlUserThreadStart+0x0000001b
 
-Dessa forma temos onde cada memória foi alocada, o que nos dará uma informação valiosa, dependendo qual o tipo de problema estamos tentando resolver.
+Dessa forma temos onde cada memória foi alocada, o que nos dará uma
+informação valiosa, dependendo qual o tipo de problema estamos tentando
+resolver.
 
     
     0:004> u e818be
-    MemoryConsumption!InsertItems+0x4e [c:\...\memoryconsumption.cpp @ 18]:
+    MemoryConsumption!InsertItems+0x4e [c:\...\memoryconsumption.cpp @
+    18]:
     00e818be 83c404 add esp,4
     00e818c1 898514ffffff mov dword ptr [ebp-0ECh],eax
     00e818c7 8b9514ffffff mov edx,dword ptr [ebp-0ECh]
@@ -156,33 +194,50 @@ Dessa forma temos onde cada memória foi alocada, o que nos dará uma informaç�
     00e818d5 51 push ecx
     00e818d6 8b45ec mov eax,dword ptr [ebp-14h]
 
-Outra informação relevante é o que está gravado na memória, que pode nos dar insights de que tipo de objeto estamos lidando:
+Outra informação relevante é o que está gravado na memória, que
+pode nos dar insights de que tipo de objeto estamos lidando:
 
     
     0:004> db 00558618
-    00558618 c0 b7 8c 0b 98 03 55 00-00 00 00 00 00 00 00 00 ......U.........
-    00558628 13 10 00 00 01 00 00 00-15 94 00 00 fd fd fd fd ................
-    00558638 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
-    00558648 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
-    00558658 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
-    00558668 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
-    00558678 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
-    00558688 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
+    00558618 c0 b7 8c 0b 98 03 55 00-00 00 00 00 00 00 00 00
+    ......U.........
+    00558628 13 10 00 00 01 00 00 00-15 94 00 00 fd fd fd fd
+    ................
+    00558638 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51
+    QQQQQQQQQQQQQQQQ
+    00558648 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51
+    QQQQQQQQQQQQQQQQ
+    00558658 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51
+    QQQQQQQQQQQQQQQQ
+    00558668 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51
+    QQQQQQQQQQQQQQQQ
+    00558678 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51
+    QQQQQQQQQQQQQQQQ
+    00558688 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51
+    QQQQQQQQQQQQQQQQ
 
-Não é o caso, mas vamos supor que fosse um objeto/tipo conhecido. Poderíamos simplesmente "importar" o tipo diretamente do PDB que estamos para modelar a memória que encontramos em volta. Mais detalhes em outro artigo.
+Não é o caso, mas vamos supor que fosse um objeto/tipo
+conhecido. Poderíamos simplesmente "importar" o tipo diretamente do
+PDB que estamos para modelar a memória que encontramos em volta. Mais
+detalhes em outro artigo.
 
     
   * CreateThread.aspx). Cria uma nova linha de execução.
 
     
-  * WaitForMultipleObjects.aspx). Pode aguardar diferentes linhas de execução terminarem.
+  * WaitForMultipleObjects.aspx). Pode aguardar diferentes linhas de
+  execução terminarem.
 
     
-  * std::list. Lista na STL para inserir/remover objetos na frente e atrás (ui).
+  * std::list. Lista na STL para inserir/remover objetos na frente e
+  atrás (ui).
 
     
-  * Initialize.aspx), Enter.aspx) e LeaveCriticalSection.aspx). Uma maneira simples de criar blocos de entrada atômica (apenas uma thread entra por vez).
+  * Initialize.aspx), Enter.aspx) e LeaveCriticalSection.aspx). Uma
+  maneira simples de criar blocos de entrada atômica (apenas uma thread
+  entra por vez).
 
     
-  * memset. Se você não sabe usar memset, provavelmente não entendeu nada desse artigo.
+  * memset. Se você não sabe usar memset, provavelmente não entendeu
+  nada desse artigo.
 

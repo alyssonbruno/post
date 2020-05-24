@@ -105,7 +105,8 @@ title: "Roger Ebert Great Movies"
  - Don't Look Now 1973
  - Double Indemnity 1944
  - The Double Life of Véronique 1991
- - Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 1964
+ - Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+ 1964
  - Dracula 1931
  - Duck Soup 1933
  - E.T. the Extra-Terrestrial 1982

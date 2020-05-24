@@ -4,17 +4,33 @@ date: "2016-09-05"
 tags: [ "draft",  ]
 title: "unit-menos-menos"
 ---
-Fazer o setup inicial de testes unitários em seu projeto C++ pode ser algo enfadonho se você precisa baixar e compilar uma lib do Google ou do Boost. Há uma alternativa mais leve e bem direta, que um dia apareceu nesses CodeProject da vida, mas que hoje está, até onde eu vi, no GitHub.
+Fazer o setup inicial de testes unitários em seu projeto C++ pode ser
+algo enfadonho se você precisa baixar e compilar uma lib do Google ou do
+Boost. Há uma alternativa mais leve e bem direta, que um dia apareceu
+nesses CodeProject da vida, mas que hoje está, até onde eu vi, no
+GitHub.
 
-E como se faz para começar a montar os testes unitários? Bom, suponha que você tenha um projeto qualque que já compila, roda e faz alguma coisa de útil.
+E como se faz para começar a montar os testes unitários? Bom, suponha
+que você tenha um projeto qualque que já compila, roda e faz alguma
+coisa de útil.
 
-Apenas crie um projeto do lado, console, ou copie e cole o projeto, mas use os arquivos-fonte do projeto original. Dessa forma ele irá compilar com os fontes que estão sendo modificados/compilados.
+Apenas crie um projeto do lado, console, ou copie e cole o projeto,
+mas use os arquivos-fonte do projeto original. Dessa forma ele irá
+compilar com os fontes que estão sendo modificados/compilados.
 
-Apenas se lembra de não incluir o módulo que contém o int main. Esse módulo deve ficar apartado do projeto principal.
+Apenas se lembra de não incluir o módulo que contém o int main. Esse
+módulo deve ficar apartado do projeto principal.
 
-Depois basta incluir apenas um arquivo do projeto unit--, que é seu cpp principal.
+Depois basta incluir apenas um arquivo do projeto unit--, que é seu
+cpp principal.
 
-Com isso existirá um main lá dentro, definido em algum lugar. E tudo o que você precisa fazer é ir criando seus testes em outro arquivo fonte gerado para isso. O corpo e o formato dos unit cases é bem simples. Note que tudo que você fez para já sair testando seu projeto foi copiar um projeto já existente e inserir um módulo de outro projeto. Tudo compilando junto e já podemos fazer os primeiros testes do programa original (desde, claro, que ele seja testável, algo primordial):
+Com isso existirá um main lá dentro, definido em algum lugar. E tudo o
+que você precisa fazer é ir criando seus testes em outro arquivo fonte
+gerado para isso. O corpo e o formato dos unit cases é bem simples. Note
+que tudo que você fez para já sair testando seu projeto foi copiar
+um projeto já existente e inserir um módulo de outro projeto. Tudo
+compilando junto e já podemos fazer os primeiros testes do programa
+original (desde, claro, que ele seja testável, algo primordial):
 
     // Precisamos definir uma suíte de testes.
     testSuite(DayToDayTests)
@@ -27,7 +43,8 @@ Com isso existirá um main lá dentro, definido em algum lugar. E tudo o que voc
         assertTrue(lineOk);
     }
     
-    // Se eu digito duas linhas, ambas devem estar no arquivo daytoday.txt.
+    // Se eu digito duas linhas, ambas devem estar no arquivo
+    daytoday.txt.
     testCase(GeraDuasLinhas, DayToDayTests)
     {
         //...
@@ -35,7 +52,9 @@ Com isso existirá um main lá dentro, definido em algum lugar. E tudo o que voc
         assertTrue(lineOk);
     }
 
-E assim por diante. O resultado é que quando você roda o executável de teste, ele execute toda a bateria e já te entregue todos os casos que você deseja testar, sem frescura:
+E assim por diante. O resultado é que quando você roda o executável
+de teste, ele execute toda a bateria e já te entregue todos os casos
+que você deseja testar, sem frescura:
 
     ......
     OK
@@ -43,4 +62,8 @@ E assim por diante. O resultado é que quando você roda o executável de teste,
     0 sec.
     Press any key to continue . . .
 
-E voilà! Sistema de teste unitário pronto e rodando. Agora cada nova situação de erro ou que você precise validar, basta escrever um novo teste. Se esse projeto ir se tornando algo muito maior, a transição para testes unitários mais parrudos é apenas um regex. No momento, foque em codificar e testar muito bem o que está fazendo.
+E voilà! Sistema de teste unitário pronto e rodando. Agora cada nova
+situação de erro ou que você precise validar, basta escrever um novo
+teste. Se esse projeto ir se tornando algo muito maior, a transição
+para testes unitários mais parrudos é apenas um regex. No momento,
+foque em codificar e testar muito bem o que está fazendo.

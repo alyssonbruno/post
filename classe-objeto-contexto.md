@@ -4,16 +4,27 @@ date: "2016-01-10"
 tags: [ "draft",  ]
 title: "Classe, objeto, contexto"
 ---
-Para entender conceitos simples em C++, como métodos de uma classe, ajuda muito seguir o raciocínio dos programadores C e como eles lidavam com o tipo de problema que C++ resolve elegantemente implementando um novo compilador com uma nova linguagem.
-Tomemos, por exemplo, métodos. Um método é uma função chamada dentro de um contexto. Qual o contexto? O objeto. Ou seja, uma instância específica de uma classe, que é um molde para se fazer alguma coisa.
+Para entender conceitos simples em C++, como métodos de uma classe,
+ajuda muito seguir o raciocínio dos programadores C e como eles lidavam
+com o tipo de problema que C++ resolve elegantemente implementando um
+novo compilador com uma nova linguagem.
+Tomemos, por exemplo, métodos. Um método é uma função chamada
+dentro de um contexto. Qual o contexto? O objeto. Ou seja, uma instância
+específica de uma classe, que é um molde para se fazer alguma coisa.
 
     int main()
     {
        MinhaClasse obj;
-       obj.MeuMetodo(); // o contexto é obj, uma instância de MinhaClasse
+       obj.MeuMetodo(); // o contexto é obj, uma instância de
+       MinhaClasse
     }
 
-Para obter esse contexto, existe uma palavra-chave reservada dentro dos métodos que é o this, que está tão incrustado na linguagem que não precisa ser usado explicitamente: quando referenciamos alguma propriedade (ou um outro método) da classe, só pelo fato de estarmos dentro de um método o compilador já entende que se trata do mesmo objeto, ou mesmo contexto.
+Para obter esse contexto, existe uma palavra-chave reservada dentro dos
+métodos que é o this, que está tão incrustado na linguagem que não
+precisa ser usado explicitamente: quando referenciamos alguma propriedade
+(ou um outro método) da classe, só pelo fato de estarmos dentro de um
+método o compilador já entende que se trata do mesmo objeto, ou mesmo
+contexto.
 
     class MinhaClasse
     {
@@ -29,7 +40,10 @@ Para obter esse contexto, existe uma palavra-chave reservada dentro dos métodos
        MeuOutroMetodo(); // ou seja: this->MeuOutroMetodo();
     }
 
-E contexto nesse sentido nada mais é que um endereço na memória para alguma coisa que nos interessa. Tal qual uma função API do Windows -- tal qual FindFirstFile.aspx) -- que recebe ou retorna uma struct com o que precisamos, esse geralmente é o contexto procurado.
+E contexto nesse sentido nada mais é que um endereço na memória para
+alguma coisa que nos interessa. Tal qual uma função API do Windows --
+tal qual FindFirstFile.aspx) -- que recebe ou retorna uma struct com o
+que precisamos, esse geralmente é o contexto procurado.
 
     WIN32_FIND_DATA findData;
     HANDLE findH = FindFirstFile("*.txt", &findData);
@@ -40,15 +54,20 @@ E contexto nesse sentido nada mais é que um endereço na memória para alguma c
        {
     //...
 
-No caso de nós, que escrevemos uma "classe", o contexto é recebido "de fora":
+No caso de nós, que escrevemos uma "classe", o contexto é recebido
+"de fora":
 
-    HANDLE MyFindFirstFile(const char* pattern, LPWIN32_FIND_DATA findData)
+    HANDLE MyFindFirstFile(const char* pattern, LPWIN32_FIND_DATA
+    findData)
     {
        //...
        findData->dwFileAttributes = FILE_ATTRIBUTE_ENCRYPTED;
        //...
 
-Tal como uma struct que definimos, ela vira o contexto. Da mesma forma, um objeto de uma classe em C++ é esse contexto. Podemos fazer a mesma coisa em C, com o trabalho adicional de especificar o "this" (isto é, o ponteiro para o contexto/struct):
+Tal como uma struct que definimos, ela vira o contexto. Da mesma forma,
+um objeto de uma classe em C++ é esse contexto. Podemos fazer a mesma
+coisa em C, com o trabalho adicional de especificar o "this" (isto é,
+o ponteiro para o contexto/struct):
 
     struct MinhaClasse
     {
@@ -61,4 +80,5 @@ Tal como uma struct que definimos, ela vira o contexto. Da mesma forma, um objet
        ///@todo Chamar pThis->MeuOutroMetodo();
     }
 
-Em um próximo post vamos ver como fazer para chamar MeuOutroMetodo a partir de uma estrutura em C.
+Em um próximo post vamos ver como fazer para chamar MeuOutroMetodo a
+partir de uma estrutura em C.

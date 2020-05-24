@@ -6,7 +6,8 @@ title: "CCPP Brasil 11: Call For Papers"
 ---
 Acho que já está na hora de nos reencontrarmos, né?
 
-A comunidade CCPP Brasil está preparando mais um daqueles eventos em que conversaremos sobre nossa maior paixão: B, BCPL, C e C++!
+A comunidade CCPP Brasil está preparando mais um daqueles eventos em
+que conversaremos sobre nossa maior paixão: B, BCPL, C e C++!
 
     #include <ccpp-people.h>
     
@@ -23,12 +24,18 @@ Então vamos aos detalhes:
 | Local     | Micro$oft Brasil |
 | Palestras | undefined        |
 
-Ops, deu um errinho acima. Acho que é porque ainda não temos as palestras.
+Ops, deu um errinho acima. Acho que é porque ainda não temos as
+palestras.
 
-Quer colaborar? Não deixe de preencher então o nosso formulário do Call for Papers (update: encerrado)!
+Quer colaborar? Não deixe de preencher então o nosso formulário do
+Call for Papers (update: encerrado)!
 
 Alguma dúvida antes de preencher? Fale conosco na thread sobre o CFP!
 
-Se conhece alguém que gostaria de participar do evento, palestrante ou não, por favor, espalhe a notícia o mais rápido possível. Quanto mais cedo soubermos quantas pessoas irão melhor fica organizar nosso reencontro.
+Se conhece alguém que gostaria de participar do evento, palestrante ou
+não, por favor, espalhe a notícia o mais rápido possível. Quanto
+mais cedo soubermos quantas pessoas irão melhor fica organizar nosso
+reencontro.
 
-As próximas notícias continuarei divulgando aqui e em fórum C/C++. Fique atento.
+As próximas notícias continuarei divulgando aqui e em fórum
+C/C++. Fique atento.
