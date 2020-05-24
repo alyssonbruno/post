@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-03-14T23:36:56
+date: "2018-03-14"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Górgona"

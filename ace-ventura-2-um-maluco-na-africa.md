@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-17T18:18:34-02:00
+date: "2018-11-17"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Ace Ventura 2: Um Maluco Na África"

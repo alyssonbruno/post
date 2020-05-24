@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-03-24T01:41:32-03:00
+date: "2018-03-24"
 stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Arábia"

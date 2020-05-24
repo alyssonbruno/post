@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-05-23T13:26:03-03:00
+date: "2018-05-23"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Extraordinário"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-09T22:46:12-02:00
+date: "2018-11-09"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Casa Que Jack Construiu"

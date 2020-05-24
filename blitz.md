@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-06-19T16:46:03-03:00
+date: "2019-06-19"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Blitz"

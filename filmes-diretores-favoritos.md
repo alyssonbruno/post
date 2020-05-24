@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-08-23T09:56:39-03:00
+date: "2017-08-23"
 tags: [ "draft",  ]
 title: "Filmes e Diretores Favoritos"
 ---

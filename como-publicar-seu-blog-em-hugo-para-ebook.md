@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2019-07-10T00:08:25-03:00
+date: "2019-07-10"
 tags: [ "draft",  ]
 title: "Como Publicar Seu Blog Em Hugo Para Ebook"
 ---

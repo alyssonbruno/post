@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-11T11:26:07-03:00
+date: "2019-05-11"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Entre Vinho e Vinagre"

@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2019-03-09T00:21:54-03:00
+date: "2019-03-09"
 tags: [ "draft",  ]
 title: "Free Pascal e VS Code"
 ---

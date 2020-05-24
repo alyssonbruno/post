@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-05-03T22:42:56-03:00
+date: "2018-05-03"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Vingadores: Guerra Infinita"

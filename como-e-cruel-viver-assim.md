@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-08-28T14:21:05-03:00
+date: "2018-08-28"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Como é Cruel Viver Assim"

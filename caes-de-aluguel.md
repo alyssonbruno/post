@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-11T15:05:12-03:00
+date: "2019-03-11"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Cães de Aluguel"

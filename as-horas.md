@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-24T19:28:42-03:00
+date: "2019-03-24"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "As Horas"

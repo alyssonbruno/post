@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-06-09
+date: "2019-06-09"
 stars: "2/5"
 tags: [ "draft", "series" ]
 title: "Feliz! S02"

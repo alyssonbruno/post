@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-11T11:48:52-02:00
+date: "2019-01-11"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Temporada"

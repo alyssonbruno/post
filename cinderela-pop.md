@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-18T16:02:26-03:00
+date: "2019-02-18"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Cinderela Pop"

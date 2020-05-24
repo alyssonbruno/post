@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2019-04-29T20:56:48-03:00
+date: "2019-04-29"
 tags: [ "draft",  ]
 title: "Const Int Pointer Var"
 ---

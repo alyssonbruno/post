@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-07-31T18:05:42
+date: "2017-07-31"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Coração de Leão"

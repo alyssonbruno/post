@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-13T19:24:11-03:00
+date: "2018-07-13"
 stars: "1/5"
 tags: [ "draft", "series" ]
 title: "Samantha!"

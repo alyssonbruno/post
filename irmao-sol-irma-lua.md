@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-28T13:43:08-02:00
+date: "2019-01-28"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Irmão Sol, Irmã Lua"

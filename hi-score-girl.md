@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-17T13:01:07-02:00
+date: "2019-01-17"
 stars: "4/5"
 tags: [ "draft", "series", "animes" ]
 title: "Hi Score Girl"

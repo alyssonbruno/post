@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-07-31T20:10:47
+date: "2017-07-31"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Usagi Drop"

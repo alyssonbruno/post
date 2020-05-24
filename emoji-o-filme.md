@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-23T01:21:08
+date: "2017-11-23"
 stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Emoji: O Filme"

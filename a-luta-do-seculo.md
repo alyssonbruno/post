@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-08-29T18:39:26-03:00
+date: "2018-08-29"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Luta do Século"

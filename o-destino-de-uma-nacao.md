@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-02-26T23:07:18
+date: "2018-02-26"
 details: "Darkest Hour (2017), escrito por Anthony McCarten, dirigido por Joe Wright, com Gary Oldman, Lily James, Kristin Scott Thomas."
 stars: "4/5"
 tags: [ "draft", "movies" ]

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-12-14T23:44:06
+date: "2017-12-14"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Algo de Novo"

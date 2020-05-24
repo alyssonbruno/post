@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-05T14:38:22-03:00
+date: "2019-05-05"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os 27 Beijos Perdidos"

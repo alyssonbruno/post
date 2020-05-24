@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-06T12:23:04-02:00
+date: "2019-02-06"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Boneca Russa"

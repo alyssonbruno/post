@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-06-25T14:22:16-03:00
+date: "2018-06-25"
 tags: [ "draft", "books" ]
 title: "As Portas da Percepção, de Aldous Huxley"
 ---

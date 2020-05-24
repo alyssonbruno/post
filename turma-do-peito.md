@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-05-29T16:28:08-03:00
+date: "2018-05-29"
 stars: "2/5"
 tags: [ "draft", "series" ]
 title: "Turma do Peito"

@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-10-01T16:34:25-03:00
+date: "2018-10-01"
 tags: [ "draft",  ]
 title: "Boost.Bind e os Erros Escrotos"
 ---

@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-07-01T18:51:00-03:00
+date: "2018-07-01"
 tags: [ "draft", "essays" ]
 title: "Argentina vs França e o Fim da Geração dos Autistas"
 ---

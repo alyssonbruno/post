@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-03T10:33:26-02:00
+date: "2019-01-03"
 tags: [ "draft", "lists" ]
 title: "Mulheres Cineastas No Cinema"
 ---

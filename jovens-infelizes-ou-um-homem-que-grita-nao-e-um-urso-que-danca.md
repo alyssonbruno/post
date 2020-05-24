@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-02T10:45:01-02:00
+date: "2019-02-02"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Jovens Infelizes Ou Um Homem Que Grita Não É Um Urso Que Dança"

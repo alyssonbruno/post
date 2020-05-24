@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-12-11T15:46:03-02:00
+date: "2018-12-11"
 tags: [ "draft", "visualstudio" ]
 title: "A Maneira Errada de Começar um Projeto é com Visual Studio"
 ---

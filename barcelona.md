@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-18T21:37:16-03:00
+date: "2019-05-18"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Barcelona"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-02-21T17:42:57
+date: "2018-02-21"
 external: "true"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]

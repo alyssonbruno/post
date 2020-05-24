@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-07-27T15:43:27-03:00
+date: "2018-07-27"
 tags: [ "draft",  ]
 title: "Vídeo: Visual Studio e seu depurador (comentado)"
 ---

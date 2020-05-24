@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-08-14T20:48:15
+date: "2017-08-14"
 stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Naked"

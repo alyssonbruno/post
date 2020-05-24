@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2019-05-08T22:15:50-03:00
+date: "2019-05-08"
 tags: [ "draft",  ]
 title: "Coroutines Em C: Picoro"
 ---

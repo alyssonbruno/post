@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-07-04T13:44:40-03:00
+date: "2018-07-04"
 tags: [ "draft",  ]
 title: "Manipulando Mouse e Teclado no Windows"
 ---

@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2019-03-06T21:33:15-03:00
+date: "2019-03-06"
 tags: [ "draft",  ]
 title: "Debug Remoto no Visual Studio 2010 ou Superior"
 ---

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-24T21:29:48-03:00
+date: "2019-04-24"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Special"

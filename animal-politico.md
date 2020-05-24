@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-08-26T20:36:45-03:00
+date: "2018-08-26"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Animal Político"

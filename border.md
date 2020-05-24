@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-29T17:23:54-03:00
+date: "2019-03-29"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Border"

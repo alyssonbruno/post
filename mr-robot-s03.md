@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-02-27T22:04:08
+date: "2018-02-27"
 stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Mr Robot: Terceira Temporada"

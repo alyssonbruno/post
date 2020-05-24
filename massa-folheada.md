@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-06-18
+date: "2019-06-18"
 tags: [ "draft", "food", "recipes" ]
 title: "Receita: Massa Folheada Caseira"
 ---

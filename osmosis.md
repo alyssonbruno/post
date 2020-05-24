@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-16T00:08:53-03:00
+date: "2019-04-16"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Osmosis"

@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-04-12
+date: "2019-04-12"
 dest: "The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results. Por Gary Keller."
 tags: [ "draft", "books" ]
 title: "The ONE Thing"

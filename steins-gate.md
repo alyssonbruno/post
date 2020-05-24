@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-05T00:36:17
+date: "2017-10-05"
 stars: "4/5"
 tags: [ "draft", "series", "animes" ]
 title: "Steins;Gate"

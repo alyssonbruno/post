@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-04-16T22:53:45-03:00
+date: "2018-04-16"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "The IT Crowd"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-31T13:12:35-03:00
+date: "2019-03-31"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Dez"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-23T19:20:31-03:00
+date: "2019-04-23"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Amor e Revoluçao"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-11T20:23:34
+date: "2017-10-11"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Guerra dos Sexos"

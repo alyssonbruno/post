@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-29T17:52:19
+date: "2017-10-29"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Meu Primeiro Amor"

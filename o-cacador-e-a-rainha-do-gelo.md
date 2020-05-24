@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-01T18:29:57-03:00
+date: "2018-07-01"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "O Caçador e a Rainha do Gelo"

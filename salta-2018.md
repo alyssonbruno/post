@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-07-04T13:56:13-03:00
+date: "2018-07-04"
 tags: [ "draft", "trips" ]
 title: "Salta, 2018"
 ---

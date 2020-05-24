@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-25T00:06:49
+date: "2018-01-25"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Sherlock Temporada 1, Episódio 1: A Study in Pink"

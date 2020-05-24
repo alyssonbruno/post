@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-08-28T19:17:19
+date: "2017-08-28"
 stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Filosofia De Mr Robot"

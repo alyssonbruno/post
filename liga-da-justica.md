@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-24T19:14:37
+date: "2017-11-24"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Liga da Justiça"

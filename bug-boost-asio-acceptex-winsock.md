@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2019-01-06T19:03:52-02:00
+date: "2019-01-06"
 tags: [ "draft",  ]
 title: "Bug no Boost Asio usando função AcceptEx do Winsock"
 ---

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-12-07T01:12:59
+date: "2017-12-07"
 stars: "1/5"
 tags: [ "draft", "series" ]
 title: "13 Reasons Why"

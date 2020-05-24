@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-06-20
+date: "2019-06-20"
 tags: [ "draft", "reading" ]
 title: "Leitura: How Technology Hijacks People’s Minds from a Magician and Google’s Design Ethicist"
 ---

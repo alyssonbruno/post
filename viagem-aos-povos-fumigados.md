@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-27T01:25:00-02:00
+date: "2018-10-27"
 stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Viagem Aos Povos Fumigados"

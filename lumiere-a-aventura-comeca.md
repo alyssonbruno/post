@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-12-02T00:56:06
+date: "2017-12-02"
 stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Lumière! A Aventura Começa"

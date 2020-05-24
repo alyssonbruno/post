@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-11T23:50:26-03:00
+date: "2018-10-11"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Noir nos Balcãs"

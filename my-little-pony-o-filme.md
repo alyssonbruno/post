@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-16T19:39:46
+date: "2017-10-16"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "My Little Pony: O Filme"

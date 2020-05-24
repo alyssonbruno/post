@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-17T22:45:40-03:00
+date: "2018-10-17"
 stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Guerra Fria"

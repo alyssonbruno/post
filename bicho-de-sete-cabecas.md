@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-11T12:06:28-03:00
+date: "2019-05-11"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Bicho de Sete Cabeças"

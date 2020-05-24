@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-03-21T08:38:56-03:00
+date: "2018-03-21"
 tags: [ "draft",  ]
 title: "Projeto Aluno"
 ---

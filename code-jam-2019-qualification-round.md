@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2019-04-07T15:00:26-03:00
+date: "2019-04-07"
 tags: [ "draft", "puzzle" ]
 title: "Code Jam 2019 Qualification Round"
 ---

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-19T16:47:20
+date: "2018-01-19"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Dirk Gently's - Segunda Temporada"

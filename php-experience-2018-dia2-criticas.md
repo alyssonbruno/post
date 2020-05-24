@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-03-07T12:47:14-03:00
+date: "2018-03-07"
 tags: [ "draft", "events" ]
 title: "PHP Experience 2018 Dia 2: Críticas"
 ---

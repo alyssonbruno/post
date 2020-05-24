@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-07
+date: "2018-10-07"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Lobo de Wall Street"

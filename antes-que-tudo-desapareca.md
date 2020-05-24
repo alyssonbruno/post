@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-04-03T17:49:59-03:00
+date: "2018-04-03"
 stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Antes que Tudo Desapareça"

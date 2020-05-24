@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-15T14:15:00-03:00
+date: "2019-05-15"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "The Umbrella Academy"

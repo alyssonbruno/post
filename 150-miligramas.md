@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-08-21T15:10:18
+date: "2017-08-21"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "150 Miligramas"

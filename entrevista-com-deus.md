@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-07T15:12:49-02:00
+date: "2018-11-07"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Entrevista Com Deus"

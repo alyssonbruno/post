@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-01T00:21:53-03:00
+date: "2019-05-01"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Dançando No Escuro"

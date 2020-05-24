@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-22T19:29:20-03:00
+date: "2019-02-22"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Silêncio dos Outros"

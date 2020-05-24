@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-07T23:41:09-03:00
+date: "2019-03-07"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Avatar"

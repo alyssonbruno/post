@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-06-21T18:20:34-03:00
+date: "2019-06-21"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Círculo"

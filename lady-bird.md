@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-03-13T02:09:25
+date: "2018-03-13"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Lady Bird: A Hora de Voar"

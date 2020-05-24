@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-07T14:58:41-03:00
+date: "2018-10-07"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Que Fazemos nas Sombras"

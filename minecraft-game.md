@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-01-06T21:57:29-02:00
+date: "2019-01-06"
 tags: [ "draft", "fun" ]
 title: "Minecraft: O Jogo"
 ---

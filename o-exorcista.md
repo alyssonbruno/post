@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-18T21:34:13
+date: "2018-01-18"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Exorcista"

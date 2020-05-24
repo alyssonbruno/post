@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-05-22T15:16:14-03:00
+date: "2018-05-22"
 tags: [ "draft",  ]
 title: "SSL e seu limite de pacote"
 ---

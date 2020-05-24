@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-26T16:58:56-03:00
+date: "2019-03-26"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Dolls"

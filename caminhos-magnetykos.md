@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-22T22:45:45-02:00
+date: "2018-10-22"
 stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Caminhos Magnétykos"

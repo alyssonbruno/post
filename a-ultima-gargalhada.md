@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-21T00:33:48-02:00
+date: "2019-01-21"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "A Última Gargalhada"

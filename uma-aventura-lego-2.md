@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-05T12:30:56-03:00
+date: "2019-03-05"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Uma Aventura Lego 2"

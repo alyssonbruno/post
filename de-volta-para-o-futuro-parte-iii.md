@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2016-03-20
+date: "2016-03-20"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "De Volta para o Futuro Parte III"

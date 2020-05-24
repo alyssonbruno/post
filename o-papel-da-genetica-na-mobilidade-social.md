@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-08-26T13:04:39-03:00
+date: "2018-08-26"
 tags: [ "draft", "reading", "philosophy" ]
 title: "O Papel da Genética na Mobilidade Social"
 ---

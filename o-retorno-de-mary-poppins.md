@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-12-13T12:39:21-02:00
+date: "2018-12-13"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Retorno De Mary Poppins"

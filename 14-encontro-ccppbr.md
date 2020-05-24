@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-04-19T15:59:00-03:00
+date: "2019-04-19"
 tags: [ "draft", "ccppbr" ]
 title: "14o. Encontro CCPP42BR"
 ---

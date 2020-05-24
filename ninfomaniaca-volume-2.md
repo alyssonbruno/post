@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2016-06-06
+date: "2016-06-06"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Ninfomaníaca Volume 2"

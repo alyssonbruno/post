@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-09-28T19:43:04-03:00
+date: "2018-09-28"
 tags: [ "draft", "events" ]
 title: "Native Floripa 2018"
 ---

@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2017-11-21T18:34:09-02:00
+date: "2017-11-21"
 tags: [ "draft", "ccppbr" ]
 title: "CCPPBRSP 14 Postergado"
 ---

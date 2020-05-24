@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-07-14T14:11:43-03:00
+date: "2018-07-14"
 tags: [ "draft",  ]
 title: "Python27, protobuf, py2exe e buildexe"
 ---

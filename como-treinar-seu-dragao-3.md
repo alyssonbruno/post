@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-18T11:46:42-02:00
+date: "2019-01-18"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Como Treinar Seu Dragão 3"

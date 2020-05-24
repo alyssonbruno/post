@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-09-24T22:25:35
+date: "2017-09-24"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Laerte Se"

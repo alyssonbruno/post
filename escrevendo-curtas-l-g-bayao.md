@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-07-16T20:15:35-03:00
+date: "2018-07-16"
 tags: [ "draft", "books" ]
 title: "Escrevendo Curtas"
 ---

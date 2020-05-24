@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-08-21T23:17:26-03:00
+date: "2018-08-21"
 tags: [ "draft",  ]
 title: "Meu Novo Parseador de Argc Argv"
 ---

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-12-11T12:35:30-02:00
+date: "2018-12-11"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Mary Poppins"

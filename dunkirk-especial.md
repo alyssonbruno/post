@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-01-08
+date: "2018-01-08"
 tags: [ "draft", "cinemaqui" ]
 title: "Dunkirk"
 ---

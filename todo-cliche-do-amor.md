@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-04-09T16:17:32-03:00
+date: "2018-04-09"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Todo Clichê do Amor"

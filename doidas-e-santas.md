@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-08-17T17:07:09
+date: "2017-08-17"
 stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Doidas e Santas"

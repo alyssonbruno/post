@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-06-19T17:55:21-03:00
+date: "2019-06-19"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Blade Runner: O Caçador de Androides"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-02-27T22:44:51
+date: "2018-02-27"
 stars: "2/5"
 tags: [ "draft", "series" ]
 title: "La Casa De Papel"

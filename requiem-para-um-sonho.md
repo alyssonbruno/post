@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-29T10:49:00-03:00
+date: "2019-04-29"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Requiém Para Um Sonho"

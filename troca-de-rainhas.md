@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-08-13T22:35:19-03:00
+date: "2018-08-13"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Troca de Rainhas"

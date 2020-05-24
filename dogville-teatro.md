@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-18T18:11:07-03:00
+date: "2019-02-18"
 stars: "4/5"
 tags: [ "draft", "play" ]
 title: "Dogville Teatro"

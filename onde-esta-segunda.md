@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-09-15T21:13:15
+date: "2017-09-15"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Onde Está Segunda?"

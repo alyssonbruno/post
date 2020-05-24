@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-02
+date: "2018-11-02"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Quebra Nozes E Os Quatro Reinos"

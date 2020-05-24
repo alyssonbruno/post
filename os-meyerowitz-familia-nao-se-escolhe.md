@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-31T23:40:19
+date: "2018-01-31"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Os Meyerowitz: Família Não se Escolhe"

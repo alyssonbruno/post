@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-20T14:27:48-02:00
+date: "2019-01-20"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Operário"

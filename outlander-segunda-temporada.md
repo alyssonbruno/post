@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-07-27T11:39:57
+date: "2017-07-27"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Outlander - Segunda Temporada"

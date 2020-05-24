@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-18T21:25:58
+date: "2018-01-18"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Melhor Escolha"

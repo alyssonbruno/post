@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-12T00:54:54
+date: "2018-01-12"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Caçador de Pipas"

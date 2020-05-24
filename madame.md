@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-03-19T18:49:51-03:00
+date: "2018-03-19"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Madame"

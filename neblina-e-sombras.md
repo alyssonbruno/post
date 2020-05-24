@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-15T22:20:45-02:00
+date: "2019-02-15"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Neblina e Sombras"

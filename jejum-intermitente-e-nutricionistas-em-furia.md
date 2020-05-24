@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-08-18T18:35:09-03:00
+date: "2018-08-18"
 tags: [ "draft", "reading" ]
 title: "Jejum Intermitente e Nutricionistas em Fúria"
 ---

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-06-22T12:57:59-03:00
+date: "2019-06-22"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Feitiço"

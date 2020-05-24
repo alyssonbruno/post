@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-12-07T21:32:00-02:00
+date: "2018-12-07"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Animais Fantásticos: Os Crimes De Grindelwald"

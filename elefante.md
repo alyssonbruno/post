@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-31T14:15:07-03:00
+date: "2019-03-31"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Elefante"

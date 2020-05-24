@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-12-26T12:37:44-02:00
+date: "2018-12-26"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Wanderlust"

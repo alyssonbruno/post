@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2017-07-28T18:28:07-03:00
+date: "2017-07-28"
 tags: [ "draft",  ]
 title: "Migrando Imagens Para Imgur"
 ---

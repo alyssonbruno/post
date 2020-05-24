@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-02-17T21:51:13
+date: "2018-02-17"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Passageiro"

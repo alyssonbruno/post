@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-12-08T23:21:05
+date: "2017-12-08"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Pela Janela"

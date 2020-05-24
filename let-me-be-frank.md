@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-02T22:51:20-02:00
+date: "2019-02-02"
 stars: "5/5"
 tags: [ "draft", "shorts" ]
 title: "Let Me Be Frank"

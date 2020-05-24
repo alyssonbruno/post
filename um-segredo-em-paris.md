@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-17T17:45:38-02:00
+date: "2018-11-17"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Um Segredo em Paris"

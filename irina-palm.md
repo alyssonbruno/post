@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-06-17T16:12:08-03:00
+date: "2019-06-17"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Irina Palm"

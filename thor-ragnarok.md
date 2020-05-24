@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-25T00:05:52
+date: "2017-10-25"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Thor Ragnarök"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-06-14T14:23:24-03:00
+date: "2019-06-14"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Black Mirror S05 E02 Smithereens"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-05-01T14:47:29-03:00
+date: "2018-05-01"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Acertando o Passo"

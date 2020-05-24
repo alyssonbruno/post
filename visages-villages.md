@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-27T19:05:55
+date: "2017-11-27"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Visages, Villages"

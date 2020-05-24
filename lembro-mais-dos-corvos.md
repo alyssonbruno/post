@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-19T17:25:59-03:00
+date: "2019-02-19"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Lembro Mais Dos Corvos"

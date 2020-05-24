@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-12T15:15:59-03:00
+date: "2019-03-12"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Capitã Marvel"

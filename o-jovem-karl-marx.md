@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-21T20:06:17
+date: "2017-10-21"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Jovem Karl Marx"

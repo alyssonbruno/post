@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-06-29T15:49:42-03:00
+date: "2018-06-29"
 stars: "2/5"
 tags: [ "draft", "series" ]
 title: "Screenland"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-05-26T15:33:19-03:00
+date: "2018-05-26"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Toc Toc"

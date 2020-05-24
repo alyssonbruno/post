@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-01T16:02:08-03:00
+date: "2018-07-01"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Mulher Do Fazendeiro"

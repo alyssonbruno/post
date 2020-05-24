@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-23T22:44:31-02:00
+date: "2018-10-23"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Rir ou Morrer"

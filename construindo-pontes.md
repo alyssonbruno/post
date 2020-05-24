@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-03-28T19:14:05-03:00
+date: "2018-03-28"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Construindo Pontes"

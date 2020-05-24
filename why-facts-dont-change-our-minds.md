@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-02-03T17:06:33-02:00
+date: "2019-02-03"
 tags: [ "draft", "reading" ]
 title: "Why Facts Don't Change Our Minds"
 ---

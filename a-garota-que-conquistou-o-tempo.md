@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-22T15:59:42-03:00
+date: "2019-04-22"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Garota Que Conquistou O Tempo"

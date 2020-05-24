@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-03-13T18:42:29
+date: "2018-03-13"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Tres Anúncios Para Um Crime"

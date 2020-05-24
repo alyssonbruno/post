@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-24T14:48:24-03:00
+date: "2018-07-24"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Missão Impossível: Efeito Fallout"

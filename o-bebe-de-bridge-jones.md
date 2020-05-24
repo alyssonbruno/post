@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-06-24T18:28:13-03:00
+date: "2019-06-24"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Bebê de Bridge Jones"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-08-14T15:59:22-03:00
+date: "2018-08-14"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Escobar - A Traição"

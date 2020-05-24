@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-15T23:18:19-03:00
+date: "2019-04-15"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Meu Nome Não é Ruben Blades"

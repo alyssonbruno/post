@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-14T16:23:49
+date: "2018-01-14"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Rei do Show"

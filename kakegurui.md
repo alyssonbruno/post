@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-05-20T13:07:43-03:00
+date: "2018-05-20"
 stars: "3/5"
 tags: [ "draft", "series", "animes" ]
 title: "Kakegurui"

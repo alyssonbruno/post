@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-06-25T14:59:30-03:00
+date: "2018-06-25"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Morte Na Escadaria (Staircase)"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-27T19:26:57
+date: "2017-11-27"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Mosca"

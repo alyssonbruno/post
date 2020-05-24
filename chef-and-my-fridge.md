@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-08-25T23:22:02
+date: "2017-08-25"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Chef & My Fridge"

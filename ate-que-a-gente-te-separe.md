@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-26T23:54:25-03:00
+date: "2019-02-26"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Até que a Gente te Separe"

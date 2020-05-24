@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-22T16:26:46-03:00
+date: "2019-03-22"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Paris, Te Amo"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-26T18:50:13-03:00
+date: "2019-02-26"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Simplesmente Alice"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-27T01:49:27-02:00
+date: "2018-10-27"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Quietude"

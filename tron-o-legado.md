@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-05-14
+date: "2018-05-14"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tron: o Legado"

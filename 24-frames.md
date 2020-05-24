@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-24T01:51:39
+date: "2017-10-24"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "24 Frames"

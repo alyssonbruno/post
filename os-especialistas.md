@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-29T13:20:20-02:00
+date: "2019-01-29"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Especialistas"

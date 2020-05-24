@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-02-28T17:47:55
+date: "2018-02-28"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Número Um"

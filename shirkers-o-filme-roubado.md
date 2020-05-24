@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-09T11:54:24-02:00
+date: "2018-11-09"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Shirkers: O Filme Roubado"

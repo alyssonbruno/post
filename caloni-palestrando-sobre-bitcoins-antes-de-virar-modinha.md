@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-02-20T16:48:37-03:00
+date: "2018-02-20"
 tags: [ "draft", "events" ]
 title: "Caloni Palestrando Sobre Bitcoins Antes De Virar (Muito) Modinha"
 ---

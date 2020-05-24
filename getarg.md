@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-08-30T14:41:33-03:00
+date: "2018-08-30"
 tags: [ "draft",  ]
 title: "GetArg: the ultimate badass argv/argc parser"
 ---

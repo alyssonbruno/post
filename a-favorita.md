@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-18T22:31:17-03:00
+date: "2018-10-18"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Favorita"

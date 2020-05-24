@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-24T01:41:35
+date: "2017-10-24"
 stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Favela Olimpica"

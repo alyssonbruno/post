@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-09-28T19:13:47
+date: "2017-09-28"
 stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Churchill"

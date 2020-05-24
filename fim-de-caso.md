@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-06-23T17:23:39-03:00
+date: "2019-06-23"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Fim de Caso"

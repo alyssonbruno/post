@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2017-09-26T10:21:02-03:00
+date: "2017-09-26"
 tags: [ "draft",  ]
 title: "C++ Moderno Arranca os Cabelos por Você (std::move e classes simples)."
 ---

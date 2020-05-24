@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-07-31T17:12:44
+date: "2017-07-31"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Lady Macbeth"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-03-18T21:55:28-03:00
+date: "2018-03-18"
 stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Sharknado 3"

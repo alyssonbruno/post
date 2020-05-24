@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-20T21:47:12
+date: "2017-10-20"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Uma Verdade Mais Inconveniente"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-02-23T14:42:28
+date: "2018-02-23"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Comedians In Car Getting Coffee"

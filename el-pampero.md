@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-11T19:31:27
+date: "2017-10-11"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "El Pampero"

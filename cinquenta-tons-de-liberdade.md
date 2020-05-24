@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-29T12:39:21-03:00
+date: "2018-07-29"
 stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Cinquenta Tons de Liberdade"

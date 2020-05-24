@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-22T18:51:32-03:00
+date: "2019-02-22"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Terminal"

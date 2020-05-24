@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-29T12:18:20-03:00
+date: "2019-05-29"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Livrando a Cara"

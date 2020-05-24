@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2017-08-06T23:51:23-03:00
+date: "2017-08-06"
 tags: [ "draft", "ccppbr" ]
 title: "13o. Encontro CCPPBrasil (Post Mortem)"
 ---

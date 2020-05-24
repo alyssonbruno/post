@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-25T11:18:32-02:00
+date: "2019-01-25"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Guerra dos Botões"

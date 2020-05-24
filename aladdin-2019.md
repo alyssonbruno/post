@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-22T13:00:00-03:00
+date: "2019-05-22"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Aladdin (2019)"

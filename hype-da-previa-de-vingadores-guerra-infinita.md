@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-04-24T23:32:52-03:00
+date: "2018-04-24"
 tags: [ "draft", "cinemaqui" ]
 title: "Hype da Prévia de Vingadores: Guerra Infinita"
 ---

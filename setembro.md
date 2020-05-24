@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-02T23:28:48-02:00
+date: "2019-02-02"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Setembro"

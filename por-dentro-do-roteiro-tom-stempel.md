@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-07-15T15:11:48-03:00
+date: "2018-07-15"
 tags: [ "draft", "books" ]
 title: "Por Dentro do Roteiro"
 ---

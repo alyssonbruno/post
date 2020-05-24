@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-08-01T16:27:10-03:00
+date: "2018-08-01"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Predestinados"

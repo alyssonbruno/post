@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2017-11-20T11:23:37-02:00
+date: "2017-11-20"
 tags: [ "draft", "ccppbr" ]
 title: "Palestras do CCPPBR14"
 ---

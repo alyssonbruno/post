@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-28T00:35:06
+date: "2017-10-28"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Amante Do Dia"

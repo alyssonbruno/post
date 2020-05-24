@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-08-23T13:18:48-03:00
+date: "2018-08-23"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Histórias que Nosso Cinema (Não) Contava"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-07-26T16:56:50
+date: "2017-07-26"
 stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Rifle"

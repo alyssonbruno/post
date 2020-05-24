@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-06-17
+date: "2019-06-17"
 tags: [ "draft", "reading" ]
 title: "Film Theory and Criticism"
 ---

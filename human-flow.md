@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-20T20:02:54
+date: "2017-10-20"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Human Flow"

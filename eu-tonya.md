@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-13T17:50:54
+date: "2018-01-13"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Eu, Tonya"

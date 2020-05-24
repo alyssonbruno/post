@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-06T21:12:58-03:00
+date: "2019-05-06"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Edifício Master"

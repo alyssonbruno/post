@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-04-20T21:05:49-03:00
+date: "2018-04-20"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Forma da Água"

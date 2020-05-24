@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-09-16
+date: "2019-09-16"
 tags: [ "draft", "reading" ]
 title: "Leituras"
 ---

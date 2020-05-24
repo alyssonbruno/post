@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2017-09-12T13:36:06-03:00
+date: "2017-09-12"
 tags: [ "draft", "essays" ]
 title: "Escopo Fechado: Receita De Fracasso"
 ---

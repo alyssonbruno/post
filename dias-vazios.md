@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-06T15:44:50-03:00
+date: "2019-05-06"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Dias Vazios"

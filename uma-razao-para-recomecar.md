@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-14T16:42:43
+date: "2017-10-14"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Uma Razao Para Recomecar"

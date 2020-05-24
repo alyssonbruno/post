@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-05-07T13:40:32-03:00
+date: "2018-05-07"
 tags: [ "draft",  ]
 title: "Adivinhe: Roger Ebert"
 ---

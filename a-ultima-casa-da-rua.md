@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-14T11:03:09-03:00
+date: "2019-04-14"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Última Casa da Rua"

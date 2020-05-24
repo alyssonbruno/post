@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2017-12-17T22:11:40-02:00
+date: "2017-12-17"
 tags: [ "draft",  ]
 title: "Se você não precisa de classe você não precisa de classe"
 ---

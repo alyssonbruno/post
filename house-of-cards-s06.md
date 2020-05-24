@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-16
+date: "2018-11-16"
 stars: "2/5"
 tags: [ "draft", "series" ]
 title: "House of Cards - Sexta Temporada (Season Finale)."

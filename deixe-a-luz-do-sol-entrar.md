@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-03-24T01:51:20-03:00
+date: "2018-03-24"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Deixe a Luz Do Sol Entrar"

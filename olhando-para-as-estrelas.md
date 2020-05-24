@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-04T00:05:03
+date: "2017-11-04"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Olhando Para As Estrelas"

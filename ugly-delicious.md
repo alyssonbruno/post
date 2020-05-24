@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-17T18:29:31-02:00
+date: "2018-11-17"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Ugly Delicious"

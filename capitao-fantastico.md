@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-25T13:54:00
+date: "2017-11-25"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Capitão Fantástico"

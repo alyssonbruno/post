@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2017-12-26T18:24:24-02:00
+date: "2017-12-26"
 tags: [ "draft",  ]
 title: "Cmd e o encoding fake"
 ---

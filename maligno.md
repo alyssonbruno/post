@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-13T00:38:53-03:00
+date: "2019-03-13"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Maligno"

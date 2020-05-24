@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-15T16:08:47-03:00
+date: "2018-10-15"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Poderia Me Perdoar?"

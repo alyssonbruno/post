@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-05-21T00:23:49-03:00
+date: "2018-05-21"
 tags: [ "draft",  ]
 title: "Boost Meta State Machine"
 ---

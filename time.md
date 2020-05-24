@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-06-10T20:33:29-03:00
+date: "2019-06-10"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Time - O Amor Contra a Passagem do Tempo"

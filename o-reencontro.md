@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-07-21T13:44:32
+date: "2017-07-21"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Reencontro"

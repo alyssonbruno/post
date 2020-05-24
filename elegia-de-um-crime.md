@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-07T14:30:11-03:00
+date: "2019-03-07"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Elegia De Um Crime"

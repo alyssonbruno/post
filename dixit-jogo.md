@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-05-20T12:19:09-03:00
+date: "2019-05-20"
 tags: [ "draft", "fun" ]
 title: "Dixit (Jogo)"
 ---

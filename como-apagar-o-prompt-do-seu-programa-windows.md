@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-01-23T20:40:50-02:00
+date: "2018-01-23"
 tags: [ "draft",  ]
 title: "Como Apagar o Prompt do seu Programa Windows"
 ---

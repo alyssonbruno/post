@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-09-18T21:53:43
+date: "2017-09-18"
 tags: [ "draft", "essays" ]
 title: "Matrix: Ghost in The Shell"
 ---

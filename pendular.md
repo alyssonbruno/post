@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-09-18T21:32:29
+date: "2017-09-18"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Pendular"

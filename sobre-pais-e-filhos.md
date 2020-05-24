@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-01T18:07:46-02:00
+date: "2018-11-01"
 stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Sobre Pais E Filhos"

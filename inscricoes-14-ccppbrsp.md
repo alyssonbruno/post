@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2017-10-06T15:32:00-03:00
+date: "2017-10-06"
 tags: [ "draft", "ccppbr" ]
 title: "Inscrições para o 14o. CCPPBRSP"
 ---

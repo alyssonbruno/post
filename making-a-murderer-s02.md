@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-31
+date: "2018-10-31"
 stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Making a Murderer S02"

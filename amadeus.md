@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-13T18:51:32-03:00
+date: "2019-03-13"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Amadeus (versão do diretor)"

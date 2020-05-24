@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-04T11:54:49-03:00
+date: "2019-05-04"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Toda Arte é Perigosa (Velvet Buzzsaw)"

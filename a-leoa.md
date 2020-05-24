@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-22T21:57:15
+date: "2017-10-22"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Leoa"

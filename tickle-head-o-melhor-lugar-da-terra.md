@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-08-04T02:31:04
+date: "2017-08-04"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tickle Head, O Melhor Lugar Da Terra"

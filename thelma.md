@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-16T01:06:11
+date: "2017-11-16"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Thelma"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-28T15:58:03-02:00
+date: "2019-01-28"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Vamos Dançar?"

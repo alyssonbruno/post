@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-04-15T21:12:02-03:00
+date: "2018-04-15"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "The Handmaid's Tale (O Conto da Aia)"

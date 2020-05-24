@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-19T12:05:46-02:00
+date: "2018-11-19"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Planeta dos Macacos: A Guerra"

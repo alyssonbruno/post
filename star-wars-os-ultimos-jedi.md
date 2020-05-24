@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-12-14T21:49:10
+date: "2017-12-14"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Star Wars: os Últimos Jedi"

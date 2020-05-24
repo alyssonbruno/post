@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-04-24T13:17:57-03:00
+date: "2018-04-24"
 tags: [ "draft",  ]
 title: "Lista Ligada; tá ligado?"
 ---

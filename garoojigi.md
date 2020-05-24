@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-30T19:30:18
+date: "2018-01-30"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Garoojigi"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-09-30T22:13:19-03:00
+date: "2018-09-30"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Maniac"

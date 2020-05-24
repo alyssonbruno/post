@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-07-02T18:49:16-03:00
+date: "2019-07-02"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Nenhum a Menos"

@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-07-17T13:32:56-03:00
+date: "2018-07-17"
 tags: [ "draft", "books" ]
 title: "Estrutura de Roteiro"
 ---

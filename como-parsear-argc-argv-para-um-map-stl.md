@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-01-26T20:53:30-02:00
+date: "2018-01-26"
 tags: [ "draft",  ]
 title: "Como Parsear Argc Argv para um map STL"
 ---

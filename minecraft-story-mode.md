@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-12-08T15:26:05-02:00
+date: "2018-12-08"
 stars: "2/5"
 tags: [ "draft", "series" ]
 title: "Minecraft Story Mode"

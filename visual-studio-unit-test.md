@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2019-05-06T22:23:40-03:00
+date: "2019-05-06"
 tags: [ "draft",  ]
 title: "Visual Studio Unit Test (C++)"
 ---

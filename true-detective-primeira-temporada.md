@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-01T21:42:54
+date: "2017-11-01"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "True Detective: Primeira Temporada"

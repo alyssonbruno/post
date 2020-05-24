@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-22T16:13:03-03:00
+date: "2019-04-22"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Necrópolis"

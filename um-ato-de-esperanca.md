@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-13T17:15:56-03:00
+date: "2019-03-13"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Ato de Esperança"

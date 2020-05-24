@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-11T15:02:20-03:00
+date: "2018-07-11"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Uma Casa à Beira Mar"

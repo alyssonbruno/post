@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-20T20:54:59-03:00
+date: "2019-04-20"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Homem Que Copiava"

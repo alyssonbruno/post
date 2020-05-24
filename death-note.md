@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-09-18T21:47:41
+date: "2017-09-18"
 stars: "3/5"
 tags: [ "draft", "series", "animes" ]
 title: "Death Note: Notas da Morte"

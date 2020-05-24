@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-12-07T21:15:11-02:00
+date: "2018-12-07"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Matilda"

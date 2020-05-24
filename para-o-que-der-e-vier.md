@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-28T11:09:44-03:00
+date: "2018-07-28"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Para o Que Der e Vier"

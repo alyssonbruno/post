@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-03-05T23:59:15-03:00
+date: "2018-03-05"
 tags: [ "draft", "events" ]
 title: "iMasters PHP Experience"
 ---

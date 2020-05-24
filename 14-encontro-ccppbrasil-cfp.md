@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2017-09-11T22:25:46-03:00
+date: "2017-09-11"
 tags: [ "draft", "ccppbr" ]
 title: "14o. Encontro CCPPBR CFP (Call for Papers)"
 ---

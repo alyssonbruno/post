@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-15T22:34:40-02:00
+date: "2019-02-15"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Clube da Luta"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-21T19:41:00-02:00
+date: "2018-10-21"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Ingrediente Secreto"

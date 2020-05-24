@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-29T10:44:51-03:00
+date: "2019-04-29"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Família Rodante"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-22T21:49:27
+date: "2017-10-22"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Bem Vindos Ao Mundo"

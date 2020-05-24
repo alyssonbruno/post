@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2019-05-17T19:04:53-03:00
+date: "2019-05-17"
 tags: [ "draft",  ]
 title: "C Resolve Tudo Clos"
 ---

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-12-16T13:48:30-02:00
+date: "2018-12-16"
 stars: "2/5"
 tags: [ "draft", "series" ]
 title: "Christiane Amanpour: Sex and Love Around the World"

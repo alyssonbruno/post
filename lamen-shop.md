@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-08-08T22:40:22-03:00
+date: "2018-08-08"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Lámen Shop"

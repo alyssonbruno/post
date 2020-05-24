@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-10-29T18:28:42
+date: "2017-10-29"
 stars: "5/5"
 tags: [ "draft", "series" ]
 title: "True Detective: Primeiras Impressões do Piloto"

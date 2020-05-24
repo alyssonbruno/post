@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-26T11:00:06-03:00
+date: "2018-07-26"
 stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Dark Tourism"

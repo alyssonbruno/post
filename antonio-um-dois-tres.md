@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-25T18:15:36-03:00
+date: "2019-03-25"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "António Um Dois Três"

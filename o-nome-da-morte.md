@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-25T18:26:11-03:00
+date: "2018-07-25"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Nome da Morte"

@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-12-30
+date: "2018-12-30"
 tags: [ "draft", "books" ]
 title: "12 Regras para a Vida, por Jordan Peterson"
 ---

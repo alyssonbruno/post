@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-08-21T17:12:52
+date: "2017-08-21"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Atypical"

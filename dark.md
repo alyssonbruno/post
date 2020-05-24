@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-30T19:52:28
+date: "2018-01-30"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Dark"

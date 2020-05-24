@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2019-05-28T18:21:20-03:00
+date: "2019-05-28"
 tags: [ "draft",  ]
 title: "C Resolve Tudo: goto"
 ---

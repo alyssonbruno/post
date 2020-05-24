@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-04-11T17:31:48-03:00
+date: "2018-04-11"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Tudo que Quero"

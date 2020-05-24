@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-10T18:26:38-03:00
+date: "2018-10-10"
 stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Criador de Universos"

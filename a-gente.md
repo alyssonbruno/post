@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-09-05T17:32:54
+date: "2017-09-05"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Gente"

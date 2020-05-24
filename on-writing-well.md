@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-02-03T17:18:02-02:00
+date: "2019-02-03"
 tags: [ "draft", "books" ]
 title: "On Writing Well"
 ---

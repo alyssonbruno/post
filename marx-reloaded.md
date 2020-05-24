@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-31T11:16:34-02:00
+date: "2018-10-31"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Marx Reloaded"

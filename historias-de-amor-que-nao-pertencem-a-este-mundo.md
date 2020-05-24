@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-11T00:04:06
+date: "2017-11-11"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Histórias de Amor Que Não Pertencem a Este Mundo"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-07-04T12:00:38-03:00
+date: "2019-07-04"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Pacto"

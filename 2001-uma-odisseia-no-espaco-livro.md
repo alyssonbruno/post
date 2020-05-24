@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-05-16T23:17:13-03:00
+date: "2018-05-16"
 stars: "5/5"
 tags: [ "draft", "books" ]
 title: "2001: Uma Odisseia no Espaço (livro)"

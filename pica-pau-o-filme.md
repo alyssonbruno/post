@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-06T21:26:48
+date: "2017-11-06"
 stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Pica Pau: o Filme"

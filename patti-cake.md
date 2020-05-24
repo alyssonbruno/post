@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-18T20:59:14
+date: "2017-11-18"
 stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Patti Cake$"

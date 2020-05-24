@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-01T15:55:18-03:00
+date: "2018-07-01"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Fugindo do Continente"

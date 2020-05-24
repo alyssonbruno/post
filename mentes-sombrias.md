@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-08-06T15:48:41-03:00
+date: "2018-08-06"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mentes Sombrias"

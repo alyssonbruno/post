@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-06-25T14:55:57-03:00
+date: "2018-06-25"
 stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Jurassic World: Reino Ameaçado"

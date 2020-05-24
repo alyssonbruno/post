@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-12T18:09:00-03:00
+date: "2019-04-12"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Shazam!"

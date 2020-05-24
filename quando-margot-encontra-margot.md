@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-03-20T15:08:12-03:00
+date: "2019-03-20"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Quando Margot Encontra Margot"

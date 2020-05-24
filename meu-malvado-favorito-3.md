@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-23T01:13:13
+date: "2017-11-23"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Meu Malvado Favorito 3"

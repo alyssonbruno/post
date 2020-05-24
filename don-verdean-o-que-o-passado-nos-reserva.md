@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-21T00:56:13-02:00
+date: "2019-01-21"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Don Verdean: o Que o Passado nos Reserva"

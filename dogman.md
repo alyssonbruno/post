@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-02-07T22:22:16-02:00
+date: "2019-02-07"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Dogman"

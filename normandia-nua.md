@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-15T14:40:43-02:00
+date: "2019-01-15"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Normandia Nua"

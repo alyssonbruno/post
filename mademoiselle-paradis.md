@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-04-26T15:52:51-03:00
+date: "2019-04-26"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mademoiselle Paradis"

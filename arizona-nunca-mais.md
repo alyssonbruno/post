@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-02-06T20:39:26
+date: "2018-02-06"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Arizona Nunca Mais"

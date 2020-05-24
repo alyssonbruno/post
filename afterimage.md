@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-08-10T21:31:36
+date: "2017-08-10"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Afterimage"

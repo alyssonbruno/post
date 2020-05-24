@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-28T16:04:16-02:00
+date: "2019-01-28"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Um Assaltante Bem Trapalhão"

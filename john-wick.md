@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-09-28T19:04:03-03:00
+date: "2018-09-28"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "De Volta ao Jogo"

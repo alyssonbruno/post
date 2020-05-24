@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-12-14T23:20:35
+date: "2017-12-14"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Origem do Dragão"

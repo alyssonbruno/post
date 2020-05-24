@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-12T01:19:37
+date: "2018-01-12"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Black Mirror - S04E01 - USS Calister"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-12-10T14:11:47
+date: "2017-12-10"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Batman: O Retorno"

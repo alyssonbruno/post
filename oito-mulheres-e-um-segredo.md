@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-18T11:47:52-02:00
+date: "2018-11-18"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Oito Mulheres e Um Segredo"

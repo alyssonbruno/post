@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-04T11:56:16-03:00
+date: "2019-05-04"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Vida De Diane"

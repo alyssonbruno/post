@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-14T15:15:22-02:00
+date: "2019-01-14"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Eu Sou Mais Eu"

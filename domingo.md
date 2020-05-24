@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-11-01T13:45:29-02:00
+date: "2018-11-01"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Domingo"

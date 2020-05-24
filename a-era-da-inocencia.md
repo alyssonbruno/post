@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-19T13:22:51-03:00
+date: "2018-07-19"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Era da Inocência"

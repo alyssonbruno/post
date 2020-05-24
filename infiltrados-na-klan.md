@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-30T20:03:48-02:00
+date: "2018-10-30"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Infiltrados Na Klan"

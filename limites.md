@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-09-15T18:18:17-03:00
+date: "2018-09-15"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Limites"

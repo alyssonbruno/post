@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-06-23
+date: "2019-06-23"
 tags: [ "draft", "food", "recipes" ]
 title: "Receita: Pastéis de Nata"
 ---

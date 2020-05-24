@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-30T00:07:56
+date: "2017-11-30"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Maníaco"

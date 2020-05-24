@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-12-03T23:22:57
+date: "2017-12-03"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mulheres Divinas"

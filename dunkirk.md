@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-07-25T11:23:01
+date: "2017-07-25"
 stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Dunkirk"

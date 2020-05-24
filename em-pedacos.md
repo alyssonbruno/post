@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-01-30T17:55:35
+date: "2018-01-30"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Em Pedaços"

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-23T21:37:56-02:00
+date: "2018-10-23"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Segredo de Nápoles"

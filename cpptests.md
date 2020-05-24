@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2017-07-25T16:59:05-03:00
+date: "2017-07-25"
 tags: [ "draft", "tools" ]
 title: "CppTests"
 ---

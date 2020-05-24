@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-03-01T18:11:58
+date: "2018-03-01"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Torquato Neto - Todas as horas do fim"

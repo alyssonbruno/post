@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2019-01-07 
+date: "2019-01-07"
 tags: [ "draft", "food", "recipes" ]
 title: "Receita: Chimichurri"
 ---

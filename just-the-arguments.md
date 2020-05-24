@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2018-02-27T19:30:59-03:00
+date: "2018-02-27"
 tags: [ "draft", "reading" ]
 title: "Just the Arguments"
 ---

@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-10T20:08:29-03:00
+date: "2019-05-10"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Minhas Famílias"

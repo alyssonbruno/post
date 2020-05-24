@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-07-01T19:05:49-03:00
+date: "2019-07-01"
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Chuva de Verão"

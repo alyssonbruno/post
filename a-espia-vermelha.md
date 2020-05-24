@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-08T14:55:01-03:00
+date: "2019-05-08"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Espiã Vermelha"

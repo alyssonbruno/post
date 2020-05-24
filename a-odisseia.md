@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-02-20T01:28:30
+date: "2018-02-20"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Odisseia"

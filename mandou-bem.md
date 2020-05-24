@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-07-01T15:58:24-03:00
+date: "2018-07-01"
 stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Mandou Bem"

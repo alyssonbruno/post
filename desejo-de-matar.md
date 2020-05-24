@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-05-08T17:36:55-03:00
+date: "2018-05-08"
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Desejo de Matar"

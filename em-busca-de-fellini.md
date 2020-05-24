@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-11-23T00:35:20
+date: "2017-11-23"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Em Busca de Fellini"

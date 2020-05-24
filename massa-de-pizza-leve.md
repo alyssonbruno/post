@@ -1,6 +1,6 @@
 ---
 categories: [ "blog" ]
-date: 2017-05-30
+date: "2017-05-30"
 tags: [ "draft", "food", "recipes" ]
 title: "Receita: Massa de Pizza Leve"
 ---

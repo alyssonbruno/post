@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-04T11:58:05-03:00
+date: "2019-05-04"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Ninguém Pode Saber"

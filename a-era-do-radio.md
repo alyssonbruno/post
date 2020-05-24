@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-01-29T13:13:02-02:00
+date: "2019-01-29"
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Era do Rádio"

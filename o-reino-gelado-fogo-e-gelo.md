@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-08-06T15:24:03
+date: "2017-08-06"
 stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Reino Gelado: Fogo e Gelo"

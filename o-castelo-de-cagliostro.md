@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2019-05-25T14:53:23-03:00
+date: "2019-05-25"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Castelo de Cagliostro"

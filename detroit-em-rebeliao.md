@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2017-09-27T18:59:25
+date: "2017-09-27"
 stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Detroit em Rebelião"

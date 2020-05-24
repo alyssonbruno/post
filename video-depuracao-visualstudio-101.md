@@ -1,6 +1,6 @@
 ---
 categories: [ "code" ]
-date: 2018-07-24T21:21:28-03:00
+date: "2018-07-24"
 tags: [ "draft",  ]
 title: "Vídeo: Depuração Visual Studio 101"
 ---

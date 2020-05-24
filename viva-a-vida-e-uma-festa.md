@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-02-20T02:01:20
+date: "2018-02-20"
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Viva: A Vida é uma Festa"

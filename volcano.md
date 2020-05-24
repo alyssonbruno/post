@@ -1,6 +1,6 @@
 ---
 categories: [ "cinema" ]
-date: 2018-10-28T01:48:41-02:00
+date: "2018-10-28"
 stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Volcano"
