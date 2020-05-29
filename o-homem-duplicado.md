@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-13"
-review: [ "2016" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Homem Duplicado"

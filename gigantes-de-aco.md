@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-04-16"
-review: [ "2019" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Gigantes de Aço"

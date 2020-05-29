@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-12-30"
-review: [ "2016" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Detona Ralph"

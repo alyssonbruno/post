@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-11-19"
-review: [ "2019" ]
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Harry Potter e as Relíquias da Morte Parte 1"

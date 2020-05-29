@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-20"
-review: [ "2012" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Micmacs Um Plano Complicado"

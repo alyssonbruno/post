@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-02"
-review: [ "2015" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Estranho Mundo de Jack"

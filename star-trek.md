@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-04-16"
-review: [ "2013" ]
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Star Trek"

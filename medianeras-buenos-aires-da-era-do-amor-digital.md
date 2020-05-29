@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-09-11"
-review: [ "2013" ]
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Medianeras Buenos Aires da Era do Amor Virtual"

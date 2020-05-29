@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-20"
-review: [ "2011" ]
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Meu Malvado Favorito"

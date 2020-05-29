@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-05-22"
-review: [ "2019" ]
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Mad Max: Estrada da Fúria"

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-09-25"
-review: [ "2015" ]
 stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Cosmos: Uma Odisséia do Espaço-Tempo"

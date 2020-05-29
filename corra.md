@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-01-26"
-review: [ "2019" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Corra!"

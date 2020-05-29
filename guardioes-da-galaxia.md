@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-12-06"
-review: [ "2017" ]
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Guardiões da Galáxia"

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-01-09"
-review: [ "2015" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Frozen Uma Aventura Congelante"

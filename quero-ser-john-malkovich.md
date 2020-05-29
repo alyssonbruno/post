@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-06-17"
-review: [ "2019" ]
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Quero Ser John Malkovich"

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-07-26"
-review: [ "2020" ]
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Conto da Princesa Kaguya"

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-05-15"
-review: [ "2019" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Star Wars: O Despertar da Força"

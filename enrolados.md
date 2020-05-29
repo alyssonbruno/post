@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-01-30"
-review: [ "2014" ]
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Enrolados"

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-03"
-review: [ "2015", "2016", "2019" ]
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Uma Aventura LEGO"

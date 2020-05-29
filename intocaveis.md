@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-28"
-review: [ "2015", "2018" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Intocáveis"

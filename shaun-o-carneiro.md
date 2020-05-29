@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-06-01"
-review: [ "2017" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Shaun: O Carneiro"

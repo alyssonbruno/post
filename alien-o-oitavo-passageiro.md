@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-12-04"
-review: [ "2015" ]
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Alien o Oitavo Passageiro"

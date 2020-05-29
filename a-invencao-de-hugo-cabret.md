@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-02-25"
-review: [ "2014", "2017" ]
 stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Invenção de Hugo Cabret"

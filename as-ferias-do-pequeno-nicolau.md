@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-12-18"
-review: [ "2015" ]
 stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "As Férias do Pequeno Nicolau"

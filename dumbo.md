@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-01-08"
-review: [ "2013" ]
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Dumbo"

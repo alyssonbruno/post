@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-06-24"
-review: [ "2016", "2019" ]
 stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Divertida Mente"

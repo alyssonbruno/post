@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-20"
-review: [ "2019" ]
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Primavera Verão Outono Inverno e Primavera"

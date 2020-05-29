@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-11-13"
-review: [ "2013" ]
 stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Alice no País das Maravilhas (1951)"
