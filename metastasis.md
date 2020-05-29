@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-03"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Metástasis (piloto)"
 ---

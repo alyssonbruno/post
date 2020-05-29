@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-12-12"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Homem da Máfia"
 ---

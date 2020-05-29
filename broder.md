@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-10-26"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Bróder"
 ---

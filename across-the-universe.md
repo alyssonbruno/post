@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-09-28"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Across the Universe"
 ---

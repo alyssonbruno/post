@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-05-16"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "2 Dias em Paris"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-11"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Dont Fuck With Cats Hunting an Internet Killer"
 ---

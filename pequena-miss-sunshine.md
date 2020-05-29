@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-22"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Pequena Miss Sunshine"
 ---

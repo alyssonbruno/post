@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-05"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Lembre-se de Mim, Por Favor"
 ---

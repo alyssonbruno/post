@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-13"
-stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Black Mirror - S02E02 - White Bear"
 ---

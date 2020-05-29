@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-02-22"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Saco de Ossos"
 ---

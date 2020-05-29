@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-09-21"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Pronta Para Amar"
 ---

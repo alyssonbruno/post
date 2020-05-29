@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-04"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Loucas pra Casar"
 ---

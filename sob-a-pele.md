@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-20"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Sob a Pele"
 ---

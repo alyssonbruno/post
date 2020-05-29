@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-15"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Diário de uma Paixão"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-09"
-stars: "4/5"
 tags: [ "draft", "series", "animes" ]
 title: "Cells at Work!"
 ---

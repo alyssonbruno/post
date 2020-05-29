@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-26"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Querida, Encolhi a Gente"
 ---

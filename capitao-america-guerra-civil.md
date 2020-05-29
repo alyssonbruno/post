@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-05-31"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Capitão América: Guerra Civil"
 ---

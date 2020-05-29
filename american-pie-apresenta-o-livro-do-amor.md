@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-06-13"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "American Pie Apresenta O Livro do Amor"
 ---

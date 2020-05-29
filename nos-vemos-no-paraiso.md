@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-06-29"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Nos Vemos no Paraíso"
 ---

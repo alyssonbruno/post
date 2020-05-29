@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-17"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "O Ring"
 ---

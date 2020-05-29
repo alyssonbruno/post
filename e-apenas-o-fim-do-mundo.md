@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-26"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "É Apenas o Fim do Mundo"
 ---

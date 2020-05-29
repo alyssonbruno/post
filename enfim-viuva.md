@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-09-03"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Enfim Viúva"
 ---

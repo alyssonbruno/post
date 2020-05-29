@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-07-14"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Ninguém é Perfeito"
 ---

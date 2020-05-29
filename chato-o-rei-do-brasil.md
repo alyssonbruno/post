@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-15"
-stars: "1/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Chatô - O Rei do Brasil"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-02-20"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Simplesmente Feliz"
 ---

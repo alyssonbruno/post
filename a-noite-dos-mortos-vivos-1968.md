@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-05-07"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Noite dos Mortos-Vivos"
 ---

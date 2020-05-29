@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-17"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Rocky - Um Lutador"
 ---

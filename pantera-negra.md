@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-24"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Pantera Negra"
 ---

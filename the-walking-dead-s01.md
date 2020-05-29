@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-04-03"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "The Walking Dead - Primeira Temporada"
 ---

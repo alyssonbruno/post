@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-05-14"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Somos Tão Jovens"
 ---

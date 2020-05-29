@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-28"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Mosca da Cabeça Branca"
 ---

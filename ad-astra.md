@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-24"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Ad Astra: Rumo às Estrelas"
 ---

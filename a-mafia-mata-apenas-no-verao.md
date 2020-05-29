@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-10"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Máfia Mata Apenas no Verão"
 ---

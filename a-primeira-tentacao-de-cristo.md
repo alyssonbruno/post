@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-09"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Primeira Tentação de Cristo"
 ---

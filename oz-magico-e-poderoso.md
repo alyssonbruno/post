@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-03-14"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Oz Mágico e Poderoso"
 ---

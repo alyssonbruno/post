@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-26"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Mula"
 ---

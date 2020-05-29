@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-02-05"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Amor e Outras Drogas"
 ---

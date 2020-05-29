@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-16"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Os Caçadores da Arca Perdida"
 ---

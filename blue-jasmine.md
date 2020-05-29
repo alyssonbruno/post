@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-01-07"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Blue Jasmine"
 ---

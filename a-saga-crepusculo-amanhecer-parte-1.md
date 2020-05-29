@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-11-17"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "A Saga Crepúsculo Amanhecer Parte 1"
 ---

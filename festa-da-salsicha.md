@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-06-02"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Festa da Salsicha"
 ---

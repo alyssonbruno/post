@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-26"
-stars: "5/5"
 tags: [ "draft", "shorts" ]
 title: "A Pista (La Jetée)"
 ---

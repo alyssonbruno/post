@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-22"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Verdadeira História da Gangue de Ned Kelly"
 ---

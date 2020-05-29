@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-08-31"
-stars: "3/5"
 tags: [ "draft", "series", "animes" ]
 title: "Blue Exorcist"
 ---

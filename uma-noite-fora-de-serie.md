@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-22"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Uma Noite Fora de Série"
 ---

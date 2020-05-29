@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-25"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "5 Mulheres"
 ---

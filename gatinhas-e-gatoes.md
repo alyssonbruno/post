@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-12-15"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Gatinhas e Gatões"
 ---

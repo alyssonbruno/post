@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-15"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Que Eu Fiz Para Merecer Isso?"
 ---

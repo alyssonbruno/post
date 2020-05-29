@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 count: 2
 date: "2010-09-09"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Kill Bill Volume 2"
 ---

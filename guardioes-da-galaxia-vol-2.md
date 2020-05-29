@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-27"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Guardiões da Galáxia Vol. 2"
 ---

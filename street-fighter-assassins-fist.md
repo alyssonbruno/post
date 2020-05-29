@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-10-05"
-stars: "2/5"
 tags: [ "draft", "series" ]
 title: "Street Fighter: Assassin's Fist"
 ---

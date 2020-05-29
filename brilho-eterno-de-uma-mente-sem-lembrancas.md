@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-08-18"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Brilho Eterno de uma Mente Sem Lembranças"
 ---

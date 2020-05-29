@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-08-05"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Red 2 Aposentados e Ainda Mais Perigosos"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-27"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Deadpool"
 ---

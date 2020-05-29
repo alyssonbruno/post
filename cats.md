@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-04"
-stars: "1/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Cats"
 ---

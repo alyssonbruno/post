@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-05-09"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Morte do Demônio"
 ---

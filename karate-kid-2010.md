@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-08-27"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Karate Kid"
 ---

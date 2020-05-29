@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-09-11"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Pets: A Vida Secreta dos Bichos"
 ---

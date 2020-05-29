@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 count: 2
 date: "2014-11-15"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Interestelar"
 ---

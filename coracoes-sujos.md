@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-08-19"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Corações Sujos"
 ---

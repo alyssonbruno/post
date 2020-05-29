@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-01-12"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Forrest Gump: o Contador De Histórias"
 ---

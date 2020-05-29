@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-26"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Better Call Saul S04"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-08-17"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Quero Matar Meu Chefe"
 ---

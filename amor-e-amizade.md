@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-06"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Amor e Amizade"
 ---

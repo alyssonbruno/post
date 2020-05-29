@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-10-23"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "2001: Uma Odisseia no Espaço"
 ---

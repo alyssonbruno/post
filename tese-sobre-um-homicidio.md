@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-23"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tese Sobre um Homicídio"
 ---

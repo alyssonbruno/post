@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-05-19"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Casamento de Verdade"
 ---

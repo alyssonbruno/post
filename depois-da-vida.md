@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-01-15"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Depois da Vida"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-02-23"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Olhar Instigado"
 ---

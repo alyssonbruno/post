@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-05-19"
 draft: true
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Conto de Outono"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-21"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Querência"
 ---

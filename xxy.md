@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-01-24"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "XXY"
 ---

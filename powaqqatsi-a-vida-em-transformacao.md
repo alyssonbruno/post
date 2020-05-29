@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-02-28"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Powaqqatsi - A Vida em Transformação"
 ---

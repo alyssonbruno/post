@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-05"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Os Dez Mandamentos - O Filme"
 ---

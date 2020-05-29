@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-07-20"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Hilda Hilst Pede Contato"
 ---

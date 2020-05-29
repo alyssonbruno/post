@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-14"
-stars: "3/5"
 tags: [ "draft", "movies", "cinemaqui" ]
 title: "Entre Realidades"
 ---

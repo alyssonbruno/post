@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-05"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Menino Que Descobriu O Vento"
 ---

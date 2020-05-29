@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-23"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Plano 9 do Espaço Sideral"
 ---

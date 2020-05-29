@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-05-01"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Hop Rebeldes sem Páscoa"
 ---

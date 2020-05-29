@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-12-20"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Procura-se um Amigo para o Fim do Mundo"
 ---

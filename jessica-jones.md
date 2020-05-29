@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-18"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Jessica Jones"
 ---

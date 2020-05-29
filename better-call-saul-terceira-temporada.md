@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-07-03"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Better Call Saul - Terceira Temporada"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-07-20"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Branca de Neve e os Sete Anões"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-12-11"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Assassinato no Expresso do Oriente"
 ---

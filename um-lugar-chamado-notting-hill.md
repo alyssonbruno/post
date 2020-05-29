@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-08-27"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Um Lugar Chamado Notting Hill"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-31"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Anomalisa"
 ---

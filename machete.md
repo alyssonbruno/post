@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-10-10"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Machete"
 ---

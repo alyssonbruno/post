@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-08-12"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Superman: o Filme"
 ---

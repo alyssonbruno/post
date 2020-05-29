@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-05"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Tempos Modernos"
 ---

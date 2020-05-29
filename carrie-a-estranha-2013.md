@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-09-26"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Carrie, a Estranha"
 ---

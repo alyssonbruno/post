@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-01"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Historias mínimas"
 ---

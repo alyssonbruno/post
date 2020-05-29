@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-21"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Um Homem com uma Câmera"
 ---

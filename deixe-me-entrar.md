@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-02-17"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Deixe-me Entrar"
 ---

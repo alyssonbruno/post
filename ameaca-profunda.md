@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-07"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Ameaça Profunda"
 ---

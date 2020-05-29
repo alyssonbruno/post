@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-15"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Perdido em Marte"
 ---

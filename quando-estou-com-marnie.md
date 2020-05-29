@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-13"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Quando Estou Com Marnie"
 ---

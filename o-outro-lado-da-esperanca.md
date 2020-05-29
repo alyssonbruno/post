@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-11-06"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Outro Lado da Esperanca"
 ---

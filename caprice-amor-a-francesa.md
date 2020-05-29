@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-09-30"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Caprice: Amor à Francesa"
 ---

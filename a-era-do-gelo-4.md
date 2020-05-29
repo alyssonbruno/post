@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-07-21"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "A Era do Gelo 4"
 ---

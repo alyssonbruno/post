@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-08"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Exorcismo de Emily Rose"
 ---

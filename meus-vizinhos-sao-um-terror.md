@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-07-20"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Meus Vizinhos São um Terror"
 ---

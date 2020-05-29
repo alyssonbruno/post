@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-05-27"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Star Wars Episódio I A Ameaça Fantasma"
 ---

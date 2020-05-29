@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-03"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Privacidade Hackeada"
 ---

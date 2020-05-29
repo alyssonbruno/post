@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-05-04"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Fio da Inocência"
 ---

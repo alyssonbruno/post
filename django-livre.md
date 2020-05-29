@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-02-05"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Django Livre"
 ---

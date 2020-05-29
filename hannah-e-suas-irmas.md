@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-14"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Hannah e Suas Irmãs"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-07-06"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Sense8"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-06-28"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "O Plano Imperfeito"
 ---

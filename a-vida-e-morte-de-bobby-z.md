@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-01-01"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "A Vida e a Morte De Bobby Z"
 ---

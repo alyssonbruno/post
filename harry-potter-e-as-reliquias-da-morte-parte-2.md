@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-07-22"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Harry Potter e as Relíquias da Morte Parte 2"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-05-21"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Homem Que Elas Amavam Demais"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-07-03"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Para Roma com Amor"
 ---

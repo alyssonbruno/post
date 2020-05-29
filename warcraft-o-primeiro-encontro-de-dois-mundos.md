@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-08"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Warcraft: O Primeiro Encontro de Dois Mundos"
 ---

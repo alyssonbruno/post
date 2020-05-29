@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-22"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Hancock"
 ---

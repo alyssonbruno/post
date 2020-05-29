@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-04"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Onde os Fracos não Têm Vez"
 ---

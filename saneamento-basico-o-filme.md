@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-11-30"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Saneamento Básico, O Filme"
 ---

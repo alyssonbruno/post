@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-06-27"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Sombras da Noite"
 ---

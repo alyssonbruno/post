@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-03-01"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Beleza Oculta"
 ---

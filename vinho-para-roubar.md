@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-18"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Vinho para Roubar"
 ---

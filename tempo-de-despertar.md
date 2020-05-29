@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-05-27"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Tempo de Despertar"
 ---

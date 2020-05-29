@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-09-24"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Moscow Belgium"
 ---

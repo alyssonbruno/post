@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-17"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Snoopy & Charlie Brown: Peanuts, o Filme"
 ---

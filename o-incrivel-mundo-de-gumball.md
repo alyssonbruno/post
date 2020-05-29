@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-16"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "O Incrível Mundo de Gumball"
 ---

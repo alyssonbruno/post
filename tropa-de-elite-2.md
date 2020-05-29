@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-10-08"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Tropa de Elite 2 O Inimigo Agora É Outro"
 ---

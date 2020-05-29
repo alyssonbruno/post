@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-08-06"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Merlí"
 ---

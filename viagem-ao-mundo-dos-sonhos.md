@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-06-04"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Viagem ao Mundo dos Sonhos"
 ---

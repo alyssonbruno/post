@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-10-31"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Era Uma Vez no Oeste"
 ---

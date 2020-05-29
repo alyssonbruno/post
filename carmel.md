@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-10-28"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Carmel"
 ---

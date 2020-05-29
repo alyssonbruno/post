@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-01-12"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Tô Ryca!"
 ---

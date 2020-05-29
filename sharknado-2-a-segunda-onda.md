@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-20"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Sharknado 2: A Segunda Onda"
 ---

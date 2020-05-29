@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-06-21"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Truque de Mestre"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-11"
-stars: "4/5"
 tags: [ "draft", "shorts" ]
 title: "Barbosa"
 ---

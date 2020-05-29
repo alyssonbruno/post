@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-05-24"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Alemanha, Ano Zero"
 ---

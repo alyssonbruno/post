@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-08-13"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Aprendiz de Feiticeiro"
 ---

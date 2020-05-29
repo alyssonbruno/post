@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-08-21"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "As Duas Irenes"
 ---

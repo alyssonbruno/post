@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-27"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Maravilhoso Boccaccio"
 ---

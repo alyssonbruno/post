@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-04-14"
-stars: "5/5"
 tags: [ "draft", "series", "animes" ]
 title: "Madoka Magica"
 ---

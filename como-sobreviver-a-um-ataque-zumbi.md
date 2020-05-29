@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-09"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Como Sobreviver a Um Ataque Zumbi"
 ---

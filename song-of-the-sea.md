@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-04-02"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Song of the Sea"
 ---

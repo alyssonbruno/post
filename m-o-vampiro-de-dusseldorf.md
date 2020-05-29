@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-21"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "M, O Vampiro de Dusseldorf"
 ---

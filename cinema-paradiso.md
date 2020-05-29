@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-05-10"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Cinema Paradiso"
 ---

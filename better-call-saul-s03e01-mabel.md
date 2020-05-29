@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-16"
-stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Better Call Saul - Terceira Temporada, Episódio 1: Mabel"
 ---

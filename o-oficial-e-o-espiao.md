@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-12"
-stars: "3/5"
 tags: [ "draft", "movies", "cinemaqui" ]
 title: "O Oficial e O Espião"
 ---

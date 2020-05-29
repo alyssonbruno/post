@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-10-21"
-stars: "5/5"
 tags: [ "draft", "series" ]
 title: "A Filosofia de Rick And Morty: Primeira Temporada (anotações)"
 ---

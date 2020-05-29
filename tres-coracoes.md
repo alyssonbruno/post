@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-04-16"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Três Corações"
 ---

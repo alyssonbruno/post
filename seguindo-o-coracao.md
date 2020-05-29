@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-11-26"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Seguindo o Coração"
 ---

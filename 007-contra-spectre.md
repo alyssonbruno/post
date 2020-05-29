@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-14"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "007 Contra Spectre"
 ---

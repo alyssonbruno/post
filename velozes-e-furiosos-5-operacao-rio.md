@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-05-25"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Velozes e Furiosos 5 Operação Rio"
 ---

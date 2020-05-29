@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-10-05"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Dredd"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-06-06"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Computer Chess"
 ---

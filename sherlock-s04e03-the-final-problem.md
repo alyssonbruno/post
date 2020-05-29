@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-16"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Sherlock - Quarta Temporada, Episódio 3: The Final Problem"
 ---

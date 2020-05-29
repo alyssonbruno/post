@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-03-05"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Kingsman: O Círculo Dourado"
 ---

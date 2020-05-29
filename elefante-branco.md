@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-02-06"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Elefante Branco"
 ---

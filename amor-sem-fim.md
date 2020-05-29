@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-06-13"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Amor Sem Fim"
 ---

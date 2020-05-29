@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-06-26"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Segredo dos Seus Olhos"
 ---

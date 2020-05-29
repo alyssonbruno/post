@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-03-06"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Duro de Matar Um Bom Dia para Morrer"
 ---

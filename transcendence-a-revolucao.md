@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-10-23"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Transcendence: A Revolução"
 ---

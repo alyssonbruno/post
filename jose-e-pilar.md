@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 count: 2
 date: "2010-11-05"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "José e Pilar"
 ---

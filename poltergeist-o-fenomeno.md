@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-06"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Poltergeist O Fenômeno"
 ---

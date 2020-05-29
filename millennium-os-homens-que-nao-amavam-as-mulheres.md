@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-02-19"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Millennium Os Homens que Não Amavam as Mulheres"
 ---

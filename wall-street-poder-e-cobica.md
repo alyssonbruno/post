@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-05-23"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Wall Street Poder e Cobiça"
 ---

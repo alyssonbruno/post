@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-02"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Osama"
 ---

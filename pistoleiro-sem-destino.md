@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-21"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Pistoleiro Sem Destino"
 ---

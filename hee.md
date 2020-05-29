@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-28"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Hee"
 ---

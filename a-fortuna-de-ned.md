@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-06"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Fortuna de Ned"
 ---

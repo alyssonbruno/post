@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-12-30"
-stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Westworld (Revisita ao S01 com algumas questões e spoilers)"
 ---

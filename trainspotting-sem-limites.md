@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-05-21"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Trainspotting Sem Limites"
 ---

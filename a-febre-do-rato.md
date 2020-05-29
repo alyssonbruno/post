@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-08-03"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Febre do Rato"
 ---

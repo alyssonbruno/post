@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-06-20"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Cirque du Freak O Aprendiz de Vampiro"
 ---

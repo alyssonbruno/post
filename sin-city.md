@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-09"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Sin City: A Cidade do Pecado"
 ---

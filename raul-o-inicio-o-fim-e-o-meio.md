@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-03-28"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Raul O Início o Fim e o Meio"
 ---

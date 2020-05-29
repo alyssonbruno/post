@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 count: 2
 date: "2014-11-09"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Livro da Vida"
 ---

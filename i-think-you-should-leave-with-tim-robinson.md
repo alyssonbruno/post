@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-04-27"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "I Think You Should Leave With Tim Robinson"
 ---

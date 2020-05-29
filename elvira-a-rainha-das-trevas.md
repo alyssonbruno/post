@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-11-08"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Elvira A Rainha das Trevas"
 ---

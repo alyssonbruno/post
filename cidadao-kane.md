@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-09"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Cidadão Kane"
 ---

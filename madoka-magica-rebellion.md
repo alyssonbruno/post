@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-06-27"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Puella Magi Madoka Magica the Movie Part III: Rebellion"
 ---

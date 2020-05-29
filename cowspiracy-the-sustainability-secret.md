@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-17"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Cowspiracy: The Sustainability Secret"
 ---

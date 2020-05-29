@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-11-26"
-stars: "1/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Boonie Bears: Aventura em Miniatura"
 ---

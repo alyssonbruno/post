@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-07-18"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Nação Que Não Esperou Por Deus"
 ---

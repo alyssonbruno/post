@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-30"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Os Irmãos Cara de Pau"
 ---

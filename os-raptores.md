@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-06-05"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Raptores"
 ---

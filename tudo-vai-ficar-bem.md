@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-01"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Tudo Vai Ficar Bem"
 ---

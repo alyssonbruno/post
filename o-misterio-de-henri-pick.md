@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-19"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Mistério de Henri Pick"
 ---

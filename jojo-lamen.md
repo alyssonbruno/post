@@ -1,7 +1,6 @@
 ---
 categories: [ "blog" ]
 date: "2019-08-17"
-stars: "2/5"
 tags: [ "draft", "food" ]
 title: "Restaurante Jojo Ramen"
 ---

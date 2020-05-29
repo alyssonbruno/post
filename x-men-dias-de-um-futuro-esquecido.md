@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-05-26"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "X-Men Dias de um Futuro Esquecido"
 ---

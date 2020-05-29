@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-09"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Almas à venda"
 ---

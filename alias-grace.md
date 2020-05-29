@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-11-12"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Alias Grace"
 ---

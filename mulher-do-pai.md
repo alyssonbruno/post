@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-06-13"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mulher do Pai"
 ---

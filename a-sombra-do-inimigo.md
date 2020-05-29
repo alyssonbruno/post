@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-12-22"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "A Sombra do Inimigo"
 ---

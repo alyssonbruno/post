@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-07-17"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Doutor da Felicidade"
 ---

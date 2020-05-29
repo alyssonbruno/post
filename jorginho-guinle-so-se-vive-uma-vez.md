@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-03-18"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Jorginho Guinle - $o se Vive Uma Vez"
 ---

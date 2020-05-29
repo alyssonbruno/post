@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-06-03"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Amor À Altura"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-01"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Love - Primeira Temporada"
 ---

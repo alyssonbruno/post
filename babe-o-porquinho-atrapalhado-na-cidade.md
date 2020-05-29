@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-01-30"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Babe O Porquinho Atrapalhado na Cidade"
 ---

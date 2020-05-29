@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-16"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Ele Está de Volta"
 ---

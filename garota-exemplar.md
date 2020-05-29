@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-11-15"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Garota Exemplar"
 ---

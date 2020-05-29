@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-02-15"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Alvin e os Esquilos 3"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-04-27"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Capitão América 2 O Soldado Invernal"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-11-27"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Gremlins"
 ---

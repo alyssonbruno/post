@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-07-10"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Dezesseis Luas"
 ---

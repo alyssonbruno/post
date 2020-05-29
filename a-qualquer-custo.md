@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-12-08"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Qualquer Custo"
 ---

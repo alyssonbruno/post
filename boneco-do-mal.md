@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-09-11"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Boneco do Mal"
 ---

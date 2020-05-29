@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-05-10"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Qualquer Gato Vira-Lata"
 ---

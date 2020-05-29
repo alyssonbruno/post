@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-22"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Viagem de Meu Pai"
 ---

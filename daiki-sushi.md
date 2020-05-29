@@ -1,7 +1,6 @@
 ---
 categories: [ "blog" ]
 date: "2019-09-29"
-stars: "5/5"
 tags: [ "draft", "food" ]
 title: "Restaurante Daiki Sushi"
 ---

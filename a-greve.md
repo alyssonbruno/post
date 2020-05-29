@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-04-02"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Greve"
 ---

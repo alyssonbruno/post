@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-10-20"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Aqui é o Meu Lugar"
 ---

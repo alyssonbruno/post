@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-30"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Casa dos Contos de Fadas"
 ---

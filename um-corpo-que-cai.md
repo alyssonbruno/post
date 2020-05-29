@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-10-03"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Um Corpo Que Cai"
 ---

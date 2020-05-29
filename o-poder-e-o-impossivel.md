@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-12-09"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Poder e o Impossível"
 ---

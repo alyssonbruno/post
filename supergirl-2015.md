@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-22"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Supergirl"
 ---

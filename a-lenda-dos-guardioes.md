@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-08-08"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "A Lenda dos Guardiões"
 ---

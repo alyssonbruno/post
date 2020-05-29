@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-12-24"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Castelo no Céu"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-05-04"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Se Eu Ficar"
 ---

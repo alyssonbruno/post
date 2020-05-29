@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-05-20"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Kingsman: Serviço Secreto"
 ---

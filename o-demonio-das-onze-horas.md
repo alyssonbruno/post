@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-05-17"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "O Demônio das Onze Horas"
 ---

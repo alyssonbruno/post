@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-12"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Os Reis do Ié-Ié-Ié"
 ---

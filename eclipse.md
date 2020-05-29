@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-10-21"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "A Saga Crepúsculo Eclipse"
 ---

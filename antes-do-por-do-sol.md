@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-01-03"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Antes do Pôr-do-Sol"
 ---

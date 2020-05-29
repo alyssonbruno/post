@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-04"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Filhos de Bach"
 ---

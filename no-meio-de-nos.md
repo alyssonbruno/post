@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-18"
-stars: "1/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "No Meio de Nós"
 ---

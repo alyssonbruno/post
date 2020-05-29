@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-03-31"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "As Virgens Suicidas"
 ---

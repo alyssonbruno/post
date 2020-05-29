@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-04-28"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "The Avengers Os Vingadores"
 ---

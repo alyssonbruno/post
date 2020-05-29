@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-21"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Caminho Para Casa"
 ---

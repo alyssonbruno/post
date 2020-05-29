@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-18"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Minimalism: A Documentary About the Important Things"
 ---

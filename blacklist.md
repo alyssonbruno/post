@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-05-20"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Blacklist (piloto)"
 ---

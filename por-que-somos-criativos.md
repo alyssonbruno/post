@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-28"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Por Que Somos Criativos"
 ---

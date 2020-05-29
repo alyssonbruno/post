@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-05-24"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Cara Gente Branca"
 ---

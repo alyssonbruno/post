@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-22"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "O Mundo Imaginário do Doutor Parnassus"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-28"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Black Mirror - S03E03 - Shut Up and Dance"
 ---

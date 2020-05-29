@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-08-06"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Toast: A História de uma Criança com Fome"
 ---

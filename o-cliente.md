@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-01-24"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Cliente"
 ---

@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 count: 2
 date: "2012-08-16"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Fargo"
 ---

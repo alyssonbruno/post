@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-11-02"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Morte lhe Cai Bem"
 ---

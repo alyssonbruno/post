@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-10-26"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Giuseppe Tornatore Todo Filme é Meu Primeiro Filme"
 ---

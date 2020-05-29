@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-21"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Todo Mundo Quase Morto"
 ---

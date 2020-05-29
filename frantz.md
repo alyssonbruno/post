@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-05-26"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Frantz"
 ---

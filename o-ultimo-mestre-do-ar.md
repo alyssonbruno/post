@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-08-20"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "O Último Mestre do Ar"
 ---

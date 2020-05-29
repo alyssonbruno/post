@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-23"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Garota no Trem"
 ---

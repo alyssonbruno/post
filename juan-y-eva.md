@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-02-15"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Juan e Evita Uma História de Amor"
 ---

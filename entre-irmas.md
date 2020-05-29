@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-10-02"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Entre Irmãs"
 ---

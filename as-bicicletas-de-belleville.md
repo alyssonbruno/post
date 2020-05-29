@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-07-23"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "As Bicicletas de Belleville"
 ---

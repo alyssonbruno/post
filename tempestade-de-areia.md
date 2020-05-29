@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-21"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Tempestade de Areia"
 ---

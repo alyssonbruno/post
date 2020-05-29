@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-23"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Menino que Fazia Rir"
 ---

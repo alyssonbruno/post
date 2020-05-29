@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-10-08"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "O Filme dos Espíritos"
 ---

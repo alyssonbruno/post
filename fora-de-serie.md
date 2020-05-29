@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-06-09"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Fora de Série"
 ---

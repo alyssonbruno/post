@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-04-11"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Jovem Frankenstein"
 ---

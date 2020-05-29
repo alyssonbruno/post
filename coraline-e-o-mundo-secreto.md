@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-11-29"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Coraline e o Mundo Secreto"
 ---

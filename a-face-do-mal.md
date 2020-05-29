@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-06-15"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Face do Mal"
 ---

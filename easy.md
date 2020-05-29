@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-23"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Easy"
 ---

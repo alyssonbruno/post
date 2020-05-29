@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-06"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "2 Perdidos Numa Noite Suja"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-29"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Clown"
 ---

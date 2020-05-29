@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-12-07"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Harry Potter e a Pedra Filosofal"
 ---

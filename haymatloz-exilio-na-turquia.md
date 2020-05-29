@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-31"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Haymatloz - Exílio na Turquia"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-17"
-stars: "4/5"
 tags: [ "draft", "series", "animes" ]
 title: "One Punch Man: Wanpanman"
 ---

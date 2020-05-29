@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-02"
-stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Better Call Saul (S05 E01)"
 ---

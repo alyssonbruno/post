@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-16"
-stars: "1/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Termômetro de Galileu"
 ---

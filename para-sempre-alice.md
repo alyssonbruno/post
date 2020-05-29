@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-02-14"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Para Sempre Alice"
 ---

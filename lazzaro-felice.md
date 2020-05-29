@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-12-18"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Lazzaro Felice"
 ---

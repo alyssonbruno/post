@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-08-23"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Kung Pow - O Mestre da Kung-Fu-São"
 ---

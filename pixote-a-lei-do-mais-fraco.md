@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-07"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Pixote: A Lei do Mais Fraco"
 ---

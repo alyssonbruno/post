@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-01-01"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Memórias de um Assassino"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-02-07"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Um Limite Entre Nós"
 ---

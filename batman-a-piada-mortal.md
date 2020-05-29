@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-07"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Batman: A Piada Mortal"
 ---

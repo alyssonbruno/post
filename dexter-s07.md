@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-11-09"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Dexter - Sétima Temporada"
 ---

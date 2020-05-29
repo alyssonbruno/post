@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-12-25"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Garoto"
 ---

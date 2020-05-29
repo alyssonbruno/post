@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-02"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Um Método Perigoso"
 ---

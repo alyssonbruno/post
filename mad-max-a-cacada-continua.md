@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-03-24"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Mad Max: A Caçada Continua"
 ---

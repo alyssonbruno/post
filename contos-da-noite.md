@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-06-22"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Contos da Noite"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-15"
-stars: "3/5"
 tags: [ "draft", "series", "essays" ]
 title: "Terrace House"
 ---

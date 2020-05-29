@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-07-01"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Harry e Sally"
 ---

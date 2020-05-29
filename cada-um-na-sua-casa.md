@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-25"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Cada Um Na Sua Casa"
 ---

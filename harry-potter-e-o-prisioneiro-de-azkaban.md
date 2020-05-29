@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-29"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Harry Potter e o Prisioneiro de Azkaban"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-01-12"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Atividade Paranormal Marcados pelo Mal"
 ---

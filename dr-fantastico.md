@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-08-06"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Dr. Fantástico"
 ---

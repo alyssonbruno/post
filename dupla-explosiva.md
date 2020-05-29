@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-08-24"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Dupla Explosiva"
 ---

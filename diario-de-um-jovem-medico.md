@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-12-01"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Diário de um Jovem Médico"
 ---

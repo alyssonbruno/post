@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-11-24"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Ópera de Paris"
 ---

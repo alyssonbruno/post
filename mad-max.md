@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-11-30"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Mad Max"
 ---

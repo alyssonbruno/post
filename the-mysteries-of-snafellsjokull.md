@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-04-02"
-stars: "3/5"
 tags: [ "draft", "shorts" ]
 title: "Le mystère du Snæfellsjökull"
 ---

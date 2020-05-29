@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-10-17"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Ruby Sparks A Namorada Perfeita"
 ---

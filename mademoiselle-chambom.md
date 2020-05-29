@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-05-14"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Mademoiselle Chambon"
 ---

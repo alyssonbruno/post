@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-06-01"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Piratas do Caribe Navegando em Águas Misteriosas"
 ---

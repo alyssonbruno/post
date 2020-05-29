@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-03-30"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Gabinete do Dr Caligari"
 ---

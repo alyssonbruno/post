@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-06-12"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Um Gato em Paris"
 ---

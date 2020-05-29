@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-11-26"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Senna"
 ---

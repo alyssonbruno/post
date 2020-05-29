@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-05-08"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Amante a Domicílio"
 ---

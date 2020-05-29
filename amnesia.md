@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-02-02"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Amnésia"
 ---

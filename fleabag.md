@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-11-18"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Fleabag"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-19"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Terror in Resonance"
 ---

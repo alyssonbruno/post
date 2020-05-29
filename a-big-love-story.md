@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-03"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Big Love Story"
 ---

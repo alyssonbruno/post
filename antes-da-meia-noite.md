@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-06-27"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Antes da Meia-Noite"
 ---

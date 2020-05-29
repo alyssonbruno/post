@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-04-04"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Big Stan Arrebentando na Prisão"
 ---

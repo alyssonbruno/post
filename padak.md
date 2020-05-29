@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-10-23"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Pa-dak pa-dak"
 ---

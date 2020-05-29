@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-04-27"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "As Mães de Chico Xavier"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-11-10"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Satânico Dr. No"
 ---

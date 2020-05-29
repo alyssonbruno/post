@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2017-07-09"
 revison: ['2017-08-03']
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Homem-Aranha: De Volta ao Lar"
 ---

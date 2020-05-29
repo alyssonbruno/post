@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-01-23"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "SOS Tem um Louco Solto no Espaço"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-06-29"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "O Mordomo de Preto"
 ---

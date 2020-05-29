@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-11-28"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Segredo da Cabana"
 ---

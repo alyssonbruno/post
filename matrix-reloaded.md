@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-05-06"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Matrix Reloaded"
 ---

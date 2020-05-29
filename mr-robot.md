@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-09-11"
-stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Mr. Robot"
 ---

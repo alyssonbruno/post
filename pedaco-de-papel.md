@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-11-03"
-stars: "3/5"
 tags: [ "draft", "shorts" ]
 title: "Pedaço de Papel"
 ---

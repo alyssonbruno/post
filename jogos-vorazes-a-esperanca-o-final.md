@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-22"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Jogos Vorazes: A Esperança - O Final"
 ---

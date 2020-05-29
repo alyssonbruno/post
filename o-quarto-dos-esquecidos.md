@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-11"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Quarto dos Esquecidos"
 ---

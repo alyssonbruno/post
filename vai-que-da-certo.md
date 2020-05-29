@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-04-08"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Vai que dá Certo"
 ---

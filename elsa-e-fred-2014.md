@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-02"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Elsa e Fred"
 ---

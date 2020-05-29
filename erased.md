@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-12-27"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Erased: Piloto"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-07-01"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Sense8 - Segunda Temporada"
 ---

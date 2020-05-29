@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-24"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Sete Psicopatas e um Shih Tzu"
 ---

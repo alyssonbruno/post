@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-04"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Afterlife"
 ---

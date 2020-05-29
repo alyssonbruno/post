@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-16"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Pele de Vênus"
 ---

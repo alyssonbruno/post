@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-23"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Shaun o Carneiro – O Filme – A Fazenda contra-ataca"
 ---

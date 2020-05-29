@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-06-23"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Guerra nas Estrelas (Star Wars Episódio IV: Uma Nova Esperança)"
 

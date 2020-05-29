@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-17"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Se Beber, Não Case! Parte II"
 ---

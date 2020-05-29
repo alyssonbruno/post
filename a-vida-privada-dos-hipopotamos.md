@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-04-19"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Vida Privada dos Hipopótamos"
 ---

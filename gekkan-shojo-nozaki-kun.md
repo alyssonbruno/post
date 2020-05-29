@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-05-16"
-stars: "3/5"
 tags: [ "draft", "series", "animes" ]
 title: "Gekkan Shojo Nozaki Kun"
 ---

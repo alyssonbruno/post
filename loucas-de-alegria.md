@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-17"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Loucas de Alegria"
 ---

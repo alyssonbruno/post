@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-04-26"
-stars: "1/5"
 tags: [ "draft", "series" ]
 title: "Special Primeira Temporada"
 ---

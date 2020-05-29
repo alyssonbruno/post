@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-09-07"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Garota Ideal"
 ---

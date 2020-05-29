@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-01"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Netflix Live"
 ---

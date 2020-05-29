@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 count: 2
 date: "2014-03-07"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Ela"
 ---

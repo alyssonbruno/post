@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-15"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Jogo da Imitação"
 ---

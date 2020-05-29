@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-06-27"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Pouco de Caos"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-05"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Além das Palavras"
 ---

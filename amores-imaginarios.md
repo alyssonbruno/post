@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-11-20"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Amores Imaginários"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-03-05"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Top Gang 2! - A Missão"
 ---

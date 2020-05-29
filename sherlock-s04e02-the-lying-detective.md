@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-16"
-stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Sherlock - Quarta Temporada, Episódio 2: The Lying Detective"
 ---

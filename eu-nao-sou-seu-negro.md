@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-31"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Eu Não Sou Seu Negro"
 ---

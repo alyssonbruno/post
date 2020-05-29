@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-05-31"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Cheiro do Ralo"
 ---

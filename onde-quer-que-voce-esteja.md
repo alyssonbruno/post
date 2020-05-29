@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-25"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Onde Quer Que Você Esteja"
 ---

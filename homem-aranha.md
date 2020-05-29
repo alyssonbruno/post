@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-07-28"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Homem-Aranha"
 ---

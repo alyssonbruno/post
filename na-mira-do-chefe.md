@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-07"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Na Mira do Chefe"
 ---

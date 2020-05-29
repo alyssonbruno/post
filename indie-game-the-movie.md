@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-06-17"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Indie Game The Movie"
 ---

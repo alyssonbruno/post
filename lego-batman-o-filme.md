@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-02-12"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "LEGO Batman: O Filme"
 ---

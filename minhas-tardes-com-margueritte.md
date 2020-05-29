@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-29"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Minhas Tardes com Margueritte"
 ---

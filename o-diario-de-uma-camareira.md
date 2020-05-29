@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-06"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Diario De Uma Camareira"
 ---

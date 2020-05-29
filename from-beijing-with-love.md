@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-12"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "From Beijing with Love"
 ---

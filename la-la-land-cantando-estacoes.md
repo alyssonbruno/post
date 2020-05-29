@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-27"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "La La Land: Cantando Estações"
 ---

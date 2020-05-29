@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-04-22"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Cake: Uma Razão para Viver"
 ---

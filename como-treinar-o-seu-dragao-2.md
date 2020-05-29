@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-06-19"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Como Treinar o Seu Dragão 2"
 ---

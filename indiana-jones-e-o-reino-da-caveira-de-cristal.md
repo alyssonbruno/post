@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-11-04"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Indiana Jones e o Reino da Caveira de Cristal"
 ---

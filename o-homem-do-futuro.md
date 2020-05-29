@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-09-11"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Homem do Futuro"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-17"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Caminho de Kandahar"
 ---

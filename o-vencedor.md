@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-04-02"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Vencedor"
 ---

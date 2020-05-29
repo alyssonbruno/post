@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-01-27"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Garotas do Calendário"
 ---

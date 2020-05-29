@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-27"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Back in Time"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-06-17"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Além da Escuridão Star Trek"
 ---

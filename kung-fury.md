@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-29"
-stars: "3/5"
 tags: [ "draft", "shorts" ]
 title: "Kung Fury"
 ---

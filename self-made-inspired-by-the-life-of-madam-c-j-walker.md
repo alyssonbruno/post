@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-27"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Self Made: Inspired by the Life of Madam C.J. Walker"
 ---

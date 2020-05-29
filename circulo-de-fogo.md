@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-08-10"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Círculo de Fogo"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-02-17"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Estrelas Além do Tempo"
 ---

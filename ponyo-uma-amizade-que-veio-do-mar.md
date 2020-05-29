@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-30"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Ponyo Uma Amizade que Veio do Mar"
 ---

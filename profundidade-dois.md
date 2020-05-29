@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-21"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Profundidade Dois"
 ---

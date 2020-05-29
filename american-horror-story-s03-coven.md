@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-28"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "História de Horror Americana - Coven"
 ---

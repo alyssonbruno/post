@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-03-04"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os 7 Suspeitos"
 ---

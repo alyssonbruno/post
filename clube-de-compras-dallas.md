@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-30"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Clube de Compras Dallas"
 ---

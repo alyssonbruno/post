@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-08-11"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Maldição do Demônio"
 ---

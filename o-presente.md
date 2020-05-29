@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-01-06"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "O Presente"
 ---

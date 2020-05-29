@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-14"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Príncipe da Pérsia As Areias do Tempo"
 ---

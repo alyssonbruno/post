@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-12"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Funcionário do Mês"
 ---

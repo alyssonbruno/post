@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-16"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Querida, Encolhi as Crianças"
 ---

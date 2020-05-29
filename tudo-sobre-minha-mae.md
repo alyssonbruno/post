@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-12-31"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Tudo Sobre Minha Mãe"
 ---

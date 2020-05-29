@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-02"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Batman vs Superman: A Origem da Justiça"
 ---

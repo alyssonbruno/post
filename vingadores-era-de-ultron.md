@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-05-05"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Vingadores: Era de Ultron"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-08-31"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Planeta dos Macacos A Origem"
 ---

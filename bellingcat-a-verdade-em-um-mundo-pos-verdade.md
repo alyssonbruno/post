@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-15"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Bellingcat: A Verdade Em Um Mundo Pós-Verdade"
 ---

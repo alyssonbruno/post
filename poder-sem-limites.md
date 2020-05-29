@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-03-14"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Poder sem Limites"
 ---

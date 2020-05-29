@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-07"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "O Renascimento do Parto"
 ---

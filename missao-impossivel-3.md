@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-03-18"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Missão Impossível: 3"
 ---

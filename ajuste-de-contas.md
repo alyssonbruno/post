@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-01-25"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Ajuste de Contas"
 ---

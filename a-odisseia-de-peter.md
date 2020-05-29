@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-10"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Odisseia de Peter"
 ---

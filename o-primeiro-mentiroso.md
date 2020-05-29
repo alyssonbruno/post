@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-07-20"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Primeiro Mentiroso"
 ---

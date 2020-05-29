@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-09-01"
-stars: "4/5"
 tags: [ "draft", "shorts" ]
 title: "Viagem à Lua"
 ---

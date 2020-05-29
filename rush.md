@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-20"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Rush: No Limite da Emoção"
 ---

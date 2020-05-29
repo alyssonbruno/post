@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-05-14"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Hairspray Em Busca da Fama"
 ---

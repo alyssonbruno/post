@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-09-09"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Jovens, Loucos e Rebeldes"
 ---

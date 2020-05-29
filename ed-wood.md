@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-08-23"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Ed Wood"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-05-18"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Punhos de Sangue"
 ---

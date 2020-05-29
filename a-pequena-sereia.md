@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-07-21"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Pequena Sereia"
 ---

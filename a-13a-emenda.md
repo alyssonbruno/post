@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-02-05"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "A 13a. Emenda"
 ---

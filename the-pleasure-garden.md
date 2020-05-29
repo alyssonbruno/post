@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-12-09"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "The Pleasure Garden"
 ---

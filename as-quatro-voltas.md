@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-11-06"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "As Quatro Voltas"
 ---

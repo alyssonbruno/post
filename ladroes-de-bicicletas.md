@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-06-18"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Ladrões de Bicicletas"
 ---

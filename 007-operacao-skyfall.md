@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-11-08"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "007 Operação Skyfall"
 ---

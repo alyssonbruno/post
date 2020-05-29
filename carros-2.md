@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-07-20"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Carros 2"
 ---

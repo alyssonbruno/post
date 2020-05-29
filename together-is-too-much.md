@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-02-01"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Together Is Too Much"
 ---

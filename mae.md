@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-09-15"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mãe!"
 ---

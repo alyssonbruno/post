@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-08-14"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "G.I. Joe A Origem de Cobra"
 ---

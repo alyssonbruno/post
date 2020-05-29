@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-25"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Flor do Deserto"
 ---

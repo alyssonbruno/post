@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-05"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Uma Mente Brilhante"
 ---

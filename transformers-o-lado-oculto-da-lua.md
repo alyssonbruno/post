@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-07-06"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Transformers O Lado Oculto da Lua"
 ---

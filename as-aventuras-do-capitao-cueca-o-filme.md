@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-10-21"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "As Aventuras Do Capitao Cueca O Filme"
 ---

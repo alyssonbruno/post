@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-12-19"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Liv e Igmar Uma História de Amor"
 ---

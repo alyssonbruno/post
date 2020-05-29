@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-02-04"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "País do Desejo"
 ---

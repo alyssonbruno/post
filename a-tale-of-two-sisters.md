@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-02-02"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Medo"
 ---

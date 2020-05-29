@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-02-04"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Chegada"
 ---

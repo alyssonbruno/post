@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-07-20"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Spartacus"
 ---

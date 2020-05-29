@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-08-17"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Batman O Cavaleiro das Trevas Ressurge"
 ---

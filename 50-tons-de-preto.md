@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-19"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "50 Tons de Preto"
 ---

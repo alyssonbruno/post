@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-02-10"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Paulistas"
 ---

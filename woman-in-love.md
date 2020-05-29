@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-04-18"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Woman in Love"
 ---

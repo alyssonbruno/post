@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-05"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Um Dia Perfeito"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-11-19"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Hackers"
 ---

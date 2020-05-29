@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-01"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Sharknado"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-29"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Safe"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-02"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Ovelha Negra"
 ---

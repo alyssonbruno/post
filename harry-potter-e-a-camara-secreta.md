@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-27"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Harry Potter e a Câmara Secreta"
 ---

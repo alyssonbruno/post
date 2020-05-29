@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-08-06"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Flores do Oriente"
 ---

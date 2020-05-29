@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-05-15"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Meu Amigo Totoro"
 ---

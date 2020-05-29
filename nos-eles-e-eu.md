@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-30"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Nós, Eles e Eu"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-29"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Pee-wee's Big Holiday"
 ---

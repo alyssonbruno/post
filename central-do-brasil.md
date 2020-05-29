@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-05"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Central do Brasil"
 ---

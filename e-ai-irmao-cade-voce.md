@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-07"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "E Aí, Meu Irmão, Cadê Você?"
 ---

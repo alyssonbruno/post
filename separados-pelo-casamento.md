@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-01-13"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Separados pelo Casamento"
 ---

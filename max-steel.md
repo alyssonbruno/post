@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-11"
-stars: "1/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Max Steel"
 ---

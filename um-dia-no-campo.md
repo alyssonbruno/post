@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-26"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Um Dia No Campo"
 ---

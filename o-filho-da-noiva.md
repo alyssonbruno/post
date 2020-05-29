@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-01-21"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Filho da Noiva"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-01-31"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Perfume A História de um Assassino"
 ---

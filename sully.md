@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-05"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Sully: O Herói do Rio Hudson"
 ---

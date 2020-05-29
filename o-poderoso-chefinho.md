@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-16"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Poderoso Chefinho"
 ---

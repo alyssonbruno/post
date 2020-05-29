@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-12-30"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Westworld S02 E01-04"
 ---

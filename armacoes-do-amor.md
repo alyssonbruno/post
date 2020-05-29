@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-06-12"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Armações do Amor"
 ---

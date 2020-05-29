@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-12-29"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Contato"
 ---

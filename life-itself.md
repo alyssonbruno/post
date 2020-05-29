@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-22"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Life Itself"
 ---

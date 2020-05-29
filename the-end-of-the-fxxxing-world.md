@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-02-06"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "The End Of The F***ing World"
 ---

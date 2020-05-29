@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-30"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Mulher de Preto 2: O Anjo da Morte"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-05-16"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Coincidências do Amor"
 ---

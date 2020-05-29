@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-04-26"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Todos os Paulos do Mundo"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-02-16"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Cinquenta Tons Mais Escuros"
 ---

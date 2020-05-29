@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-29"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Desde Que Otar Partiu"
 ---

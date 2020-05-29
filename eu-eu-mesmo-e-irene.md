@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-02-15"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Eu, Eu Mesmo e Irene"
 ---

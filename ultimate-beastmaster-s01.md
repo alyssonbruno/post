@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-04"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Ultimate Beastmaster - Primeira Temporada"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-19"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Identificação de Uma Mulher"
 ---

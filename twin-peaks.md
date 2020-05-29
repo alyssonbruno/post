@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-02-27"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Twin Peaks (2017)"
 ---

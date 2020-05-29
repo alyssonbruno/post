@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 count: 2
 date: "2013-03-05"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Indomável Sonhadora"
 ---

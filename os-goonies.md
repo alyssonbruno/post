@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-10-13"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Os Goonies"
 ---

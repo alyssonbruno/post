@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-01"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "My Hero Academia: 2 Heróis - O Filme"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-08-31"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Serpico"
 ---

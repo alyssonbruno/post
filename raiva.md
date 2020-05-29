@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-02-28"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Raiva"
 ---

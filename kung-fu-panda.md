@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-12-14"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Kung Fu Panda"
 ---

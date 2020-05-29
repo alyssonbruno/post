@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-28"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Os Pinguins de Madagascar"
 ---

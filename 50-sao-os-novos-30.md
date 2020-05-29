@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-07-11"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "50 São os Novos 30"
 ---

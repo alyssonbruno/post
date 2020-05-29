@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-12-24"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Terapia de Risco"
 ---

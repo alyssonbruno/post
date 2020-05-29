@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2020-05-19"
 draft: "true"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Pauline na Praia"
 ---

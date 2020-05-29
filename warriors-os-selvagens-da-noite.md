@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-08-02"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Warriors Os Selvagens da Noite"
 ---

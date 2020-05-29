@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-11-17"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Exterminador do Futuro: A Salvação"
 ---

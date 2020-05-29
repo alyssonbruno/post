@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-03-05"
-stars: "2/5"
 tags: [ "draft", "series" ]
 title: "Science of Star Wars - Primeira Temporada, Episódio 1"
 ---

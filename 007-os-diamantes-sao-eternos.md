@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-06-25"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "007 Os Diamantes São Eternos"
 ---

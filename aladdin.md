@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-05-20"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Aladdin"
 ---

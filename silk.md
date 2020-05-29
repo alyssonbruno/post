@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-01-18"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Silk"
 ---

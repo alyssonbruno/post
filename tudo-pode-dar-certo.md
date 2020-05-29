@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-04-30"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Tudo Pode Dar Certo"
 ---

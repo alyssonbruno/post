@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-01"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "The Battle Over Citizen Kane"
 ---

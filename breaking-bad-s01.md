@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-16"
-stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Breaking Bad - Primeira Temporada"
 ---

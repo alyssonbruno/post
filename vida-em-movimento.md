@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-02-26"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Vida em Movimento"
 ---

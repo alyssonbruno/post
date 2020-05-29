@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-14"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Independence Day: O Ressurgimento"
 ---

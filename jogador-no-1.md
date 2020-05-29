@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-04-11"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Jogador No. 1"
 ---

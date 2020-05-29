@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-05"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Samurai X 1: O Filme"
 ---

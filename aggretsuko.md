@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-16"
-stars: "4/5"
 tags: [ "draft", "series", "animes" ]
 title: "Aggretsuko"
 ---

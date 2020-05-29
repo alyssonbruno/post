@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-12-16"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Rosa Púrpura do Cairo"
 ---

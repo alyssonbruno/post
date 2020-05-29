@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-21"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Além da Ilusão"
 ---

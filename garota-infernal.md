@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-05-21"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Garota Infernal"
 ---

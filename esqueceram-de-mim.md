@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-10-13"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Esqueceram de Mim"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-05-21"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Quincas Berro d'Água"
 ---

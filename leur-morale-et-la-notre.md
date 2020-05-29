@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-03-04"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Leur morale... et la nôtre"
 ---

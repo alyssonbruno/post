@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-12"
-stars: "2/5"
 tags: [ "draft", "series" ]
 title: "Mais um Verão Americano (piloto)"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-03-22"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Fuga"
 ---

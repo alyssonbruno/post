@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-02-28"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Travelers"
 ---

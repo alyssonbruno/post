@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-11-09"
-stars: "2/5"
 tags: [ "draft", "series" ]
 title: "Dexter - O Final"
 ---

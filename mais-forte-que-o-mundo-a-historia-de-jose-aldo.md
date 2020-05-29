@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-14"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Mais Forte que o Mundo: A História de José Aldo"
 ---

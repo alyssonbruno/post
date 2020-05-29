@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-02"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Pequeno Nicolau"
 ---

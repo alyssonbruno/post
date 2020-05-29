@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-04-05"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Tipo Ruim"
 ---

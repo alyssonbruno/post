@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-25"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "300 A Ascensão do Império"
 ---

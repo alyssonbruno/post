@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-11"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Incrível História de Adaline"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-02-28"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Cinquenta Tons de Cinza"
 ---

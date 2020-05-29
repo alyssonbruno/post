@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-08-04"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Você Nunca Esteve Realmente Aqui"
 ---

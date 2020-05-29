@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-08-28"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Sequestro"
 ---

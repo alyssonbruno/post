@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-11"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Os Embalos de Sábado à Noite"
 ---

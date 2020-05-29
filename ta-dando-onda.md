@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-12-30"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Tá Dando Onda"
 ---

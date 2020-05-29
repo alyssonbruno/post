@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-03"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Garoto de Liverpool"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-06-10"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Black Mirror S05 E01 Striking Vipers"
 ---

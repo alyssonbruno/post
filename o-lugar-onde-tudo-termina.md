@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-11-22"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Lugar Onde Tudo Termina"
 ---

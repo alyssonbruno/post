@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-03-08"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Jonas e o Circo sem Lona"
 ---

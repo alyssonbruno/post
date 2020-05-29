@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-04-07"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Senhor das Armas"
 ---

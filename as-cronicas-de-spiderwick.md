@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-04-17"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "As Crônicas de Spiderwick"
 ---

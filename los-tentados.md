@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-10-26"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Los tentados"
 ---

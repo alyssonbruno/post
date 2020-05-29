@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-06"
-stars: "4/5"
 tags: [ "draft", "shorts" ]
 title: "O Jardim das Palavras"
 ---

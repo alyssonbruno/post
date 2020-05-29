@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-02-14"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Madrugada dos Mortos"
 ---

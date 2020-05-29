@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-04"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "O Golpista do Ano"
 ---

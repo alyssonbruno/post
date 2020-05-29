@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-09-17"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Sete Oportunidades"
 ---

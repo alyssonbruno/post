@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-16"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Vida Extra-Ordinária de Tarso de Castro"
 ---

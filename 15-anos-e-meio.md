@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-07-07"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "15 Anos e Meio"
 ---

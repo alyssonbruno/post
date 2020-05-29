@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-08-17"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "A Árvore da Vida"
 ---

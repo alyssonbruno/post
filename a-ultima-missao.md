@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-01-17"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Última Missão"
 ---

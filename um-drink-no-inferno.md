@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-09-19"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Um Drink no Inferno"
 ---

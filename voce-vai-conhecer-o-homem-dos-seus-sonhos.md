@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-11-26"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Você Vai Conhecer o Homem dos Seus Sonhos"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-01-15"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Antes de Dormir"
 ---

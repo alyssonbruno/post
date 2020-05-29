@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-07"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Cega Obsessão"
 ---

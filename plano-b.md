@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-06-11"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Plano B"
 ---

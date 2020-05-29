@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-04-24"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "A Marvada Carne"
 ---

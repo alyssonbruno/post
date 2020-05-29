@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-03-10"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Gnomeu e Julieta"
 ---

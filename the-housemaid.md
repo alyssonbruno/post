@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-07-08"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "The Housemaid"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-01-14"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Instinto"
 ---

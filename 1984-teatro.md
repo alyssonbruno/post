@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-26"
-stars: "4/5"
 tags: [ "draft", "play" ]
 title: "1984: A Peça"
 ---

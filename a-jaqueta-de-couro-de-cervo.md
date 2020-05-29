@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-12-21"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Jaqueta de Couro de Cervo"
 ---

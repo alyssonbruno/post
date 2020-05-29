@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-06-10"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Beijei uma Garota"
 ---

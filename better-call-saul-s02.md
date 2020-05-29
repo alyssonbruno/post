@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-04-22"
-stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Better Call Saul - Segunda Temporada"
 ---

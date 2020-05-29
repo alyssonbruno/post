@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-11-06"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Palhaço"
 ---

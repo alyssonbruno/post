@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-05"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Morangos Silvestres"
 ---

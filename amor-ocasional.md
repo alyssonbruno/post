@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-01-02"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Amor Ocasional"
 ---

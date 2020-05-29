@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-05-11"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Caminhos da Floresta"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-04-19"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Jogos Vorazes: A Esperança - Parte 1"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-03-21"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Fonte da Vida"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-07-18"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Refém da Paixão"
 ---

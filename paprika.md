@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-03-25"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Paprika"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-10-26"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Mistress America"
 ---

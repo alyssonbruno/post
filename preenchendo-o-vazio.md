@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-10-16"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Preenchendo o Vazio"
 ---

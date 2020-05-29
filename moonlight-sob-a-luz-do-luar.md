@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-12"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Moonlight: Sob a Luz do Luar"
 ---

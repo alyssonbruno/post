@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-07-05"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Julho Agosto"
 ---

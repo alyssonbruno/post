@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-06-23"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Traídos pelo Desejo"
 ---

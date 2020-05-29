@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-13"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Birdman ou (A Inesperada Virtude da Ignorância)"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-09-17"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Crush à Altura"
 ---

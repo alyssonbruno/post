@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 date: "2018-02-21"
 external: "true"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Operação Red Sparrow"
 ---

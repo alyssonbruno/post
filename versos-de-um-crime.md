@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-09-10"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Versos de Um Crime"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-12-02"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Jackass Apresenta: Vovô Sem Vergonha"
 ---

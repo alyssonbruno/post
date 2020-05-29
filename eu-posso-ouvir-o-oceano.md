@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-16"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Eu Posso Ouvir o Oceano"
 ---

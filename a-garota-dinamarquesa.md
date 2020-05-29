@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-12"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Garota Dinamarquesa"
 ---

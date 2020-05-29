@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-08-10"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Marcas do Passado"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-05-29"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Star Wars Episódio II Ataque dos Clones"
 ---

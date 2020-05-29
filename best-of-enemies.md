@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-17"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Best of Enemies"
 ---

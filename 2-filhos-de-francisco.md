@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-03-25"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "2 Filhos De Francisco A História De Zezé Di Camargo e Luciano"
 ---

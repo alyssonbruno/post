@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-11-02"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Igual a Tudo na Vida"
 ---

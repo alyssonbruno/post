@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-01-13"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Corpo e Alma"
 ---

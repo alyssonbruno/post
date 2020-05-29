@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-12-16"
-stars: "4/5"
 tags: [ "draft", "series" ]
 title: "Derren Brown: Apocalypse"
 ---

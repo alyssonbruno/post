@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-10-29"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Lost Holiday"
 ---

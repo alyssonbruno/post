@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-09-07"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Se Puder... Dirija!"
 ---

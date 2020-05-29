@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-06-08"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Na Próxima, Acerto no Coração"
 ---

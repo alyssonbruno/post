@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-11"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "The Lodger: A Story of the London Fog"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-10-07"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Djon Africa"
 ---

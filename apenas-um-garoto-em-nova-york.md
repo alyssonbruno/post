@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-11-29"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Apenas um Garoto em Nova York"
 ---

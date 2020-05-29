@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-11-28"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Com 007 Só Se Vive Duas Vezes"
 ---

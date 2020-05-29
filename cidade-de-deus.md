@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-30"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Cidade de Deus"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-11-03"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Indiana Jones e a Última Cruzada"
 ---

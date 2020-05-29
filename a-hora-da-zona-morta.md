@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-03-01"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "A Hora da Zona Morta"
 ---

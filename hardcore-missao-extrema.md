@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-16"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Hardcore: Missão Extrema"
 ---

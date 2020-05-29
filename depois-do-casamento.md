@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-02-22"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Depois do Casamento"
 ---

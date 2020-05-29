@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-12"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Fringe (piloto)"
 ---

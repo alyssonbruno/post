@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-13"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "House of Cards - Terceira Temporada"
 ---

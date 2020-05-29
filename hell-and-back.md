@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-13"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Hell and Back"
 ---

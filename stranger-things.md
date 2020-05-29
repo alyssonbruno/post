@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-08-04"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Stranger Things (e a irrelevância da bilheteria Netflixiana)"
 ---

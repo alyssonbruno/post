@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-08-02"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Minha Vida de Cachorro"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-09-15"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Final Space"
 ---

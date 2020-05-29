@@ -1,7 +1,6 @@
 ---
 categories: [ "blog" ]
 date: "2019-08-19"
-stars: "4/5"
 tags: [ "draft", "food" ]
 title: "Restaurante Tenda Do Nilo"
 ---

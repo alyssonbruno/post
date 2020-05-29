@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-06-09"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Como Vender Drogas Online (Rápido)"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-04-20"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Ciganos da Ciambra"
 ---

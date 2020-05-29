@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-01-28"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Filho de Saul"
 ---

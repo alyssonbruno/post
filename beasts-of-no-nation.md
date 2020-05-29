@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-11"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Beasts of No Nation"
 ---

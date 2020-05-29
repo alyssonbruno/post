@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-08-09"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Little Nick - Um Diabo Diferente"
 ---

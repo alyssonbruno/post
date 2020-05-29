@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-05-12"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Destino de Júpiter"
 ---

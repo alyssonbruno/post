@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-04-17"
-stars: "4/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Cidade do Futuro"
 ---

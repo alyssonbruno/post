@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-04-16"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Nota de 1000 Rúpias"
 ---

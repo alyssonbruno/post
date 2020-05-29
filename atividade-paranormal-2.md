@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-11-07"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Atividade Paranormal 2"
 ---

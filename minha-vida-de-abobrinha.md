@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-01-27"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Minha Vida de Abobrinha"
 ---

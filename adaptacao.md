@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-06-18"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Adaptação"
 ---

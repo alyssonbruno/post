@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-22"
-stars: "3/5"
 tags: [ "draft", "shorts" ]
 title: "What Did Jack Do?"
 ---

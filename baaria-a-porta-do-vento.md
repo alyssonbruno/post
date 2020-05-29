@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-09-17"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Baarìa - A Porta do Vento"
 ---

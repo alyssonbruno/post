@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-03-19"
-stars: "2/5"
 tags: [ "draft", "series" ]
 title: "Better Call Saul: Rest in Peace?"
 ---

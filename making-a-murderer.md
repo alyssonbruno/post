@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-02-07"
-stars: "5/5"
 tags: [ "draft", "series" ]
 title: "Making a Murderer"
 ---

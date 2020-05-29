@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-03-09"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "O Tigre e o Dragão: A Espada do Destino"
 ---

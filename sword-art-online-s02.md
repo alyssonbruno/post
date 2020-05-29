@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-04-16"
-stars: "3/5"
 tags: [ "draft", "series", "animes" ]
 title: "Sword Art Online - Segunda Temporada"
 ---

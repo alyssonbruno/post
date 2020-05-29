@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-07-29"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Querido Ex"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-10-29"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Hanami Cerejeiras em Flor"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-19"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "12 Anos de Escravidão"
 ---

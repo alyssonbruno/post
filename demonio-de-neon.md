@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-09-23"
-stars: "5/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Demônio de Neon"
 ---

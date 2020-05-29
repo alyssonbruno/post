@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-02-11"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Deixa Rolar"
 ---

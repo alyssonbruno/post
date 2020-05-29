@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2013-02-07"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "O Lado Bom da Vida"
 ---

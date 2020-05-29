@@ -2,7 +2,6 @@
 categories: [ "cinema" ]
 count: 2
 date: "2014-05-06"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Espetacular Homem-Aranha 2 A Ameaça de Electro"
 ---

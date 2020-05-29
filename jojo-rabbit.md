@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-02-27"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Jojo Rabbit"
 ---

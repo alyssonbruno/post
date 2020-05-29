@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-03-23"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Woody Allen: A Documentary"
 ---

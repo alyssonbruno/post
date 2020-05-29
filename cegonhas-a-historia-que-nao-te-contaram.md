@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-10-15"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Cegonhas - A História Que Não Te Contaram"
 ---

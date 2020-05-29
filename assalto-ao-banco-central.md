@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-08-23"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Assalto ao Banco Central"
 ---

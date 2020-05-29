@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-04-11"
-stars: "3/5"
 tags: [ "draft", "shorts" ]
 title: "O Dia em que Dorival Encarou a Guarda"
 ---

@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-12-18"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Histórias Cruzadas"
 ---

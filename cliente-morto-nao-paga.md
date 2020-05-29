@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-03-27"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Cliente Morto Não Paga"
 ---

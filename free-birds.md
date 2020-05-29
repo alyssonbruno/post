@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-08-15"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Free Birds"
 ---

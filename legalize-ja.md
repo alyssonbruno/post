@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-09-28"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Legalize Já! Amizade Nunca Morre"
 ---

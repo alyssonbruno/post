@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2017-02-14"
-stars: "2/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "BugiGangue no Espaço"
 ---

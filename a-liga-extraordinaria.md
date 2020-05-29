@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-01-01"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "A Liga Extraordinária"
 ---

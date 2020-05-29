@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2011-10-24"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "La muerte de Pinochet"
 ---

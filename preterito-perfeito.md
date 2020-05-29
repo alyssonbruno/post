@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-05-13"
-stars: "1/5"
 tags: [ "draft", "movies" ]
 title: "Pretérito Perfeito"
 ---

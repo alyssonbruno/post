@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-06-17"
-stars: "3/5"
 tags: [ "draft", "series" ]
 title: "Sense8 S02: Amor Vincit Omnia"
 ---

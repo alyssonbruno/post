@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-11-17"
-stars: "2/5"
 tags: [ "draft", "movies" ]
 title: "Nerve: Um Jogo Sem Regras"
 ---

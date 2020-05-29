@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-28"
-stars: "3/5"
 tags: [ "draft", "series", "animes" ]
 title: "Mob Psycho 100"
 ---

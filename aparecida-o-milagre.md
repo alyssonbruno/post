@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-12-19"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Aparecida O Milagre"
 ---

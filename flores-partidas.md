@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-05-07"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Flores Partidas"
 ---

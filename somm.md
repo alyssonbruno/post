@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2016-12-04"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "Somm"
 ---

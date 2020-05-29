@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2014-02-15"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "Os Homens que Encaravam Cabras"
 ---

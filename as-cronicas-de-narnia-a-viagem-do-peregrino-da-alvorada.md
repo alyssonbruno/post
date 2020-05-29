@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-10-21"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "As Crônicas de Nárnia A Viagem do Peregrino da Alvorada"
 ---

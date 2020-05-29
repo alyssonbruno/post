@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-09-05"
-stars: "3/5"
 tags: [ "draft", "movies" ]
 title: "O Vingador do Futuro"
 ---

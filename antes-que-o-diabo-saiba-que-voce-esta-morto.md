@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2012-05-02"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Antes que o Diabo Saiba que Você Está Morto"
 ---

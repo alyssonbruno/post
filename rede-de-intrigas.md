@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-12-27"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Rede de Intrigas"
 ---

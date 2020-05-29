@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2015-05-17"
-stars: "4/5"
 tags: [ "draft", "movies" ]
 title: "As Aventuras de Tintim"
 ---

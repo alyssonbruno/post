@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2018-05-03"
-stars: "3/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "A Câmera de Claire"
 ---

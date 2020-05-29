@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2019-08-24"
-stars: "1/5"
 tags: [ "draft", "movies" , "cinemaqui" ]
 title: "Trailer: Flordelis: Basta Uma Palavra Para Mudar"
 ---

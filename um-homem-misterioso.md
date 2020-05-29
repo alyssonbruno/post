@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2010-11-19"
-stars: "5/5"
 tags: [ "draft", "movies" ]
 title: "Um Homem Misterioso"
 ---
