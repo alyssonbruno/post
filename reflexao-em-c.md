@@ -4,23 +4,13 @@ date: "2008-06-30"
 tags: [ "draft",  ]
 title: "Reflexão em C++"
 ---
-O termo e conceito de "reflection)" (reflexão), muito usado em linguagens
-modernas, é a capacidade de um programa de observar e até de alterar sua
-própria estrutura. Bom, isso você pode ler na Wikipédia. O interessante
-é o que podemos usar desse conceito na linguagem C++.
+O termo e conceito de "reflection)" (reflexão), muito usado em linguagens modernas, é a capacidade de um programa de observar e até de alterar sua própria estrutura. Bom, isso você pode ler na Wikipédia. O interessante é o que podemos usar desse conceito na linguagem C++.
 
 Infelizmente não muito.
 
-O sistema de RTTI (Run Time Type Identification), a identificação de
-tipos em tempo de execução, seria o começo do reflection em C++. Foi
-um começo que não teve meio nem fim, mas existe na linguagem. Dessa
-forma podemos tirar algum proveito disso.
+O sistema de RTTI (Run Time Type Identification), a identificação de tipos em tempo de execução, seria o começo do reflection em C++. Foi um começo que não teve meio nem fim, mas existe na linguagem. Dessa forma podemos tirar algum proveito disso.
 
-Um leitor pediu para que eu falasse um pouco sobre essas coisas,
-especificamente como se faz para obter o nome da classe de onde estamos
-executando um determinado método. Para esse tipo de construção podemos
-usar o operado typeid, que retorna informações básicas sobre um tipo
-de acordo com um tipo, instância ou expressão:
+Um leitor pediu para que eu falasse um pouco sobre essas coisas, especificamente como se faz para obter o nome da classe de onde estamos executando um determinado método. Para esse tipo de construção podemos usar o operado typeid, que retorna informações básicas sobre um tipo de acordo com um tipo, instância ou expressão:
 
     #include <iostream>
     
@@ -28,12 +18,12 @@ de acordo com um tipo, instância ou expressão:
     
     int main()
     {
-	cout << typeid( int ).name() << endl;
+    	cout << typeid( int ).name() << endl;
     
-	int x;
-	cout << typeid( x ).name() << endl;
+    	int x;
+    	cout << typeid( x ).name() << endl;
     
-	cout << typeid( 2 + 2 ).name() << endl;
+    	cout << typeid( 2 + 2 ).name() << endl;
     }
     
      
@@ -41,8 +31,7 @@ de acordo com um tipo, instância ou expressão:
 
     
     C:\Tests>cl typeid.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08
-    for 80x86
+    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
     Copyright (C) Microsoft Corporation.  All rights reserved.
     
     /out:typeid.exe
@@ -51,10 +40,7 @@ de acordo com um tipo, instância ou expressão:
     C:\Tests>typeid.exe
     int
 
-Dessa forma, podemos nos aproveitar do fato que todo método
-não-estático possui a variável implícita this, do tipo "ponteiro
-constante para T", onde T é o tipo da classe que contém o método
-sendo chamado.
+Dessa forma, podemos nos aproveitar do fato que todo método não-estático possui a variável implícita this, do tipo "ponteiro constante para T", onde T é o tipo da classe que contém o método sendo chamado.
 
     #include <iostream>
     
@@ -62,19 +48,18 @@ sendo chamado.
     
     class MyClass
     {
-	public:
-		void MyMethod()
-		{
-			cout << typeid(*this).name() << "::MyMethod" <<
-			endl;
-		}
+    	public:
+    		void MyMethod()
+    		{
+    			cout << typeid(*this).name() << "::MyMethod" << endl;
+    		}
     };
     
     int main()
     {
-	MyClass myc;
+    	MyClass myc;
     
-	myc.MyMethod();
+    	myc.MyMethod();
     }
     
      
@@ -82,8 +67,7 @@ sendo chamado.
 
     
     C:\Tests>cl typeid-class.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08
-    for 80x86
+    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
     Copyright (C) Microsoft Corporation.  All rights reserved.
     
     /out:typeid-class.exe
@@ -93,9 +77,7 @@ sendo chamado.
 
 class MyClass::MyMethod
 
-Com classes não-polimórficas a coisa parece não ter muita utilidade. No
-entanto, essa mesma técnica pode ser aplicada em classes derivadas,
-uma vez que o operador typeid pode trabalhar em tempo de execução:
+Com classes não-polimórficas a coisa parece não ter muita utilidade. No entanto, essa mesma técnica pode ser aplicada em classes derivadas, uma vez que o operador typeid pode trabalhar em tempo de execução:
 
     #include <iostream>
     
@@ -103,12 +85,11 @@ uma vez que o operador typeid pode trabalhar em tempo de execução:
     
     class MyClass
     {
-	public:
-		virtual void MyMethod()
-		{
-			cout << typeid(*this).name() << "::MyMethod" <<
-			endl;
-		}
+    	public:
+    		virtual void MyMethod()
+    		{
+    			cout << typeid(*this).name() << "::MyMethod" << endl;
+    		}
     };
     
     class MyDerivatedClass1 : public MyClass { };
@@ -117,11 +98,11 @@ uma vez que o operador typeid pode trabalhar em tempo de execução:
     
     int main()
     {
-	MyClass* myc1 = new MyDerivatedClass1;
-	MyClass* myc2 = new MyDerivatedClass2;
+    	MyClass* myc1 = new MyDerivatedClass1;
+    	MyClass* myc2 = new MyDerivatedClass2;
     
-	myc1->MyMethod();
-	myc2->MyMethod();
+    	myc1->MyMethod();
+    	myc2->MyMethod();
     }
     
      
@@ -129,8 +110,7 @@ uma vez que o operador typeid pode trabalhar em tempo de execução:
 
     
     C:\Tests>cl typeid-class2.cpp
-    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08
-    for 80x86
+    Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
     Copyright (C) Microsoft Corporation.  All rights reserved.
     
     /out:typeid-class2.exe
@@ -140,6 +120,4 @@ uma vez que o operador typeid pode trabalhar em tempo de execução:
 
     class MyDerivatedClass1::MyMethod class MyDerivatedClass2::MyMethod
 
-Apenas se lembre de ter de fato uma classe polimórfica (eu consegui
-isso tornando MyMethod uma função virtual). Do contrário você pode
-ter problemas.
+Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornando MyMethod uma função virtual). Do contrário você pode ter problemas.

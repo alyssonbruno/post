@@ -4,11 +4,7 @@ date: "2010-01-11"
 tags: [ "draft",  ]
 title: "Importando tipos de outros projetos"
 ---
-A engenharia reversa das entranhas do kernel não tem limites se você
-sabe o que está fazendo. No entanto, algumas facilidades do depurador
-podem ajudar a minimizar o tempo que gastamos para analisar uma simples
-estrutura. Por exemplo, o Process Environment Block de um processo
-específico.
+A engenharia reversa das entranhas do kernel não tem limites se você sabe o que está fazendo. No entanto, algumas facilidades do depurador podem ajudar a minimizar o tempo que gastamos para analisar uma simples estrutura. Por exemplo, o Process Environment Block de um processo específico.
 
     
     windbg -kl
@@ -17,17 +13,13 @@ específico.
     Copyright (c) Microsoft Corporation. All rights reserved.
     
     Connected to Windows XP 2600 x86 compatible target, ptr64 FALSE
-    Symbol search path is:
-    SRV*c:\tools\symbols*http://msdl.microsoft.com/download/symbols
+    Symbol search path is: SRV*c:\tools\symbols*http://msdl.microsoft.com/download/symbols
     Executable search path is:
-    ******************************************************************
-    
+    *******************************************************************************
     WARNING: Local kernel debugging requires booting with kernel
     debugging support (/debug or bcdedit -debug on) to work optimally.
-    ******************************************************************
-    
-    Windows XP Kernel Version 2600 (Service Pack 3) MP (2 procs) Free
-    x86 compatible
+    *******************************************************************************
+    Windows XP Kernel Version 2600 (Service Pack 3) MP (2 procs) Free x86 compatible
     Product: WinNt, suite: TerminalServer SingleUserTS
     Built by: 2600.xpsp_sp3_gdr.090804-1435
     Kernel base = 0x804d7000 PsLoadedModuleList = 0x8055d720
@@ -38,33 +30,22 @@ específico.
     Copyright (c) Microsoft Corporation. All rights reserved.
     
     lkd> !process 0 0 notepad.exe
-    PROCESS 89068700  SessionId: 0  Cid: 0ec4    Peb: 7ffda000  ParentCid:
-    0b0c
+    PROCESS 89068700  SessionId: 0  Cid: 0ec4    Peb: 7ffda000  ParentCid: 0b0c
         DirBase: 0ac80a80  ObjectTable: e143a7d8  HandleCount: 152.
         Image: notepad.exe
 
-O comando !peb traz inúmeras informações sobre essa estrutura. Mas
-talvez estivéssemos interessados em coisas não mostradas por esse
-comando, mas que existem na estrutura.
+O comando !peb traz inúmeras informações sobre essa estrutura. Mas talvez estivéssemos interessados em coisas não mostradas por esse comando, mas que existem na estrutura.
 
-Nesse caso, podemos criar um projeto vazio que contenha a definição da
-estrutura como acreditamos que esteja na versão do kernel que estamos
-depurando.
+Nesse caso, podemos criar um projeto vazio que contenha a definição da estrutura como acreditamos que esteja na versão do kernel que estamos depurando.
 
-Compilamos e geramos um PDB (arquivo de símbolos) que contém a
-definição desse tipo. Tudo que precisamos fazer agora é carregar esse
-símbolo na sessão que estivermos depurando.
+Compilamos e geramos um PDB (arquivo de símbolos) que contém a definição desse tipo. Tudo que precisamos fazer agora é carregar esse símbolo na sessão que estivermos depurando.
 
-É claro que nosso executável não vai existir na sessão de kernel
-local, mas isso não importa. Podemos usar qualquer módulo carregado
-e usá-lo como host de nosso conjunto de símbolos:
+É claro que nosso executável não vai existir na sessão de kernel local, mas isso não importa. Podemos usar qualquer módulo carregado e usá-lo como host de nosso conjunto de símbolos:
 
     
     lkd> lm
     start    end        module name
-    804d7000 806e5000   nt         (pdb symbols)
-    c:\tools\symbols\ntkrpamp.pdb\D87432\ntkrpamp.pdb
-    
+    804d7000 806e5000   nt         (pdb symbols)          c:\tools\symbols\ntkrpamp.pdb\D8743252F83B4F59985D6E19F33BFCAF1\ntkrpamp.pdb
     
     Unloaded modules:
     a5513000 a553e000   kmixer.sys
@@ -81,19 +62,15 @@ e usá-lo como host de nosso conjunto de símbolos:
     babe8000 babed000   Flpydisk.SYS
     babe0000 babe7000   Fdc.SYS 
     
-    ------ Build started: Project: KernelTypes, Configuration: Debug
-    Win32 ------
+    ------ Build started: Project: KernelTypes, Configuration: Debug Win32 ------
     Compiling...
     KernelTypes.cpp
     Linking...
-    LINK : program database c:\Tests\KernelTypes\Debug\KernelTypes.pdb
-    missing; performing full link
+    LINK : program database c:\Tests\KernelTypes\Debug\KernelTypes.pdb missing; performing full link
     Embedding manifest...
-    Build log was saved at
-    "file://c:\Tests\KernelTypes\Debug\BuildLog.htm"
+    Build log was saved at "file://c:\Tests\KernelTypes\Debug\BuildLog.htm"
     KernelTypes - 0 error(s), 0 warning(s)
-    ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped
-    ==========
+    ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
     
     Microsoft Windows XP [versÎáÎ÷Îýo 5.1.2600]
     (C) Copyright 1985-2001 Microsoft Corp.
@@ -105,13 +82,9 @@ e usá-lo como host de nosso conjunto de símbolos:
     lkd> .reload /i /f usbstor.sys
     lkd> lm m usb*
     start    end        module name
-    bac60000 bac66700   USBSTOR  M (private pdb symbols)
-    C:\Tests\KernelTypes\Debug\usbstor.pdb
+    bac60000 bac66700   USBSTOR  M (private pdb symbols)  C:\Tests\KernelTypes\Debug\usbstor.pdb
 
-Depois que o símbolo foi carregado em nosso módulo de mentirinha,
-tudo que temos a fazer é alterar o contexto do processo atual (para
-que os endereços de user mode façam sentido) e moldar nossa memória
-com o comando dt, usando o tipo importado do símbolo carregado.
+Depois que o símbolo foi carregado em nosso módulo de mentirinha, tudo que temos a fazer é alterar o contexto do processo atual (para que os endereços de user mode façam sentido) e moldar nossa memória com o comando dt, usando o tipo importado do símbolo carregado.
 
     
     lkd> .process 89068700
@@ -139,13 +112,6 @@ com o comando dt, usando o tipo importado do símbolo carregado.
        +0x03c TlsExpansionCounter : 0
     ...
 
-Para que isso funcione, a estrutura definida tem que bater offset por
-offset com os dados na memória, o que envolve alinhamento (se lembre
-do pragma pack) e versionamento corretos. Se isso não ocorrer, logo
-aparecerá algum lixo nos membros da estrutura que não fará sentido. Se
-isso ocorrer, detecte onde o lixo começa e verifique se o membro existe
-nessa versão do sistema operacional, ou se o alinhamento está de acordo
-com o módulo analisado.
+Para que isso funcione, a estrutura definida tem que bater offset por offset com os dados na memória, o que envolve alinhamento (se lembre do pragma pack) e versionamento corretos. Se isso não ocorrer, logo aparecerá algum lixo nos membros da estrutura que não fará sentido. Se isso ocorrer, detecte onde o lixo começa e verifique se o membro existe nessa versão do sistema operacional, ou se o alinhamento está de acordo com o módulo analisado.
 
-Acho que não é preciso dizer que isso não serve apenas para kernel
-mode =)
+Acho que não é preciso dizer que isso não serve apenas para kernel mode =)

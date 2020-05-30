@@ -4,28 +4,13 @@ date: "2015-01-21"
 tags: [ "draft", "ccppbr" ]
 title: "RIP, Alberto"
 ---
-Acho que como muitos aqui de vocês, eu sou (fui?) um fã condicional de
-Alberto Fabiano, o mestre em várias coisas, não se restringindo apenas
-à informática. Alberto, é preciso dizer, foi um hacker de verdade.
+Acho que como muitos aqui de vocês, eu sou (fui?) um fã condicional de Alberto Fabiano, o mestre em várias coisas, não se restringindo apenas à informática. Alberto, é preciso dizer, foi um hacker de verdade.
 
-Ultimamente ando fuçando nas minhas mensagens do GMail procurando
-por posts que se perderam no tempo. Acabei encontrando um email que o
-Alberto me mandou em 2006 comparando nossas evoluções na área. Não
-é preciso dizer que a minha evolução ficou para trás em algumas
-centenas de anos perto dele, mas mesmo assim ele teve a "humildade"
-e uma infinita modéstia de comparar-nos em alguns aspectos de nossas
-vidas profissionais, como termos começado a programar com Quick BASIC
-e gostar de Segurança da Informação.
+Ultimamente ando fuçando nas minhas mensagens do GMail procurando por posts que se perderam no tempo. Acabei encontrando um email que o Alberto me mandou em 2006 comparando nossas evoluções na área. Não é preciso dizer que a minha evolução ficou para trás em algumas centenas de anos perto dele, mas mesmo assim ele teve a "humildade" e uma infinita modéstia de comparar-nos em alguns aspectos de nossas vidas profissionais, como termos começado a programar com Quick BASIC e gostar de Segurança da Informação.
 
-Não fiz nenhum post à época da sua morte porque não achei adequado,
-nem o momento. Porém, de vez em quando, acredito que é necessário
-se lembrar dos melhores, assim como muitos de nós fizeram com o mestre
-Dennis Ritchie um tempo atrás.
+Não fiz nenhum post à época da sua morte porque não achei adequado, nem o momento. Porém, de vez em quando, acredito que é necessário se lembrar dos melhores, assim como muitos de nós fizeram com o mestre Dennis Ritchie um tempo atrás.
 
-Portanto, segue o email, e uma pequena lembrança. Que a sabedoria do
-Alberto esteja de alguma forma infectando o Universo e que seus átomos
-em milhões ou bilhões de anos reconstruam mais Albertos para espalhar
-inteligência e bom senso por todo o mundo.
+Portanto, segue o email, e uma pequena lembrança. Que a sabedoria do Alberto esteja de alguma forma infectando o Universo e que seus átomos em milhões ou bilhões de anos reconstruam mais Albertos para espalhar inteligência e bom senso por todo o mundo.
 
 > Olá Caloni,
 > 

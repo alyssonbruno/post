@@ -4,14 +4,7 @@ date: "2018-05-21"
 tags: [ "draft",  ]
 title: "Boost Meta State Machine"
 ---
-O Boost Meta State Machine (MSM for short) é uma das duas bibliotecas
-mais famosinhas de state machine do Boost. Ela é uma versão estática
-que permite incluir chamadas para as entradas e saídas de um estado
-baseado em eventos. A sua principal vantagem é poder visualizar toda
-a máquina de estado em um só lugar, e sua principal desvantagem é
-pertecer ao Boost, o que quer dizer que você vai precisar fazer seu
-terceiro doutorado e ler uma documentação imensa sobre UML antes de
-conseguir produzir alguma coisa. Ou ler este artigo de 10 minutos tops.
+O Boost Meta State Machine (MSM for short) é uma das duas bibliotecas mais famosinhas de state machine do Boost. Ela é uma versão estática que permite incluir chamadas para as entradas e saídas de um estado baseado em eventos. A sua principal vantagem é poder visualizar toda a máquina de estado em um só lugar, e sua principal desvantagem é pertecer ao Boost, o que quer dizer que você vai precisar fazer seu terceiro doutorado e ler uma documentação imensa sobre UML antes de conseguir produzir alguma coisa. Ou ler este artigo de 10 minutos tops.
 
     #include <iostream>
     
@@ -70,8 +63,7 @@ conseguir produzir alguma coisa. Ou ler este artigo de 10 minutos tops.
                 template <class Fsm>
                 void on_exit(Events::Event2 const& evt, Fsm&) const
                 {
-                    cout << "on_exit On Event2 (with data " << evt.data <<
-                    ")\n";
+                    cout << "on_exit On Event2 (with data " << evt.data << ")\n";
                 }
             };
     
@@ -99,18 +91,12 @@ conseguir produzir alguma coisa. Ou ler este artigo de 10 minutos tops.
             typedef On initial_state; // On is the start
     
             struct transition_table :mpl::vector<
-                //          Start      Event                     Next
-                Action                      Guard
-                msmf::Row < On,        Events::Event1,           On,
-                msmf::none, msmf::none >,
-                msmf::Row < On,        Events::Event2,           Tick,
-                msmf::none, msmf::none >,
-                msmf::Row < Tick,      Events::Event3,           Tick,
-                msmf::none, msmf::none >,
-                msmf::Row < Tick,      Events::Event1,           On,
-                msmf::none, msmf::none >,
-                msmf::Row < Tick,      Events::Event2,           Off,
-                msmf::none, msmf::none >
+                //          Start      Event                     Next               Action                      Guard
+                msmf::Row < On,        Events::Event1,           On,                msmf::none, msmf::none >,
+                msmf::Row < On,        Events::Event2,           Tick,              msmf::none, msmf::none >,
+                msmf::Row < Tick,      Events::Event3,           Tick,              msmf::none, msmf::none >,
+                msmf::Row < Tick,      Events::Event1,           On,                msmf::none, msmf::none >,
+                msmf::Row < Tick,      Events::Event2,           Off,               msmf::none, msmf::none >
             > {};
         };
     
@@ -133,29 +119,18 @@ conseguir produzir alguma coisa. Ou ler este artigo de 10 minutos tops.
         MyStateMachine::TestPathway();
     }
 
-A parte bonitinha de se ver é os eventos e estados completamente
-ordenados:
+A parte bonitinha de se ver é os eventos e estados completamente ordenados:
 
     struct transition_table :mpl::vector<
-        //          Start      Event                     Next
-        Action                      Guard
-        msmf::Row < On,        Events::Event1,           On,
-        msmf::none, msmf::none >,
-        msmf::Row < On,        Events::Event2,           Tick,
-        msmf::none, msmf::none >,
-        msmf::Row < Tick,      Events::Event3,           Tick,
-        msmf::none, msmf::none >,
-        msmf::Row < Tick,      Events::Event1,           On,
-        msmf::none, msmf::none >,
-        msmf::Row < Tick,      Events::Event2,           Off,
-        msmf::none, msmf::none >
+        //          Start      Event                     Next               Action                      Guard
+        msmf::Row < On,        Events::Event1,           On,                msmf::none, msmf::none >,
+        msmf::Row < On,        Events::Event2,           Tick,              msmf::none, msmf::none >,
+        msmf::Row < Tick,      Events::Event3,           Tick,              msmf::none, msmf::none >,
+        msmf::Row < Tick,      Events::Event1,           On,                msmf::none, msmf::none >,
+        msmf::Row < Tick,      Events::Event2,           Off,               msmf::none, msmf::none >
     > {};
 
-Claro que a indentação ajuda. Para cada entrada e saída de um estado
-é possível utilizar os métodos onentry e onexit de cada struct que
-define um estado, seja este método um template totalmente genérico ou
-especificado por evento (e cada evento também é um struct, com direito
-a dados específicos).
+Claro que a indentação ajuda. Para cada entrada e saída de um estado é possível utilizar os métodos onentry e onexit de cada struct que define um estado, seja este método um template totalmente genérico ou especificado por evento (e cada evento também é um struct, com direito a dados específicos).
 
     template <class Event, class Fsm>
     void on_entry(Event const&, Fsm&) const
@@ -181,26 +156,17 @@ a dados específicos).
         cout << "on_exit On Event2 (with data " << evt.data << ")\n";
     }
 
-Quando é criada uma nova máquina de estados o estado inicial é
-chamado pelo evento onentry genérico. Como sabemos qual é o estado
-inicial? Isso é definido pelo typedef initialstate dentro da classe da
-máquina de estado (que deve herdar de statemachinedef no estilo WTL,
-com sobrecarga estática):
+Quando é criada uma nova máquina de estados o estado inicial é chamado pelo evento onentry genérico. Como sabemos qual é o estado inicial? Isso é definido pelo typedef initialstate dentro da classe da máquina de estado (que deve herdar de statemachinedef no estilo WTL, com sobrecarga estática):
 
     struct StateMachine :msmf::state_machine_def<StateMachine>
     //...
     typedef On initial_state; // On is the start
 
-O estado final também é definido, mas por herança. O estado final,
-que também é uma struct, deve herdar de terminatestate:
+O estado final também é definido, mas por herança. O estado final, que também é uma struct, deve herdar de terminatestate:
 
     struct Off :msmf::terminate_state<>
 
-A partir daí o método processevent serve para enviar eventos à máquina
-de estado que irá alterar seu estado dependendo do fluxo criado no
-nome transitiontable dentro da máquina de estado (a tabelinha que vimos
-acima). A partir daí tudo é possível; a máquina de estado está à
-solta:
+A partir daí o método processevent serve para enviar eventos à máquina de estado que irá alterar seu estado dependendo do fluxo criado no nome transitiontable dentro da máquina de estado (a tabelinha que vimos acima). A partir daí tudo é possível; a máquina de estado está à solta:
 
     int TestPathway()
     {
@@ -215,8 +181,4 @@ solta:
         return 0;
     }
 
-Mas nesse exemplo didático está comportada em uma função apenas. Claro
-que cada método recebe a própria máquina de estado para ter a chance
-de alterá-la, ou guardá-la para uso futuro. Ela é recebida como
-parâmetro assim como o evento. E o evento, por ser uma struct também,
-pode conter outros dados relevantes para a transição.
+Mas nesse exemplo didático está comportada em uma função apenas. Claro que cada método recebe a própria máquina de estado para ter a chance de alterá-la, ou guardá-la para uso futuro. Ela é recebida como parâmetro assim como o evento. E o evento, por ser uma struct também, pode conter outros dados relevantes para a transição.

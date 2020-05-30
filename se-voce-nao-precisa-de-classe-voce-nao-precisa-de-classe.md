@@ -40,23 +40,11 @@ Dentro de MyClass a seguinte estrutura:
 
 Então eu me pergunto: qual a função da classe em um código desses?
 
-Bjarne Stroustrup desde o começo, em seu livro The C++ Programming
-Language, sugere que C++ não é uma linguagem unicamente orientada
-a objetos, mas multi-paradigmas. Hoje, em 2017, ela é uma linguagem
-genérica e até funcional. Na época poderia ser usada como orientada a
-objetos, mas também como estruturada e imperativa comum. O goto funciona
-até hoje.
+Bjarne Stroustrup desde o começo, em seu livro The C++ Programming Language, sugere que C++ não é uma linguagem unicamente orientada a objetos, mas multi-paradigmas. Hoje, em 2017, ela é uma linguagem genérica e até funcional. Na época poderia ser usada como orientada a objetos, mas também como estruturada e imperativa comum. O goto funciona até hoje.
 
-Então o erro no código acima é supor mecanicamente que como é C++
-precisa ter classe. Não. O código não precisa ter uma classe. No
-entanto, seu código precisa ter classe. Entendeu?
+Então o erro no código acima é supor mecanicamente que como é C++ precisa ter classe. Não. O código não precisa ter uma classe. No entanto, seu código precisa ter classe. Entendeu?
 
-Ter classe é para poucos. É para programadores que se preocupam com a
-relação entre funcionalidade, estilo, arquitetura e todos os inúmeros
-elementos que tornam um código perfeito. Para ser perfeito, um código
-precisa levar em conta tantos elementos que apenas um programador
-acordado, obsessivo, fora da matrix, conseguiria observar o que deve
-ser feito.
+Ter classe é para poucos. É para programadores que se preocupam com a relação entre funcionalidade, estilo, arquitetura e todos os inúmeros elementos que tornam um código perfeito. Para ser perfeito, um código precisa levar em conta tantos elementos que apenas um programador acordado, obsessivo, fora da matrix, conseguiria observar o que deve ser feito.
 
 Uma pequena sugestão:
 
@@ -77,10 +65,6 @@ Uma pequena sugestão:
     HRESULT cmd2();
     // você pegou a ideia
 
-É a melhor solução? Não. Só uma ideia para tornar o código simples
-de entender, enxuto para manter, com apenas o modelito básico. Tem
-até um map para evitar encher de ifs. Mas não precisaria se você tem
-meia-dúzia de funções.
+É a melhor solução? Não. Só uma ideia para tornar o código simples de entender, enxuto para manter, com apenas o modelito básico. Tem até um map para evitar encher de ifs. Mas não precisaria se você tem meia-dúzia de funções.
 
-E note que eu disse funções, não classe. E é possível ter classe
-sem classes.
+E note que eu disse funções, não classe. E é possível ter classe sem classes.

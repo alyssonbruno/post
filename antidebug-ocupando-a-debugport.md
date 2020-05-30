@@ -4,12 +4,7 @@ date: "2007-08-23"
 tags: [ "draft",  ]
 title: "Antidebug: ocupando a DebugPort"
 ---
-Quando um depurador inicia um processo para ser depurado ou, o caso
-abordado por este artigo, se conecta em um processo já iniciado,
-as comunicações entre esses dois processos é feita através de um
-recurso interno do Windows chamado de LPC (Local Procedure Call). O
-sistema cria uma "porta mágica" de comunicação específica para a
-depuração e os eventos trafegam por meio dela.
+Quando um depurador inicia um processo para ser depurado ou, o caso abordado por este artigo, se conecta em um processo já iniciado, as comunicações entre esses dois processos é feita através de um recurso interno do Windows chamado de LPC (Local Procedure Call). O sistema cria uma "porta mágica" de comunicação específica para a depuração e os eventos trafegam por meio dela.
 
 Entre esses eventos podemos citar os seguintes:
 
@@ -28,53 +23,42 @@ Entre esses eventos podemos citar os seguintes:
     
   * Saída do processo
 
-No caso de se conectar em um processo já existente, é chamada a função
-da API DebugActiveProcess. A partir dessa chamada, se retornado sucesso, o
-processo que depura agora está liberado para ficar chamando continuamente
-a função API WaitForDebugEvent. E o código se resume a isto:
+No caso de se conectar em um processo já existente, é chamada a função da API DebugActiveProcess. A partir dessa chamada, se retornado sucesso, o processo que depura agora está liberado para ficar chamando continuamente a função API WaitForDebugEvent. E o código se resume a isto:
 
     void DebugLoop()
     {
-	bool exitLoop = false;
+    	bool exitLoop = false;
     
-	while( ! exitLoop )
-	{
-		DEBUG_EVENT debugEvt;
+    	while( ! exitLoop )
+    	{
+    		DEBUG_EVENT debugEvt;
     
-		// Wait for some debug event.
-		WaitForDebugEvent(&debugEvt, INFINITE);
+    		// Wait for some debug event.
+    		WaitForDebugEvent(&debugEvt, INFINITE);
     
-		// Let us see what it is about.
-		switch( debugEvt.dwDebugEventCode )
-		{
-			// This one...
+    		// Let us see what it is about.
+    		switch( debugEvt.dwDebugEventCode )
+    		{
+    			// This one...
     
-			// That one...
+    			// That one...
     
-			// Process is going out. We get out the loop
-			and go away.
-			case EXIT_PROCESS_DEBUG_EVENT:
-			exitLoop = true;
-			break;
-		}
+    			// Process is going out. We get out the loop and go away.
+    			case EXIT_PROCESS_DEBUG_EVENT:
+    			exitLoop = true;
+    			break;
+    		}
     
-		// We need to unfreeze the thread who sent the debug
-		event.
-		// Otherwise, it stays frozen forever!
-		ContinueDebugEvent(debugEvt.dwProcessId,
-		debugEvt.dwThreadId, DBG_EXCEPTION_NOT_HANDLED);
-	}
+    		// We need to unfreeze the thread who sent the debug event.
+    		// Otherwise, it stays frozen forever!
+    		ContinueDebugEvent(debugEvt.dwProcessId, debugEvt.dwThreadId, DBG_EXCEPTION_NOT_HANDLED);
+    	}
     } 
     
 
-O detalhe interessante desse processo de comunicação depurador/depurado
-é que um processo só pode ser depurado por apenas UM depurador. Ou
-seja, enquanto houver um processo depurando outro, os outros processos
-só ficam na vontade.
+O detalhe interessante desse processo de comunicação depurador/depurado é que um processo só pode ser depurado por apenas UM depurador. Ou seja, enquanto houver um processo depurando outro, os outros processos só ficam na vontade.
 
-Partindo desse princípio, podemos imaginar uma proteção baseada nessa
-exclusividade, criando um processo protetor que conecta no processo
-protegido e o "depura":
+Partindo desse princípio, podemos imaginar uma proteção baseada nessa exclusividade, criando um processo protetor que conecta no processo protegido e o "depura":
 
     /** @brief Antidebug protection based on DebugPort aquisition.
     * @author Wanderley Caloni (wanderley@caloni.com.br)
@@ -87,71 +71,68 @@ protegido e o "depura":
     */
     DWORD DebugLoop()
     {
-	DWORD ret = ERROR_SUCCESS;
-	bool exitLoop = false;
+    	DWORD ret = ERROR_SUCCESS;
+    	bool exitLoop = false;
     
-	while( ! exitLoop )
-	{
-		DEBUG_EVENT debugEvt;
+    	while( ! exitLoop )
+    	{
+    		DEBUG_EVENT debugEvt;
     
-		WaitForDebugEvent(&debugEvt, INFINITE);
+    		WaitForDebugEvent(&debugEvt, INFINITE);
     
-		switch( debugEvt.dwDebugEventCode )
-		{
-			// Process going out. We get out the loop and
-			leave.
-			case EXIT_PROCESS_DEBUG_EVENT:
-			exitLoop = true;
+    		switch( debugEvt.dwDebugEventCode )
+    		{
+    			// Process going out. We get out the loop and leave.
+    			case EXIT_PROCESS_DEBUG_EVENT:
+    			exitLoop = true;
     
-			break;
-		}
+    			break;
+    		}
     
-		// Necessary, since the current thread is frozen.
-		ContinueDebugEvent(debugEvt.dwProcessId,
-		debugEvt.dwThreadId, DBG_EXCEPTION_NOT_HANDLED);
-	}
+    		// Necessary, since the current thread is frozen.
+    		ContinueDebugEvent(debugEvt.dwProcessId, debugEvt.dwThreadId, DBG_EXCEPTION_NOT_HANDLED);
+    	}
     
-	return ret;
+    	return ret;
     }
     
-    /* Attachs to the protected process againt debugging. Actually,
-    we protect it
+    /* Attachs to the protected process againt debugging. Actually, we protect it
     againt debugging being its debugger.
     */
     DWORD AntiAttach(DWORD pid)
     {
-	DWORD ret = ERROR_SUCCESS;
+    	DWORD ret = ERROR_SUCCESS;
     
-	if( pid )
-	{
-		BOOL dbgActProc;
+    	if( pid )
+    	{
+    		BOOL dbgActProc;
     
-		dbgActProc = DebugActiveProcess(pid);
+    		dbgActProc = DebugActiveProcess(pid);
     
-		if( dbgActProc )
-			DebugLoop();
-		else
-			ret = GetLastError();
-	}
-	else
-		ret = ERROR_INVALID_HANDLE;
+    		if( dbgActProc )
+    			DebugLoop();
+    		else
+    			ret = GetLastError();
+    	}
+    	else
+    		ret = ERROR_INVALID_HANDLE;
     
-	return ret;
+    	return ret;
     }
     
     /* In the beginning, God said: 'int main!'
     */
     int main(int argc, char* argv[])
     {
-	DWORD ret = ERROR_SUCCESS;
+    	DWORD ret = ERROR_SUCCESS;
     
-	if( argc > 1 )
-	{
-		DWORD pid = atoi(argv[1]);
-		ret = AntiAttach(pid);
-	}
+    	if( argc > 1 )
+    	{
+    		DWORD pid = atoi(argv[1]);
+    		ret = AntiAttach(pid);
+    	}
     
-	return (int) ret;
+    	return (int) ret;
     } 
     
 
@@ -172,27 +153,12 @@ Os passos para testar o código acima são:
     
   5. Tentar "atachar" no processo através do Visual C++.
 
-Após o processo de attach, a porta de debug é ocupada, e a comunicação
-entre depurador e depurado é feita através do LPC. Abaixo uma pequena
-ilustração de como as coisas ocorrem:
+Após o processo de attach, a porta de debug é ocupada, e a comunicação entre depurador e depurado é feita através do LPC. Abaixo uma pequena ilustração de como as coisas ocorrem:
 
-Basicamente o processo fica recebendo eventos de debug (através da
-fila de mensagens LPC) continuamente até o evento final, o de final de
-processo. Note que se alguém tentar derrubar o processo que depura o
-processo depurado cai junto.
+Basicamente o processo fica recebendo eventos de debug (através da fila de mensagens LPC) continuamente até o evento final, o de final de processo. Note que se alguém tentar derrubar o processo que depura o processo depurado cai junto.
 
-O ponto forte desse tipo de proteção é que não afeta a compreensão e
-a legibilidade do código. De fato o próprio código que "protege" está
-em outro processo. O fraco, eu diria, é a sua alta visibilidade. Todo
-mundo que tentar atacar verá dois processos serem criados; e isso já
-faz pensar...
+O ponto forte desse tipo de proteção é que não afeta a compreensão e a legibilidade do código. De fato o próprio código que "protege" está em outro processo. O fraco, eu diria, é a sua alta visibilidade. Todo mundo que tentar atacar verá dois processos serem criados; e isso já faz pensar...
 
-Por isso é necessário pensar bem na implementação. Particularmente uma
-coisa a ser bem arquitetada é a união entre depurador e depurado. Quanto
-melhor essas duas peças forem encaixadas, tão mais difícil será para o
-atacante separá-las. Uma idéia adicional é utilizar a mesma técnica na
-direção oposta, ou seja, o processo depurado se atachar no depurador.
+Por isso é necessário pensar bem na implementação. Particularmente uma coisa a ser bem arquitetada é a união entre depurador e depurado. Quanto melhor essas duas peças forem encaixadas, tão mais difícil será para o atacante separá-las. Uma idéia adicional é utilizar a mesma técnica na direção oposta, ou seja, o processo depurado se atachar no depurador.
 
-Dessa vez não vou afirmar que, uma vez entendido o problema, a solução
-torna-se óbvia. Isso porque ainda não pensei o suficiente para achar
-uma solução óbvia. Idéias?
+Dessa vez não vou afirmar que, uma vez entendido o problema, a solução torna-se óbvia. Isso porque ainda não pensei o suficiente para achar uma solução óbvia. Idéias?

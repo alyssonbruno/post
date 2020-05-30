@@ -4,58 +4,27 @@ date: "2016-06-04"
 tags: [ "draft",  ]
 title: "Palestra: Stack Overflow"
 ---
-Há umas semanas (sim, estava enrolado para falar sobre isso) ministrei
-uma nova palestra lá em Sorocaba. Cheguei no meio de uma greve de
-ônibus, o que atrasou o evento em uma hora e me deu tempo de sobre para
-pensar nas desgraças que serão cidades próximas da capital crescendo
-desordenadamente graças às regulações estatais.
+Há umas semanas (sim, estava enrolado para falar sobre isso) ministrei uma nova palestra lá em Sorocaba. Cheguei no meio de uma greve de ônibus, o que atrasou o evento em uma hora e me deu tempo de sobre para pensar nas desgraças que serão cidades próximas da capital crescendo desordenadamente graças às regulações estatais.
 
 Mas divago.
 
-A ideia da palestra foi do meu amigo Alan Silva (a.k.a. jumpi), e
-era para a SEMANA DA COMPUTAÇÃO E TECNOLOGIA -- mas nada tem a ver
-com computação, nem tecnologia, mas com oportunidade de emprego de
-estagiários para empresas corporativistas da área. O foco era sair
-da mesmisse que os representantes de R.H. fazem em falar de cultura,
-visão, valores e outras besteiras e falar um pouco mais de bits e bytes,
-algo que falta a essa geração.
+A ideia da palestra foi do meu amigo Alan Silva (a.k.a. jumpi), e era para a SEMANA DA COMPUTAÇÃO E TECNOLOGIA -- mas nada tem a ver com computação, nem tecnologia, mas com oportunidade de emprego de estagiários para empresas corporativistas da área. O foco era sair da mesmisse que os representantes de R.H. fazem em falar de cultura, visão, valores e outras besteiras e falar um pouco mais de bits e bytes, algo que falta a essa geração.
 
-Meu público era muito, muito jovem, e foquei erroneamente em conceitos
-muito, muito antigos para eles, então não tenho muita certeza se
-fui útil. De qualquer forma, foi um prazer falar sobre engenharia da
-computação atrelado a ataque na pilha de execução (sim, um salto
-enorme para baixo, do R.H. para a placa de memória RAM).
+Meu público era muito, muito jovem, e foquei erroneamente em conceitos muito, muito antigos para eles, então não tenho muita certeza se fui útil. De qualquer forma, foi um prazer falar sobre engenharia da computação atrelado a ataque na pilha de execução (sim, um salto enorme para baixo, do R.H. para a placa de memória RAM).
 
-O conteúdo e a palestra está no GitHub e a palestra em si pode ser
-vista logo abaixo; a apresentação do conteúdo está mais abaixo,
-e peço desculpas por não ter tido tempo de apresentar todo ele (mesmo
-com quase duas horas):
+O conteúdo e a palestra está no GitHub e a palestra em si pode ser vista logo abaixo; a apresentação do conteúdo está mais abaixo, e peço desculpas por não ter tido tempo de apresentar todo ele (mesmo com quase duas horas):
 
 http://www.slideshare.net/slideshow/embedcode/key/qRb4TSKjnf8Wx
 
-PS: Ah, esqueci. Também fiz um vídeo para complementar o conteúdo da
-palestra. Segue:
+PS: Ah, esqueci. Também fiz um vídeo para complementar o conteúdo da palestra. Segue:
 
 https://www.youtube.com/embed/kSKQQDTBRXQ?list=PLa0QVTprDkHBz6fjuzy4kU1iTLUnRWkeW
 
+Um StackOverflow é definido pela escrita em uma região não autorizada de memória. Stack overflow, overrun, etc, não interessando a nomenclatura "oficial", o importante aqui é como um bug de acesso à memória pode permitir acesso exclusivo a regiões de memória que não estariam disponíveis para um atacante se não fosse por esse bug.
 
-Um StackOverflow é definido pela escrita em uma região não
-autorizada de memória. Stack overflow, overrun, etc, não interessando
-a nomenclatura "oficial", o importante aqui é como um bug de acesso à
-memória pode permitir acesso exclusivo a regiões de memória que não
-estariam disponíveis para um atacante se não fosse por esse bug.
+No exemplo do código deste projeto, um usuário fictício utiliza um código que possui controle de acesso, mas também possui um bug: ele escreve em uma região da memória inadvertidamente. Dessa forma, é possível explorar essa falha no código para escrever um novo endereço de retorno na pilha (stack), ganhando acesso, dessa forma, a código que não estaria disponível em situações normais de temperatura e pressão.
 
-No exemplo do código deste projeto, um usuário fictício utiliza um
-código que possui controle de acesso, mas também possui um bug: ele
-escreve em uma região da memória inadvertidamente. Dessa forma, é
-possível explorar essa falha no código para escrever um novo endereço
-de retorno na pilha (stack), ganhando acesso, dessa forma, a código
-que não estaria disponível em situações normais de temperatura e
-pressão.
-
-Para explorar esse tipo de falha, primeiro devemos entender a execução
-do código na arquitetura que se pretende atacar, além de alguns
-conceitos específicos do sistema operacional alvo.
+Para explorar esse tipo de falha, primeiro devemos entender a execução do código na arquitetura que se pretende atacar, além de alguns conceitos específicos do sistema operacional alvo.
 
  - UML: Mundo real aplicado a engenharia.
  - Programação: Codificação do mundo real.

@@ -4,17 +4,9 @@ date: "2007-06-18"
 tags: [ "draft",  ]
 title: "A inteligência do if - parte 1"
 ---
-No nível mais baixo, podemos dizer que as instruções de um computador
-se baseiam simplesmente em cálculos matemáticos e manipulação
-de memória. E entre os tipos de manipulação existe aquela que
-muda o endereço da próxima instrução que será executada. A essa
-manipulação damos o nome de salto.
+No nível mais baixo, podemos dizer que as instruções de um computador se baseiam simplesmente em cálculos matemáticos e manipulação de memória. E entre os tipos de manipulação existe aquela que muda o endereço da próxima instrução que será executada. A essa manipulação damos o nome de salto.
 
-O salto simples e direto permite a organização do código em
-subrotinas e assim seu reaproveitamento, o que economiza memória, mas
-computacionalmente é inútil, já que pode ser implementado simplesmente
-pela repetição das subrotinas. O que eu quero dizer é que, do ponto de
-vista da execução, a mesma seqüência de instruções será executada.
+O salto simples e direto permite a organização do código em subrotinas e assim seu reaproveitamento, o que economiza memória, mas computacionalmente é inútil, já que pode ser implementado simplesmente pela repetição das subrotinas. O que eu quero dizer é que, do ponto de vista da execução, a mesma seqüência de instruções será executada.
 
     subroutine                       
     +-----------------------+        
@@ -75,11 +67,7 @@ vista da execução, a mesma seqüência de instruções será executada.
     | code         |
     +--------------+
 
-A grande sacada computacional, motivo pelo qual hoje os computadores
-hoje são tão úteis para os seres humanos, é a invenção de um
-conceito chamado salto condicional. Ou seja, não é um salto certo,
-mas um salto que será executado caso a condição sob a qual ele está
-subordinado for verdadeira.
+A grande sacada computacional, motivo pelo qual hoje os computadores hoje são tão úteis para os seres humanos, é a invenção de um conceito chamado salto condicional. Ou seja, não é um salto certo, mas um salto que será executado caso a condição sob a qual ele está subordinado for verdadeira.
 
     code
     call sub *if cond true* (cond jump)
@@ -91,11 +79,7 @@ subordinado for verdadeira.
     ...
     code
 
-Os saltos condicionais, vulgarmente conhecidos como if's, permitiram
-às linguagens de programação possuírem construções de execução
-mais sofisticadas: laços, iterações e seleção de caso. Claro que
-no fundo elas não passam de um conjunto formado por saltos condicionais
-e incondicionais.
+Os saltos condicionais, vulgarmente conhecidos como if's, permitiram às linguagens de programação possuírem construções de execução mais sofisticadas: laços, iterações e seleção de caso. Claro que no fundo elas não passam de um conjunto formado por saltos condicionais e incondicionais.
 
     while( condition)  
     {                 
@@ -147,6 +131,4 @@ e incondicionais.
     else             
         code;        
 
-Em um próximo artigo veremos como o salto condicional pode ser
-implementado apenas com operações matemáticas (afinal, é só isso
-que temos).
+Em um próximo artigo veremos como o salto condicional pode ser implementado apenas com operações matemáticas (afinal, é só isso que temos).

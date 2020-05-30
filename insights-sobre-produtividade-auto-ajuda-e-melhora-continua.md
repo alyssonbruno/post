@@ -4,11 +4,7 @@ date: "2017-05-28"
 tags: [ "draft", "lists" ]
 title: "Insights sobre produtividade, auto-ajuda e melhora contínua"
 ---
-É muito comum programadores, hackers e nerds em geral procurarem
-bons artigos que os tornem pessoas mais produtivas sem sacrificar a
-saúde física e mental. No decorrer dos anos me deparei com umas boas
-leituras. Tão boas que de vez eu quando eu volto a lê-las, e tão boas
-que acho que vale a pena compartilhar aqui:
+É muito comum programadores, hackers e nerds em geral procurarem bons artigos que os tornem pessoas mais produtivas sem sacrificar a saúde física e mental. No decorrer dos anos me deparei com umas boas leituras. Tão boas que de vez eu quando eu volto a lê-las, e tão boas que acho que vale a pena compartilhar aqui:
 
  - 10 Passos para a Estratégia Kaizen
  - 5 Unusual Ways to Start Working Smarter, Not Harde,  Backed by Science
@@ -34,5 +30,4 @@ que acho que vale a pena compartilhar aqui:
 
 Espero que essa lista te ajude de alguma maneira.
 
-Fonte: Hacker News, internet, horas e mais horas de procrastinação,
-horas e mais horas perdidas de sono.
+Fonte: Hacker News, internet, horas e mais horas de procrastinação, horas e mais horas perdidas de sono.

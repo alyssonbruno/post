@@ -4,15 +4,9 @@ date: "2019-05-28"
 tags: [ "draft",  ]
 title: "C Resolve Tudo: goto"
 ---
-Para quem decide usar a linguagem C para resolver tudo, a gota da água
-é o goto. Ele é flexível, cabe em (quase) qualquer ponto do código
-e tem 1001 utilidades. O goto é o bombril da engenharia de software.
+Para quem decide usar a linguagem C para resolver tudo, a gota da água é o goto. Ele é flexível, cabe em (quase) qualquer ponto do código e tem 1001 utilidades. O goto é o bombril da engenharia de software.
 
-O uso mais simples dessa importante construção da linguagem é pular de
-um ponto para outro do código em que esses pontos não estão diretamente
-relacionados, como geralmente ocorre, como sair de um laço, não entrar
-em um if ou selecionar um case do switch (lembrando que no caso do case
-do switch ele é no fundo um goto disfarçado).
+O uso mais simples dessa importante construção da linguagem é pular de um ponto para outro do código em que esses pontos não estão diretamente relacionados, como geralmente ocorre, como sair de um laço, não entrar em um if ou selecionar um case do switch (lembrando que no caso do case do switch ele é no fundo um goto disfarçado).
 
     #include <stdio.h>
     
@@ -55,16 +49,9 @@ do switch ele é no fundo um goto disfarçado).
     
     c:\Projects\goto>
 
-Claro que esse uso é trivial demais para valer a pena uma troca de
-fluxo tão desestruturada. Há formas mais úteis de desviar o fluxo
-padrão. No exemplo acima bastaria colocar todo o código que se segue
-dentro do grupo pertencente ao if e o goto seria desnecessário.
+Claro que esse uso é trivial demais para valer a pena uma troca de fluxo tão desestruturada. Há formas mais úteis de desviar o fluxo padrão. No exemplo acima bastaria colocar todo o código que se segue dentro do grupo pertencente ao if e o goto seria desnecessário.
 
-Mas, por exemplo, imagine que precisamos nos desfazer de recursos na ordem
-inversa ao qual vão sendo adquiridos. Pode-se aninhar indefinidamente ifs
-ou usar um bloco de código de unwinding que vai fechando os recursos
-na ordem inversa e inicia sua chamada dependendo de onde ocorreu o
-erro. Código é melhor para ilustrar:
+Mas, por exemplo, imagine que precisamos nos desfazer de recursos na ordem inversa ao qual vão sendo adquiridos. Pode-se aninhar indefinidamente ifs ou usar um bloco de código de unwinding que vai fechando os recursos na ordem inversa e inicia sua chamada dependendo de onde ocorreu o erro. Código é melhor para ilustrar:
 
     #include <stdio.h>
     
@@ -91,10 +78,8 @@ erro. Código é melhor para ilustrar:
         end_f2: printf("closing f2\n"); fclose(f2);
         end_f1: printf("closing f1\n"); fclose(f1);
         end: ;
-        /* obs: esse ponto-e-virgula final se deve ao fato que os labels
-        do goto 
-        rotulam um comando; logo, se ha um label, deve haver um comando
-        logo
+        /* obs: esse ponto-e-virgula final se deve ao fato que os labels do goto 
+        rotulam um comando; logo, se ha um label, deve haver um comando logo
         depois (mesmo que seja nulo, no caso de ponto-e-virgula). */
     }
 
@@ -133,9 +118,7 @@ erro. Código é melhor para ilustrar:
     
     c:\Projects\goto>
 
-Esse estilo de liberação de recursos é muito usado em códigos de
-kernel e software mais básico, pois simplifica a visualização e
-aumenta a flexibilidade. Compare com a versão estruturada:
+Esse estilo de liberação de recursos é muito usado em códigos de kernel e software mais básico, pois simplifica a visualização e aumenta a flexibilidade. Compare com a versão estruturada:
 
     #include <stdio.h>
     
@@ -210,14 +193,9 @@ aumenta a flexibilidade. Compare com a versão estruturada:
     
     c:\Projects\goto>
 
-Aliás, esse uso do goto é a maneira de aplicar RAII em C (Resource
-acquisition is initialization). Implícito em linguagens como C++ e seus
-destrutores de objetos, em C é você que precisa fazer a faxina. E se
-a bagunça foi feita da direita pra esquerda a faxina deve ser feita da
-esquerda pra direita.
+Aliás, esse uso do goto é a maneira de aplicar RAII em C (Resource acquisition is initialization). Implícito em linguagens como C++ e seus destrutores de objetos, em C é você que precisa fazer a faxina. E se a bagunça foi feita da direita pra esquerda a faxina deve ser feita da esquerda pra direita.
 
-Esse uso super-aninhado do código me lembra do exemplo clássico de
-sair de muitos loops aninhados. Apenas por didática, vamos citá-lo:
+Esse uso super-aninhado do código me lembra do exemplo clássico de sair de muitos loops aninhados. Apenas por didática, vamos citá-lo:
 
     #include <stdio.h>
     
@@ -242,10 +220,7 @@ sair de muitos loops aninhados. Apenas por didática, vamos citá-lo:
         ;
     }
 
-Comentei no começo do texto que os cases do switch são labels de
-goto disfarçados. E são mesmo. Um dos algoritmos mais famosos de
-transformação de loop chamado Duff's device junta um do-while com
-switch e realiza uma cópia de buffer com um número de bytes variável:
+Comentei no começo do texto que os cases do switch são labels de goto disfarçados. E são mesmo. Um dos algoritmos mais famosos de transformação de loop chamado Duff's device junta um do-while com switch e realiza uma cópia de buffer com um número de bytes variável:
 
     send(to, from, count)
     register short *to, *from;
@@ -265,18 +240,9 @@ switch e realiza uma cópia de buffer com um número de bytes variável:
         }
     }
 
-O que está acontecendo no código acima: é possível inserir
-qualquer tipo de mudança de fluxo dentro do switch. Duff aproveitou
-essa particularidade da linguagem para produzir jumps que poderiam ser
-feitos em assembly. Dependendo do resto da divisão por oito o salto é
-realizado para um case diferente, que executará parte do laço até
-o while comparador final. A vantagem desse tipo de abordagem é que
-evita-se sair da programação estruturada, e muito menos precisa-se
-apelar para o assembly.
+O que está acontecendo no código acima: é possível inserir qualquer tipo de mudança de fluxo dentro do switch. Duff aproveitou essa particularidade da linguagem para produzir jumps que poderiam ser feitos em assembly. Dependendo do resto da divisão por oito o salto é realizado para um case diferente, que executará parte do laço até o while comparador final. A vantagem desse tipo de abordagem é que evita-se sair da programação estruturada, e muito menos precisa-se apelar para o assembly.
 
-Esse código também seria possível de ser feito com o goto clássico,
-mas note que nesse caso ele fica mais verboso, pois é necessário fazer
-um if diferente para cada condição.
+Esse código também seria possível de ser feito com o goto clássico, mas note que nesse caso ele fica mais verboso, pois é necessário fazer um if diferente para cada condição.
 
     #include <stdio.h>
     
@@ -293,12 +259,9 @@ um if diferente para cada condição.
         if (count % 8 == 3 ) goto case_3;
         if (count % 8 == 2 ) goto case_2;
         if (count % 8 == 1 ) goto case_1;
-        case_0: do { *to++ = *from++; /* estou incrementando `to` tambem
-        */
-        case_7:      *to++ = *from++; /* porque esta nao eh uma memoria
-        */
-        case_6:      *to++ = *from++; /* de hardware que se auto
-        incrementa */
+        case_0: do { *to++ = *from++; /* estou incrementando `to` tambem    */
+        case_7:      *to++ = *from++; /* porque esta nao eh uma memoria     */
+        case_6:      *to++ = *from++; /* de hardware que se auto incrementa */
         case_5:      *to++ = *from++;
         case_4:      *to++ = *from++;
         case_3:      *to++ = *from++;
@@ -318,20 +281,9 @@ um if diferente para cada condição.
         printf("\n");
     }
 
-Caso você tenha estranhada a definição inicial da função, ela é
-como se definia os argumentos em linguagem C antes do padrão ANSI, com
-os nomes e logo em seguida a declaração das variáveis como se fossem
-locais (porque de fato elas são, embora sua inicialização seja feita
-antes da chamada). Como este código data dos anos 80 e como o padrão
-só foi finalizado em 89, percebe-se que ainda se usava o formato antigo
-no código.
+Caso você tenha estranhada a definição inicial da função, ela é como se definia os argumentos em linguagem C antes do padrão ANSI, com os nomes e logo em seguida a declaração das variáveis como se fossem locais (porque de fato elas são, embora sua inicialização seja feita antes da chamada). Como este código data dos anos 80 e como o padrão só foi finalizado em 89, percebe-se que ainda se usava o formato antigo no código.
 
-Passemos para o próximo uso: código infinito. Esse é um uso clássico,
-e diferente do uso degenerado de laços em que a condição é sempre
-verdadeira (while(true), for(;;)) usando o goto fica bem-documentado
-que o objetivo é ficar eternamente nesse loop. Um laço infinito que eu
-me lembro é quando dá tela azul no Windows. O código-fonte do kernel
-era algo mais ou menos assim:
+Passemos para o próximo uso: código infinito. Esse é um uso clássico, e diferente do uso degenerado de laços em que a condição é sempre verdadeira (while(true), for(;;)) usando o goto fica bem-documentado que o objetivo é ficar eternamente nesse loop. Um laço infinito que eu me lembro é quando dá tela azul no Windows. O código-fonte do kernel era algo mais ou menos assim:
 
     /* ... */
     gerarDump();
@@ -341,9 +293,7 @@ era algo mais ou menos assim:
         ; /* that's all, folks */
     /* ... */
 
-Os programadores usaram o apelo clássico do while. Sem motivo, pois goto
-é usado direto como RAII (já explicado acima). A maneira procedural
-de fazer seria assim:
+Os programadores usaram o apelo clássico do while. Sem motivo, pois goto é usado direto como RAII (já explicado acima). A maneira procedural de fazer seria assim:
 
     main()
     {
@@ -367,12 +317,8 @@ de fazer seria assim:
     ...
     tudo esta tao escuro...
 
-Isso lembra outra utilidade do goto que você pode anotar no seu
-caderninho: ele pode voltar o fluxo, de baixo para cima.
+Isso lembra outra utilidade do goto que você pode anotar no seu caderninho: ele pode voltar o fluxo, de baixo para cima.
 
-Esse último exemplo é um dos programas C mais lindos do universo. Sua
-única instrução é o comando rotulado por infinite e referencia ele
-mesmo. É quase o salto incondicional do assembly, materializado na
-linguagem mais elegante jamais criada em nossa realidade.
+Esse último exemplo é um dos programas C mais lindos do universo. Sua única instrução é o comando rotulado por infinite e referencia ele mesmo. É quase o salto incondicional do assembly, materializado na linguagem mais elegante jamais criada em nossa realidade.
 
 PS: Código no GitHub.
