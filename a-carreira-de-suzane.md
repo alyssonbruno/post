@@ -11,7 +11,7 @@ os convencionais, com menos de uma hora de duração. Nem por isso ele
 de um bonito e apagado rapaz a respeito das intenções de uma garota
 que não é feia, mas que não possui aquela beleza clássica. Ela vive
 andando com ele e seu melhor amigo, formando um triângulo amoroso mais
-realista porque alguém sempre perde.
+realista. É realista porque alguém sempre perde.
 
 Este é um filme de um cineasta que tem o charme de sempre tornar suas
 histórias mais próximas de nós, mais reais, e assim mais profundas,
