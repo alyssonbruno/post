@@ -12,21 +12,31 @@ Por enquanto, a esmagadora maioria dos computadores utiliza a frequência de uma
 
 Note que tanto faz a maneira com que você traduz a frequência, desde que haja apenas dois valor possíveis, condição sine qua non para definir um bit. Você pode interpretar uma frequência acima do nível estabelecido como ligado ou desligado, mas a partir dessa definição a frequência oposta, abaixo desse nível, deve ser o oposto do que foi definido, para assim termos o ligado/desligado (ou desligado/ligado).
 
-            1                                                                                         1
-                             /--\                                                  /--\            
-    --------------------- /--    --\  ----------------------------------------  /--    --\   <------------------ limite entre
-                       /--          --\                                      /--          --\                     frequência alta (1)
-                    /--                --\             0                  /--                --\                  e frequência baixa (0)
-                 /--                      --\                          /--                      --\
-    ...----------                            --------------------------                            ----------...
+    ascii art:
 
-            0                                                                                         0
-                             /--\                                                  /--\            
-    --------------------- /--    --\  ----------------------------------------  /--    --\   <------------------ limite entre
-                       /--          --\                                      /--          --\                     frequência alta (0)
-                    /--                --\             1                  /--                --\                  e frequência baixa (1)
-                 /--                      --\                          /--                      --\
-    ...----------                            --------------------------                            ----------...
+    (a) limite entre 
+        frequência alta (1) e 
+        frequência baixa (0)
+
+     1
+                    /--\
+    ------------ /--    --\  ------- (a)
+              /--          --\
+           /--                --\    0
+        /--                      --\
+    ----                            ---
+
+    (b) limite entre 
+        frequência alta (0) e 
+        frequência baixa (1)
+
+     0
+                    /--\
+    ------------ /--    --\  ------ (b)
+              /--          --\
+           /--                --\    1
+        /--                      --\
+    ----                            ---
 
 A onda (mais uma intepretação da realidade) gerada pela frequência do sinal elétrico, então, é dividida em dois espaços, delimitados pelo filtro, que funciona como um filtro de linha: apenas a partir de um certo valor da onda ele deixa passar os elétrons, que irão definir do outro lado se o bit está ligado ou desligado.
 
@@ -38,17 +48,19 @@ Conseguindo usar e armazenar bits, a matemática fica muito mais simples e intui
 
 Como a base é dois convencionamos a dar nomes para as potências de 2 para conseguirmos trabalhar com valores maiores que 0 e 1. 2 elevado a 8, por exemplo, chamamos de byte, embora não no mundo todo, isso também pode mudar de interpretação, dependendo da arquitetura. Porém, na grande maioria do mundo, um byte serão 8 bits, cada um pondendo valer 0 ou 1, e juntando todos, podemos representar os valores de 0 a 255, pois 2 elevado a 8 são 256 combinações (e devemos incluir o zero).
 
-     ------------------------------- 
-    | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 0 |
-     ------------------------------- 
-      |   |   |   |   |   |   |   |--- bit número 0 (0 a 1)
-      |   |   |   |   |   |   |------- bit número 1 (0 a 3)
-      |   |   |   |   |   |----------- bit número 2 (0 a 7)
-      |   |   |   |   |--------------- bit número 3 (0 a 15)
-      |   |   |   |------------------- bit número 4 (0 a 31)
-      |   |   |----------------------- bit número 5 (0 a 63)
-      |   |--------------------------- bit número 6 (0 a 127)
-      |------------------------------- bit número 7 (0 a 255)
+    ascii art:
+
+    ---------------
+    1 1 0 0 1 0 1 0
+    ---------------
+    | | | | | | | |--- bit #0 (até 1)
+    | | | | | | |----- bit #1 (até 3)
+    | | | | | |------- bit #2 (até 7)
+    | | | | |--------- bit #3 (até 15)
+    | | | |----------- bit #4 (até 31)
+    | | |------------- bit #5 (até 63)
+    | |--------------- bit #6 (até 127)
+    |----------------- bit #7 (até 255)
 
 A partir daí não existe muita mágica, pois juntando bytes podemos ter kilobytes (1024 bytes), dos kilobytes podemos ter megabytes, assim por diante até chegarmos no seu "HD de 2 Tera", o que quer dizer 2 terabytes de informação, ou 35184372088832 bits, todos organizados para serem acessados, ou um a um ou em blocos. O que for mais conveniente para a arquitetura.
 
@@ -56,25 +68,25 @@ Como acessamos esses bits? Bom, informação gera informação na tecnologia da 
 
 Para conseguir acessar precisamos de acesso, e esse acesso precisa conseguir deixar eu falar qual bit/byte que eu quero, ou seja, permitir que eu consiga passar esse valor (primeiro, segundo, etc). Onde está esse bit/byte nós chamamos de endereço, e para passar o endereço de um bit/byte para um HD usamos algo chamado barramento, que é como uma rodovia pode onde passam no máximo X bits.
 
-                           barramento, ou rodovia da informação
-                ---        ------------------------------------        --- 
-               | 1 | ---> |                                    | ---> | 1 |
-                ---        ------------------------------------        --- 
-               | 0 | ---> |                                    | ---> | 0 |
-                ---        ------------------------------------        --- 
-    10101 ---> | 1 | ---> |                                    | ---> | 1 | ---> 10101
-                ---        ------------------------------------        --- 
-               | 0 | ---> |                                    | ---> | 0 |
-                ---        ------------------------------------        --- 
-               | 1 | ---> |                                    | ---> | 1 |
-                ---        ------------------------------------        --- 
+    ascii art:
+
+    cada ----- é uma rodovia diferente
+
+             1 -> ----- -> 1
+             0 -> ----- -> 0
+    10101 -> 1 -> ----- -> 1 -> 10101
+             0 -> ----- -> 0
+             1 -> ----- -> 1
 
 Porém, como vimos, dependendo do número de bits há um limite da quantidade de valores que podemos representar, e isso irá limitar o nosso acesso aos bits que queremos do "HD de 2 Tera".
 
-     8 bits --------> pega do byte 0 ao 255
-    16 bits --------> pega do byte 0 ao 65536
-    32 bits --------> pega do byte 0 ao 4294967296
-    64 bits --------> pega do byte 0 ao 18446744073709551616
+    ascii art:
+
+     8 bits --> byte 0 ao 255
+    16 bits --> byte 0 ao 65536
+    32 bits --> byte 0 ao 4294967296
+    64 bits --> byte 0 ao 1844674407...
+                ... 3709551616 ufa
 
 Bom, já deu pra ver que 64 bits é suficiente para pegar muitos e muitos bits. O problema é que endereçar toda essa gente custa tempo, pois cada bit precisa ser interpretado para daí o HD conseguir chegar no bit que ele precisa para daí devolver o seu bit. Imagine que para acessar 1 bit você precisa enviar 64?
 
