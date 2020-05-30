@@ -121,6 +121,8 @@ Então, agora, o código abaixo não deve ser o menor mistério para nós:
 
 O programa acima verifica se a variável argc contém o valor 2. Argc é um int, o que quer dizer que na minha arquitetura são 4 bytes, ou 32 bits. Se esses 32 bits estão configurados com 0s e 1s de tal maneira que a soma de todos totalizam o valor 2, então meu código entrará dentro do primeiro if. Se não, então o código cairá no else e enviará os caracteres "How to use..." blá blá blá para a saída padrão através da chamada da função da libc puts. Esses caracteres também são formados por bits. Cada caractere possui 8 bits. E estão configurados de tal forma que darão um valor de 0 a 255 que será interpretado de tal maneira: o nth elemento da entrada de uma tabela de caracteres. Essa tabela se chama tabela ascii, e contém os números 0 a 9, as letras de a até z (e maiúculas, A até Z), alguns sinais, etc. Essa é uma nova forma de interpretar os números que conseguimos somando os bits, e só funciona dessa forma porque a linguagem C está especificada dessa maneira.
 
+    ascii art:
+
     01001000 --->  72 ---> 'H'
     01101111 ---> 111 ---> 'o'
     01110111 ---> 119 ---> 'w'
@@ -135,6 +137,8 @@ O programa acima verifica se a variável argc contém o valor 2. Argc é um int,
          ... ---> ... ---> ...
 
 Essas letras representam o alfabeto romano, usado por boa parte do Ocidente, mas para o computador isso é apenas um comando que depois de passar por várias camadas de interpretação, incluindo o sistema operacional (que controla bits e bytes acima do computador), irá acender determinados leds em seu monitor para que o ser humano que estiver olhando para ele irá entender que aquilo é a letra H, por exemplo. No caso de H, imagine que ele está acendendo uma série de leds da cor da letra que está vendo exatamente na posição que você está olhando, enquanto em volta está acendendo a cor do fundo onde essa letra está sendo "impressa". Se pudéssemos enxergar com um zoom, poderíamos ver cada um desses leds acesos, mas perderíamos a noção de qual letra no final está sendo desenhada. Na época de monitores de tubo e preto e branco era até possível ver os dois, mas hoje em dia o celular mais vagabundo exibe milhões e milhões de leds em sua cara.
+
+    ascii art:
 
     HHHHHHHHH     HHHHHHHHH
     H:::::::H     H:::::::H
