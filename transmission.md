@@ -1,6 +1,7 @@
 ---
 categories: [ "blog" ]
 date: "2020-06-01"
+tags: [ "projects" ]
 title: "Transmission"
 ---
 Dia de fazer funcionar o download automágico de legendas depois que o Transmission baixou meu Netflix caseiro. O download funcionou, mas não foi dos melhores, pois o sincronismo e o encoding veio errado, e o rename de _pb para o nome do arquivo não está acontecendo rodando pelo transmission-daemon. Fora isso tá com tudo em cima.
