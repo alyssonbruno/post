@@ -1,7 +1,7 @@
 ---
 categories: [ "blog" ]
 date: "2017-08-29"
-tags: [ "draft", "linux", "windows" ]
+tags: [ "draft", "kernel" ]
 title: "Ativando Ubuntu No Windows 10"
 ---
 Pensei que o Ubuntu já estivesse na Windows Store disponível para qualquer gamer instalar (não sei por que um gamer faria isso). Mas não. Ainda é necessário fazer os passos de desenvolvedor expert de Windows para ativar esta opção.

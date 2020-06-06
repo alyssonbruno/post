@@ -1,7 +1,7 @@
 ---
 categories: [ "blog" ]
 date: "2020-04-18"
-tags: [ "draft", "events", "windbg", "kernel", "reversing" ]
+tags: [ "draft", "events", "tools", "reversing" ]
 title: "Minha palestra sobre Windbg"
 ---
 A MBConf@Home2020 foi um sucesso. Parabéns aos organizadores, palestrantes e apoiadores. Eu nunca fui em um evento de tecnologia em que tudo funcionou do começo ao fim. Simplesmente fantástico o nível de qualidade da organização. Fora que trezentas pessoas ficaram em casa e participaram conosco dessa troca de conhecimento =).

@@ -1,7 +1,7 @@
 ---
 categories: [ "blog" ]
 date: "2008-06-16"
-tags: [ "draft", "git" ]
+tags: [ "draft", "tools" ]
 title: "Como fazer merge de projetos distintos no Bazaar"
 ---
 O problema foi o seguinte: Nós iniciamos o controle de fonte pelo Bazaar na parte Linux do projeto, já que ela não iria funcionar pelo Source Safe, mesmo. Dessa forma apenas um braço do projeto estava no controle de fonte e o resto não.
