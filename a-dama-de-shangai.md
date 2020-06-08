@@ -1,7 +1,6 @@
 ---
 categories: [ "cinema" ]
 date: "2020-05-29"
-draft: "true"
 tags: [ "movies" ]
 title: "A Dama de Shangai"
 ---

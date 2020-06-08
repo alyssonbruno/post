@@ -1,7 +1,6 @@
 ---
 categories: [ "blog" ]
 date: "2020-06-04"
-draft: "true"
 tags: [ "work" ]
 title: "Azure Missing Lines"
 ---

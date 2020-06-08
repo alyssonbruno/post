@@ -1,8 +1,7 @@
 ---
 categories: [ "cinema" ]
 date: "2020-05-19"
-draft: "true"
-tags: [ "draft", "movies" ]
+tags: [ "movies" ]
 title: "Pauline na Praia"
 ---
 Woody Allen em francês e sem restrição de idade. Pauline é uma ninfeta com seus catorze, dezesseis anos no máximo, mas carece de curvas que a apresente aos homens do filme, mais velhos. Três faixas de idade criam tensão em um filme onde a ninfeta irá aprender as mazelas do amor, e como as emoções humanas simplesmente mascaram nossas contradições internas, movidas por desejos mais intrínsecos de nossa própria formação como indivíduos.
